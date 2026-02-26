@@ -1,0 +1,449 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="0b3a0e0b-ea89-427c-9acf-b75e5de96f66" Title="Suoranta.NaturalLanguage Namespace" Url="html/N-Suoranta.NaturalLanguage.htm">
+    <HelpTOCNode Id="6f3d86ff-d0e2-43c3-84ef-f5b7fa414548" Title="AddressPattern Class" Url="html/T-Suoranta.NaturalLanguage.AddressPattern.htm">
+      <HelpTOCNode Title="AddressPattern Members" Url="html/AllMembers.T-Suoranta.NaturalLanguage.AddressPattern.htm" />
+      <HelpTOCNode Title="AddressPattern Constructor " Url="html/M-Suoranta.NaturalLanguage.AddressPattern.-ctor.htm" />
+      <HelpTOCNode Title="AddressPattern Methods" Url="html/Methods.T-Suoranta.NaturalLanguage.AddressPattern.htm" />
+      <HelpTOCNode Id="5a21ec76-f722-4fd2-a4f5-95239b08749d" Title="AddressPattern Properties" Url="html/Properties.T-Suoranta.NaturalLanguage.AddressPattern.htm">
+        <HelpTOCNode Title="Expression Property " Url="html/P-Suoranta.NaturalLanguage.AddressPattern.Expression.htm" />
+        <HelpTOCNode Title="HouseNumber Property " Url="html/P-Suoranta.NaturalLanguage.AddressPattern.HouseNumber.htm" />
+        <HelpTOCNode Title="PatternId Property " Url="html/P-Suoranta.NaturalLanguage.AddressPattern.PatternId.htm" />
+        <HelpTOCNode Title="StreetName Property " Url="html/P-Suoranta.NaturalLanguage.AddressPattern.StreetName.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="42aea3a5-73eb-44fa-97a1-0581437f26ca" Title="Extensions Class" Url="html/T-Suoranta.NaturalLanguage.Extensions.htm">
+      <HelpTOCNode Title="Extensions Members" Url="html/AllMembers.T-Suoranta.NaturalLanguage.Extensions.htm" />
+      <HelpTOCNode Id="19e2db9a-0de8-495d-8411-8b653ad347f3" Title="Extensions Methods" Url="html/Methods.T-Suoranta.NaturalLanguage.Extensions.htm">
+        <HelpTOCNode Title="IdentifyScriptSystem Method " Url="html/M-Suoranta.NaturalLanguage.Extensions.IdentifyScriptSystem.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="8728485a-843a-4bb5-bb54-9916ec006a44" Title="GenericNamePattern Class" Url="html/T-Suoranta.NaturalLanguage.GenericNamePattern.htm">
+      <HelpTOCNode Title="GenericNamePattern Members" Url="html/AllMembers.T-Suoranta.NaturalLanguage.GenericNamePattern.htm" />
+      <HelpTOCNode Id="c44dd4d4-1cbf-4e28-940c-155a62d058a0" Title="GenericNamePattern Constructor " Url="html/Overload-Suoranta.NaturalLanguage.GenericNamePattern.-ctor.htm">
+        <HelpTOCNode Title="GenericNamePattern Constructor (String)" Url="html/M-Suoranta.NaturalLanguage.GenericNamePattern.-ctor.htm" />
+        <HelpTOCNode Title="GenericNamePattern Constructor (String, ExtendPatternOptions)" Url="html/M-Suoranta.NaturalLanguage.GenericNamePattern.-ctor_1.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="GenericNamePattern Methods" Url="html/Methods.T-Suoranta.NaturalLanguage.GenericNamePattern.htm" />
+      <HelpTOCNode Id="3a0a8430-3137-49c9-87b7-d74fed3dcd26" Title="GenericNamePattern Properties" Url="html/Properties.T-Suoranta.NaturalLanguage.GenericNamePattern.htm">
+        <HelpTOCNode Title="Expression Property " Url="html/P-Suoranta.NaturalLanguage.GenericNamePattern.Expression.htm" />
+        <HelpTOCNode Title="PatternId Property " Url="html/P-Suoranta.NaturalLanguage.GenericNamePattern.PatternId.htm" />
+        <HelpTOCNode Title="Text Property " Url="html/P-Suoranta.NaturalLanguage.GenericNamePattern.Text.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="26421cb5-b2e9-4411-8983-765edb1c71fb" Title="IdentifyLanguage Class" Url="html/T-Suoranta.NaturalLanguage.IdentifyLanguage.htm">
+      <HelpTOCNode Title="IdentifyLanguage Members" Url="html/AllMembers.T-Suoranta.NaturalLanguage.IdentifyLanguage.htm" />
+      <HelpTOCNode Id="3fbdb6d3-1d24-4f7d-b50f-4fba6ab670c6" Title="IdentifyLanguage Methods" Url="html/Methods.T-Suoranta.NaturalLanguage.IdentifyLanguage.htm">
+        <HelpTOCNode Title="Identify Method " Url="html/M-Suoranta.NaturalLanguage.IdentifyLanguage.Identify.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="0c3c69dd-e12e-4e95-9135-f4078dfae4d0" Title="ImageExtensions Class" Url="html/T-Suoranta.NaturalLanguage.ImageExtensions.htm">
+      <HelpTOCNode Title="ImageExtensions Members" Url="html/AllMembers.T-Suoranta.NaturalLanguage.ImageExtensions.htm" />
+      <HelpTOCNode Id="b8df88be-6997-443b-baf0-fae825ba5aab" Title="ImageExtensions Methods" Url="html/Methods.T-Suoranta.NaturalLanguage.ImageExtensions.htm">
+        <HelpTOCNode Id="310928f9-cf54-40c2-987b-9af94c81c47f" Title="Crop Method " Url="html/Overload-Suoranta.NaturalLanguage.ImageExtensions.Crop.htm">
+          <HelpTOCNode Title="Crop Method (Bitmap, Rectangle)" Url="html/M-Suoranta.NaturalLanguage.ImageExtensions.Crop.htm" />
+          <HelpTOCNode Title="Crop Method (Bitmap, Rectangle, ImageFormat)" Url="html/M-Suoranta.NaturalLanguage.ImageExtensions.Crop_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="EnlargeByFactor Method " Url="html/M-Suoranta.NaturalLanguage.ImageExtensions.EnlargeByFactor.htm" />
+        <HelpTOCNode Title="Grow Method " Url="html/M-Suoranta.NaturalLanguage.ImageExtensions.Grow.htm" />
+        <HelpTOCNode Id="e9a969f3-c4d8-4cbc-a3d9-de696d1a5050" Title="ToGrayscale Method " Url="html/Overload-Suoranta.NaturalLanguage.ImageExtensions.ToGrayscale.htm">
+          <HelpTOCNode Title="ToGrayscale Method (Image, ImageFormat)" Url="html/M-Suoranta.NaturalLanguage.ImageExtensions.ToGrayscale.htm" />
+          <HelpTOCNode Title="ToGrayscale Method (Stream, Stream, ImageFormat)" Url="html/M-Suoranta.NaturalLanguage.ImageExtensions.ToGrayscale_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="ToJpeg Method " Url="html/M-Suoranta.NaturalLanguage.ImageExtensions.ToJpeg.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="f5ea78ae-4936-4cf7-9dfc-3809172ebd1a" Title="IPattern Interface" Url="html/T-Suoranta.NaturalLanguage.IPattern.htm">
+      <HelpTOCNode Title="IPattern Members" Url="html/AllMembers.T-Suoranta.NaturalLanguage.IPattern.htm" />
+      <HelpTOCNode Id="35dce5d9-9ac0-4af4-9b33-5e1132253b02" Title="IPattern Methods" Url="html/Methods.T-Suoranta.NaturalLanguage.IPattern.htm">
+        <HelpTOCNode Title="Match Method " Url="html/M-Suoranta.NaturalLanguage.IPattern.Match.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="bb651d05-8c3c-465f-9918-161f44a72258" Title="IPattern Properties" Url="html/Properties.T-Suoranta.NaturalLanguage.IPattern.htm">
+        <HelpTOCNode Title="Expression Property " Url="html/P-Suoranta.NaturalLanguage.IPattern.Expression.htm" />
+        <HelpTOCNode Title="PatternId Property " Url="html/P-Suoranta.NaturalLanguage.IPattern.PatternId.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="ccac579c-3fc2-49eb-9d94-7dd77df537cd" Title="NaturalLanguageException Class" Url="html/T-Suoranta.NaturalLanguage.NaturalLanguageException.htm">
+      <HelpTOCNode Title="NaturalLanguageException Members" Url="html/AllMembers.T-Suoranta.NaturalLanguage.NaturalLanguageException.htm" />
+      <HelpTOCNode Title="NaturalLanguageException Methods" Url="html/Methods.T-Suoranta.NaturalLanguage.NaturalLanguageException.htm" />
+      <HelpTOCNode Title="NaturalLanguageException Properties" Url="html/Properties.T-Suoranta.NaturalLanguage.NaturalLanguageException.htm" />
+      <HelpTOCNode Title="NaturalLanguageException Events" Url="html/Events.T-Suoranta.NaturalLanguage.NaturalLanguageException.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="519f4eaa-9bb7-4db0-9d97-3441ae46419a" Title="OcrHelper Class" Url="html/T-Suoranta.NaturalLanguage.OcrHelper.htm">
+      <HelpTOCNode Title="OcrHelper Members" Url="html/AllMembers.T-Suoranta.NaturalLanguage.OcrHelper.htm" />
+      <HelpTOCNode Title="OcrHelper Constructor " Url="html/M-Suoranta.NaturalLanguage.OcrHelper.-ctor.htm" />
+      <HelpTOCNode Id="53455007-4824-4458-b40a-aeb11ac85045" Title="OcrHelper Methods" Url="html/Methods.T-Suoranta.NaturalLanguage.OcrHelper.htm">
+        <HelpTOCNode Title="GetInstalledLanguages Method " Url="html/M-Suoranta.NaturalLanguage.OcrHelper.GetInstalledLanguages.htm" />
+        <HelpTOCNode Title="RecognizeAsync Method " Url="html/M-Suoranta.NaturalLanguage.OcrHelper.RecognizeAsync.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="ae296e49-5ffc-47ed-b4b0-9008c204aa1e" Title="OcrPatternMatch Class" Url="html/T-Suoranta.NaturalLanguage.OcrPatternMatch.htm">
+      <HelpTOCNode Title="OcrPatternMatch Members" Url="html/AllMembers.T-Suoranta.NaturalLanguage.OcrPatternMatch.htm" />
+      <HelpTOCNode Id="c48b5577-0041-41b2-b89d-0131a87c50ae" Title="OcrPatternMatch Constructor " Url="html/Overload-Suoranta.NaturalLanguage.OcrPatternMatch.-ctor.htm">
+        <HelpTOCNode Title="OcrPatternMatch Constructor (String, String, Image)" Url="html/M-Suoranta.NaturalLanguage.OcrPatternMatch.-ctor.htm" />
+        <HelpTOCNode Title="OcrPatternMatch Constructor (PatternMatch, Image)" Url="html/M-Suoranta.NaturalLanguage.OcrPatternMatch.-ctor_1.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="OcrPatternMatch Methods" Url="html/Methods.T-Suoranta.NaturalLanguage.OcrPatternMatch.htm" />
+      <HelpTOCNode Id="386b59d2-a533-4b5b-b2a0-0d767bb8f931" Title="OcrPatternMatch Properties" Url="html/Properties.T-Suoranta.NaturalLanguage.OcrPatternMatch.htm">
+        <HelpTOCNode Title="SourceImageRegion Property " Url="html/P-Suoranta.NaturalLanguage.OcrPatternMatch.SourceImageRegion.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="826881c8-c83d-4322-960a-f204dfd5d953" Title="OcrRecognizerResult Class" Url="html/T-Suoranta.NaturalLanguage.OcrRecognizerResult.htm">
+      <HelpTOCNode Title="OcrRecognizerResult Members" Url="html/AllMembers.T-Suoranta.NaturalLanguage.OcrRecognizerResult.htm" />
+      <HelpTOCNode Id="c23342ed-1ba8-406c-814b-d4185c9c2363" Title="OcrRecognizerResult Methods" Url="html/Methods.T-Suoranta.NaturalLanguage.OcrRecognizerResult.htm">
+        <HelpTOCNode Title="GetImageRegionOf Method " Url="html/M-Suoranta.NaturalLanguage.OcrRecognizerResult.GetImageRegionOf.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="ea7f13e3-2f4d-4a15-b7bb-e0f9a3883afa" Title="OcrRecognizerResult Properties" Url="html/Properties.T-Suoranta.NaturalLanguage.OcrRecognizerResult.htm">
+        <HelpTOCNode Title="Lines Property " Url="html/P-Suoranta.NaturalLanguage.OcrRecognizerResult.Lines.htm" />
+        <HelpTOCNode Title="SourceBitmap Property " Url="html/P-Suoranta.NaturalLanguage.OcrRecognizerResult.SourceBitmap.htm" />
+        <HelpTOCNode Title="SourceId Property " Url="html/P-Suoranta.NaturalLanguage.OcrRecognizerResult.SourceId.htm" />
+        <HelpTOCNode Title="Text Property " Url="html/P-Suoranta.NaturalLanguage.OcrRecognizerResult.Text.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="085fada8-8109-4728-bc2b-df2656546dbd" Title="OcrRecognizerResult.Line Class" Url="html/T-Suoranta.NaturalLanguage.OcrRecognizerResult.Line.htm">
+      <HelpTOCNode Title="OcrRecognizerResult.Line Members" Url="html/AllMembers.T-Suoranta.NaturalLanguage.OcrRecognizerResult.Line.htm" />
+      <HelpTOCNode Title="OcrRecognizerResult.Line Methods" Url="html/Methods.T-Suoranta.NaturalLanguage.OcrRecognizerResult.Line.htm" />
+      <HelpTOCNode Id="6e351172-a6a5-4f8f-a0c3-6d7c03babfe7" Title="OcrRecognizerResult.Line Properties" Url="html/Properties.T-Suoranta.NaturalLanguage.OcrRecognizerResult.Line.htm">
+        <HelpTOCNode Title="Bounds Property " Url="html/P-Suoranta.NaturalLanguage.OcrRecognizerResult.Line.Bounds.htm" />
+        <HelpTOCNode Title="LineNumber Property " Url="html/P-Suoranta.NaturalLanguage.OcrRecognizerResult.Line.LineNumber.htm" />
+        <HelpTOCNode Title="Text Property " Url="html/P-Suoranta.NaturalLanguage.OcrRecognizerResult.Line.Text.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="7a6e5bb0-96f0-42dd-b3ac-e3e989e86d6c" Title="PatternMatch Class" Url="html/T-Suoranta.NaturalLanguage.PatternMatch.htm">
+      <HelpTOCNode Title="PatternMatch Members" Url="html/AllMembers.T-Suoranta.NaturalLanguage.PatternMatch.htm" />
+      <HelpTOCNode Id="3a792c59-3c91-4b74-a801-36f3adea0472" Title="PatternMatch Constructor " Url="html/Overload-Suoranta.NaturalLanguage.PatternMatch.-ctor.htm">
+        <HelpTOCNode Title="PatternMatch Constructor (String, String, Int32)" Url="html/M-Suoranta.NaturalLanguage.PatternMatch.-ctor.htm" />
+        <HelpTOCNode Title="PatternMatch Constructor (PatternMatch)" Url="html/M-Suoranta.NaturalLanguage.PatternMatch.-ctor_1.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="PatternMatch Methods" Url="html/Methods.T-Suoranta.NaturalLanguage.PatternMatch.htm" />
+      <HelpTOCNode Id="dfba552c-64c3-4216-93eb-66cdc37f62e8" Title="PatternMatch Properties" Url="html/Properties.T-Suoranta.NaturalLanguage.PatternMatch.htm">
+        <HelpTOCNode Title="Page Property " Url="html/P-Suoranta.NaturalLanguage.PatternMatch.Page.htm" />
+        <HelpTOCNode Title="Pattern Property " Url="html/P-Suoranta.NaturalLanguage.PatternMatch.Pattern.htm" />
+        <HelpTOCNode Title="Text Property " Url="html/P-Suoranta.NaturalLanguage.PatternMatch.Text.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="5dd6abbd-567e-482b-82ae-0d482d23c03d" Title="PatternMatchFactory Class" Url="html/T-Suoranta.NaturalLanguage.PatternMatchFactory.htm">
+      <HelpTOCNode Title="PatternMatchFactory Members" Url="html/AllMembers.T-Suoranta.NaturalLanguage.PatternMatchFactory.htm" />
+      <HelpTOCNode Title="PatternMatchFactory Constructor " Url="html/M-Suoranta.NaturalLanguage.PatternMatchFactory.-ctor.htm" />
+      <HelpTOCNode Id="a60da6a9-69f7-4553-8c63-a91105fa3e5e" Title="PatternMatchFactory Methods" Url="html/Methods.T-Suoranta.NaturalLanguage.PatternMatchFactory.htm">
+        <HelpTOCNode Id="1f3afe5f-5ba5-4909-87a3-22a5df4f62db" Title="Create Method " Url="html/Overload-Suoranta.NaturalLanguage.PatternMatchFactory.Create.htm">
+          <HelpTOCNode Title="Create Method (String)" Url="html/M-Suoranta.NaturalLanguage.PatternMatchFactory.Create.htm" />
+          <HelpTOCNode Title="Create Method (String, Int32)" Url="html/M-Suoranta.NaturalLanguage.PatternMatchFactory.Create_1.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="8a55df28-a057-4030-893e-3d47fd364c5f" Title="PatternMatchFactory Properties" Url="html/Properties.T-Suoranta.NaturalLanguage.PatternMatchFactory.htm">
+        <HelpTOCNode Title="DefaultPage Property " Url="html/P-Suoranta.NaturalLanguage.PatternMatchFactory.DefaultPage.htm" />
+        <HelpTOCNode Title="Pattern Property " Url="html/P-Suoranta.NaturalLanguage.PatternMatchFactory.Pattern.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="13b44bdc-81e5-4930-a520-741792583609" Title="PersonNamePattern Class" Url="html/T-Suoranta.NaturalLanguage.PersonNamePattern.htm">
+      <HelpTOCNode Title="PersonNamePattern Members" Url="html/AllMembers.T-Suoranta.NaturalLanguage.PersonNamePattern.htm" />
+      <HelpTOCNode Title="PersonNamePattern Constructor " Url="html/M-Suoranta.NaturalLanguage.PersonNamePattern.-ctor.htm" />
+      <HelpTOCNode Title="PersonNamePattern Methods" Url="html/Methods.T-Suoranta.NaturalLanguage.PersonNamePattern.htm" />
+      <HelpTOCNode Id="f1f5a549-8eaf-4e71-900f-e4ee9fe699e1" Title="PersonNamePattern Properties" Url="html/Properties.T-Suoranta.NaturalLanguage.PersonNamePattern.htm">
+        <HelpTOCNode Title="Expression Property " Url="html/P-Suoranta.NaturalLanguage.PersonNamePattern.Expression.htm" />
+        <HelpTOCNode Title="FirstName Property " Url="html/P-Suoranta.NaturalLanguage.PersonNamePattern.FirstName.htm" />
+        <HelpTOCNode Title="LastName Property " Url="html/P-Suoranta.NaturalLanguage.PersonNamePattern.LastName.htm" />
+        <HelpTOCNode Title="PatternId Property " Url="html/P-Suoranta.NaturalLanguage.PersonNamePattern.PatternId.htm" />
+        <HelpTOCNode Title="SourceScript Property " Url="html/P-Suoranta.NaturalLanguage.PersonNamePattern.SourceScript.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="PersonNamePattern.PersonNameOptions Enumeration" Url="html/T-Suoranta.NaturalLanguage.PersonNamePattern.PersonNameOptions.htm" />
+    <HelpTOCNode Id="4454252c-3699-45ee-b295-b9cc4b8ed86e" Title="PhoneNumberPattern Class" Url="html/T-Suoranta.NaturalLanguage.PhoneNumberPattern.htm">
+      <HelpTOCNode Title="PhoneNumberPattern Members" Url="html/AllMembers.T-Suoranta.NaturalLanguage.PhoneNumberPattern.htm" />
+      <HelpTOCNode Title="PhoneNumberPattern Constructor " Url="html/M-Suoranta.NaturalLanguage.PhoneNumberPattern.-ctor.htm" />
+      <HelpTOCNode Title="PhoneNumberPattern Methods" Url="html/Methods.T-Suoranta.NaturalLanguage.PhoneNumberPattern.htm" />
+      <HelpTOCNode Id="a0074507-0a24-4bb3-a088-be13b2370210" Title="PhoneNumberPattern Properties" Url="html/Properties.T-Suoranta.NaturalLanguage.PhoneNumberPattern.htm">
+        <HelpTOCNode Title="Expression Property " Url="html/P-Suoranta.NaturalLanguage.PhoneNumberPattern.Expression.htm" />
+        <HelpTOCNode Title="PatternId Property " Url="html/P-Suoranta.NaturalLanguage.PhoneNumberPattern.PatternId.htm" />
+        <HelpTOCNode Title="PhoneNumber Property " Url="html/P-Suoranta.NaturalLanguage.PhoneNumberPattern.PhoneNumber.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="ScriptSystem Enumeration" Url="html/T-Suoranta.NaturalLanguage.ScriptSystem.htm" />
+  </HelpTOCNode>
+  <HelpTOCNode Id="edebe298-4189-41f0-94dd-f7b105d032d2" Title="Suoranta.NaturalLanguage.DocumentProcessing Namespace" Url="html/N-Suoranta.NaturalLanguage.DocumentProcessing.htm">
+    <HelpTOCNode Id="808e3ffa-95a9-4b79-9c15-ee775dd90585" Title="DocumentException Class" Url="html/T-Suoranta.NaturalLanguage.DocumentProcessing.DocumentException.htm">
+      <HelpTOCNode Title="DocumentException Members" Url="html/AllMembers.T-Suoranta.NaturalLanguage.DocumentProcessing.DocumentException.htm" />
+      <HelpTOCNode Title="DocumentException Methods" Url="html/Methods.T-Suoranta.NaturalLanguage.DocumentProcessing.DocumentException.htm" />
+      <HelpTOCNode Id="d97cf6ae-a647-4e70-8457-0682f6a5b480" Title="DocumentException Properties" Url="html/Properties.T-Suoranta.NaturalLanguage.DocumentProcessing.DocumentException.htm">
+        <HelpTOCNode Title="SourceFilePath Property " Url="html/P-Suoranta.NaturalLanguage.DocumentProcessing.DocumentException.SourceFilePath.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="DocumentException Events" Url="html/Events.T-Suoranta.NaturalLanguage.DocumentProcessing.DocumentException.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="898ec806-3024-435c-87d1-74d5a2f5e669" Title="DocumentHyperlink Class" Url="html/T-Suoranta.NaturalLanguage.DocumentProcessing.DocumentHyperlink.htm">
+      <HelpTOCNode Title="DocumentHyperlink Members" Url="html/AllMembers.T-Suoranta.NaturalLanguage.DocumentProcessing.DocumentHyperlink.htm" />
+      <HelpTOCNode Title="DocumentHyperlink Methods" Url="html/Methods.T-Suoranta.NaturalLanguage.DocumentProcessing.DocumentHyperlink.htm" />
+      <HelpTOCNode Id="66758717-3a73-4646-9db6-5a76f7fb58e1" Title="DocumentHyperlink Properties" Url="html/Properties.T-Suoranta.NaturalLanguage.DocumentProcessing.DocumentHyperlink.htm">
+        <HelpTOCNode Title="Text Property " Url="html/P-Suoranta.NaturalLanguage.DocumentProcessing.DocumentHyperlink.Text.htm" />
+        <HelpTOCNode Title="Url Property " Url="html/P-Suoranta.NaturalLanguage.DocumentProcessing.DocumentHyperlink.Url.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="66871aa4-958d-4c96-8348-844c293d5761" Title="DocumentImageProcessor Class" Url="html/T-Suoranta.NaturalLanguage.DocumentProcessing.DocumentImageProcessor.htm">
+      <HelpTOCNode Title="DocumentImageProcessor Members" Url="html/AllMembers.T-Suoranta.NaturalLanguage.DocumentProcessing.DocumentImageProcessor.htm" />
+      <HelpTOCNode Id="5f734e12-8a81-4458-9f16-a03c3107b4bf" Title="DocumentImageProcessor Constructor " Url="html/Overload-Suoranta.NaturalLanguage.DocumentProcessing.DocumentImageProcessor.-ctor.htm">
+        <HelpTOCNode Title="DocumentImageProcessor Constructor (Regex)" Url="html/M-Suoranta.NaturalLanguage.DocumentProcessing.DocumentImageProcessor.-ctor.htm" />
+        <HelpTOCNode Title="DocumentImageProcessor Constructor (Regex, Language)" Url="html/M-Suoranta.NaturalLanguage.DocumentProcessing.DocumentImageProcessor.-ctor_1.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="280c9460-97f9-4bbc-a65b-94072f067af6" Title="DocumentImageProcessor Methods" Url="html/Methods.T-Suoranta.NaturalLanguage.DocumentProcessing.DocumentImageProcessor.htm">
+        <HelpTOCNode Id="4a904cd9-b299-4ca5-8ce3-7316e2f16b5b" Title="GetPatternMatches Method " Url="html/Overload-Suoranta.NaturalLanguage.DocumentProcessing.DocumentImageProcessor.GetPatternMatches.htm">
+          <HelpTOCNode Title="GetPatternMatches Method (String, Language)" Url="html/M-Suoranta.NaturalLanguage.DocumentProcessing.DocumentImageProcessor.GetPatternMatches.htm" />
+          <HelpTOCNode Title="GetPatternMatches Method (String, String)" Url="html/M-Suoranta.NaturalLanguage.DocumentProcessing.DocumentImageProcessor.GetPatternMatches_1.htm" />
+          <HelpTOCNode Title="GetPatternMatches Method (Image, Language)" Url="html/M-Suoranta.NaturalLanguage.DocumentProcessing.DocumentImageProcessor.GetPatternMatches_2.htm" />
+          <HelpTOCNode Title="GetPatternMatches Method (Image, String)" Url="html/M-Suoranta.NaturalLanguage.DocumentProcessing.DocumentImageProcessor.GetPatternMatches_3.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="f9fc7162-2599-4a34-abae-4fd55604793f" Title="DocXProcessor Class" Url="html/T-Suoranta.NaturalLanguage.DocumentProcessing.DocXProcessor.htm">
+      <HelpTOCNode Title="DocXProcessor Members" Url="html/AllMembers.T-Suoranta.NaturalLanguage.DocumentProcessing.DocXProcessor.htm" />
+      <HelpTOCNode Title="DocXProcessor Constructor " Url="html/M-Suoranta.NaturalLanguage.DocumentProcessing.DocXProcessor.-ctor.htm" />
+      <HelpTOCNode Id="39645bc8-79c9-4175-9efc-1d8a50a97d6c" Title="DocXProcessor Methods" Url="html/Methods.T-Suoranta.NaturalLanguage.DocumentProcessing.DocXProcessor.htm">
+        <HelpTOCNode Id="c4490731-9882-4641-828c-6edf76c4e97a" Title="GetAllText Method " Url="html/Overload-Suoranta.NaturalLanguage.DocumentProcessing.DocXProcessor.GetAllText.htm">
+          <HelpTOCNode Title="GetAllText Method (String)" Url="html/M-Suoranta.NaturalLanguage.DocumentProcessing.DocXProcessor.GetAllText.htm" />
+          <HelpTOCNode Title="GetAllText Method (Stream)" Url="html/M-Suoranta.NaturalLanguage.DocumentProcessing.DocXProcessor.GetAllText_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="GetHyperlinks Method (String)" Url="html/M-Suoranta.NaturalLanguage.DocumentProcessing.DocXProcessor.GetHyperlinks.htm" />
+        <HelpTOCNode Id="a642d512-b2c1-42a4-98f8-45d3b7342c45" Title="GetPatternMatches Method " Url="html/Overload-Suoranta.NaturalLanguage.DocumentProcessing.DocXProcessor.GetPatternMatches.htm">
+          <HelpTOCNode Title="GetPatternMatches Method (String)" Url="html/M-Suoranta.NaturalLanguage.DocumentProcessing.DocXProcessor.GetPatternMatches.htm" />
+          <HelpTOCNode Title="GetPatternMatches Method (Stream)" Url="html/M-Suoranta.NaturalLanguage.DocumentProcessing.DocXProcessor.GetPatternMatches_1.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="c0e8d85e-10cc-45f9-b3ac-08c3e3775790" Title="Extensions Class" Url="html/T-Suoranta.NaturalLanguage.DocumentProcessing.Extensions.htm">
+      <HelpTOCNode Title="Extensions Members" Url="html/AllMembers.T-Suoranta.NaturalLanguage.DocumentProcessing.Extensions.htm" />
+      <HelpTOCNode Id="4d263395-94c1-4eb1-9bae-f345772db85a" Title="Extensions Methods" Url="html/Methods.T-Suoranta.NaturalLanguage.DocumentProcessing.Extensions.htm">
+        <HelpTOCNode Title="FindPattern Method " Url="html/M-Suoranta.NaturalLanguage.DocumentProcessing.Extensions.FindPattern.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="d4e19ea9-5866-4683-9078-e81fde98ee35" Title="HtmlProcessor Class" Url="html/T-Suoranta.NaturalLanguage.DocumentProcessing.HtmlProcessor.htm">
+      <HelpTOCNode Title="HtmlProcessor Members" Url="html/AllMembers.T-Suoranta.NaturalLanguage.DocumentProcessing.HtmlProcessor.htm" />
+      <HelpTOCNode Title="HtmlProcessor Constructor " Url="html/M-Suoranta.NaturalLanguage.DocumentProcessing.HtmlProcessor.-ctor.htm" />
+      <HelpTOCNode Id="c606bb5f-8b93-447a-8232-eecd37765321" Title="HtmlProcessor Methods" Url="html/Methods.T-Suoranta.NaturalLanguage.DocumentProcessing.HtmlProcessor.htm">
+        <HelpTOCNode Title="ExtractText Method " Url="html/M-Suoranta.NaturalLanguage.DocumentProcessing.HtmlProcessor.ExtractText.htm" />
+        <HelpTOCNode Title="GetPatternMatches Method " Url="html/M-Suoranta.NaturalLanguage.DocumentProcessing.HtmlProcessor.GetPatternMatches.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="bf6f1275-18d4-49d8-96e4-9b980a88ec9e" Title="IDocumentProcessor Interface" Url="html/T-Suoranta.NaturalLanguage.DocumentProcessing.IDocumentProcessor.htm">
+      <HelpTOCNode Title="IDocumentProcessor Members" Url="html/AllMembers.T-Suoranta.NaturalLanguage.DocumentProcessing.IDocumentProcessor.htm" />
+      <HelpTOCNode Id="8f22ef18-a70c-4d5a-bd41-6bf22527eee2" Title="IDocumentProcessor Methods" Url="html/Methods.T-Suoranta.NaturalLanguage.DocumentProcessing.IDocumentProcessor.htm">
+        <HelpTOCNode Title="GetPatternMatches Method " Url="html/M-Suoranta.NaturalLanguage.DocumentProcessing.IDocumentProcessor.GetPatternMatches.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="9be3c2ad-37f3-44ac-bea8-d04179e16a30" Title="MsgProcessor Class" Url="html/T-Suoranta.NaturalLanguage.DocumentProcessing.MsgProcessor.htm">
+      <HelpTOCNode Title="MsgProcessor Members" Url="html/AllMembers.T-Suoranta.NaturalLanguage.DocumentProcessing.MsgProcessor.htm" />
+      <HelpTOCNode Title="MsgProcessor Constructor " Url="html/M-Suoranta.NaturalLanguage.DocumentProcessing.MsgProcessor.-ctor.htm" />
+      <HelpTOCNode Id="b7c6ede5-a835-43e7-8356-64d02488b378" Title="MsgProcessor Methods" Url="html/Methods.T-Suoranta.NaturalLanguage.DocumentProcessing.MsgProcessor.htm">
+        <HelpTOCNode Title="GetPatternMatches Method " Url="html/M-Suoranta.NaturalLanguage.DocumentProcessing.MsgProcessor.GetPatternMatches.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="73905430-8e2d-47df-8ef2-0ebf955a2fe2" Title="PatternSearchResults Class" Url="html/T-Suoranta.NaturalLanguage.DocumentProcessing.PatternSearchResults.htm">
+      <HelpTOCNode Title="PatternSearchResults Members" Url="html/AllMembers.T-Suoranta.NaturalLanguage.DocumentProcessing.PatternSearchResults.htm" />
+      <HelpTOCNode Title="PatternSearchResults Constructor " Url="html/M-Suoranta.NaturalLanguage.DocumentProcessing.PatternSearchResults.-ctor.htm" />
+      <HelpTOCNode Title="PatternSearchResults Methods" Url="html/Methods.T-Suoranta.NaturalLanguage.DocumentProcessing.PatternSearchResults.htm" />
+      <HelpTOCNode Id="a502edd0-eb6d-4518-865f-f9c1a3f3843c" Title="PatternSearchResults Properties" Url="html/Properties.T-Suoranta.NaturalLanguage.DocumentProcessing.PatternSearchResults.htm">
+        <HelpTOCNode Title="AllMatches Property " Url="html/P-Suoranta.NaturalLanguage.DocumentProcessing.PatternSearchResults.AllMatches.htm" />
+        <HelpTOCNode Title="SearchRoot Property " Url="html/P-Suoranta.NaturalLanguage.DocumentProcessing.PatternSearchResults.SearchRoot.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="442d5f55-b8af-4cee-bb97-dbe56efceb30" Title="PatternSearchResults.FileResults Class" Url="html/T-Suoranta.NaturalLanguage.DocumentProcessing.PatternSearchResults.FileResults.htm">
+      <HelpTOCNode Title="PatternSearchResults.FileResults Members" Url="html/AllMembers.T-Suoranta.NaturalLanguage.DocumentProcessing.PatternSearchResults.FileResults.htm" />
+      <HelpTOCNode Title="FileResults Constructor " Url="html/M-Suoranta.NaturalLanguage.DocumentProcessing.PatternSearchResults.FileResults.-ctor.htm" />
+      <HelpTOCNode Title="PatternSearchResults.FileResults Methods" Url="html/Methods.T-Suoranta.NaturalLanguage.DocumentProcessing.PatternSearchResults.FileResults.htm" />
+      <HelpTOCNode Id="9b132e31-2977-46dc-91de-d6c868a20768" Title="PatternSearchResults.FileResults Properties" Url="html/Properties.T-Suoranta.NaturalLanguage.DocumentProcessing.PatternSearchResults.FileResults.htm">
+        <HelpTOCNode Title="FilePath Property " Url="html/P-Suoranta.NaturalLanguage.DocumentProcessing.PatternSearchResults.FileResults.FilePath.htm" />
+        <HelpTOCNode Title="Matches Property " Url="html/P-Suoranta.NaturalLanguage.DocumentProcessing.PatternSearchResults.FileResults.Matches.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="6cf508fa-6142-42fd-8d15-66e56dbb8184" Title="PdfProcessor Class" Url="html/T-Suoranta.NaturalLanguage.DocumentProcessing.PdfProcessor.htm">
+      <HelpTOCNode Title="PdfProcessor Members" Url="html/AllMembers.T-Suoranta.NaturalLanguage.DocumentProcessing.PdfProcessor.htm" />
+      <HelpTOCNode Title="PdfProcessor Constructor " Url="html/M-Suoranta.NaturalLanguage.DocumentProcessing.PdfProcessor.-ctor.htm" />
+      <HelpTOCNode Id="ea77b258-dd53-4520-a931-4fa58a61b12a" Title="PdfProcessor Methods" Url="html/Methods.T-Suoranta.NaturalLanguage.DocumentProcessing.PdfProcessor.htm">
+        <HelpTOCNode Id="f84e0329-c995-4b7e-9c35-5714b4dacaa0" Title="GetPatternMatches Method " Url="html/Overload-Suoranta.NaturalLanguage.DocumentProcessing.PdfProcessor.GetPatternMatches.htm">
+          <HelpTOCNode Title="GetPatternMatches Method (String)" Url="html/M-Suoranta.NaturalLanguage.DocumentProcessing.PdfProcessor.GetPatternMatches.htm" />
+          <HelpTOCNode Title="GetPatternMatches Method (Stream)" Url="html/M-Suoranta.NaturalLanguage.DocumentProcessing.PdfProcessor.GetPatternMatches_1.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="67735723-31a2-4e18-b346-1a6041089f1a" Title="PlainTextProcessor Class" Url="html/T-Suoranta.NaturalLanguage.DocumentProcessing.PlainTextProcessor.htm">
+      <HelpTOCNode Title="PlainTextProcessor Members" Url="html/AllMembers.T-Suoranta.NaturalLanguage.DocumentProcessing.PlainTextProcessor.htm" />
+      <HelpTOCNode Title="PlainTextProcessor Constructor " Url="html/M-Suoranta.NaturalLanguage.DocumentProcessing.PlainTextProcessor.-ctor.htm" />
+      <HelpTOCNode Id="000c27f7-d243-4b93-b9da-e1b69b0475aa" Title="PlainTextProcessor Methods" Url="html/Methods.T-Suoranta.NaturalLanguage.DocumentProcessing.PlainTextProcessor.htm">
+        <HelpTOCNode Title="GetPatternMatches Method " Url="html/M-Suoranta.NaturalLanguage.DocumentProcessing.PlainTextProcessor.GetPatternMatches.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="ScanFileTypes Enumeration" Url="html/T-Suoranta.NaturalLanguage.DocumentProcessing.ScanFileTypes.htm" />
+    <HelpTOCNode Id="97a3dcf2-ab4e-49e8-9bb1-93a61ef9e6b5" Title="TextProcessor Class" Url="html/T-Suoranta.NaturalLanguage.DocumentProcessing.TextProcessor.htm">
+      <HelpTOCNode Title="TextProcessor Members" Url="html/AllMembers.T-Suoranta.NaturalLanguage.DocumentProcessing.TextProcessor.htm" />
+      <HelpTOCNode Title="TextProcessor Constructor " Url="html/M-Suoranta.NaturalLanguage.DocumentProcessing.TextProcessor.-ctor.htm" />
+      <HelpTOCNode Id="2eb67acc-5dae-4ff8-bce6-d007f724ce08" Title="TextProcessor Fields" Url="html/Fields.T-Suoranta.NaturalLanguage.DocumentProcessing.TextProcessor.htm">
+        <HelpTOCNode Title="matchFactory Field" Url="html/F-Suoranta.NaturalLanguage.DocumentProcessing.TextProcessor.matchFactory.htm" />
+        <HelpTOCNode Title="pattern Field" Url="html/F-Suoranta.NaturalLanguage.DocumentProcessing.TextProcessor.pattern.htm" />
+        <HelpTOCNode Title="textWriter Field" Url="html/F-Suoranta.NaturalLanguage.DocumentProcessing.TextProcessor.textWriter.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="03592e7d-f7db-48d1-be73-0aa06a81b8b8" Title="TextProcessor Methods" Url="html/Methods.T-Suoranta.NaturalLanguage.DocumentProcessing.TextProcessor.htm">
+        <HelpTOCNode Title="GetLanguageValueAttribute Method " Url="html/M-Suoranta.NaturalLanguage.DocumentProcessing.TextProcessor.GetLanguageValueAttribute.htm" />
+        <HelpTOCNode Title="MatchEach Method " Url="html/M-Suoranta.NaturalLanguage.DocumentProcessing.TextProcessor.MatchEach.htm" />
+        <HelpTOCNode Id="e5103ec6-b9f9-484e-9a72-6132448db190" Title="ValidatePath Method " Url="html/Overload-Suoranta.NaturalLanguage.DocumentProcessing.TextProcessor.ValidatePath.htm">
+          <HelpTOCNode Title="ValidatePath Method (String, String[])" Url="html/M-Suoranta.NaturalLanguage.DocumentProcessing.TextProcessor.ValidatePath.htm" />
+          <HelpTOCNode Title="ValidatePath Method (String, List(String))" Url="html/M-Suoranta.NaturalLanguage.DocumentProcessing.TextProcessor.ValidatePath_1.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="97d65e9f-55ce-411b-a707-b5f7213b81d7" Title="TextProcessor Properties" Url="html/Properties.T-Suoranta.NaturalLanguage.DocumentProcessing.TextProcessor.htm">
+        <HelpTOCNode Title="Services Property " Url="html/P-Suoranta.NaturalLanguage.DocumentProcessing.TextProcessor.Services.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="a1fb0167-52d1-4112-91f1-3b0096312120" Title="Suoranta.NaturalLanguage.Imaging Namespace" Url="html/N-Suoranta.NaturalLanguage.Imaging.htm">
+    <HelpTOCNode Id="9a0d17c4-71e2-40ab-a0c5-e39a7c72e45a" Title="FeatureRegion Structure" Url="html/T-Suoranta.NaturalLanguage.Imaging.FeatureRegion.htm">
+      <HelpTOCNode Title="FeatureRegion Members" Url="html/AllMembers.T-Suoranta.NaturalLanguage.Imaging.FeatureRegion.htm" />
+      <HelpTOCNode Title="FeatureRegion Constructor " Url="html/M-Suoranta.NaturalLanguage.Imaging.FeatureRegion.-ctor.htm" />
+      <HelpTOCNode Id="33b21a32-d023-480e-8e45-94df3309d823" Title="FeatureRegion Methods" Url="html/Methods.T-Suoranta.NaturalLanguage.Imaging.FeatureRegion.htm">
+        <HelpTOCNode Title="ToRectangle Method " Url="html/M-Suoranta.NaturalLanguage.Imaging.FeatureRegion.ToRectangle.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="9ef569eb-e3c3-4589-aba2-99ca6cbe1bb5" Title="FeatureRegion Properties" Url="html/Properties.T-Suoranta.NaturalLanguage.Imaging.FeatureRegion.htm">
+        <HelpTOCNode Title="Height Property " Url="html/P-Suoranta.NaturalLanguage.Imaging.FeatureRegion.Height.htm" />
+        <HelpTOCNode Title="MaxX Property " Url="html/P-Suoranta.NaturalLanguage.Imaging.FeatureRegion.MaxX.htm" />
+        <HelpTOCNode Title="MaxY Property " Url="html/P-Suoranta.NaturalLanguage.Imaging.FeatureRegion.MaxY.htm" />
+        <HelpTOCNode Title="MinX Property " Url="html/P-Suoranta.NaturalLanguage.Imaging.FeatureRegion.MinX.htm" />
+        <HelpTOCNode Title="MinY Property " Url="html/P-Suoranta.NaturalLanguage.Imaging.FeatureRegion.MinY.htm" />
+        <HelpTOCNode Title="Width Property " Url="html/P-Suoranta.NaturalLanguage.Imaging.FeatureRegion.Width.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="1d841a55-ab67-4ba2-a590-9ccecfbc855e" Title="IImageObject Interface" Url="html/T-Suoranta.NaturalLanguage.Imaging.IImageObject.htm">
+      <HelpTOCNode Title="IImageObject Members" Url="html/AllMembers.T-Suoranta.NaturalLanguage.Imaging.IImageObject.htm" />
+      <HelpTOCNode Title="IImageObject Methods" Url="html/Methods.T-Suoranta.NaturalLanguage.Imaging.IImageObject.htm" />
+      <HelpTOCNode Id="57c9614d-ceb9-4868-a230-1c1174d5608c" Title="IImageObject Properties" Url="html/Properties.T-Suoranta.NaturalLanguage.Imaging.IImageObject.htm">
+        <HelpTOCNode Title="Score Property " Url="html/P-Suoranta.NaturalLanguage.Imaging.IImageObject.Score.htm" />
+        <HelpTOCNode Title="XMax Property " Url="html/P-Suoranta.NaturalLanguage.Imaging.IImageObject.XMax.htm" />
+        <HelpTOCNode Title="XMin Property " Url="html/P-Suoranta.NaturalLanguage.Imaging.IImageObject.XMin.htm" />
+        <HelpTOCNode Title="YMax Property " Url="html/P-Suoranta.NaturalLanguage.Imaging.IImageObject.YMax.htm" />
+        <HelpTOCNode Title="YMin Property " Url="html/P-Suoranta.NaturalLanguage.Imaging.IImageObject.YMin.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="b8724e60-57f3-434e-b054-31a26759563b" Title="ImageSegmenter Class" Url="html/T-Suoranta.NaturalLanguage.Imaging.ImageSegmenter.htm">
+      <HelpTOCNode Title="ImageSegmenter Members" Url="html/AllMembers.T-Suoranta.NaturalLanguage.Imaging.ImageSegmenter.htm" />
+      <HelpTOCNode Title="ImageSegmenter Constructor " Url="html/M-Suoranta.NaturalLanguage.Imaging.ImageSegmenter.-ctor.htm" />
+      <HelpTOCNode Id="63b297a5-556f-4a21-ae96-aeb6021bed19" Title="ImageSegmenter Fields" Url="html/Fields.T-Suoranta.NaturalLanguage.Imaging.ImageSegmenter.htm">
+        <HelpTOCNode Title="context Field" Url="html/F-Suoranta.NaturalLanguage.Imaging.ImageSegmenter.context.htm" />
+        <HelpTOCNode Title="model Field" Url="html/F-Suoranta.NaturalLanguage.Imaging.ImageSegmenter.model.htm" />
+        <HelpTOCNode Title="modelResolution Field" Url="html/F-Suoranta.NaturalLanguage.Imaging.ImageSegmenter.modelResolution.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="d4c2aae4-54c2-47a4-a180-38d2b5faac7b" Title="ImageSegmenter Methods" Url="html/Methods.T-Suoranta.NaturalLanguage.Imaging.ImageSegmenter.htm">
+        <HelpTOCNode Title="GetImageObjects Method " Url="html/M-Suoranta.NaturalLanguage.Imaging.ImageSegmenter.GetImageObjects.htm" />
+        <HelpTOCNode Title="InitializeModel Method " Url="html/M-Suoranta.NaturalLanguage.Imaging.ImageSegmenter.InitializeModel.htm" />
+        <HelpTOCNode Title="Segment Method " Url="html/M-Suoranta.NaturalLanguage.Imaging.ImageSegmenter.Segment.htm" />
+        <HelpTOCNode Title="ToDataView Method " Url="html/M-Suoranta.NaturalLanguage.Imaging.ImageSegmenter.ToDataView.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="31c5a43c-c4b6-419c-a9e1-90bf824137ab" Title="ImageSegmenter Properties" Url="html/Properties.T-Suoranta.NaturalLanguage.Imaging.ImageSegmenter.htm">
+        <HelpTOCNode Title="ModelsPath Property " Url="html/P-Suoranta.NaturalLanguage.Imaging.ImageSegmenter.ModelsPath.htm" />
+        <HelpTOCNode Title="OnnxInputColumn Property " Url="html/P-Suoranta.NaturalLanguage.Imaging.ImageSegmenter.OnnxInputColumn.htm" />
+        <HelpTOCNode Title="OnnxModelFile Property " Url="html/P-Suoranta.NaturalLanguage.Imaging.ImageSegmenter.OnnxModelFile.htm" />
+        <HelpTOCNode Title="OnnxOutputColumn Property " Url="html/P-Suoranta.NaturalLanguage.Imaging.ImageSegmenter.OnnxOutputColumn.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="93e3cb38-bbd0-4953-bf35-f5592f4df71e" Title="SegmentedImage Class" Url="html/T-Suoranta.NaturalLanguage.Imaging.SegmentedImage.htm">
+      <HelpTOCNode Title="SegmentedImage Members" Url="html/AllMembers.T-Suoranta.NaturalLanguage.Imaging.SegmentedImage.htm" />
+      <HelpTOCNode Title="SegmentedImage Constructor " Url="html/M-Suoranta.NaturalLanguage.Imaging.SegmentedImage.-ctor.htm" />
+      <HelpTOCNode Id="7d2775d3-93d1-4b03-a4e4-cdd6cef8154f" Title="SegmentedImage Methods" Url="html/Methods.T-Suoranta.NaturalLanguage.Imaging.SegmentedImage.htm">
+        <HelpTOCNode Title="GetBoundingBox Method " Url="html/M-Suoranta.NaturalLanguage.Imaging.SegmentedImage.GetBoundingBox.htm" />
+        <HelpTOCNode Title="ToImageX Method " Url="html/M-Suoranta.NaturalLanguage.Imaging.SegmentedImage.ToImageX.htm" />
+        <HelpTOCNode Title="ToImageY Method " Url="html/M-Suoranta.NaturalLanguage.Imaging.SegmentedImage.ToImageY.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="332cce93-18da-4afb-8da3-dc9045f7ef5f" Title="SegmentedImage Properties" Url="html/Properties.T-Suoranta.NaturalLanguage.Imaging.SegmentedImage.htm">
+        <HelpTOCNode Title="Map Property " Url="html/P-Suoranta.NaturalLanguage.Imaging.SegmentedImage.Map.htm" />
+        <HelpTOCNode Title="ModelResolution Property " Url="html/P-Suoranta.NaturalLanguage.Imaging.SegmentedImage.ModelResolution.htm" />
+        <HelpTOCNode Title="Objects Property " Url="html/P-Suoranta.NaturalLanguage.Imaging.SegmentedImage.Objects.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="ef4d5474-99ea-4752-9f55-5462acb481a9" Title="TDImageSegmenter Class" Url="html/T-Suoranta.NaturalLanguage.Imaging.TDImageSegmenter.htm">
+      <HelpTOCNode Title="TDImageSegmenter Members" Url="html/AllMembers.T-Suoranta.NaturalLanguage.Imaging.TDImageSegmenter.htm" />
+      <HelpTOCNode Title="TDImageSegmenter Constructor " Url="html/M-Suoranta.NaturalLanguage.Imaging.TDImageSegmenter.-ctor.htm" />
+      <HelpTOCNode Id="de281db3-69cb-4555-bea8-18bfd069da96" Title="TDImageSegmenter Methods" Url="html/Methods.T-Suoranta.NaturalLanguage.Imaging.TDImageSegmenter.htm">
+        <HelpTOCNode Title="GetImageObjects Method " Url="html/M-Suoranta.NaturalLanguage.Imaging.TDImageSegmenter.GetImageObjects.htm" />
+        <HelpTOCNode Title="InitializeModel Method " Url="html/M-Suoranta.NaturalLanguage.Imaging.TDImageSegmenter.InitializeModel.htm" />
+        <HelpTOCNode Title="Segment Method " Url="html/M-Suoranta.NaturalLanguage.Imaging.TDImageSegmenter.Segment.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="3c33c668-2721-4e12-a750-22466638f402" Title="TDImageSegmenter Properties" Url="html/Properties.T-Suoranta.NaturalLanguage.Imaging.TDImageSegmenter.htm">
+        <HelpTOCNode Title="OnnxInputColumn Property " Url="html/P-Suoranta.NaturalLanguage.Imaging.TDImageSegmenter.OnnxInputColumn.htm" />
+        <HelpTOCNode Title="OnnxOutputColumn Property " Url="html/P-Suoranta.NaturalLanguage.Imaging.TDImageSegmenter.OnnxOutputColumn.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="TDImageSegmenter.ModelResolutions Enumeration" Url="html/T-Suoranta.NaturalLanguage.Imaging.TDImageSegmenter.ModelResolutions.htm" />
+    <HelpTOCNode Title="TDImageSegmenter.ModelVariant Enumeration" Url="html/T-Suoranta.NaturalLanguage.Imaging.TDImageSegmenter.ModelVariant.htm" />
+    <HelpTOCNode Id="bdfcfba8-dd74-4e2c-a9fb-631dd04dcc58" Title="YoloV10ImageSegmenter Class" Url="html/T-Suoranta.NaturalLanguage.Imaging.YoloV10ImageSegmenter.htm">
+      <HelpTOCNode Title="YoloV10ImageSegmenter Members" Url="html/AllMembers.T-Suoranta.NaturalLanguage.Imaging.YoloV10ImageSegmenter.htm" />
+      <HelpTOCNode Title="YoloV10ImageSegmenter Constructor " Url="html/M-Suoranta.NaturalLanguage.Imaging.YoloV10ImageSegmenter.-ctor.htm" />
+      <HelpTOCNode Id="94fd8209-de3f-4467-ad31-2c288c4895ab" Title="YoloV10ImageSegmenter Methods" Url="html/Methods.T-Suoranta.NaturalLanguage.Imaging.YoloV10ImageSegmenter.htm">
+        <HelpTOCNode Title="GetImageObjects Method " Url="html/M-Suoranta.NaturalLanguage.Imaging.YoloV10ImageSegmenter.GetImageObjects.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="a76be0b2-91bc-4375-919f-90a4146ecfef" Title="YoloV10ImageSegmenter Properties" Url="html/Properties.T-Suoranta.NaturalLanguage.Imaging.YoloV10ImageSegmenter.htm">
+        <HelpTOCNode Title="OnnxInputColumn Property " Url="html/P-Suoranta.NaturalLanguage.Imaging.YoloV10ImageSegmenter.OnnxInputColumn.htm" />
+        <HelpTOCNode Title="OnnxOutputColumn Property " Url="html/P-Suoranta.NaturalLanguage.Imaging.YoloV10ImageSegmenter.OnnxOutputColumn.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="YoloV10ImageSegmenter.ModelVariant Enumeration" Url="html/T-Suoranta.NaturalLanguage.Imaging.YoloV10ImageSegmenter.ModelVariant.htm" />
+  </HelpTOCNode>
+  <HelpTOCNode Id="64762dbe-24a2-4051-a621-70f4ae946ba1" Title="Suoranta.NaturalLanguage.Transliteration Namespace" Url="html/N-Suoranta.NaturalLanguage.Transliteration.htm">
+    <HelpTOCNode Id="56d20a8f-0dcc-46ad-a7a5-73142a092a72" Title="CyrillicEnglishTransliterator Class" Url="html/T-Suoranta.NaturalLanguage.Transliteration.CyrillicEnglishTransliterator.htm">
+      <HelpTOCNode Title="CyrillicEnglishTransliterator Members" Url="html/AllMembers.T-Suoranta.NaturalLanguage.Transliteration.CyrillicEnglishTransliterator.htm" />
+      <HelpTOCNode Title="CyrillicEnglishTransliterator Constructor " Url="html/M-Suoranta.NaturalLanguage.Transliteration.CyrillicEnglishTransliterator.-ctor.htm" />
+      <HelpTOCNode Id="7e12dcce-4520-49e4-9708-23d5a46f84a2" Title="CyrillicEnglishTransliterator Methods" Url="html/Methods.T-Suoranta.NaturalLanguage.Transliteration.CyrillicEnglishTransliterator.htm">
+        <HelpTOCNode Title="ToLatin Method " Url="html/M-Suoranta.NaturalLanguage.Transliteration.CyrillicEnglishTransliterator.ToLatin.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="81621de4-4bb7-48d4-ad53-c34b7fdc3b9f" Title="CyrillicEnglishTransliterator Properties" Url="html/Properties.T-Suoranta.NaturalLanguage.Transliteration.CyrillicEnglishTransliterator.htm">
+        <HelpTOCNode Title="Bidirectional Property " Url="html/P-Suoranta.NaturalLanguage.Transliteration.CyrillicEnglishTransliterator.Bidirectional.htm" />
+        <HelpTOCNode Title="Script Property " Url="html/P-Suoranta.NaturalLanguage.Transliteration.CyrillicEnglishTransliterator.Script.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="3cccfc19-675f-4303-81c6-98d00f6fa86b" Title="CyrillicIsoTransliterator Class" Url="html/T-Suoranta.NaturalLanguage.Transliteration.CyrillicIsoTransliterator.htm">
+      <HelpTOCNode Title="CyrillicIsoTransliterator Members" Url="html/AllMembers.T-Suoranta.NaturalLanguage.Transliteration.CyrillicIsoTransliterator.htm" />
+      <HelpTOCNode Title="CyrillicIsoTransliterator Constructor " Url="html/M-Suoranta.NaturalLanguage.Transliteration.CyrillicIsoTransliterator.-ctor.htm" />
+      <HelpTOCNode Title="CyrillicIsoTransliterator Methods" Url="html/Methods.T-Suoranta.NaturalLanguage.Transliteration.CyrillicIsoTransliterator.htm" />
+      <HelpTOCNode Id="aa89b965-650f-4169-9aee-cc66abd06229" Title="CyrillicIsoTransliterator Properties" Url="html/Properties.T-Suoranta.NaturalLanguage.Transliteration.CyrillicIsoTransliterator.htm">
+        <HelpTOCNode Title="Bidirectional Property " Url="html/P-Suoranta.NaturalLanguage.Transliteration.CyrillicIsoTransliterator.Bidirectional.htm" />
+        <HelpTOCNode Title="Script Property " Url="html/P-Suoranta.NaturalLanguage.Transliteration.CyrillicIsoTransliterator.Script.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="64b45ad2-8932-44dd-8f9a-4f09b5a65d6e" Title="StringSubstitution Class" Url="html/T-Suoranta.NaturalLanguage.Transliteration.StringSubstitution.htm">
+      <HelpTOCNode Title="StringSubstitution Members" Url="html/AllMembers.T-Suoranta.NaturalLanguage.Transliteration.StringSubstitution.htm" />
+      <HelpTOCNode Id="a5b74e82-ee6e-450c-956e-14ba26aea1e9" Title="StringSubstitution Constructor " Url="html/Overload-Suoranta.NaturalLanguage.Transliteration.StringSubstitution.-ctor.htm">
+        <HelpTOCNode Title="StringSubstitution Constructor (String, String)" Url="html/M-Suoranta.NaturalLanguage.Transliteration.StringSubstitution.-ctor.htm" />
+        <HelpTOCNode Title="StringSubstitution Constructor (SerializationInfo, StreamingContext)" Url="html/M-Suoranta.NaturalLanguage.Transliteration.StringSubstitution.-ctor_1.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="069f3ce4-7620-4f87-9d34-807e80560503" Title="StringSubstitution Methods" Url="html/Methods.T-Suoranta.NaturalLanguage.Transliteration.StringSubstitution.htm">
+        <HelpTOCNode Title="FromLatin Method " Url="html/M-Suoranta.NaturalLanguage.Transliteration.StringSubstitution.FromLatin.htm" />
+        <HelpTOCNode Title="GetObjectData Method " Url="html/M-Suoranta.NaturalLanguage.Transliteration.StringSubstitution.GetObjectData.htm" />
+        <HelpTOCNode Title="ToLatin Method " Url="html/M-Suoranta.NaturalLanguage.Transliteration.StringSubstitution.ToLatin.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="e160680a-7fa7-4f1b-b154-3e04404ec330" Title="StringSubstitution Properties" Url="html/Properties.T-Suoranta.NaturalLanguage.Transliteration.StringSubstitution.htm">
+        <HelpTOCNode Title="Latin Property " Url="html/P-Suoranta.NaturalLanguage.Transliteration.StringSubstitution.Latin.htm" />
+        <HelpTOCNode Title="NonLatin Property " Url="html/P-Suoranta.NaturalLanguage.Transliteration.StringSubstitution.NonLatin.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="6d179ec9-f121-4984-b6d4-95d8d8305d7c" Title="TransliterationException Class" Url="html/T-Suoranta.NaturalLanguage.Transliteration.TransliterationException.htm">
+      <HelpTOCNode Title="TransliterationException Members" Url="html/AllMembers.T-Suoranta.NaturalLanguage.Transliteration.TransliterationException.htm" />
+      <HelpTOCNode Title="TransliterationException Methods" Url="html/Methods.T-Suoranta.NaturalLanguage.Transliteration.TransliterationException.htm" />
+      <HelpTOCNode Id="9ce5d515-9c81-4e46-a3c0-f9a7df9a2f86" Title="TransliterationException Properties" Url="html/Properties.T-Suoranta.NaturalLanguage.Transliteration.TransliterationException.htm">
+        <HelpTOCNode Title="Script Property " Url="html/P-Suoranta.NaturalLanguage.Transliteration.TransliterationException.Script.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="TransliterationException Events" Url="html/Events.T-Suoranta.NaturalLanguage.Transliteration.TransliterationException.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="943b20ba-71c3-454c-88ce-0df957c3e46b" Title="Transliterator Class" Url="html/T-Suoranta.NaturalLanguage.Transliteration.Transliterator.htm">
+      <HelpTOCNode Title="Transliterator Members" Url="html/AllMembers.T-Suoranta.NaturalLanguage.Transliteration.Transliterator.htm" />
+      <HelpTOCNode Id="8326098d-b257-43e8-9b99-837e24b7c785" Title="Transliterator Fields" Url="html/Fields.T-Suoranta.NaturalLanguage.Transliteration.Transliterator.htm">
+        <HelpTOCNode Title="fromLatinCharSubstitutions Field" Url="html/F-Suoranta.NaturalLanguage.Transliteration.Transliterator.fromLatinCharSubstitutions.htm" />
+        <HelpTOCNode Title="toLatinCharSubstitutions Field" Url="html/F-Suoranta.NaturalLanguage.Transliteration.Transliterator.toLatinCharSubstitutions.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="4260bf51-5324-43d2-bf96-07b133e93236" Title="Transliterator Methods" Url="html/Methods.T-Suoranta.NaturalLanguage.Transliteration.Transliterator.htm">
+        <HelpTOCNode Title="FromLatin Method " Url="html/M-Suoranta.NaturalLanguage.Transliteration.Transliterator.FromLatin.htm" />
+        <HelpTOCNode Title="ToLatin Method " Url="html/M-Suoranta.NaturalLanguage.Transliteration.Transliterator.ToLatin.htm" />
+        <HelpTOCNode Title="Transliterate Method " Url="html/M-Suoranta.NaturalLanguage.Transliteration.Transliterator.Transliterate.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="1e240493-e51b-4d9d-9650-f03ce903ef59" Title="Transliterator Properties" Url="html/Properties.T-Suoranta.NaturalLanguage.Transliteration.Transliterator.htm">
+        <HelpTOCNode Title="Bidirectional Property " Url="html/P-Suoranta.NaturalLanguage.Transliteration.Transliterator.Bidirectional.htm" />
+        <HelpTOCNode Title="Script Property " Url="html/P-Suoranta.NaturalLanguage.Transliteration.Transliterator.Script.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="Transliterator.Direction Enumeration" Url="html/T-Suoranta.NaturalLanguage.Transliteration.Transliterator.Direction.htm" />
+  </HelpTOCNode>
+</HelpTOC>
