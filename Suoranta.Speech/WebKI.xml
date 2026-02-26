@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+
+  <HelpKINode Title="ActiveContextName property" Url="html/P-Suoranta.NaturalLanguage.Speech.AppCommandSpeechRecognizer.ActiveContextName.htm" />
+  <HelpKINode Title="AppCommandSpeechRecognizer class" Url="html/AllMembers.T-Suoranta.NaturalLanguage.Speech.AppCommandSpeechRecognizer.htm" />
+  <HelpKINode Title="AppCommandSpeechRecognizer class" Url="html/T-Suoranta.NaturalLanguage.Speech.AppCommandSpeechRecognizer.htm" />
+  <HelpKINode Title="AppCommandSpeechRecognizer class">
+    <HelpKINode Title="about AppCommandSpeechRecognizer class" Url="html/T-Suoranta.NaturalLanguage.Speech.AppCommandSpeechRecognizer.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Suoranta.NaturalLanguage.Speech.AppCommandSpeechRecognizer.htm" />
+    <HelpKINode Title="constructor" Url="html/M-Suoranta.NaturalLanguage.Speech.AppCommandSpeechRecognizer.-ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Suoranta.NaturalLanguage.Speech.AppCommandSpeechRecognizer.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-Suoranta.NaturalLanguage.Speech.AppCommandSpeechRecognizer.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AppCommandSpeechRecognizer.ActiveContextName property" Url="html/P-Suoranta.NaturalLanguage.Speech.AppCommandSpeechRecognizer.ActiveContextName.htm" />
+  <HelpKINode Title="AppCommandSpeechRecognizer.AppCommandSpeechRecognizer constructor" Url="html/M-Suoranta.NaturalLanguage.Speech.AppCommandSpeechRecognizer.-ctor.htm" />
+  <HelpKINode Title="AppCommandSpeechRecognizer.CreateContext method" Url="html/Overload-Suoranta.NaturalLanguage.Speech.AppCommandSpeechRecognizer.CreateContext.htm" />
+  <HelpKINode Title="AppCommandSpeechRecognizer.GlobalContext property" Url="html/P-Suoranta.NaturalLanguage.Speech.AppCommandSpeechRecognizer.GlobalContext.htm" />
+  <HelpKINode Title="AppCommandSpeechRecognizer.Listen method" Url="html/M-Suoranta.NaturalLanguage.Speech.AppCommandSpeechRecognizer.Listen.htm" />
+  <HelpKINode Title="AppCommandSpeechRecognizer.MinimumConfidence property" Url="html/P-Suoranta.NaturalLanguage.Speech.AppCommandSpeechRecognizer.MinimumConfidence.htm" />
+  <HelpKINode Title="AppCommandSpeechRecognizer.ProcessResult method" Url="html/M-Suoranta.NaturalLanguage.Speech.AppCommandSpeechRecognizer.ProcessResult.htm" />
+  <HelpKINode Title="AppCommandSpeechRecognizer.Simulate method" Url="html/M-Suoranta.NaturalLanguage.Speech.AppCommandSpeechRecognizer.Simulate.htm" />
+  <HelpKINode Title="AppCommandSpeechRecognizer.StopListen method" Url="html/M-Suoranta.NaturalLanguage.Speech.AppCommandSpeechRecognizer.StopListen.htm" />
+  <HelpKINode Title="AutoHook method" Url="html/M-Suoranta.NaturalLanguage.Speech.IWinFormsSpeechContext.AutoHook.htm" />
+  <HelpKINode Title="Container property" Url="html/P-Suoranta.NaturalLanguage.Speech.IWinFormsSpeechContext.Container.htm" />
+  <HelpKINode Title="CreateContext method" Url="html/Overload-Suoranta.NaturalLanguage.Speech.AppCommandSpeechRecognizer.CreateContext.htm" />
+  <HelpKINode Title="culture field" Url="html/F-Suoranta.NaturalLanguage.Speech.SpeechRecognizer.culture.htm" />
+  <HelpKINode Title="DictationSpeechRecognizer class" Url="html/AllMembers.T-Suoranta.NaturalLanguage.Speech.DictationSpeechRecognizer.htm" />
+  <HelpKINode Title="DictationSpeechRecognizer class" Url="html/T-Suoranta.NaturalLanguage.Speech.DictationSpeechRecognizer.htm" />
+  <HelpKINode Title="DictationSpeechRecognizer class">
+    <HelpKINode Title="about DictationSpeechRecognizer class" Url="html/T-Suoranta.NaturalLanguage.Speech.DictationSpeechRecognizer.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Suoranta.NaturalLanguage.Speech.DictationSpeechRecognizer.htm" />
+    <HelpKINode Title="constructor" Url="html/M-Suoranta.NaturalLanguage.Speech.DictationSpeechRecognizer.-ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Suoranta.NaturalLanguage.Speech.DictationSpeechRecognizer.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-Suoranta.NaturalLanguage.Speech.DictationSpeechRecognizer.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DictationSpeechRecognizer.DictationSpeechRecognizer constructor" Url="html/M-Suoranta.NaturalLanguage.Speech.DictationSpeechRecognizer.-ctor.htm" />
+  <HelpKINode Title="DictationSpeechRecognizer.ProcessResult method" Url="html/M-Suoranta.NaturalLanguage.Speech.DictationSpeechRecognizer.ProcessResult.htm" />
+  <HelpKINode Title="Enabled property" Url="html/P-Suoranta.NaturalLanguage.Speech.ISpeechContext.Enabled.htm" />
+  <HelpKINode Title="EnglishNumericInput field" Url="html/F-Suoranta.NaturalLanguage.Speech.GrammarBuilders.EnglishNumericInput.htm" />
+  <HelpKINode Title="GlobalContext property" Url="html/P-Suoranta.NaturalLanguage.Speech.AppCommandSpeechRecognizer.GlobalContext.htm" />
+  <HelpKINode Title="GrammarBuilders class" Url="html/AllMembers.T-Suoranta.NaturalLanguage.Speech.GrammarBuilders.htm" />
+  <HelpKINode Title="GrammarBuilders class" Url="html/T-Suoranta.NaturalLanguage.Speech.GrammarBuilders.htm" />
+  <HelpKINode Title="GrammarBuilders class">
+    <HelpKINode Title="about GrammarBuilders class" Url="html/T-Suoranta.NaturalLanguage.Speech.GrammarBuilders.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Suoranta.NaturalLanguage.Speech.GrammarBuilders.htm" />
+    <HelpKINode Title="fields" Url="html/Fields.T-Suoranta.NaturalLanguage.Speech.GrammarBuilders.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Suoranta.NaturalLanguage.Speech.GrammarBuilders.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GrammarBuilders.EnglishNumericInput field" Url="html/F-Suoranta.NaturalLanguage.Speech.GrammarBuilders.EnglishNumericInput.htm" />
+  <HelpKINode Title="Hook method" Url="html/M-Suoranta.NaturalLanguage.Speech.ISpeechContext.Hook.htm" />
+  <HelpKINode Title="Hook method" Url="html/Overload-Suoranta.NaturalLanguage.Speech.IWinFormsSpeechContext.Hook.htm" />
+  <HelpKINode Title="ISpeechContext interface" Url="html/AllMembers.T-Suoranta.NaturalLanguage.Speech.ISpeechContext.htm" />
+  <HelpKINode Title="ISpeechContext interface" Url="html/T-Suoranta.NaturalLanguage.Speech.ISpeechContext.htm" />
+  <HelpKINode Title="ISpeechContext interface">
+    <HelpKINode Title="about ISpeechContext interface" Url="html/T-Suoranta.NaturalLanguage.Speech.ISpeechContext.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Suoranta.NaturalLanguage.Speech.ISpeechContext.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Suoranta.NaturalLanguage.Speech.ISpeechContext.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-Suoranta.NaturalLanguage.Speech.ISpeechContext.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ISpeechContext.Enabled property" Url="html/P-Suoranta.NaturalLanguage.Speech.ISpeechContext.Enabled.htm" />
+  <HelpKINode Title="ISpeechContext.Hook method" Url="html/M-Suoranta.NaturalLanguage.Speech.ISpeechContext.Hook.htm" />
+  <HelpKINode Title="ISpeechContext.Name property" Url="html/P-Suoranta.NaturalLanguage.Speech.ISpeechContext.Name.htm" />
+  <HelpKINode Title="IWinFormsSpeechContext interface" Url="html/AllMembers.T-Suoranta.NaturalLanguage.Speech.IWinFormsSpeechContext.htm" />
+  <HelpKINode Title="IWinFormsSpeechContext interface" Url="html/T-Suoranta.NaturalLanguage.Speech.IWinFormsSpeechContext.htm" />
+  <HelpKINode Title="IWinFormsSpeechContext interface">
+    <HelpKINode Title="about IWinFormsSpeechContext interface" Url="html/T-Suoranta.NaturalLanguage.Speech.IWinFormsSpeechContext.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Suoranta.NaturalLanguage.Speech.IWinFormsSpeechContext.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Suoranta.NaturalLanguage.Speech.IWinFormsSpeechContext.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-Suoranta.NaturalLanguage.Speech.IWinFormsSpeechContext.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IWinFormsSpeechContext.AutoHook method" Url="html/M-Suoranta.NaturalLanguage.Speech.IWinFormsSpeechContext.AutoHook.htm" />
+  <HelpKINode Title="IWinFormsSpeechContext.Container property" Url="html/P-Suoranta.NaturalLanguage.Speech.IWinFormsSpeechContext.Container.htm" />
+  <HelpKINode Title="IWinFormsSpeechContext.Hook method" Url="html/Overload-Suoranta.NaturalLanguage.Speech.IWinFormsSpeechContext.Hook.htm" />
+  <HelpKINode Title="Listen method" Url="html/M-Suoranta.NaturalLanguage.Speech.AppCommandSpeechRecognizer.Listen.htm" />
+  <HelpKINode Title="Listen method" Url="html/M-Suoranta.NaturalLanguage.Speech.SpeechRecognizer.Listen.htm" />
+  <HelpKINode Title="MinimumConfidence property" Url="html/P-Suoranta.NaturalLanguage.Speech.AppCommandSpeechRecognizer.MinimumConfidence.htm" />
+  <HelpKINode Title="Name property" Url="html/P-Suoranta.NaturalLanguage.Speech.ISpeechContext.Name.htm" />
+  <HelpKINode Title="NumberInputGrammarBuilder class" Url="html/AllMembers.T-Suoranta.NaturalLanguage.Speech.NumberInputGrammarBuilder.htm" />
+  <HelpKINode Title="NumberInputGrammarBuilder class" Url="html/T-Suoranta.NaturalLanguage.Speech.NumberInputGrammarBuilder.htm" />
+  <HelpKINode Title="NumberInputGrammarBuilder class">
+    <HelpKINode Title="about NumberInputGrammarBuilder class" Url="html/T-Suoranta.NaturalLanguage.Speech.NumberInputGrammarBuilder.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Suoranta.NaturalLanguage.Speech.NumberInputGrammarBuilder.htm" />
+    <HelpKINode Title="constructor" Url="html/M-Suoranta.NaturalLanguage.Speech.NumberInputGrammarBuilder.-ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Suoranta.NaturalLanguage.Speech.NumberInputGrammarBuilder.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-Suoranta.NaturalLanguage.Speech.NumberInputGrammarBuilder.htm" />
+  </HelpKINode>
+  <HelpKINode Title="NumberInputGrammarBuilder.NumberInputGrammarBuilder constructor" Url="html/M-Suoranta.NaturalLanguage.Speech.NumberInputGrammarBuilder.-ctor.htm" />
+  <HelpKINode Title="NumberInputGrammarBuilder.ToDecimal method" Url="html/M-Suoranta.NaturalLanguage.Speech.NumberInputGrammarBuilder.ToDecimal.htm" />
+  <HelpKINode Title="ProcessFile method" Url="html/Overload-Suoranta.NaturalLanguage.Speech.SpeechRecognizer.ProcessFile.htm" />
+  <HelpKINode Title="ProcessResult method" Url="html/M-Suoranta.NaturalLanguage.Speech.AppCommandSpeechRecognizer.ProcessResult.htm" />
+  <HelpKINode Title="ProcessResult method" Url="html/M-Suoranta.NaturalLanguage.Speech.DictationSpeechRecognizer.ProcessResult.htm" />
+  <HelpKINode Title="ProcessResult method" Url="html/M-Suoranta.NaturalLanguage.Speech.SpeechRecognizer.ProcessResult.htm" />
+  <HelpKINode Title="ProcessResult method" Url="html/M-Suoranta.NaturalLanguage.Speech.SpelledLettersSpeechRecognizer.ProcessResult.htm" />
+  <HelpKINode Title="recognizedText field" Url="html/F-Suoranta.NaturalLanguage.Speech.SpeechRecognizer.recognizedText.htm" />
+  <HelpKINode Title="RecognizedText property" Url="html/P-Suoranta.NaturalLanguage.Speech.SpeechRecognizer.RecognizedText.htm" />
+  <HelpKINode Title="recognizer field" Url="html/F-Suoranta.NaturalLanguage.Speech.SpeechRecognizer.recognizer.htm" />
+  <HelpKINode Title="Recognizer_RecognizeCompleted method" Url="html/M-Suoranta.NaturalLanguage.Speech.SpeechRecognizer.Recognizer_RecognizeCompleted.htm" />
+  <HelpKINode Title="Recognizer_SpeechRecognized method" Url="html/M-Suoranta.NaturalLanguage.Speech.SpeechRecognizer.Recognizer_SpeechRecognized.htm" />
+  <HelpKINode Title="Reset method" Url="html/M-Suoranta.NaturalLanguage.Speech.SpeechRecognizer.Reset.htm" />
+  <HelpKINode Title="Simulate method" Url="html/M-Suoranta.NaturalLanguage.Speech.AppCommandSpeechRecognizer.Simulate.htm" />
+  <HelpKINode Title="SpeechException class" Url="html/AllMembers.T-Suoranta.NaturalLanguage.Speech.SpeechException.htm" />
+  <HelpKINode Title="SpeechException class" Url="html/T-Suoranta.NaturalLanguage.Speech.SpeechException.htm" />
+  <HelpKINode Title="SpeechException class">
+    <HelpKINode Title="about SpeechException class" Url="html/T-Suoranta.NaturalLanguage.Speech.SpeechException.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Suoranta.NaturalLanguage.Speech.SpeechException.htm" />
+    <HelpKINode Title="events" Url="html/Events.T-Suoranta.NaturalLanguage.Speech.SpeechException.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Suoranta.NaturalLanguage.Speech.SpeechException.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-Suoranta.NaturalLanguage.Speech.SpeechException.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SpeechRecognizer class" Url="html/AllMembers.T-Suoranta.NaturalLanguage.Speech.SpeechRecognizer.htm" />
+  <HelpKINode Title="SpeechRecognizer class" Url="html/T-Suoranta.NaturalLanguage.Speech.SpeechRecognizer.htm" />
+  <HelpKINode Title="SpeechRecognizer class">
+    <HelpKINode Title="about SpeechRecognizer class" Url="html/T-Suoranta.NaturalLanguage.Speech.SpeechRecognizer.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Suoranta.NaturalLanguage.Speech.SpeechRecognizer.htm" />
+    <HelpKINode Title="constructor" Url="html/M-Suoranta.NaturalLanguage.Speech.SpeechRecognizer.-ctor.htm" />
+    <HelpKINode Title="fields" Url="html/Fields.T-Suoranta.NaturalLanguage.Speech.SpeechRecognizer.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Suoranta.NaturalLanguage.Speech.SpeechRecognizer.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-Suoranta.NaturalLanguage.Speech.SpeechRecognizer.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SpeechRecognizer.culture field" Url="html/F-Suoranta.NaturalLanguage.Speech.SpeechRecognizer.culture.htm" />
+  <HelpKINode Title="SpeechRecognizer.Listen method" Url="html/M-Suoranta.NaturalLanguage.Speech.SpeechRecognizer.Listen.htm" />
+  <HelpKINode Title="SpeechRecognizer.ProcessFile method" Url="html/Overload-Suoranta.NaturalLanguage.Speech.SpeechRecognizer.ProcessFile.htm" />
+  <HelpKINode Title="SpeechRecognizer.ProcessResult method" Url="html/M-Suoranta.NaturalLanguage.Speech.SpeechRecognizer.ProcessResult.htm" />
+  <HelpKINode Title="SpeechRecognizer.recognizedText field" Url="html/F-Suoranta.NaturalLanguage.Speech.SpeechRecognizer.recognizedText.htm" />
+  <HelpKINode Title="SpeechRecognizer.RecognizedText property" Url="html/P-Suoranta.NaturalLanguage.Speech.SpeechRecognizer.RecognizedText.htm" />
+  <HelpKINode Title="SpeechRecognizer.recognizer field" Url="html/F-Suoranta.NaturalLanguage.Speech.SpeechRecognizer.recognizer.htm" />
+  <HelpKINode Title="SpeechRecognizer.Recognizer_RecognizeCompleted method" Url="html/M-Suoranta.NaturalLanguage.Speech.SpeechRecognizer.Recognizer_RecognizeCompleted.htm" />
+  <HelpKINode Title="SpeechRecognizer.Recognizer_SpeechRecognized method" Url="html/M-Suoranta.NaturalLanguage.Speech.SpeechRecognizer.Recognizer_SpeechRecognized.htm" />
+  <HelpKINode Title="SpeechRecognizer.Reset method" Url="html/M-Suoranta.NaturalLanguage.Speech.SpeechRecognizer.Reset.htm" />
+  <HelpKINode Title="SpeechRecognizer.SpeechRecognizer constructor" Url="html/M-Suoranta.NaturalLanguage.Speech.SpeechRecognizer.-ctor.htm" />
+  <HelpKINode Title="SpeechRecognizer.StopListen method" Url="html/M-Suoranta.NaturalLanguage.Speech.SpeechRecognizer.StopListen.htm" />
+  <HelpKINode Title="SpelledLettersSpeechRecognizer class" Url="html/AllMembers.T-Suoranta.NaturalLanguage.Speech.SpelledLettersSpeechRecognizer.htm" />
+  <HelpKINode Title="SpelledLettersSpeechRecognizer class" Url="html/T-Suoranta.NaturalLanguage.Speech.SpelledLettersSpeechRecognizer.htm" />
+  <HelpKINode Title="SpelledLettersSpeechRecognizer class">
+    <HelpKINode Title="about SpelledLettersSpeechRecognizer class" Url="html/T-Suoranta.NaturalLanguage.Speech.SpelledLettersSpeechRecognizer.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Suoranta.NaturalLanguage.Speech.SpelledLettersSpeechRecognizer.htm" />
+    <HelpKINode Title="constructor" Url="html/M-Suoranta.NaturalLanguage.Speech.SpelledLettersSpeechRecognizer.-ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Suoranta.NaturalLanguage.Speech.SpelledLettersSpeechRecognizer.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-Suoranta.NaturalLanguage.Speech.SpelledLettersSpeechRecognizer.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SpelledLettersSpeechRecognizer.ProcessResult method" Url="html/M-Suoranta.NaturalLanguage.Speech.SpelledLettersSpeechRecognizer.ProcessResult.htm" />
+  <HelpKINode Title="SpelledLettersSpeechRecognizer.SpelledLettersSpeechRecognizer constructor" Url="html/M-Suoranta.NaturalLanguage.Speech.SpelledLettersSpeechRecognizer.-ctor.htm" />
+  <HelpKINode Title="StopListen method" Url="html/M-Suoranta.NaturalLanguage.Speech.AppCommandSpeechRecognizer.StopListen.htm" />
+  <HelpKINode Title="StopListen method" Url="html/M-Suoranta.NaturalLanguage.Speech.SpeechRecognizer.StopListen.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.Speech namespace" Url="html/N-Suoranta.NaturalLanguage.Speech.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.Speech.AppCommandSpeechRecognizer class" Url="html/AllMembers.T-Suoranta.NaturalLanguage.Speech.AppCommandSpeechRecognizer.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.Speech.AppCommandSpeechRecognizer class" Url="html/T-Suoranta.NaturalLanguage.Speech.AppCommandSpeechRecognizer.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.Speech.DictationSpeechRecognizer class" Url="html/AllMembers.T-Suoranta.NaturalLanguage.Speech.DictationSpeechRecognizer.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.Speech.DictationSpeechRecognizer class" Url="html/T-Suoranta.NaturalLanguage.Speech.DictationSpeechRecognizer.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.Speech.GrammarBuilders class" Url="html/AllMembers.T-Suoranta.NaturalLanguage.Speech.GrammarBuilders.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.Speech.GrammarBuilders class" Url="html/T-Suoranta.NaturalLanguage.Speech.GrammarBuilders.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.Speech.ISpeechContext interface" Url="html/AllMembers.T-Suoranta.NaturalLanguage.Speech.ISpeechContext.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.Speech.ISpeechContext interface" Url="html/T-Suoranta.NaturalLanguage.Speech.ISpeechContext.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.Speech.IWinFormsSpeechContext interface" Url="html/AllMembers.T-Suoranta.NaturalLanguage.Speech.IWinFormsSpeechContext.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.Speech.IWinFormsSpeechContext interface" Url="html/T-Suoranta.NaturalLanguage.Speech.IWinFormsSpeechContext.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.Speech.NumberInputGrammarBuilder class" Url="html/AllMembers.T-Suoranta.NaturalLanguage.Speech.NumberInputGrammarBuilder.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.Speech.NumberInputGrammarBuilder class" Url="html/T-Suoranta.NaturalLanguage.Speech.NumberInputGrammarBuilder.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.Speech.SpeechException class" Url="html/AllMembers.T-Suoranta.NaturalLanguage.Speech.SpeechException.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.Speech.SpeechException class" Url="html/T-Suoranta.NaturalLanguage.Speech.SpeechException.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.Speech.SpeechRecognizer class" Url="html/AllMembers.T-Suoranta.NaturalLanguage.Speech.SpeechRecognizer.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.Speech.SpeechRecognizer class" Url="html/T-Suoranta.NaturalLanguage.Speech.SpeechRecognizer.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.Speech.SpelledLettersSpeechRecognizer class" Url="html/AllMembers.T-Suoranta.NaturalLanguage.Speech.SpelledLettersSpeechRecognizer.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.Speech.SpelledLettersSpeechRecognizer class" Url="html/T-Suoranta.NaturalLanguage.Speech.SpelledLettersSpeechRecognizer.htm" />
+  <HelpKINode Title="ToDecimal method" Url="html/M-Suoranta.NaturalLanguage.Speech.NumberInputGrammarBuilder.ToDecimal.htm" />
+</HelpKI>

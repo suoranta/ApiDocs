@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="0177077a-6265-4f61-8eba-72f138a965f6" Title="Suoranta.NaturalLanguage.Speech Namespace" Url="html/N-Suoranta.NaturalLanguage.Speech.htm">
+    <HelpTOCNode Id="3e99c0e6-b6f4-480d-af0a-1166c8f6f9d0" Title="AppCommandSpeechRecognizer Class" Url="html/T-Suoranta.NaturalLanguage.Speech.AppCommandSpeechRecognizer.htm">
+      <HelpTOCNode Title="AppCommandSpeechRecognizer Members" Url="html/AllMembers.T-Suoranta.NaturalLanguage.Speech.AppCommandSpeechRecognizer.htm" />
+      <HelpTOCNode Title="AppCommandSpeechRecognizer Constructor " Url="html/M-Suoranta.NaturalLanguage.Speech.AppCommandSpeechRecognizer.-ctor.htm" />
+      <HelpTOCNode Id="84264f0f-0003-49c9-8daf-f78d09e89053" Title="AppCommandSpeechRecognizer Methods" Url="html/Methods.T-Suoranta.NaturalLanguage.Speech.AppCommandSpeechRecognizer.htm">
+        <HelpTOCNode Id="1a705d92-65a3-4d27-a580-b9cd435366ab" Title="CreateContext Method " Url="html/Overload-Suoranta.NaturalLanguage.Speech.AppCommandSpeechRecognizer.CreateContext.htm">
+          <HelpTOCNode Title="CreateContext Method (String)" Url="html/M-Suoranta.NaturalLanguage.Speech.AppCommandSpeechRecognizer.CreateContext.htm" />
+          <HelpTOCNode Title="CreateContext Method (ContainerControl)" Url="html/M-Suoranta.NaturalLanguage.Speech.AppCommandSpeechRecognizer.CreateContext_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="Listen Method " Url="html/M-Suoranta.NaturalLanguage.Speech.AppCommandSpeechRecognizer.Listen.htm" />
+        <HelpTOCNode Title="ProcessResult Method " Url="html/M-Suoranta.NaturalLanguage.Speech.AppCommandSpeechRecognizer.ProcessResult.htm" />
+        <HelpTOCNode Title="Simulate Method " Url="html/M-Suoranta.NaturalLanguage.Speech.AppCommandSpeechRecognizer.Simulate.htm" />
+        <HelpTOCNode Title="StopListen Method " Url="html/M-Suoranta.NaturalLanguage.Speech.AppCommandSpeechRecognizer.StopListen.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="feb86b19-e5f4-49e5-ae75-a9d63c1945a5" Title="AppCommandSpeechRecognizer Properties" Url="html/Properties.T-Suoranta.NaturalLanguage.Speech.AppCommandSpeechRecognizer.htm">
+        <HelpTOCNode Title="ActiveContextName Property " Url="html/P-Suoranta.NaturalLanguage.Speech.AppCommandSpeechRecognizer.ActiveContextName.htm" />
+        <HelpTOCNode Title="GlobalContext Property " Url="html/P-Suoranta.NaturalLanguage.Speech.AppCommandSpeechRecognizer.GlobalContext.htm" />
+        <HelpTOCNode Title="MinimumConfidence Property " Url="html/P-Suoranta.NaturalLanguage.Speech.AppCommandSpeechRecognizer.MinimumConfidence.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="21de5832-7137-4a0a-a7c3-18458c10fe3e" Title="DictationSpeechRecognizer Class" Url="html/T-Suoranta.NaturalLanguage.Speech.DictationSpeechRecognizer.htm">
+      <HelpTOCNode Title="DictationSpeechRecognizer Members" Url="html/AllMembers.T-Suoranta.NaturalLanguage.Speech.DictationSpeechRecognizer.htm" />
+      <HelpTOCNode Title="DictationSpeechRecognizer Constructor " Url="html/M-Suoranta.NaturalLanguage.Speech.DictationSpeechRecognizer.-ctor.htm" />
+      <HelpTOCNode Id="2d2b70b9-799b-49f1-8387-e703a12c3394" Title="DictationSpeechRecognizer Methods" Url="html/Methods.T-Suoranta.NaturalLanguage.Speech.DictationSpeechRecognizer.htm">
+        <HelpTOCNode Title="ProcessResult Method " Url="html/M-Suoranta.NaturalLanguage.Speech.DictationSpeechRecognizer.ProcessResult.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="DictationSpeechRecognizer Properties" Url="html/Properties.T-Suoranta.NaturalLanguage.Speech.DictationSpeechRecognizer.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="ced9fd83-8d5b-4d06-be8c-c68260c7ffcc" Title="GrammarBuilders Class" Url="html/T-Suoranta.NaturalLanguage.Speech.GrammarBuilders.htm">
+      <HelpTOCNode Title="GrammarBuilders Members" Url="html/AllMembers.T-Suoranta.NaturalLanguage.Speech.GrammarBuilders.htm" />
+      <HelpTOCNode Id="95325601-b30e-451f-bdaa-00c75ee2a334" Title="GrammarBuilders Fields" Url="html/Fields.T-Suoranta.NaturalLanguage.Speech.GrammarBuilders.htm">
+        <HelpTOCNode Title="EnglishNumericInput Field" Url="html/F-Suoranta.NaturalLanguage.Speech.GrammarBuilders.EnglishNumericInput.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="GrammarBuilders Methods" Url="html/Methods.T-Suoranta.NaturalLanguage.Speech.GrammarBuilders.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="4ff10c6e-a776-4db9-98cc-27a7944ad67d" Title="ISpeechContext Interface" Url="html/T-Suoranta.NaturalLanguage.Speech.ISpeechContext.htm">
+      <HelpTOCNode Title="ISpeechContext Members" Url="html/AllMembers.T-Suoranta.NaturalLanguage.Speech.ISpeechContext.htm" />
+      <HelpTOCNode Id="63a3b5a7-ee28-4260-ab34-48eb4b3367e8" Title="ISpeechContext Methods" Url="html/Methods.T-Suoranta.NaturalLanguage.Speech.ISpeechContext.htm">
+        <HelpTOCNode Title="Hook Method " Url="html/M-Suoranta.NaturalLanguage.Speech.ISpeechContext.Hook.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="dedc7eab-161b-4358-bcd4-474a9725a130" Title="ISpeechContext Properties" Url="html/Properties.T-Suoranta.NaturalLanguage.Speech.ISpeechContext.htm">
+        <HelpTOCNode Title="Enabled Property " Url="html/P-Suoranta.NaturalLanguage.Speech.ISpeechContext.Enabled.htm" />
+        <HelpTOCNode Title="Name Property " Url="html/P-Suoranta.NaturalLanguage.Speech.ISpeechContext.Name.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="d0865ced-6203-4603-802d-1c9d46857f47" Title="IWinFormsSpeechContext Interface" Url="html/T-Suoranta.NaturalLanguage.Speech.IWinFormsSpeechContext.htm">
+      <HelpTOCNode Title="IWinFormsSpeechContext Members" Url="html/AllMembers.T-Suoranta.NaturalLanguage.Speech.IWinFormsSpeechContext.htm" />
+      <HelpTOCNode Id="5aeb141e-2008-4e28-8286-354bb6964369" Title="IWinFormsSpeechContext Methods" Url="html/Methods.T-Suoranta.NaturalLanguage.Speech.IWinFormsSpeechContext.htm">
+        <HelpTOCNode Title="AutoHook Method " Url="html/M-Suoranta.NaturalLanguage.Speech.IWinFormsSpeechContext.AutoHook.htm" />
+        <HelpTOCNode Id="d9e0e8a5-cd34-430c-a900-c8fbb4391cad" Title="Hook Method " Url="html/Overload-Suoranta.NaturalLanguage.Speech.IWinFormsSpeechContext.Hook.htm">
+          <HelpTOCNode Title="Hook Method (Button, String)" Url="html/M-Suoranta.NaturalLanguage.Speech.IWinFormsSpeechContext.Hook.htm" />
+          <HelpTOCNode Title="Hook Method (ComboBox, String)" Url="html/M-Suoranta.NaturalLanguage.Speech.IWinFormsSpeechContext.Hook_1.htm" />
+          <HelpTOCNode Title="Hook Method (NumericUpDown, String)" Url="html/M-Suoranta.NaturalLanguage.Speech.IWinFormsSpeechContext.Hook_2.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="5640ba2d-76c0-4f67-8ac4-ec41834eebbd" Title="IWinFormsSpeechContext Properties" Url="html/Properties.T-Suoranta.NaturalLanguage.Speech.IWinFormsSpeechContext.htm">
+        <HelpTOCNode Title="Container Property " Url="html/P-Suoranta.NaturalLanguage.Speech.IWinFormsSpeechContext.Container.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="900347bd-f4ce-4c1d-b8f8-da8ec21071d6" Title="NumberInputGrammarBuilder Class" Url="html/T-Suoranta.NaturalLanguage.Speech.NumberInputGrammarBuilder.htm">
+      <HelpTOCNode Title="NumberInputGrammarBuilder Members" Url="html/AllMembers.T-Suoranta.NaturalLanguage.Speech.NumberInputGrammarBuilder.htm" />
+      <HelpTOCNode Title="NumberInputGrammarBuilder Constructor " Url="html/M-Suoranta.NaturalLanguage.Speech.NumberInputGrammarBuilder.-ctor.htm" />
+      <HelpTOCNode Id="0875b527-f605-4273-a0c7-bc619157b7bb" Title="NumberInputGrammarBuilder Methods" Url="html/Methods.T-Suoranta.NaturalLanguage.Speech.NumberInputGrammarBuilder.htm">
+        <HelpTOCNode Title="ToDecimal Method " Url="html/M-Suoranta.NaturalLanguage.Speech.NumberInputGrammarBuilder.ToDecimal.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="NumberInputGrammarBuilder Properties" Url="html/Properties.T-Suoranta.NaturalLanguage.Speech.NumberInputGrammarBuilder.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="6a94bfcd-8586-434d-a11e-c6023f62defe" Title="SpeechException Class" Url="html/T-Suoranta.NaturalLanguage.Speech.SpeechException.htm">
+      <HelpTOCNode Title="SpeechException Members" Url="html/AllMembers.T-Suoranta.NaturalLanguage.Speech.SpeechException.htm" />
+      <HelpTOCNode Title="SpeechException Methods" Url="html/Methods.T-Suoranta.NaturalLanguage.Speech.SpeechException.htm" />
+      <HelpTOCNode Title="SpeechException Properties" Url="html/Properties.T-Suoranta.NaturalLanguage.Speech.SpeechException.htm" />
+      <HelpTOCNode Title="SpeechException Events" Url="html/Events.T-Suoranta.NaturalLanguage.Speech.SpeechException.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="30de4bfa-bf0d-4c31-aa05-3da90c26b215" Title="SpeechRecognizer Class" Url="html/T-Suoranta.NaturalLanguage.Speech.SpeechRecognizer.htm">
+      <HelpTOCNode Title="SpeechRecognizer Members" Url="html/AllMembers.T-Suoranta.NaturalLanguage.Speech.SpeechRecognizer.htm" />
+      <HelpTOCNode Title="SpeechRecognizer Constructor " Url="html/M-Suoranta.NaturalLanguage.Speech.SpeechRecognizer.-ctor.htm" />
+      <HelpTOCNode Id="44f2fb30-ec2e-4579-8b3e-f5df7c9fa3ca" Title="SpeechRecognizer Fields" Url="html/Fields.T-Suoranta.NaturalLanguage.Speech.SpeechRecognizer.htm">
+        <HelpTOCNode Title="culture Field" Url="html/F-Suoranta.NaturalLanguage.Speech.SpeechRecognizer.culture.htm" />
+        <HelpTOCNode Title="recognizedText Field" Url="html/F-Suoranta.NaturalLanguage.Speech.SpeechRecognizer.recognizedText.htm" />
+        <HelpTOCNode Title="recognizer Field" Url="html/F-Suoranta.NaturalLanguage.Speech.SpeechRecognizer.recognizer.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="db670453-7ae9-43a7-9494-6cd0d25bdb3e" Title="SpeechRecognizer Methods" Url="html/Methods.T-Suoranta.NaturalLanguage.Speech.SpeechRecognizer.htm">
+        <HelpTOCNode Title="Listen Method " Url="html/M-Suoranta.NaturalLanguage.Speech.SpeechRecognizer.Listen.htm" />
+        <HelpTOCNode Id="6b19120d-15ea-4192-90ad-ceb3c9500e6a" Title="ProcessFile Method " Url="html/Overload-Suoranta.NaturalLanguage.Speech.SpeechRecognizer.ProcessFile.htm">
+          <HelpTOCNode Title="ProcessFile Method (String)" Url="html/M-Suoranta.NaturalLanguage.Speech.SpeechRecognizer.ProcessFile.htm" />
+          <HelpTOCNode Title="ProcessFile Method (Stream)" Url="html/M-Suoranta.NaturalLanguage.Speech.SpeechRecognizer.ProcessFile_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="ProcessResult Method " Url="html/M-Suoranta.NaturalLanguage.Speech.SpeechRecognizer.ProcessResult.htm" />
+        <HelpTOCNode Title="Recognizer_RecognizeCompleted Method " Url="html/M-Suoranta.NaturalLanguage.Speech.SpeechRecognizer.Recognizer_RecognizeCompleted.htm" />
+        <HelpTOCNode Title="Recognizer_SpeechRecognized Method " Url="html/M-Suoranta.NaturalLanguage.Speech.SpeechRecognizer.Recognizer_SpeechRecognized.htm" />
+        <HelpTOCNode Title="Reset Method " Url="html/M-Suoranta.NaturalLanguage.Speech.SpeechRecognizer.Reset.htm" />
+        <HelpTOCNode Title="StopListen Method " Url="html/M-Suoranta.NaturalLanguage.Speech.SpeechRecognizer.StopListen.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="da2761d5-f033-48ab-84a7-184535d5619f" Title="SpeechRecognizer Properties" Url="html/Properties.T-Suoranta.NaturalLanguage.Speech.SpeechRecognizer.htm">
+        <HelpTOCNode Title="RecognizedText Property " Url="html/P-Suoranta.NaturalLanguage.Speech.SpeechRecognizer.RecognizedText.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="576db643-a5f2-4685-a132-567713c708a7" Title="SpelledLettersSpeechRecognizer Class" Url="html/T-Suoranta.NaturalLanguage.Speech.SpelledLettersSpeechRecognizer.htm">
+      <HelpTOCNode Title="SpelledLettersSpeechRecognizer Members" Url="html/AllMembers.T-Suoranta.NaturalLanguage.Speech.SpelledLettersSpeechRecognizer.htm" />
+      <HelpTOCNode Title="SpelledLettersSpeechRecognizer Constructor " Url="html/M-Suoranta.NaturalLanguage.Speech.SpelledLettersSpeechRecognizer.-ctor.htm" />
+      <HelpTOCNode Id="6b8a544b-d977-4523-8988-5355d496ab31" Title="SpelledLettersSpeechRecognizer Methods" Url="html/Methods.T-Suoranta.NaturalLanguage.Speech.SpelledLettersSpeechRecognizer.htm">
+        <HelpTOCNode Title="ProcessResult Method " Url="html/M-Suoranta.NaturalLanguage.Speech.SpelledLettersSpeechRecognizer.ProcessResult.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="SpelledLettersSpeechRecognizer Properties" Url="html/Properties.T-Suoranta.NaturalLanguage.Speech.SpelledLettersSpeechRecognizer.htm" />
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>
