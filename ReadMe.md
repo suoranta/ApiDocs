@@ -1,2 +1,2 @@
 # Packages
-- [Suoranta.Speech](https://github.com/suoranta/ApiDocs/Suoranta.Speech)
+- [Suoranta.Speech](https://suoranta.github.io/ApiDocs/Suoranta.Speech)
