@@ -7,5 +7,5 @@ Here you can find documentation of public APIs for my packages and SDKs. Referen
 - [Suoranta.WebApp](/Suoranta.WebApp/): (coming soon)
 
 ## SDKs
--[Sharpshooter.SDK](/Sharpshooter.SDK/): (coming soon)
--[SharpTrader.SDK](/SharpTrader.SDK/): (coming soon)
+- [Sharpshooter.SDK](/Sharpshooter.SDK/): (coming soon)
+- [SharpTrader.SDK](/SharpTrader.SDK/): (coming soon)
