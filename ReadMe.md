@@ -8,5 +8,4 @@ Here you can find documentation of public APIs for my packages and SDKs. Referen
 - [Suoranta.WebApp](https://suoranta.github.io/ApiDocs/Suoranta.WebApp/): Upgraded Razor infrastructure, JavaScript support modules (not included in this documentation), KendoUI extensions
 
 ## SDKs
-- [Sharpshooter.SDK](https://suoranta.github.io/ApiDocs/Sharpshooter.SDK/): (coming soon)
-- [SharpTrader.SDK](https://suoranta.github.io/ApiDocs/SharpTrader.SDK/): (coming soon)
+- [Sharpshooter.SDK & SharpTrader.SDK](https://suoranta.github.io/ApiDocs/Sharpshooter.SDK/)
