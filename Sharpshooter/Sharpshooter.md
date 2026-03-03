@@ -76,18 +76,21 @@ All results shown are calculated non-leveraged with static allocation (100% of t
 
 ![Data management view](img/datamanagement.png)
 *Data management view*
+
 ![Data selection](img/dataselection.png)
 *Data selection*
+
 ![Results overview](img/resultsoverview.png)
 *Results overview*
+
 ![Example strategy EURUSD15m/I](img/examplestrategyEURUSD15m1.png)
 *Example strategy EURUSD15m/I*
 
 ## Examples with trade log
 All results shown are calculated non-leveraged with static allocation (100% of the initial equity). The spread cost is accounted for at the level typical for retail trading. Quotes used are bid quotes from [Dukascopy](https://www.dukascopy.com/swiss/english/marketwatch/historical/). Timestamps are UTC.
+
 ![USDJPY15m/I](img/examplestrategyUSDJPY15m1.png)
-*USDJPY15m/I*
-USDJPY15m/I trade log: [Strategy1Trades.csv](logs/Strategy1Trades.csv)
+*USDJPY15m/I, trade log: [Strategy1Trades.csv](logs/Strategy1Trades.csv)*
 
 ## Video example
 At [YouTube](https://www.youtube.com/watch?v=IA46KOJuJ_g).
