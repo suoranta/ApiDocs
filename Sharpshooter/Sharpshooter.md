@@ -4,6 +4,7 @@ This article provides supplementary information on my two trading-related person
 Changes to this document since its release:
 - 9th Nov 2025: Updated the lists of features to reflect recent improvements. Note: screenshots have not been updated to reflect recent changes.
 - 2nd Jan 2026: Demonstration video.
+- 3rd Mar 2026: Github.io version.
 
 ## Ease of use
 - Highly responsive and streamlined Windows UX.
@@ -70,17 +71,17 @@ SharpTrader is the automatic strategy execution agent for Sharpshooter.
 - Synchronization guard: checks accuracy of system time by using Network Time Protocol before starting.
 - Minimalist user interface as account and transactions can be monitored from IBkr Trader Workstation (TWS) software.
 
-# Screenshots
-All results shown are calculated non-leveraged with static allocation (100% of the initial equity). The spread cost is accounted for at the level typical for retail trading. Quotes used are bid quotes from (Dukascopy)[https://www.dukascopy.com/swiss/english/marketwatch/historical/]. Timestamps are UTC.
+## Screenshots
+All results shown are calculated non-leveraged with static allocation (100% of the initial equity). The spread cost is accounted for at the level typical for retail trading. Quotes used are bid quotes from [Dukascopy](https://www.dukascopy.com/swiss/english/marketwatch/historical/). Timestamps are UTC.
 ![Data management view](img/datamanagement.png)
 ![Data selection](img/dataselection.png)
 ![Results overview](img/resultsoverview.png)
 ![Example strategy EURUSD15m/I](img/examplestrategyEURUSD15m1.png)
 
-# Examples with trade log
-All results shown are calculated non-leveraged with static allocation (100% of the initial equity). The spread cost is accounted for at the level typical for retail trading. Quotes used are bid quotes from (Dukascopy)[https://www.dukascopy.com/swiss/english/marketwatch/historical/]. Timestamps are UTC.
+## Examples with trade log
+All results shown are calculated non-leveraged with static allocation (100% of the initial equity). The spread cost is accounted for at the level typical for retail trading. Quotes used are bid quotes from [Dukascopy](https://www.dukascopy.com/swiss/english/marketwatch/historical/). Timestamps are UTC.
 ![USDJPY15m/I](img/examplestrategyUSDJPY15m1.png)
 USDJPY15m/I trade log: [Strategy1Trades.csv](logs/Strategy1Trades.csv)
 
-# Video example
+## Video example
 At [YouTube](https://www.youtube.com/watch?v=IA46KOJuJ_g).
