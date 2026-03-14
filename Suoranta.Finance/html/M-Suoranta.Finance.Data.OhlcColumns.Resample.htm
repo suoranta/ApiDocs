@@ -11,10 +11,10 @@
     <meta name="file" content="M-Suoranta.Finance.Data.OhlcColumns.Resample" xmlns:MSHelp="http://msdn.microsoft.com/mshelp" xmlns:mshelp="http://msdn.microsoft.com/mshelp" xmlns:ddue="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:msxsl="urn:schemas-microsoft-com:xslt" />
     <meta name="guid" content="M-Suoranta.Finance.Data.OhlcColumns.Resample" xmlns:MSHelp="http://msdn.microsoft.com/mshelp" xmlns:mshelp="http://msdn.microsoft.com/mshelp" xmlns:ddue="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:msxsl="urn:schemas-microsoft-com:xslt" />
     <xml xmlns:MSHelp="http://msdn.microsoft.com/mshelp" xmlns:mshelp="http://msdn.microsoft.com/mshelp" xmlns:ddue="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-      <MSHelp:Attr Name="AssetID" Value="M:Suoranta.Finance.Data.OhlcColumns.Resample(TimeSpan,ITradingSchedule)" />
+      <MSHelp:Attr Name="AssetID" Value="M:Suoranta.Finance.Data.OhlcColumns.Resample(ITimeScale,ITradingSchedule)" />
       <MSHelp:TOCTitle Title="Resample Method " />
       <MSHelp:RLTitle Title="OhlcColumns.Resample Method  (Suoranta.Finance.Data)" />
-      <MSHelp:Keyword Index="A" Term="M:Suoranta.Finance.Data.OhlcColumns.Resample(TimeSpan,ITradingSchedule)" />
+      <MSHelp:Keyword Index="A" Term="M:Suoranta.Finance.Data.OhlcColumns.Resample(ITimeScale,ITradingSchedule)" />
       <MSHelp:Keyword Index="A" Term="frlrfSuorantaFinanceDataOhlcColumnsClassResampleTopic" />
       <MSHelp:Keyword Index="K" Term="Resample method" />
       <MSHelp:Keyword Index="K" Term="OhlcColumns.Resample method" />
@@ -27,7 +27,7 @@
       <MSHelp:Attr Name="Locale" Value="en-us" />
       <MSHelp:Attr Name="TopicType" Value="kbSyntax" />
       <MSHelp:Attr Name="TopicType" Value="apiref" />
-      <MSHelp:Attr Name="Abstract" Value="Transform the series to the bar width and ." />
+      <MSHelp:Attr Name="Abstract" Value="Creates a new instance with applied to ." />
       <MSHelp:Attr Name="AssemblyVersion" Value="" />
     </xml>
   <link rel="stylesheet" href="../TOC.css"><script type="text/javascript" src="../TOC.js"></script></head>
@@ -107,6 +107,9 @@
 </div>
 </div>
 <div class="TreeItem">
+<img src="../Item.gif"/><a class="UnselectedNode" onclick="javascript: return SelectNode(this);" href="T-Suoranta.Finance.ContractType.htm" target="_self">ContractType Enumeration</a>
+</div>
+<div class="TreeItem">
 <img src="../Item.gif"/><a class="UnselectedNode" onclick="javascript: return SelectNode(this);" href="T-Suoranta.Finance.Country.htm" target="_self">Country Enumeration</a>
 </div>
 <div class="TreeItem">
@@ -119,6 +122,11 @@
 </div>
 <div class="TreeNode">
 <img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.Finance.Extensions.htm" target="_self">Extensions Class</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.Finance.FinanceDataException.htm" target="_self">FinanceDataException Class</a>
 <div class="Hidden">
 </div>
 </div>
@@ -212,9 +220,6 @@
 <div class="Hidden">
 </div>
 </div>
-<div class="TreeItem">
-<img src="../Item.gif"/><a class="UnselectedNode" onclick="javascript: return SelectNode(this);" href="T-Suoranta.Finance.InstrumentClass.htm" target="_self">InstrumentClass Enumeration</a>
-</div>
 <div class="TreeNode">
 <img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.Finance.InterestRate.htm" target="_self">InterestRate Class</a>
 <div class="Hidden">
@@ -267,6 +272,11 @@
 </div>
 <div class="TreeNode">
 <img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.Finance.Iso3166Attribute.htm" target="_self">Iso3166Attribute Class</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.Finance.ITimeScale.htm" target="_self">ITimeScale Interface</a>
 <div class="Hidden">
 </div>
 </div>
@@ -324,6 +334,11 @@
 <div class="TreeItem">
 <img src="../Item.gif"/><a class="UnselectedNode" onclick="javascript: return SelectNode(this);" href="T-Suoranta.Finance.Region.htm" target="_self">Region Enumeration</a>
 </div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.Finance.Regions.htm" target="_self">Regions Class</a>
+<div class="Hidden">
+</div>
+</div>
 <div class="TreeItem">
 <img src="../Item.gif"/><a class="UnselectedNode" onclick="javascript: return SelectNode(this);" href="T-Suoranta.Finance.ResamplingMethod.htm" target="_self">ResamplingMethod Enumeration</a>
 </div>
@@ -373,6 +388,32 @@
 </div>
 <div class="TreeItem">
 <img src="../Item.gif"/><a class="UnselectedNode" onclick="javascript: return SelectNode(this);" href="T-Suoranta.Finance.VolatilityScaling.htm" target="_self">VolatilityScaling Enumeration</a>
+</div>
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="N-Suoranta.Finance.Commodities.Energy.htm" target="_self">Suoranta.Finance.Commodities.Energy Namespace</a>
+<div class="Hidden">
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.Finance.Commodities.Energy.CrudeBlend.htm" target="_self">CrudeBlend Class</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.Finance.Commodities.Energy.PipelineGas.htm" target="_self">PipelineGas Structure</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.Finance.Commodities.Energy.UnitExtensions.htm" target="_self">UnitExtensions Class</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeItem">
+<img src="../Item.gif"/><a class="UnselectedNode" onclick="javascript: return SelectNode(this);" href="T-Suoranta.Finance.Commodities.Energy.UnitOfEnergy.htm" target="_self">UnitOfEnergy Enumeration</a>
+</div>
+<div class="TreeItem">
+<img src="../Item.gif"/><a class="UnselectedNode" onclick="javascript: return SelectNode(this);" href="T-Suoranta.Finance.Commodities.Energy.UnitOfVolume.htm" target="_self">UnitOfVolume Enumeration</a>
 </div>
 </div>
 </div>
@@ -505,13 +546,21 @@
 <img src="../Item.gif"/><a class="UnselectedNode" onclick="javascript: return SelectNode(this);" href="M-Suoranta.Finance.Data.OhlcColumns.AddVolatility.htm" target="_self">AddVolatility Method </a>
 </div>
 <div class="TreeItem">
+<img src="../Item.gif"/><a class="UnselectedNode" onclick="javascript: return SelectNode(this);" href="M-Suoranta.Finance.Data.OhlcColumns.GetColumn.htm" target="_self">GetColumn Method </a>
+</div>
+<div class="TreeItem">
+<img src="../Item.gif"/><a class="UnselectedNode" onclick="javascript: return SelectNode(this);" href="M-Suoranta.Finance.Data.OhlcColumns.GetColumns.htm" target="_self">GetColumns Method </a>
+</div>
+<div class="TreeItem">
 <img src="../Item.gif"/><a class="UnselectedNode" onclick="javascript: return SelectNode(this);" href="M-Suoranta.Finance.Data.OhlcColumns.GetEnumeratorInternal.htm" target="_self">GetEnumeratorInternal Method </a>
 </div>
 <div class="TreeItem">
 <img src="../Item.gif"/><a class="UnselectedNode" onclick="javascript: return SelectNode(this);" href="M-Suoranta.Finance.Data.OhlcColumns.Invert.htm" target="_self">Invert Method </a>
 </div>
-<div class="TreeItem">
-<img src="../Item.gif"/><a class="UnselectedNode" onclick="javascript: return SelectNode(this);" href="M-Suoranta.Finance.Data.OhlcColumns.Merge.htm" target="_self">Merge Method </a>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="Overload-Suoranta.Finance.Data.OhlcColumns.Merge.htm" target="_self">Merge Method </a>
+<div class="Hidden">
+</div>
 </div>
 <div class="TreeNode">
 <img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="Overload-Suoranta.Finance.Data.OhlcColumns.Resample.htm" target="_self">Resample Method </a>
@@ -522,16 +571,10 @@
 </div>
 </div>
 <div class="TreeItem">
-<img src="../Item.gif"/><a class="UnselectedNode" onclick="javascript: return SelectNode(this);" href="M-Suoranta.Finance.Data.OhlcColumns.ToMatrix.htm" target="_self">ToMatrix Method </a>
-</div>
-<div class="TreeItem">
 <img src="../Item.gif"/><a class="UnselectedNode" onclick="javascript: return SelectNode(this);" href="M-Suoranta.Finance.Data.OhlcColumns.ToOhlcBarSeries.htm" target="_self">ToOhlcBarSeries Method </a>
 </div>
 <div class="TreeItem">
 <img src="../Item.gif"/><a class="UnselectedNode" onclick="javascript: return SelectNode(this);" href="M-Suoranta.Finance.Data.OhlcColumns.ToPlot.htm" target="_self">ToPlot Method </a>
-</div>
-<div class="TreeItem">
-<img src="../Item.gif"/><a class="UnselectedNode" onclick="javascript: return SelectNode(this);" href="M-Suoranta.Finance.Data.OhlcColumns.ToRowMatrix.htm" target="_self">ToRowMatrix Method </a>
 </div>
 </div>
 </div>
@@ -552,6 +595,11 @@
 </div>
 <div class="TreeNode">
 <img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.Finance.Data.OhlcSeriesCollection.htm" target="_self">OhlcSeriesCollection Class</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.Finance.Data.OhlcSeriesExtensions.htm" target="_self">OhlcSeriesExtensions Class</a>
 <div class="Hidden">
 </div>
 </div>
@@ -708,16 +756,6 @@
 <div class="TreeNode">
 <img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="N-Suoranta.Finance.Plotting.htm" target="_self">Suoranta.Finance.Plotting Namespace</a>
 <div class="Hidden">
-<div class="TreeNode">
-<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.Finance.Plotting.DatePercentageSeries.htm" target="_self">DatePercentageSeries Class</a>
-<div class="Hidden">
-</div>
-</div>
-<div class="TreeNode">
-<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.Finance.Plotting.DateValueSeries.htm" target="_self">DateValueSeries Class</a>
-<div class="Hidden">
-</div>
-</div>
 <div class="TreeNode">
 <img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.Finance.Plotting.EventMarkers.htm" target="_self">EventMarkers Class</a>
 <div class="Hidden">
@@ -876,28 +914,28 @@
             <div id="mainSection">
               <div id="mainBody">
                 <div class="summary">
-Transform the series to the bar width and
-<a href="T-Suoranta.Finance.ITradingSchedule.htm">ITradingSchedule</a>.
+Creates a new instance with <a href="M-Suoranta.Finance.ITimestamps.Resample.htm">Resample(ITimeScale)</a> 
+applied to <a href="P-Suoranta.Finance.Data.OhlcColumns.Timestamps.htm">Timestamps</a>.
 </div>
                 <p />
     <b>Namespace:</b> 
    <a href="N-Suoranta.Finance.Data.htm">Suoranta.Finance.Data</a><br />
     <b>Assembly:</b>
    <span sdata="assembly">Suoranta.Finance</span> (in Suoranta.Finance.dll)<div class="LW_CollapsibleArea_Container"><div class="LW_CollapsibleArea_TitleDiv"><h2 class="LW_CollapsibleArea_Title">Syntax</h2><div class="LW_CollapsibleArea_HrDiv"><hr class="LW_CollapsibleArea_Hr" /></div></div><a id="syntaxSection"><!----></a><div class="CodeSnippetContainer"><div class="CodeSnippetContainerTabs"><div class="CodeSnippetContainerTabLeft"><!----></div><div class="CodeSnippetContainerTabFirst CSharpTab" id="CSharpTabId" style="background:white;border-bottom-color:white"><a href="javascript:setActiveTab('CodeSnippetContainerCode','CSharpCode','CSharpTabId');" title="C#">C#</a></div><div class="CodeSnippetContainerTabRight"><!----></div></div><div class="CodeSnippetContainerCodeCollection"><div class="CodeSnippetToolBar"><div class="CodeSnippetToolBarText" /></div><div class="CodeSnippetContainerCode CSharpCode"><pre xml:space="preserve" class="libCScode"><span class="keyword">public</span> <a href="T-Suoranta.Finance.Data.OhlcSeries.htm">OhlcSeries</a> <span class="identifier">Resample</span>(
-	<a href="https://docs.microsoft.com/en-us/dotnet/api/system.timespan" target="_blank">TimeSpan</a> <span class="parameter">newBarWidth</span>,
+	<a href="T-Suoranta.Finance.ITimeScale.htm">ITimeScale</a> <span class="parameter">newBarWidth</span>,
 	<a href="T-Suoranta.Finance.ITradingSchedule.htm">ITradingSchedule</a> <span class="parameter">schedule</span>
-)</pre></div></div></div><div id="parameters"><h4 class="subHeading">Parameters</h4><dl paramName="newBarWidth"><dt><span class="parameterItalic">newBarWidth</span></dt><dd>Type: <a href="https://docs.microsoft.com/en-us/dotnet/api/system.timespan" target="_blank">TimeSpan</a><br />the bar width</dd></dl><dl paramName="schedule"><dt><span class="parameterItalic">schedule</span></dt><dd>Type: <a href="T-Suoranta.Finance.ITradingSchedule.htm">Suoranta.Finance<span class="languageSpecificText"><span class="cs">.</span><span class="vb">.</span><span class="cpp">::</span><span class="nu">.</span><span class="fs">.</span></span>ITradingSchedule</a><br /><a href="T-Suoranta.Finance.ITradingSchedule.htm">ITradingSchedule</a></dd></dl></div><h4 class="subHeading">Return Value</h4></div><div class="LW_CollapsibleArea_Container"><div class="LW_CollapsibleArea_TitleDiv"><h2 class="LW_CollapsibleArea_Title">See Also</h2><div class="LW_CollapsibleArea_HrDiv"><hr class="LW_CollapsibleArea_Hr" /></div></div><a id="seeAlsoSection"><!----></a><div class="seeAlsoStyle"><a href="T-Suoranta.Finance.Data.OhlcColumns.htm">OhlcColumns Class</a></div><div class="seeAlsoStyle"><a href="N-Suoranta.Finance.Data.htm">Suoranta.Finance.Data Namespace</a></div></div></div>
+)</pre></div></div></div><div id="parameters"><h4 class="subHeading">Parameters</h4><dl paramName="newBarWidth"><dt><span class="parameterItalic">newBarWidth</span></dt><dd>Type: <a href="T-Suoranta.Finance.ITimeScale.htm">Suoranta.Finance<span class="languageSpecificText"><span class="cs">.</span><span class="vb">.</span><span class="cpp">::</span><span class="nu">.</span><span class="fs">.</span></span>ITimeScale</a><br /></dd></dl><dl paramName="schedule"><dt><span class="parameterItalic">schedule</span></dt><dd>Type: <a href="T-Suoranta.Finance.ITradingSchedule.htm">Suoranta.Finance<span class="languageSpecificText"><span class="cs">.</span><span class="vb">.</span><span class="cpp">::</span><span class="nu">.</span><span class="fs">.</span></span>ITradingSchedule</a><br />see <a href="T-Suoranta.Finance.ITradingSchedule.htm">ITradingSchedule</a></dd></dl></div><h4 class="subHeading">Return Value</h4>the new instance of <a href="T-Suoranta.Finance.Data.OhlcSeries.htm">OhlcSeries</a></div><div class="LW_CollapsibleArea_Container"><div class="LW_CollapsibleArea_TitleDiv"><h2 class="LW_CollapsibleArea_Title">See Also</h2><div class="LW_CollapsibleArea_HrDiv"><hr class="LW_CollapsibleArea_Hr" /></div></div><a id="seeAlsoSection"><!----></a><div class="seeAlsoStyle"><a href="T-Suoranta.Finance.Data.OhlcColumns.htm">OhlcColumns Class</a></div><div class="seeAlsoStyle"><a href="N-Suoranta.Finance.Data.htm">Suoranta.Finance.Data Namespace</a></div></div></div>
             </div>
           </div>
         </div>
       </div>
       <div class="footer">
-        <div id="footer" class="footerContainer">
+        <div id="footer" class="footerContainer" style="border-top-width:0px;">
           <div class="footerLogoContainer">
             <div style="margin-top:5px">
-              <span class="customCopyrightFooter" />
+              <span class="customCopyrightFooter">v. 1.2.803.509</span>
             </div>
-            <div style="margin-top:5px" class="copyrightFooter">Help File generated with GhostDoc</div>
+            <div style="margin-top:5px" class="copyrightFooter" />
             <div> </div>
           </div>
         </div>

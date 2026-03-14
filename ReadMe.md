@@ -1,5 +1,7 @@
 Here you can find documentation of public APIs for my packages and SDKs. Reference assemblies will published in due course.
 
+Note: Most presentation-related attributes and enums are part of the 'Unified Presentation Model' and defined in Suoranta.BaseLib. The model is to ensure easy portability of custom business objects between platforms (Desktop and Web).
+
 ## Packages
 - [Suoranta.EnterpriseLib](https://suoranta.github.io/ApiDocs/Suoranta.EnterpriseLib/): Applications hosts for ASP.NET MVC and CLI applications, LINQ query objects, WebAPI controllers, Entity-DTO-Entity mapping, mock data generation, other functionalities related to Entity Framework and ASP.NET MVC enterprise applications. (Note: Covers three packages.)
 - [Suoranta.Finance](https://suoranta.github.io/ApiDocs/Suoranta.Finance/): Types related to financial markets, particularly different kinds of time series. 
@@ -8,6 +10,6 @@ Here you can find documentation of public APIs for my packages and SDKs. Referen
 - [Suoranta.WebApp](https://suoranta.github.io/ApiDocs/Suoranta.WebApp/): Upgraded Razor infrastructure, JavaScript support modules (not included in this documentation), KendoUI extensions.
 
 ## SDKs
-- [Sharpshooter.SDK & SharpTrader.SDK](https://suoranta.github.io/ApiDocs/Sharpshooter.SDK/): Extensibility features for [Sharpshooter & SharpTrader](Sharpshooter/Sharpshooter.html)
+- [Sharpshooter.SDK & SharpTrader.SDK](https://suoranta.github.io/ApiDocs/Sharpshooter.SDK/): Provide extensibility features of [Sharpshooter & SharpTrader](Sharpshooter/Sharpshooter.html).
 
 _Last updated: March 3rd, 2026_
