@@ -5,6 +5,10 @@ Changes to this document since its release:
 - 9th Nov 2025: Updated the lists of features to reflect recent improvements. Note: screenshots have not been updated to reflect recent changes.
 - 2nd Jan 2026: Demonstration video.
 - 3rd Mar 2026: Github.io version.
+- 30th Mar 2026: The note on MetaTrader strategy called 'Sharpshooter'. 
+
+### Note
+Sharpshooter & SharpTrader have no relation to MetaTrader strategy that is also called 'Sharpshooter'.  I don't know who came up with the name first but don't believe that there is great risk of confusion.
 
 ## Ease of use
 - Highly responsive and streamlined Windows UX.
