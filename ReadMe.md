@@ -1,9 +1,9 @@
-Here you can find documentation of public APIs for my packages and SDKs. Reference assemblies will published in due course.
+Here you can find documentation of public APIs for [my](https://www.linkedin.com/in/laurisuoranta/) packages and SDKs. Reference assemblies will published in due course.
 
 Note: Most presentation-related attributes and enums are part of the 'Unified Presentation Model' and defined in Suoranta.BaseLib. The model is to ensure easy portability of custom business objects between platforms (Desktop and Web).
 
 ## Packages
-- [Suoranta.EnterpriseLib](https://suoranta.github.io/ApiDocs/Suoranta.EnterpriseLib/): Applications hosts for ASP.NET MVC and CLI applications, LINQ query objects, WebAPI controllers, Entity-DTO-Entity mapping, mock data generation, other functionalities related to Entity Framework and ASP.NET MVC enterprise applications. (Note: Covers three packages.)
+- [Suoranta.EnterpriseLib](https://suoranta.github.io/ApiDocs/Suoranta.EnterpriseLib/): Applications hosts for ASP.NET MVC and CLI applications, DTO-To-LINQ (LINQ query objects), WebAPI controllers, Entity-DTO-Entity mapping, mock data generation, other functionalities related to Entity Framework and ASP.NET MVC enterprise applications. (Note: Covers three packages.) [Examples](EnterpriseApps/Examples.html)
 - [Suoranta.Finance](https://suoranta.github.io/ApiDocs/Suoranta.Finance/): Types related to financial markets, particularly different kinds of time series. 
 - [Suoranta.NaturalLanguage](https://suoranta.github.io/ApiDocs/Suoranta.NaturalLanguage/): Advanced text pattern searching in documents and images, transliteration, other functionalities related to natural language processing.
 - [Suoranta.Speech](https://suoranta.github.io/ApiDocs/Suoranta.Speech/): Voice commands for WinForms and other .NET apps.
@@ -12,4 +12,5 @@ Note: Most presentation-related attributes and enums are part of the 'Unified Pr
 ## SDKs
 - [Sharpshooter.SDK & SharpTrader.SDK](https://suoranta.github.io/ApiDocs/Sharpshooter.SDK/): Provide extensibility features of [Sharpshooter & SharpTrader](Sharpshooter/Sharpshooter.html).
 
+_Inquiries: packages at suoranta dot net_
 _Last updated: March 3rd, 2026_
