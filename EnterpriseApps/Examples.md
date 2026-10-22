@@ -30,8 +30,7 @@ public class PersonDTO : DTO<PersonDTO>, IDataTransferObject
 }
 ```
 
-Updating database entities requires DTO to be fully "reattached" to the original entity graph. To achieve this, create `EntityResolver` for each entity type that has updateable navigation properties. Single derived class can implement all
-the needed `IValueResolver`s.
+Updating database entities requires DTO to be fully "reattached" to the original entity graph. Manual configuration of AutoMapper for this purpose is often extremely painful and time-consuming. Instead, create `EntityResolver` for each entity type that has updateable navigation properties. Single derived class can implement all the needed `IValueResolver`s for the particular entity class.
 ```csharp
 public class PersonResolver : EntityResolver<PersonDTO, Person>, IValueResolver<PersonDTO, Person, Address>
 {
@@ -42,6 +41,7 @@ public class PersonResolver : EntityResolver<PersonDTO, Person>, IValueResolver<
         => Resolve<Address>(source, destination, destMember, context);
 }
 ```
+Sidenote: At least from Entity Framework perspective, AutoMapper goes to excess in that `IValueResolver` has three (independent) type parameters. The task of reattaching any DTO to an entity, primary or nested, should depend only on the type of that specific entity. In the example above, this means that `source` and `destination` parameters of `Resolve` method are generally redundant. Future versions of EnterpriseLib will likely provide a resolver base class in tune with this consideration.
 
 The AutoMapper `Profile` for the preceding types is as follows:
 ```csharp
@@ -136,3 +136,42 @@ The filter is included in a DTO as follows:
 public CountryFilter Country { get; }
 ```
 In the example above, the target property is a navigation property of Address entity.
+
+## Data Mocking/Sanitization (Suoranta.EnterpriseLib.Util.MockData)
+Developing and testing enterprise applications often requires fair sample of data that the application is used to process. Actual real world data can be used and is usually best where it does not contain personal information of customers or other sensitivies. EnterpriseLib has an extendable framework to generate randomized mock data of desired kind. Such data can be used in itself, or EnterpriseLib can sanitize the sensitive fields in an existing data set.
+
+To replace sensitive fields in existing data, start by decorating the properties with `Replace` attribute:
+```csharp
+public class Person
+{
+    // ...
+    [Replace(typeof(HetuGenerator))] public string PersonId { get; set; }
+    //...
+}
+```
+Above, `Person` represents an actual entity class within the application being tested. `HetuGenerator` is a built-in class that implements EnterpriseLib's `IPersonIdGenerator` interface for _henkilötunnus_, the Finnish national id. To sanitize entities, use the class `PropertyReplacer`:
+```csharp
+PropertyReplacer<Person> replacer = new PropertyReplacer<Person>();
+
+foreach (Person p in dataToSanitize)
+{
+    replacer.Process(p);
+}
+```
+
+For person data, there is also an built-in option that does not use the `Replace` attribute:
+```csharp
+var replacer = new PersonGenerator(nameof(Person.FirstName), 
+                                   nameof(Person.LastName), 
+                                   nameof(Person.DateOfBirth),
+                                   nameof(Person.PersonId));
+foreach (Person p in dataToSanitize)
+{
+    Sex sex = Sex.Either; // extract the actual sex of Person p, or randomize using Sex.Either
+    replacer.FillWithRandom(p, sex);
+}
+```
+The advantage of this method is that person ID often encodes the date of birth and sex, and the first name and sex are interlinked.
+
+### Localization of Generated Data
+Randomization of text items such as first and last names is localized. The lists from which random values are picked can be set to match the desired culture (language). For example, if the application is being developed for use in Germany, the randomized names are generated from lists of German first and last names.
