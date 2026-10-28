@@ -3,7 +3,7 @@
   <head><link rel="shortcut icon" href="../favicon.ico" />
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <meta name="save" content="history" />
-    <title>CrudController(TDbContext, TRowEntity, TRowDTO) Methods</title>
+    <title>CrudController(TParentEntity, TRowEntity, TRowDTO) Methods</title>
     <link rel="stylesheet" type="text/css" href="../styles/lightweight.css" xmlns:MSHelp="http://msdn.microsoft.com/mshelp" xmlns:mshelp="http://msdn.microsoft.com/mshelp" xmlns:ddue="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:msxsl="urn:schemas-microsoft-com:xslt" />
     <link rel="stylesheet" type="text/css" href="../styles/lw-code.css" xmlns:MSHelp="http://msdn.microsoft.com/mshelp" xmlns:mshelp="http://msdn.microsoft.com/mshelp" xmlns:ddue="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:msxsl="urn:schemas-microsoft-com:xslt" />
     <script type="text/javascript" xmlns:MSHelp="http://msdn.microsoft.com/mshelp" xmlns:mshelp="http://msdn.microsoft.com/mshelp" xmlns:ddue="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:msxsl="urn:schemas-microsoft-com:xslt" src="../scripts/languageSelector.js"> </script>
@@ -12,12 +12,12 @@
     <meta name="guid" content="Methods.T-Suoranta.EnterpriseLib.Web.MVC.CrudController-3" xmlns:MSHelp="http://msdn.microsoft.com/mshelp" xmlns:mshelp="http://msdn.microsoft.com/mshelp" xmlns:ddue="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:msxsl="urn:schemas-microsoft-com:xslt" />
     <xml xmlns:MSHelp="http://msdn.microsoft.com/mshelp" xmlns:mshelp="http://msdn.microsoft.com/mshelp" xmlns:ddue="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
       <MSHelp:Attr Name="AssetID" Value="Methods.T:Suoranta.EnterpriseLib.Web.MVC.CrudController`3" />
-      <MSHelp:TOCTitle Title="CrudController(TDbContext, TRowEntity, TRowDTO) Methods" />
-      <MSHelp:RLTitle Title="CrudController(TDbContext, TRowEntity, TRowDTO) Methods (Suoranta.EnterpriseLib.Web.MVC)" />
+      <MSHelp:TOCTitle Title="CrudController(TParentEntity, TRowEntity, TRowDTO) Methods" />
+      <MSHelp:RLTitle Title="CrudController(TParentEntity, TRowEntity, TRowDTO) Methods (Suoranta.EnterpriseLib.Web.MVC)" />
       <MSHelp:Keyword Index="A" Term="Methods.T:Suoranta.EnterpriseLib.Web.MVC.CrudController`3" />
       <MSHelp:Keyword Index="A" Term="frlrfSuorantaEnterpriseLibWebMVCCrudController3MethodsTopic" />
-      <MSHelp:Keyword Index="K" Term="CrudController%3CTDbContext%2C TRowEntity%2C TRowDTO%3E class, methods" />
-      <MSHelp:Keyword Index="K" Term="CrudController(Of TDbContext%2C TRowEntity%2C TRowDTO) class, methods" />
+      <MSHelp:Keyword Index="K" Term="CrudController%3CTParentEntity%2C TRowEntity%2C TRowDTO%3E class, methods" />
+      <MSHelp:Keyword Index="K" Term="CrudController(Of TParentEntity%2C TRowEntity%2C TRowDTO) class, methods" />
       <MSHelp:Attr Name="DevLang" Value="CSharp" />
       <MSHelp:Attr Name="DevLang" Value="VB" />
       <MSHelp:Attr Name="Locale" Value="en-us" />
@@ -96,7 +96,7 @@
 </div>
 </div>
 <div class="TreeNode">
-<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.IChildDTO.htm" target="_self">IChildDTO Interface</a>
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.IChildObject.htm" target="_self">IChildObject Interface</a>
 <div class="Hidden">
 </div>
 </div>
@@ -111,6 +111,22 @@
 </div>
 </div>
 <div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.IEntityResolver.htm" target="_self">IEntityResolver Interface</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.ILogService.htm" target="_self">ILogService Interface</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeItem">
+<img src="../Item.gif"/><a class="UnselectedNode" onclick="javascript: return SelectNode(this);" href="T-Suoranta.EnterpriseLib.IMockableService.htm" target="_self">IMockableService Interface</a>
+</div>
+<div class="TreeItem">
+<img src="../Item.gif"/><a class="UnselectedNode" onclick="javascript: return SelectNode(this);" href="T-Suoranta.EnterpriseLib.IMockService.htm" target="_self">IMockService Interface</a>
+</div>
+<div class="TreeNode">
 <img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.IParentEntity.htm" target="_self">IParentEntity Interface</a>
 <div class="Hidden">
 </div>
@@ -120,35 +136,29 @@
 <div class="Hidden">
 </div>
 </div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.ServiceConfigurationAttribute.htm" target="_self">ServiceConfigurationAttribute Class</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeItem">
+<img src="../Item.gif"/><a class="UnselectedNode" onclick="javascript: return SelectNode(this);" href="T-Suoranta.EnterpriseLib.ServiceScope.htm" target="_self">ServiceScope Enumeration</a>
+</div>
 </div>
 </div>
 <div class="TreeNode">
 <img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="N-Suoranta.EnterpriseLib.AppDomain.htm" target="_self">Suoranta.EnterpriseLib.AppDomain Namespace</a>
 <div class="Hidden">
 <div class="TreeNode">
-<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.AppDomain.AppHostBuilder.htm" target="_self">AppHostBuilder Class</a>
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.AppDomain.AppHostBuilder-1.htm" target="_self">AppHostBuilder(TAppHost) Class</a>
 <div class="Hidden">
 </div>
 </div>
-<div class="TreeNode">
-<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.AppDomain.AppHostException.htm" target="_self">AppHostException Class</a>
-<div class="Hidden">
+<div class="TreeItem">
+<img src="../Item.gif"/><a class="UnselectedNode" onclick="javascript: return SelectNode(this);" href="T-Suoranta.EnterpriseLib.AppDomain.AppHostException.htm" target="_self">AppHostException Class</a>
 </div>
-</div>
-<div class="TreeNode">
-<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.AppDomain.AssemblySelector.htm" target="_self">AssemblySelector Class</a>
-<div class="Hidden">
-</div>
-</div>
-<div class="TreeNode">
-<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.AppDomain.Bindings.htm" target="_self">Bindings Class</a>
-<div class="Hidden">
-</div>
-</div>
-<div class="TreeNode">
-<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.AppDomain.Bindings.AutoMapper.htm" target="_self">Bindings.AutoMapper Class</a>
-<div class="Hidden">
-</div>
+<div class="TreeItem">
+<img src="../Item.gif"/><a class="UnselectedNode" onclick="javascript: return SelectNode(this);" href="T-Suoranta.EnterpriseLib.AppDomain.Bindings.htm" target="_self">Bindings Class</a>
 </div>
 <div class="TreeNode">
 <img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.AppDomain.Bindings.Azure.htm" target="_self">Bindings.Azure Class</a>
@@ -157,11 +167,6 @@
 </div>
 <div class="TreeNode">
 <img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.AppDomain.Bindings.ConfigCheck.htm" target="_self">Bindings.ConfigCheck Class</a>
-<div class="Hidden">
-</div>
-</div>
-<div class="TreeNode">
-<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.AppDomain.Bindings.Logging.htm" target="_self">Bindings.Logging Class</a>
 <div class="Hidden">
 </div>
 </div>
@@ -227,9 +232,6 @@
 <div class="Hidden">
 </div>
 </div>
-<div class="TreeItem">
-<img src="../Item.gif"/><a class="UnselectedNode" onclick="javascript: return SelectNode(this);" href="T-Suoranta.EnterpriseLib.AppDomain.LoggingMode.htm" target="_self">LoggingMode Enumeration</a>
-</div>
 <div class="TreeNode">
 <img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.AppDomain.NinjectExtensions.htm" target="_self">NinjectExtensions Class</a>
 <div class="Hidden">
@@ -255,10 +257,8 @@
 <div class="Hidden">
 </div>
 </div>
-<div class="TreeNode">
-<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Dynamic.DynamicTypeException.htm" target="_self">DynamicTypeException Class</a>
-<div class="Hidden">
-</div>
+<div class="TreeItem">
+<img src="../Item.gif"/><a class="UnselectedNode" onclick="javascript: return SelectNode(this);" href="T-Suoranta.EnterpriseLib.Dynamic.DynamicTypeException.htm" target="_self">DynamicTypeException Class</a>
 </div>
 <div class="TreeNode">
 <img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Dynamic.TypeBuilderExtensions.htm" target="_self">TypeBuilderExtensions Class</a>
@@ -308,15 +308,11 @@
 <div class="Hidden">
 </div>
 </div>
-<div class="TreeNode">
-<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Linq.QueryException.htm" target="_self">QueryException Class</a>
-<div class="Hidden">
+<div class="TreeItem">
+<img src="../Item.gif"/><a class="UnselectedNode" onclick="javascript: return SelectNode(this);" href="T-Suoranta.EnterpriseLib.Linq.QueryException.htm" target="_self">QueryException Class</a>
 </div>
-</div>
-<div class="TreeNode">
-<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Linq.QueryOrderingException.htm" target="_self">QueryOrderingException Class</a>
-<div class="Hidden">
-</div>
+<div class="TreeItem">
+<img src="../Item.gif"/><a class="UnselectedNode" onclick="javascript: return SelectNode(this);" href="T-Suoranta.EnterpriseLib.Linq.QueryOrderingException.htm" target="_self">QueryOrderingException Class</a>
 </div>
 <div class="TreeItem">
 <img src="../Item.gif"/><a class="UnselectedNode" onclick="javascript: return SelectNode(this);" href="T-Suoranta.EnterpriseLib.Linq.ResultSetOrder.htm" target="_self">ResultSetOrder Enumeration</a>
@@ -404,10 +400,8 @@
 <div class="Hidden">
 </div>
 </div>
-<div class="TreeNode">
-<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Linq.Filters.ISetFilter.htm" target="_self">ISetFilter Interface</a>
-<div class="Hidden">
-</div>
+<div class="TreeItem">
+<img src="../Item.gif"/><a class="UnselectedNode" onclick="javascript: return SelectNode(this);" href="T-Suoranta.EnterpriseLib.Linq.Filters.ISetFilter.htm" target="_self">ISetFilter Interface</a>
 </div>
 <div class="TreeNode">
 <img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Linq.Filters.IValueFilter.htm" target="_self">IValueFilter Interface</a>
@@ -429,10 +423,8 @@
 <div class="Hidden">
 </div>
 </div>
-<div class="TreeNode">
-<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Linq.Filters.RangeFilterException.htm" target="_self">RangeFilterException Class</a>
-<div class="Hidden">
-</div>
+<div class="TreeItem">
+<img src="../Item.gif"/><a class="UnselectedNode" onclick="javascript: return SelectNode(this);" href="T-Suoranta.EnterpriseLib.Linq.Filters.RangeFilterException.htm" target="_self">RangeFilterException Class</a>
 </div>
 <div class="TreeItem">
 <img src="../Item.gif"/><a class="UnselectedNode" onclick="javascript: return SelectNode(this);" href="T-Suoranta.EnterpriseLib.Linq.Filters.RangeFilterMode.htm" target="_self">RangeFilterMode Enumeration</a>
@@ -484,7 +476,42 @@
 <img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="N-Suoranta.EnterpriseLib.Logging.htm" target="_self">Suoranta.EnterpriseLib.Logging Namespace</a>
 <div class="Hidden">
 <div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Logging.ConfigurationExtensions.htm" target="_self">ConfigurationExtensions Class</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Logging.ConsoleLogger.htm" target="_self">ConsoleLogger Class</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Logging.ConsoleLoggerProvider.htm" target="_self">ConsoleLoggerProvider Class</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeNode">
 <img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Logging.DbLogEntry.htm" target="_self">DbLogEntry Class</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Logging.EmailAlertLogger.htm" target="_self">EmailAlertLogger Class</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Logging.EmailAlertLoggerProvider.htm" target="_self">EmailAlertLoggerProvider Class</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Logging.EntityFrameworkSource.htm" target="_self">EntityFrameworkSource Structure</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Logging.FormattedTextLogger.htm" target="_self">FormattedTextLogger Class</a>
 <div class="Hidden">
 </div>
 </div>
@@ -499,25 +526,25 @@
 </div>
 </div>
 <div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Logging.IDbLogEntry.htm" target="_self">IDbLogEntry Interface</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Logging.IHttpLogger.htm" target="_self">IHttpLogger Interface</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeNode">
 <img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Logging.ILogEntry.htm" target="_self">ILogEntry Interface</a>
 <div class="Hidden">
 </div>
 </div>
-<div class="TreeNode">
-<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Logging.ILogService.htm" target="_self">ILogService Interface</a>
-<div class="Hidden">
-</div>
+<div class="TreeItem">
+<img src="../Item.gif"/><a class="UnselectedNode" onclick="javascript: return SelectNode(this);" href="T-Suoranta.EnterpriseLib.Logging.ILogEntrySource.htm" target="_self">ILogEntrySource Interface</a>
 </div>
 <div class="TreeNode">
 <img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Logging.LogDbEntryCreatedEventArgs.htm" target="_self">LogDbEntryCreatedEventArgs Class</a>
-<div class="Hidden">
-</div>
-</div>
-<div class="TreeItem">
-<img src="../Item.gif"/><a class="UnselectedNode" onclick="javascript: return SelectNode(this);" href="T-Suoranta.EnterpriseLib.Logging.LogDbEntryCreatedEventHandler.htm" target="_self">LogDbEntryCreatedEventHandler Delegate</a>
-</div>
-<div class="TreeNode">
-<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Logging.LogNullService.htm" target="_self">LogNullService Class</a>
 <div class="Hidden">
 </div>
 </div>
@@ -531,13 +558,43 @@
 <div class="Hidden">
 </div>
 </div>
+<div class="TreeItem">
+<img src="../Item.gif"/><a class="UnselectedNode" onclick="javascript: return SelectNode(this);" href="T-Suoranta.EnterpriseLib.Logging.LogService.TextStyle.htm" target="_self">LogService.TextStyle Enumeration</a>
+</div>
 <div class="TreeNode">
-<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Logging.LogToDbService-1.htm" target="_self">LogToDbService(TLogEntry) Class</a>
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Logging.LogServiceExtensions.htm" target="_self">LogServiceExtensions Class</a>
 <div class="Hidden">
 </div>
 </div>
-<div class="TreeItem">
-<img src="../Item.gif"/><a class="UnselectedNode" onclick="javascript: return SelectNode(this);" href="T-Suoranta.EnterpriseLib.Logging.Sinks.htm" target="_self">Sinks Enumeration</a>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Logging.MethodSource.htm" target="_self">MethodSource Class</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Logging.NullLogger.htm" target="_self">NullLogger Class</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Logging.StoreToDatabaseLogger-1.htm" target="_self">StoreToDatabaseLogger(TLogEntry) Class</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Logging.StoreToDatabaseLoggerProvider-1.htm" target="_self">StoreToDatabaseLoggerProvider(TLogEntry) Class</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Logging.TraceLogger.htm" target="_self">TraceLogger Class</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Logging.TraceLoggerProvider.htm" target="_self">TraceLoggerProvider Class</a>
+<div class="Hidden">
+</div>
 </div>
 </div>
 </div>
@@ -594,11 +651,6 @@
 </div>
 <div class="TreeNode">
 <img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Types.ICachedSet-1.htm" target="_self">ICachedSet(TEntity) Interface</a>
-<div class="Hidden">
-</div>
-</div>
-<div class="TreeNode">
-<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Types.LogEntrySource.htm" target="_self">LogEntrySource Structure</a>
 <div class="Hidden">
 </div>
 </div>
@@ -763,27 +815,44 @@
 </div>
 </div>
 <div class="TreeNode">
-<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Types.Exceptions.EnterpriseLibWebException.htm" target="_self">EnterpriseLibWebException Class</a>
-<div class="Hidden">
-</div>
-</div>
-<div class="TreeNode">
 <img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Types.Exceptions.LicensingException.htm" target="_self">LicensingException Class</a>
 <div class="Hidden">
 </div>
 </div>
+<div class="TreeItem">
+<img src="../Item.gif"/><a class="UnselectedNode" onclick="javascript: return SelectNode(this);" href="T-Suoranta.EnterpriseLib.Types.Exceptions.SanitizerException.htm" target="_self">SanitizerException Class</a>
+</div>
+<div class="TreeItem">
+<img src="../Item.gif"/><a class="UnselectedNode" onclick="javascript: return SelectNode(this);" href="T-Suoranta.EnterpriseLib.Types.Exceptions.TypeLocatorException.htm" target="_self">TypeLocatorException Class</a>
+</div>
+</div>
+</div>
 <div class="TreeNode">
-<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Types.Exceptions.SanitizerException.htm" target="_self">SanitizerException Class</a>
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="N-Suoranta.EnterpriseLib.Types.Models.htm" target="_self">Suoranta.EnterpriseLib.Types.Models Namespace</a>
+<div class="Hidden">
+<div class="TreeItem">
+<img src="../Item.gif"/><a class="UnselectedNode" onclick="javascript: return SelectNode(this);" href="T-Suoranta.EnterpriseLib.Types.Models.IDeliveryPoint.htm" target="_self">IDeliveryPoint Interface</a>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Types.Models.IPostalArea.htm" target="_self">IPostalArea Interface</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeItem">
+<img src="../Item.gif"/><a class="UnselectedNode" onclick="javascript: return SelectNode(this);" href="T-Suoranta.EnterpriseLib.Types.Models.IPostalRegion.htm" target="_self">IPostalRegion Interface</a>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Types.Models.POBox.htm" target="_self">POBox Structure</a>
 <div class="Hidden">
 </div>
 </div>
 <div class="TreeNode">
-<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Types.Exceptions.TypeLocatorException.htm" target="_self">TypeLocatorException Class</a>
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Types.Models.PostalAddress.htm" target="_self">PostalAddress Class</a>
 <div class="Hidden">
 </div>
 </div>
 <div class="TreeNode">
-<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Types.Exceptions.WebSafetyException.htm" target="_self">WebSafetyException Class</a>
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Types.Models.StreetAddress.htm" target="_self">StreetAddress Class</a>
 <div class="Hidden">
 </div>
 </div>
@@ -802,10 +871,8 @@
 <div class="Hidden">
 </div>
 </div>
-<div class="TreeNode">
-<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Util.CodeGenerator.CodeGeneratorException.htm" target="_self">CodeGenerator.CodeGeneratorException Class</a>
-<div class="Hidden">
-</div>
+<div class="TreeItem">
+<img src="../Item.gif"/><a class="UnselectedNode" onclick="javascript: return SelectNode(this);" href="T-Suoranta.EnterpriseLib.Util.CodeGenerator.CodeGeneratorException.htm" target="_self">CodeGenerator.CodeGeneratorException Class</a>
 </div>
 <div class="TreeNode">
 <img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Util.CodeGenerator.FieldDef.htm" target="_self">CodeGenerator.FieldDef Structure</a>
@@ -824,26 +891,6 @@
 </div>
 <div class="TreeNode">
 <img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Util.MailService.htm" target="_self">MailService Class</a>
-<div class="Hidden">
-</div>
-</div>
-<div class="TreeNode">
-<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Util.MockEntity.htm" target="_self">MockEntity Class</a>
-<div class="Hidden">
-</div>
-</div>
-<div class="TreeNode">
-<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Util.MockEntity.CodeWordGenerator.htm" target="_self">MockEntity.CodeWordGenerator Class</a>
-<div class="Hidden">
-</div>
-</div>
-<div class="TreeNode">
-<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Util.MockEntity.Entity.htm" target="_self">MockEntity.Entity Class</a>
-<div class="Hidden">
-</div>
-</div>
-<div class="TreeNode">
-<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Util.MockEntity.IdGenerator.htm" target="_self">MockEntity.IdGenerator Class</a>
 <div class="Hidden">
 </div>
 </div>
@@ -912,10 +959,8 @@
 <div class="Hidden">
 </div>
 </div>
-<div class="TreeNode">
-<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Util.AutoMapper.IgnoreMapAttribute.htm" target="_self">IgnoreMapAttribute Class</a>
-<div class="Hidden">
-</div>
+<div class="TreeItem">
+<img src="../Item.gif"/><a class="UnselectedNode" onclick="javascript: return SelectNode(this);" href="T-Suoranta.EnterpriseLib.Util.AutoMapper.IgnoreMapAttribute.htm" target="_self">IgnoreMapAttribute Class</a>
 </div>
 <div class="TreeNode">
 <img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Util.AutoMapper.MappingExtensions.htm" target="_self">MappingExtensions Class</a>
@@ -936,6 +981,21 @@
 </div>
 </div>
 <div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Util.MockData.CodeWordGenerator.htm" target="_self">CodeWordGenerator Class</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Util.MockData.CultureAttribute.htm" target="_self">CultureAttribute Class</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Util.MockData.GetRandom.htm" target="_self">GetRandom Class</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeNode">
 <img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Util.MockData.HetuGenerator.htm" target="_self">HetuGenerator Class</a>
 <div class="Hidden">
 </div>
@@ -951,12 +1011,17 @@
 </div>
 </div>
 <div class="TreeNode">
-<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Util.MockData.MockBirth.htm" target="_self">MockBirth Class</a>
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Util.MockData.INameGenerator.htm" target="_self">INameGenerator Interface</a>
 <div class="Hidden">
 </div>
 </div>
 <div class="TreeNode">
-<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Util.MockData.MockDataException.htm" target="_self">MockDataException Class</a>
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Util.MockData.IPersonIdGenerator.htm" target="_self">IPersonIdGenerator Interface</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Util.MockData.MockBirth.htm" target="_self">MockBirth Class</a>
 <div class="Hidden">
 </div>
 </div>
@@ -976,12 +1041,12 @@
 </div>
 </div>
 <div class="TreeNode">
-<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Util.MockData.ReplaceProperties-1.htm" target="_self">ReplaceProperties(TEntity) Class</a>
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Util.MockData.PropertyReplacer-1.htm" target="_self">PropertyReplacer(TEntity) Class</a>
 <div class="Hidden">
 </div>
 </div>
 <div class="TreeNode">
-<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Util.MockData.ReplacePropertyAttribute.htm" target="_self">ReplacePropertyAttribute Class</a>
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Util.MockData.ReplaceAttribute.htm" target="_self">ReplaceAttribute Class</a>
 <div class="Hidden">
 </div>
 </div>
@@ -1035,14 +1100,6 @@
 </div>
 </div>
 <div class="TreeNode">
-<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Util.Net.IHttpLogger.htm" target="_self">IHttpLogger Interface</a>
-<div class="Hidden">
-</div>
-</div>
-<div class="TreeItem">
-<img src="../Item.gif"/><a class="UnselectedNode" onclick="javascript: return SelectNode(this);" href="T-Suoranta.EnterpriseLib.Util.Net.NetDirection.htm" target="_self">NetDirection Enumeration</a>
-</div>
-<div class="TreeNode">
 <img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Util.Net.RequestHandler.htm" target="_self">RequestHandler Class</a>
 <div class="Hidden">
 </div>
@@ -1070,10 +1127,8 @@
 <div class="TreeItem">
 <img src="../Item.gif"/><a class="UnselectedNode" onclick="javascript: return SelectNode(this);" href="T-Suoranta.EnterpriseLib.Util.Sanitizer.CharacterFilter.Groups.htm" target="_self">CharacterFilter.Groups Enumeration</a>
 </div>
-<div class="TreeNode">
-<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Util.Sanitizer.SanitizerException.htm" target="_self">SanitizerException Class</a>
-<div class="Hidden">
-</div>
+<div class="TreeItem">
+<img src="../Item.gif"/><a class="UnselectedNode" onclick="javascript: return SelectNode(this);" href="T-Suoranta.EnterpriseLib.Util.Sanitizer.SanitizerException.htm" target="_self">SanitizerException Class</a>
 </div>
 <div class="TreeNode">
 <img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Util.Sanitizer.StringSanitizer.htm" target="_self">StringSanitizer Class</a>
@@ -1101,9 +1156,42 @@
 </div>
 </div>
 <div class="TreeNode">
-<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Web.MvcAppBuilder.htm" target="_self">MvcAppBuilder Class</a>
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Web.IHttpHelper.htm" target="_self">IHttpHelper Interface</a>
 <div class="Hidden">
 </div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Web.IPushNotificationService.htm" target="_self">IPushNotificationService Interface</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Web.IPushNotificationsQueue.htm" target="_self">IPushNotificationsQueue Interface</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Web.IPushSubscriptionStore.htm" target="_self">IPushSubscriptionStore Interface</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Web.IPushSubscriptionStoreAccessor.htm" target="_self">IPushSubscriptionStoreAccessor Interface</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Web.IPushSubscriptionStoreAccessorProvider.htm" target="_self">IPushSubscriptionStoreAccessorProvider Interface</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Web.IServiceConfigurator.htm" target="_self">IServiceConfigurator Interface</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeItem">
+<img src="../Item.gif"/><a class="UnselectedNode" onclick="javascript: return SelectNode(this);" href="T-Suoranta.EnterpriseLib.Web.MvcAppBuilder.htm" target="_self">MvcAppBuilder Class</a>
 </div>
 <div class="TreeNode">
 <img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Web.OwinHost.htm" target="_self">OwinHost Class</a>
@@ -1168,190 +1256,10 @@
 </div>
 </div>
 <div class="TreeNode">
-<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="N-Suoranta.EnterpriseLib.Web.AppDomain.Ninject.Mvc.htm" target="_self">Suoranta.EnterpriseLib.Web.AppDomain.Ninject.Mvc Namespace</a>
-<div class="Hidden">
-<div class="TreeNode">
-<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Web.AppDomain.Ninject.Mvc.MvcModule.htm" target="_self">MvcModule Class</a>
-<div class="Hidden">
-</div>
-</div>
-<div class="TreeNode">
-<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Web.AppDomain.Ninject.Mvc.ReplaceMvcProvidersPlugin.htm" target="_self">ReplaceMvcProvidersPlugin Class</a>
-<div class="Hidden">
-</div>
-</div>
-</div>
-</div>
-<div class="TreeNode">
-<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="N-Suoranta.EnterpriseLib.Web.AppDomain.Ninject.Mvc.Filter.htm" target="_self">Suoranta.EnterpriseLib.Web.AppDomain.Ninject.Mvc.Filter Namespace</a>
-<div class="Hidden">
-<div class="TreeNode">
-<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Web.AppDomain.Ninject.Mvc.Filter.FilterContextParameter.htm" target="_self">FilterContextParameter Class</a>
-<div class="Hidden">
-</div>
-</div>
-<div class="TreeNode">
-<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Web.AppDomain.Ninject.Mvc.Filter.INinjectFilter.htm" target="_self">INinjectFilter Interface</a>
-<div class="Hidden">
-</div>
-</div>
-<div class="TreeNode">
-<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Web.AppDomain.Ninject.Mvc.Filter.NinjectFilter-1.htm" target="_self">NinjectFilter(T) Class</a>
-<div class="Hidden">
-</div>
-</div>
-<div class="TreeNode">
-<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Web.AppDomain.Ninject.Mvc.Filter.NinjectFilterAttributeFilterProvider.htm" target="_self">NinjectFilterAttributeFilterProvider Class</a>
-<div class="Hidden">
-</div>
-</div>
-<div class="TreeNode">
-<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Web.AppDomain.Ninject.Mvc.Filter.NinjectFilterProvider.htm" target="_self">NinjectFilterProvider Class</a>
-<div class="Hidden">
-</div>
-</div>
-</div>
-</div>
-<div class="TreeNode">
-<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="N-Suoranta.EnterpriseLib.Web.AppDomain.Ninject.Mvc.FilterBindingSyntax.htm" target="_self">Suoranta.EnterpriseLib.Web.AppDomain.Ninject.Mvc.FilterBindingSyntax Namespace</a>
-<div class="Hidden">
-<div class="TreeNode">
-<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Web.AppDomain.Ninject.Mvc.FilterBindingSyntax.AttributeValueSelector-1.htm" target="_self">AttributeValueSelector(TAttribute) Class</a>
-<div class="Hidden">
-</div>
-</div>
-<div class="TreeNode">
-<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Web.AppDomain.Ninject.Mvc.FilterBindingSyntax.BindingRootExtensions.htm" target="_self">BindingRootExtensions Class</a>
-<div class="Hidden">
-</div>
-</div>
-<div class="TreeNode">
-<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Web.AppDomain.Ninject.Mvc.FilterBindingSyntax.FilterFilterBindingBuilder-1.htm" target="_self">FilterFilterBindingBuilder(T) Class</a>
-<div class="Hidden">
-</div>
-</div>
-<div class="TreeNode">
-<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Web.AppDomain.Ninject.Mvc.FilterBindingSyntax.IConstructorArgumentSyntaxExtensions.htm" target="_self">IConstructorArgumentSyntaxExtensions Class</a>
-<div class="Hidden">
-</div>
-</div>
-<div class="TreeNode">
-<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Web.AppDomain.Ninject.Mvc.FilterBindingSyntax.IFilterBindingInNamedWithOrOnSyntax-1.htm" target="_self">IFilterBindingInNamedWithOrOnSyntax(T) Interface</a>
-<div class="Hidden">
-</div>
-</div>
-<div class="TreeNode">
-<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Web.AppDomain.Ninject.Mvc.FilterBindingSyntax.IFilterBindingInSyntax-1.htm" target="_self">IFilterBindingInSyntax(T) Interface</a>
-<div class="Hidden">
-</div>
-</div>
-<div class="TreeNode">
-<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Web.AppDomain.Ninject.Mvc.FilterBindingSyntax.IFilterBindingNamedSyntax-1.htm" target="_self">IFilterBindingNamedSyntax(T) Interface</a>
-<div class="Hidden">
-</div>
-</div>
-<div class="TreeNode">
-<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Web.AppDomain.Ninject.Mvc.FilterBindingSyntax.IFilterBindingNamedWithOrOnSyntax-1.htm" target="_self">IFilterBindingNamedWithOrOnSyntax(T) Interface</a>
-<div class="Hidden">
-</div>
-</div>
-<div class="TreeNode">
-<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Web.AppDomain.Ninject.Mvc.FilterBindingSyntax.IFilterBindingOnSyntax-1.htm" target="_self">IFilterBindingOnSyntax(T) Interface</a>
-<div class="Hidden">
-</div>
-</div>
-<div class="TreeNode">
-<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Web.AppDomain.Ninject.Mvc.FilterBindingSyntax.IFilterBindingWhenInNamedWithOrOnSyntax-1.htm" target="_self">IFilterBindingWhenInNamedWithOrOnSyntax(T) Interface</a>
-<div class="Hidden">
-</div>
-</div>
-<div class="TreeNode">
-<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Web.AppDomain.Ninject.Mvc.FilterBindingSyntax.IFilterBindingWhenSyntax-1.htm" target="_self">IFilterBindingWhenSyntax(T) Interface</a>
-<div class="Hidden">
-</div>
-</div>
-<div class="TreeNode">
-<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Web.AppDomain.Ninject.Mvc.FilterBindingSyntax.IFilterBindingWithOrOnSyntax-1.htm" target="_self">IFilterBindingWithOrOnSyntax(T) Interface</a>
-<div class="Hidden">
-</div>
-</div>
-<div class="TreeNode">
-<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Web.AppDomain.Ninject.Mvc.FilterBindingSyntax.IFilterBindingWithSyntax-1.htm" target="_self">IFilterBindingWithSyntax(T) Interface</a>
-<div class="Hidden">
-</div>
-</div>
-</div>
-</div>
-<div class="TreeNode">
-<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="N-Suoranta.EnterpriseLib.Web.AppDomain.Ninject.Mvc.Validation.htm" target="_self">Suoranta.EnterpriseLib.Web.AppDomain.Ninject.Mvc.Validation Namespace</a>
-<div class="Hidden">
-<div class="TreeNode">
-<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Web.AppDomain.Ninject.Mvc.Validation.ModelValidatorProvider.htm" target="_self">ModelValidatorProvider Class</a>
-<div class="Hidden">
-</div>
-</div>
-</div>
-</div>
-<div class="TreeNode">
-<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="N-Suoranta.EnterpriseLib.Web.Interfaces.htm" target="_self">Suoranta.EnterpriseLib.Web.Interfaces Namespace</a>
-<div class="Hidden">
-<div class="TreeNode">
-<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Web.Interfaces.IHttpHelper.htm" target="_self">IHttpHelper Interface</a>
-<div class="Hidden">
-</div>
-</div>
-<div class="TreeNode">
-<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Web.Interfaces.IMockService.htm" target="_self">IMockService Interface</a>
-<div class="Hidden">
-</div>
-</div>
-<div class="TreeNode">
-<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Web.Interfaces.IPushNotificationService.htm" target="_self">IPushNotificationService Interface</a>
-<div class="Hidden">
-</div>
-</div>
-<div class="TreeNode">
-<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Web.Interfaces.IPushNotificationsQueue.htm" target="_self">IPushNotificationsQueue Interface</a>
-<div class="Hidden">
-</div>
-</div>
-<div class="TreeNode">
-<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Web.Interfaces.IPushSubscriptionStore.htm" target="_self">IPushSubscriptionStore Interface</a>
-<div class="Hidden">
-</div>
-</div>
-<div class="TreeNode">
-<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Web.Interfaces.IPushSubscriptionStoreAccessor.htm" target="_self">IPushSubscriptionStoreAccessor Interface</a>
-<div class="Hidden">
-</div>
-</div>
-<div class="TreeNode">
-<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Web.Interfaces.IPushSubscriptionStoreAccessorProvider.htm" target="_self">IPushSubscriptionStoreAccessorProvider Interface</a>
-<div class="Hidden">
-</div>
-</div>
-<div class="TreeNode">
-<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Web.Interfaces.IService.htm" target="_self">IService Interface</a>
-<div class="Hidden">
-</div>
-</div>
-<div class="TreeNode">
-<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Web.Interfaces.IServiceConfigurator.htm" target="_self">IServiceConfigurator Interface</a>
-<div class="Hidden">
-</div>
-</div>
-</div>
-</div>
-<div class="TreeNode">
 <img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="N-Suoranta.EnterpriseLib.Web.MVC.htm" target="_self">Suoranta.EnterpriseLib.Web.MVC Namespace</a>
 <div class="Hidden">
 <div class="TreeNode">
 <img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Web.MVC.BaseController.htm" target="_self">BaseController Class</a>
-<div class="Hidden">
-</div>
-</div>
-<div class="TreeNode">
-<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Web.MVC.BaseController-1.htm" target="_self">BaseController(TDbContext) Class</a>
 <div class="Hidden">
 </div>
 </div>
@@ -1361,54 +1269,42 @@
 </div>
 </div>
 <div class="TreeNode">
-<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Web.MVC.CrudController-3.htm" target="_self">CrudController(TDbContext, TRowEntity, TRowDTO) Class</a>
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Web.MVC.CrudController-2.htm" target="_self">CrudController(TRowEntity, TRowDTO) Class</a>
 <div class="Hidden">
-<div class="TreeItem">
-<img src="../Item.gif"/><a class="UnselectedNode" onclick="javascript: return SelectNode(this);" href="AllMembers.T-Suoranta.EnterpriseLib.Web.MVC.CrudController-3.htm" target="_self">CrudController(TDbContext, TRowEntity, TRowDTO) Members</a>
 </div>
-<div class="TreeItem">
-<img src="../Item.gif"/><a class="UnselectedNode" onclick="javascript: return SelectNode(this);" href="M-Suoranta.EnterpriseLib.Web.MVC.CrudController-3.-ctor.htm" target="_self">CrudController(TDbContext, TRowEntity, TRowDTO) Constructor </a>
 </div>
 <div class="TreeNode">
-<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="Methods.T-Suoranta.EnterpriseLib.Web.MVC.CrudController-3.htm" target="_self">CrudController(TDbContext, TRowEntity, TRowDTO) Methods</a>
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Web.MVC.CrudController-3.htm" target="_self">CrudController(TParentEntity, TRowEntity, TRowDTO) Class</a>
 <div class="Hidden">
 <div class="TreeItem">
-<img src="../Item.gif"/><a class="UnselectedNode" onclick="javascript: return SelectNode(this);" href="M-Suoranta.EnterpriseLib.Web.MVC.CrudController-3.Create.htm" target="_self">Create Method </a>
+<img src="../Item.gif"/><a class="UnselectedNode" onclick="javascript: return SelectNode(this);" href="AllMembers.T-Suoranta.EnterpriseLib.Web.MVC.CrudController-3.htm" target="_self">CrudController(TParentEntity, TRowEntity, TRowDTO) Members</a>
 </div>
 <div class="TreeItem">
-<img src="../Item.gif"/><a class="UnselectedNode" onclick="javascript: return SelectNode(this);" href="M-Suoranta.EnterpriseLib.Web.MVC.CrudController-3.Destroy.htm" target="_self">Destroy Method </a>
+<img src="../Item.gif"/><a class="UnselectedNode" onclick="javascript: return SelectNode(this);" href="M-Suoranta.EnterpriseLib.Web.MVC.CrudController-3.-ctor.htm" target="_self">CrudController(TParentEntity, TRowEntity, TRowDTO) Constructor </a>
 </div>
 <div class="TreeNode">
-<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="#">Overload:Suoranta.EnterpriseLib.Web.MVC.CrudController`3.GetEntity</a>
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="Methods.T-Suoranta.EnterpriseLib.Web.MVC.CrudController-3.htm" target="_self">CrudController(TParentEntity, TRowEntity, TRowDTO) Methods</a>
+<div class="Hidden">
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="Overload-Suoranta.EnterpriseLib.Web.MVC.CrudController-3.Create.htm" target="_self">Create Method </a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="Overload-Suoranta.EnterpriseLib.Web.MVC.CrudController-3.Destroy.htm" target="_self">Destroy Method </a>
 <div class="Hidden">
 </div>
 </div>
 <div class="TreeItem">
 <img src="../Item.gif"/><a class="UnselectedNode" onclick="javascript: return SelectNode(this);" href="M-Suoranta.EnterpriseLib.Web.MVC.CrudController-3.Read.htm" target="_self">Read Method </a>
 </div>
-<div class="TreeNode">
-<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="#">Overload:Suoranta.EnterpriseLib.Web.MVC.CrudController`3.ToDTO</a>
-<div class="Hidden">
-</div>
-</div>
-<div class="TreeItem">
-<img src="../Item.gif"/><a class="UnselectedNode" onclick="javascript: return SelectNode(this);" href="M-Suoranta.EnterpriseLib.Web.MVC.CrudController-3.Update.htm" target="_self">Update Method </a>
-</div>
-<div class="TreeNode">
-<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="#">Overload:Suoranta.EnterpriseLib.Web.MVC.CrudController`3.UpdateEntity</a>
-<div class="Hidden">
-</div>
-</div>
-</div>
-</div>
-<div class="TreeItem">
-<img src="../Item.gif"/><a class="UnselectedNode" onclick="javascript: return SelectNode(this);" href="Properties.T-Suoranta.EnterpriseLib.Web.MVC.CrudController-3.htm" target="_self">CrudController(TDbContext, TRowEntity, TRowDTO) Properties</a>
-</div>
 </div>
 </div>
 <div class="TreeNode">
-<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Web.MVC.CrudController-4.htm" target="_self">CrudController(TDbContext, TParentEntity, TRowEntity, TRowDTO) Class</a>
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="Properties.T-Suoranta.EnterpriseLib.Web.MVC.CrudController-3.htm" target="_self">CrudController(TParentEntity, TRowEntity, TRowDTO) Properties</a>
 <div class="Hidden">
+</div>
+</div>
 </div>
 </div>
 <div class="TreeNode">
@@ -1535,6 +1431,9 @@
 <div class="Hidden">
 </div>
 </div>
+<div class="TreeItem">
+<img src="../Item.gif"/><a class="UnselectedNode" onclick="javascript: return SelectNode(this);" href="T-Suoranta.EnterpriseLib.Web.Types.EnterpriseLibWebException.htm" target="_self">EnterpriseLibWebException Class</a>
+</div>
 </div>
 </div>
 <div class="TreeNode">
@@ -1557,6 +1456,11 @@
 </div>
 <div class="TreeNode">
 <img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Web.Util.HttpHelper.htm" target="_self">HttpHelper Class</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Web.Util.ImplementationKeyAttribute.htm" target="_self">ImplementationKeyAttribute Class</a>
 <div class="Hidden">
 </div>
 </div>
@@ -1585,6 +1489,16 @@
 </div>
 <div class="TreeNode">
 <img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Web.Util.WebExtensions.htm" target="_self">WebExtensions Class</a>
+<div class="Hidden">
+</div>
+</div>
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="N-Suoranta.EnterpriseLib.Web.Util.AutoMapper.htm" target="_self">Suoranta.EnterpriseLib.Web.Util.AutoMapper Namespace</a>
+<div class="Hidden">
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Suoranta.EnterpriseLib.Web.Util.AutoMapper.EntityResolverFactory.htm" target="_self">EntityResolverFactory Class</a>
 <div class="Hidden">
 </div>
 </div>
@@ -1641,10 +1555,10 @@
         <div class="topicContainer">
           <div class="topic">
             <p class="majorTitle" />
-            <h1 class="title">CrudController<span class="languageSpecificText"><span class="cs">&lt;</span><span class="vb">(Of </span><span class="cpp">&lt;</span><span class="nu">(</span><span class="fs">&lt;'</span></span><span class="typeparameter">TDbContext</span>, <span class="typeparameter">TRowEntity</span>, <span class="typeparameter">TRowDTO</span><span class="languageSpecificText"><span class="cs">&gt;</span><span class="vb">)</span><span class="cpp">&gt;</span><span class="nu">)</span><span class="fs">&gt;</span></span> Methods</h1>
+            <h1 class="title">CrudController<span class="languageSpecificText"><span class="cs">&lt;</span><span class="vb">(Of </span><span class="cpp">&lt;</span><span class="nu">(</span><span class="fs">&lt;'</span></span><span class="typeparameter">TParentEntity</span>, <span class="typeparameter">TRowEntity</span>, <span class="typeparameter">TRowDTO</span><span class="languageSpecificText"><span class="cs">&gt;</span><span class="vb">)</span><span class="cpp">&gt;</span><span class="nu">)</span><span class="fs">&gt;</span></span> Methods</h1>
             <div id="mainSection">
               <div id="mainBody">
-                <p>The <a href="T-Suoranta.EnterpriseLib.Web.MVC.CrudController-3.htm">CrudController<span class="languageSpecificText"><span class="cs">&lt;</span><span class="vb">(Of </span><span class="cpp">&lt;</span><span class="nu">(</span><span class="fs">&lt;'</span></span>TDbContext, TRowEntity, TRowDTO<span class="languageSpecificText"><span class="cs">&gt;</span><span class="vb">)</span><span class="cpp">&gt;</span><span class="nu">)</span><span class="fs">&gt;</span></span></a> type exposes the following members.</p>
+                <p>The <a href="T-Suoranta.EnterpriseLib.Web.MVC.CrudController-3.htm">CrudController<span class="languageSpecificText"><span class="cs">&lt;</span><span class="vb">(Of </span><span class="cpp">&lt;</span><span class="nu">(</span><span class="fs">&lt;'</span></span>TParentEntity, TRowEntity, TRowDTO<span class="languageSpecificText"><span class="cs">&gt;</span><span class="vb">)</span><span class="cpp">&gt;</span><span class="nu">)</span><span class="fs">&gt;</span></span></a> type exposes the following members.</p>
                 <div class="LW_CollapsibleArea_Container">
                   <div class="LW_CollapsibleArea_TitleDiv">
                     <h2 class="LW_CollapsibleArea_Title">Methods</h2>
@@ -1663,59 +1577,38 @@
                       <th class="nameColumn">Name</th>
                       <th class="descriptionColumn">Description</th>
                     </tr>
-                    <tr data="protected;inherited;notNetfw;">
+                    <tr data="public;declared;notNetfw;">
                       <td>
-                        <img src="../icons/protmethod.gif" alt="Protected method" title="Protected method" />
+                        <img src="../icons/pubmethod.gif" alt="Public method" title="Public method" />
                       </td>
                       <td>
-                        <a href="https://docs.microsoft.com/en-us/dotnet/api/system.web.mvc.controller.beginexecute" target="_blank">BeginExecute(System.Web.Routing.RequestContext,System.AsyncCallback,System.Object)</a>
-                      </td>
-                      <td> (Inherited from <a href="https://docs.microsoft.com/en-us/dotnet/api/system.web.mvc.controller" target="_blank">Controller</a>.)</td>
-                    </tr>
-                    <tr data="protected;inherited;notNetfw;">
-                      <td>
-                        <img src="../icons/protmethod.gif" alt="Protected method" title="Protected method" />
+                        <a href="M-Suoranta.EnterpriseLib.Web.MVC.CrudController-3.Create.htm">Create<span class="languageSpecificText"><span class="cs">()</span><span class="cpp">()</span><span class="nu">()</span><span class="fs">()</span></span></a>
                       </td>
                       <td>
-                        <a href="https://docs.microsoft.com/en-us/dotnet/api/system.web.mvc.controller.beginexecutecore" target="_blank">BeginExecuteCore(System.AsyncCallback,System.Object)</a>
+                        <div class="summary">
+     Creates and stores a parent entity.
+   </div>
                       </td>
-                      <td> (Inherited from <a href="https://docs.microsoft.com/en-us/dotnet/api/system.web.mvc.controller" target="_blank">Controller</a>.)</td>
                     </tr>
                     <tr data="public;declared;notNetfw;">
                       <td>
                         <img src="../icons/pubmethod.gif" alt="Public method" title="Public method" />
                       </td>
                       <td>
-                        <a href="M-Suoranta.EnterpriseLib.Web.MVC.CrudController-3.Create.htm">Create</a>
+                        <a href="M-Suoranta.EnterpriseLib.Web.MVC.CrudController-3.Create_1.htm">Create(Int32)</a>
                       </td>
                       <td>
-                        <div class="summary">Creates and <h4 class="subHeading">Return Value</h4>new entity.</div>
+                        <div class="summary">
+     Creates and stores a child entity for the parent entity.
+   </div>
                       </td>
-                    </tr>
-                    <tr data="protected;inherited;notNetfw;">
-                      <td>
-                        <img src="../icons/protmethod.gif" alt="Protected method" title="Protected method" />
-                      </td>
-                      <td>
-                        <a href="https://docs.microsoft.com/en-us/dotnet/api/system.web.mvc.controller.createactioninvoker" target="_blank">CreateActionInvoker</a>
-                      </td>
-                      <td> (Inherited from <a href="https://docs.microsoft.com/en-us/dotnet/api/system.web.mvc.controller" target="_blank">Controller</a>.)</td>
-                    </tr>
-                    <tr data="protected;inherited;notNetfw;">
-                      <td>
-                        <img src="../icons/protmethod.gif" alt="Protected method" title="Protected method" />
-                      </td>
-                      <td>
-                        <a href="https://docs.microsoft.com/en-us/dotnet/api/system.web.mvc.controller.createtempdataprovider" target="_blank">CreateTempDataProvider</a>
-                      </td>
-                      <td> (Inherited from <a href="https://docs.microsoft.com/en-us/dotnet/api/system.web.mvc.controller" target="_blank">Controller</a>.)</td>
                     </tr>
                     <tr data="public;declared;notNetfw;">
                       <td>
                         <img src="../icons/pubmethod.gif" alt="Public method" title="Public method" />
                       </td>
                       <td>
-                        <a href="M-Suoranta.EnterpriseLib.Web.MVC.CrudController-3.Destroy.htm">Destroy</a>
+                        <a href="M-Suoranta.EnterpriseLib.Web.MVC.CrudController-3.Destroy.htm">Destroy(TRowDTO)</a>
                       </td>
                       <td />
                     </tr>
@@ -1724,108 +1617,36 @@
                         <img src="../icons/pubmethod.gif" alt="Public method" title="Public method" />
                       </td>
                       <td>
-                        <a href="https://docs.microsoft.com/en-us/dotnet/api/system.web.mvc.controller.dispose" target="_blank">Dispose</a>
+                        <a href="M-Suoranta.EnterpriseLib.Web.MVC.CrudController-2.Destroy.htm">Destroy(TRowDTO)</a>
                       </td>
-                      <td> (Inherited from <a href="https://docs.microsoft.com/en-us/dotnet/api/system.web.mvc.controller" target="_blank">Controller</a>.)</td>
+                      <td> (Inherited from <a href="T-Suoranta.EnterpriseLib.Web.MVC.CrudController-2.htm">CrudController<span class="languageSpecificText"><span class="cs">&lt;</span><span class="vb">(Of </span><span class="cpp">&lt;</span><span class="nu">(</span><span class="fs">&lt;'</span></span>TRowEntity, TRowDTO<span class="languageSpecificText"><span class="cs">&gt;</span><span class="vb">)</span><span class="cpp">&gt;</span><span class="nu">)</span><span class="fs">&gt;</span></span></a>.)</td>
                     </tr>
                     <tr data="protected;inherited;notNetfw;">
                       <td>
                         <img src="../icons/protmethod.gif" alt="Protected method" title="Protected method" />
                       </td>
                       <td>
-                        <a href="https://docs.microsoft.com/en-us/dotnet/api/system.web.mvc.controller.dispose" target="_blank">Dispose(System.Boolean)</a>
+                        <a href="M-Suoranta.EnterpriseLib.Web.MVC.CrudController-2.GetEntity.htm">GetEntity(TRowDTO)</a>
                       </td>
-                      <td> (Inherited from <a href="https://docs.microsoft.com/en-us/dotnet/api/system.web.mvc.controller" target="_blank">Controller</a>.)</td>
+                      <td> (Inherited from <a href="T-Suoranta.EnterpriseLib.Web.MVC.CrudController-2.htm">CrudController<span class="languageSpecificText"><span class="cs">&lt;</span><span class="vb">(Of </span><span class="cpp">&lt;</span><span class="nu">(</span><span class="fs">&lt;'</span></span>TRowEntity, TRowDTO<span class="languageSpecificText"><span class="cs">&gt;</span><span class="vb">)</span><span class="cpp">&gt;</span><span class="nu">)</span><span class="fs">&gt;</span></span></a>.)</td>
                     </tr>
                     <tr data="protected;inherited;notNetfw;">
                       <td>
                         <img src="../icons/protmethod.gif" alt="Protected method" title="Protected method" />
                       </td>
                       <td>
-                        <a href="https://docs.microsoft.com/en-us/dotnet/api/system.web.mvc.controller.endexecute" target="_blank">EndExecute(System.IAsyncResult)</a>
+                        <a href="M-Suoranta.EnterpriseLib.Web.MVC.BaseController.GetEntity--1.htm">GetEntity<span class="languageSpecificText"><span class="cs">&lt;</span><span class="vb">(Of </span><span class="cpp">&lt;</span><span class="fs">&lt;'</span><span class="nu">(</span></span>TEntity<span class="languageSpecificText"><span class="cs">&gt;</span><span class="vb">)</span><span class="cpp">&gt;</span><span class="fs">&gt;</span><span class="nu">)</span></span>(IDataTransferObject)</a>
                       </td>
-                      <td> (Inherited from <a href="https://docs.microsoft.com/en-us/dotnet/api/system.web.mvc.controller" target="_blank">Controller</a>.)</td>
+                      <td> (Inherited from <a href="T-Suoranta.EnterpriseLib.Web.MVC.BaseController.htm">BaseController</a>.)</td>
                     </tr>
                     <tr data="protected;inherited;notNetfw;">
                       <td>
                         <img src="../icons/protmethod.gif" alt="Protected method" title="Protected method" />
                       </td>
                       <td>
-                        <a href="https://docs.microsoft.com/en-us/dotnet/api/system.web.mvc.controller.endexecutecore" target="_blank">EndExecuteCore(System.IAsyncResult)</a>
+                        <a href="M-Suoranta.EnterpriseLib.Web.MVC.BaseController.GetErrorResult.htm">GetErrorResult</a>
                       </td>
-                      <td> (Inherited from <a href="https://docs.microsoft.com/en-us/dotnet/api/system.web.mvc.controller" target="_blank">Controller</a>.)</td>
-                    </tr>
-                    <tr data="public;inherited;notNetfw;">
-                      <td>
-                        <img src="../icons/pubmethod.gif" alt="Public method" title="Public method" />
-                      </td>
-                      <td>
-                        <a href="http://msdn.microsoft.com/en-us/library/bsc2ak47.aspx" target="_blank">Equals(System.Object)</a>
-                      </td>
-                      <td> (Inherited from <a href="https://docs.microsoft.com/en-us/dotnet/api/system.object" target="_blank">Object</a>.)</td>
-                    </tr>
-                    <tr data="protected;inherited;notNetfw;">
-                      <td>
-                        <img src="../icons/protmethod.gif" alt="Protected method" title="Protected method" />
-                      </td>
-                      <td>
-                        <a href="https://docs.microsoft.com/en-us/dotnet/api/system.web.mvc.controllerbase.execute" target="_blank">Execute(System.Web.Routing.RequestContext)</a>
-                      </td>
-                      <td> (Inherited from <a href="https://docs.microsoft.com/en-us/dotnet/api/system.web.mvc.controllerbase" target="_blank">ControllerBase</a>.)</td>
-                    </tr>
-                    <tr data="protected;inherited;notNetfw;">
-                      <td>
-                        <img src="../icons/protmethod.gif" alt="Protected method" title="Protected method" />
-                      </td>
-                      <td>
-                        <a href="https://docs.microsoft.com/en-us/dotnet/api/system.web.mvc.controller.executecore" target="_blank">ExecuteCore</a>
-                      </td>
-                      <td> (Inherited from <a href="https://docs.microsoft.com/en-us/dotnet/api/system.web.mvc.controller" target="_blank">Controller</a>.)</td>
-                    </tr>
-                    <tr data="protected;inherited;notNetfw;">
-                      <td>
-                        <img src="../icons/protmethod.gif" alt="Protected method" title="Protected method" />
-                      </td>
-                      <td>
-                        <a href="https://docs.microsoft.com/en-us/dotnet/api/system.object.finalize" target="_blank">Finalize</a>
-                      </td>
-                      <td> (Inherited from <a href="https://docs.microsoft.com/en-us/dotnet/api/system.object" target="_blank">Object</a>.)</td>
-                    </tr>
-                    <tr data="protected;declared;notNetfw;">
-                      <td>
-                        <img src="../icons/protmethod.gif" alt="Protected method" title="Protected method" />
-                      </td>
-                      <td>
-                        <a href="M-Suoranta.EnterpriseLib.Web.MVC.CrudController-3.GetEntity.htm">GetEntity(TRowDTO)</a>
-                      </td>
-                      <td />
-                    </tr>
-                    <tr data="protected;inherited;notNetfw;">
-                      <td>
-                        <img src="../icons/protmethod.gif" alt="Protected method" title="Protected method" />
-                      </td>
-                      <td>
-                        <a href="M-Suoranta.EnterpriseLib.Web.MVC.BaseController-1.GetEntity--1.htm">GetEntity<span class="languageSpecificText"><span class="cs">&lt;</span><span class="vb">(Of </span><span class="cpp">&lt;</span><span class="fs">&lt;'</span><span class="nu">(</span></span>TEntity<span class="languageSpecificText"><span class="cs">&gt;</span><span class="vb">)</span><span class="cpp">&gt;</span><span class="fs">&gt;</span><span class="nu">)</span></span>(IDataTransferObject)</a>
-                      </td>
-                      <td> (Inherited from <a href="T-Suoranta.EnterpriseLib.Web.MVC.BaseController-1.htm">BaseController<span class="languageSpecificText"><span class="cs">&lt;</span><span class="vb">(Of </span><span class="cpp">&lt;</span><span class="nu">(</span><span class="fs">&lt;'</span></span>TDbContext<span class="languageSpecificText"><span class="cs">&gt;</span><span class="vb">)</span><span class="cpp">&gt;</span><span class="nu">)</span><span class="fs">&gt;</span></span></a>.)</td>
-                    </tr>
-                    <tr data="protected;inherited;notNetfw;">
-                      <td>
-                        <img src="../icons/protmethod.gif" alt="Protected method" title="Protected method" />
-                      </td>
-                      <td>
-                        <a href="M-Suoranta.EnterpriseLib.Web.MVC.BaseController-1.GetErrorResult.htm">GetErrorResult</a>
-                      </td>
-                      <td> (Inherited from <a href="T-Suoranta.EnterpriseLib.Web.MVC.BaseController-1.htm">BaseController<span class="languageSpecificText"><span class="cs">&lt;</span><span class="vb">(Of </span><span class="cpp">&lt;</span><span class="nu">(</span><span class="fs">&lt;'</span></span>TDbContext<span class="languageSpecificText"><span class="cs">&gt;</span><span class="vb">)</span><span class="cpp">&gt;</span><span class="nu">)</span><span class="fs">&gt;</span></span></a>.)</td>
-                    </tr>
-                    <tr data="public;inherited;notNetfw;">
-                      <td>
-                        <img src="../icons/pubmethod.gif" alt="Public method" title="Public method" />
-                      </td>
-                      <td>
-                        <a href="https://docs.microsoft.com/en-us/dotnet/api/system.object.gethashcode" target="_blank">GetHashCode</a>
-                      </td>
-                      <td> (Inherited from <a href="https://docs.microsoft.com/en-us/dotnet/api/system.object" target="_blank">Object</a>.)</td>
+                      <td> (Inherited from <a href="T-Suoranta.EnterpriseLib.Web.MVC.BaseController.htm">BaseController</a>.)</td>
                     </tr>
                     <tr data="protected;inherited;notNetfw;">
                       <td>
@@ -1835,8 +1656,9 @@
                         <a href="M-Suoranta.EnterpriseLib.Web.MVC.BaseController.GetRedirectQueryString.htm">GetRedirectQueryString</a>
                       </td>
                       <td>
-                        <div class="summary">Get <h4 class="subHeading">Return Value</h4>query string portion of url that contains
-   redirect target.</div> (Inherited from <a href="T-Suoranta.EnterpriseLib.Web.MVC.BaseController.htm">BaseController</a>.)</td>
+                        <div class="summary">
+     Encodes <span class="parameterItalic">target</span> to query string component.
+   </div> (Inherited from <a href="T-Suoranta.EnterpriseLib.Web.MVC.BaseController.htm">BaseController</a>.)</td>
                     </tr>
                     <tr data="protected;inherited;notNetfw;">
                       <td>
@@ -1847,44 +1669,17 @@
                       </td>
                       <td>
                         <div class="summary">
-   Generate <a href="https://docs.microsoft.com/en-us/dotnet/api/system.web.mvc.redirectresult" target="_blank">RedirectResult</a> that matches redirect described by request
+     Generate <a href="https://docs.microsoft.com/en-us/dotnet/api/system.web.mvc.redirectresult" target="_blank">RedirectResult</a> that matches redirect described by the request.
    </div> (Inherited from <a href="T-Suoranta.EnterpriseLib.Web.MVC.BaseController.htm">BaseController</a>.)</td>
                     </tr>
-                    <tr data="public;inherited;notNetfw;">
-                      <td>
-                        <img src="../icons/pubmethod.gif" alt="Public method" title="Public method" />
-                      </td>
-                      <td>
-                        <a href="https://docs.microsoft.com/en-us/dotnet/api/system.object.gettype" target="_blank">GetType</a>
-                      </td>
-                      <td> (Inherited from <a href="https://docs.microsoft.com/en-us/dotnet/api/system.object" target="_blank">Object</a>.)</td>
-                    </tr>
                     <tr data="protected;inherited;notNetfw;">
                       <td>
                         <img src="../icons/protmethod.gif" alt="Protected method" title="Protected method" />
                       </td>
                       <td>
-                        <a href="M-Suoranta.EnterpriseLib.Web.MVC.BaseController-1.GetUserString.htm">GetUserString</a>
+                        <a href="M-Suoranta.EnterpriseLib.Web.MVC.BaseController.GetUserString.htm">GetUserString</a>
                       </td>
-                      <td> (Inherited from <a href="T-Suoranta.EnterpriseLib.Web.MVC.BaseController-1.htm">BaseController<span class="languageSpecificText"><span class="cs">&lt;</span><span class="vb">(Of </span><span class="cpp">&lt;</span><span class="nu">(</span><span class="fs">&lt;'</span></span>TDbContext<span class="languageSpecificText"><span class="cs">&gt;</span><span class="vb">)</span><span class="cpp">&gt;</span><span class="nu">)</span><span class="fs">&gt;</span></span></a>.)</td>
-                    </tr>
-                    <tr data="protected;inherited;notNetfw;">
-                      <td>
-                        <img src="../icons/protmethod.gif" alt="Protected method" title="Protected method" />
-                      </td>
-                      <td>
-                        <a href="https://docs.microsoft.com/en-us/dotnet/api/system.web.mvc.controller.handleunknownaction" target="_blank">HandleUnknownAction(System.String)</a>
-                      </td>
-                      <td> (Inherited from <a href="https://docs.microsoft.com/en-us/dotnet/api/system.web.mvc.controller" target="_blank">Controller</a>.)</td>
-                    </tr>
-                    <tr data="protected;inherited;notNetfw;">
-                      <td>
-                        <img src="../icons/protmethod.gif" alt="Protected method" title="Protected method" />
-                      </td>
-                      <td>
-                        <a href="https://docs.microsoft.com/en-us/dotnet/api/system.web.mvc.controller.initialize" target="_blank">Initialize(System.Web.Routing.RequestContext)</a>
-                      </td>
-                      <td> (Inherited from <a href="https://docs.microsoft.com/en-us/dotnet/api/system.web.mvc.controller" target="_blank">Controller</a>.)</td>
+                      <td> (Inherited from <a href="T-Suoranta.EnterpriseLib.Web.MVC.BaseController.htm">BaseController</a>.)</td>
                     </tr>
                     <tr data="protected;inherited;notNetfw;">
                       <td>
@@ -1895,98 +1690,17 @@
                       </td>
                       <td>
                         <div class="summary">
-                          <a href="https://docs.microsoft.com/en-us/dotnet/api/system.web.mvc.controller.json" target="_blank">Json(System.Object)</a>
-                        </div> (Inherited from <a href="T-Suoranta.EnterpriseLib.Web.MVC.BaseController.htm">BaseController</a>.)</td>
+     Overrides <a href="https://docs.microsoft.com/en-us/dotnet/api/system.web.mvc.controller.json" target="_blank">Json(System.Object)</a> to allow selection of JSON serializer.
+   </div> (Inherited from <a href="T-Suoranta.EnterpriseLib.Web.MVC.BaseController.htm">BaseController</a>.)</td>
                     </tr>
                     <tr data="protected;inherited;notNetfw;">
                       <td>
                         <img src="../icons/protmethod.gif" alt="Protected method" title="Protected method" />
                       </td>
                       <td>
-                        <a href="https://docs.microsoft.com/en-us/dotnet/api/system.object.memberwiseclone" target="_blank">MemberwiseClone</a>
-                      </td>
-                      <td> (Inherited from <a href="https://docs.microsoft.com/en-us/dotnet/api/system.object" target="_blank">Object</a>.)</td>
-                    </tr>
-                    <tr data="protected;inherited;notNetfw;">
-                      <td>
-                        <img src="../icons/protmethod.gif" alt="Protected method" title="Protected method" />
-                      </td>
-                      <td>
-                        <a href="https://docs.microsoft.com/en-us/dotnet/api/system.web.mvc.controller.onactionexecuted" target="_blank">OnActionExecuted(System.Web.Mvc.ActionExecutedContext)</a>
-                      </td>
-                      <td> (Inherited from <a href="https://docs.microsoft.com/en-us/dotnet/api/system.web.mvc.controller" target="_blank">Controller</a>.)</td>
-                    </tr>
-                    <tr data="protected;inherited;notNetfw;">
-                      <td>
-                        <img src="../icons/protmethod.gif" alt="Protected method" title="Protected method" />
-                      </td>
-                      <td>
-                        <a href="https://docs.microsoft.com/en-us/dotnet/api/system.web.mvc.controller.onactionexecuting" target="_blank">OnActionExecuting(System.Web.Mvc.ActionExecutingContext)</a>
-                      </td>
-                      <td> (Inherited from <a href="https://docs.microsoft.com/en-us/dotnet/api/system.web.mvc.controller" target="_blank">Controller</a>.)</td>
-                    </tr>
-                    <tr data="protected;inherited;notNetfw;">
-                      <td>
-                        <img src="../icons/protmethod.gif" alt="Protected method" title="Protected method" />
-                      </td>
-                      <td>
-                        <a href="https://docs.microsoft.com/en-us/dotnet/api/system.web.mvc.controller.onauthentication" target="_blank">OnAuthentication(System.Web.Mvc.Filters.AuthenticationContext)</a>
-                      </td>
-                      <td> (Inherited from <a href="https://docs.microsoft.com/en-us/dotnet/api/system.web.mvc.controller" target="_blank">Controller</a>.)</td>
-                    </tr>
-                    <tr data="protected;inherited;notNetfw;">
-                      <td>
-                        <img src="../icons/protmethod.gif" alt="Protected method" title="Protected method" />
-                      </td>
-                      <td>
-                        <a href="https://docs.microsoft.com/en-us/dotnet/api/system.web.mvc.controller.onauthenticationchallenge" target="_blank">OnAuthenticationChallenge(System.Web.Mvc.Filters.AuthenticationChallengeContext)</a>
-                      </td>
-                      <td> (Inherited from <a href="https://docs.microsoft.com/en-us/dotnet/api/system.web.mvc.controller" target="_blank">Controller</a>.)</td>
-                    </tr>
-                    <tr data="protected;inherited;notNetfw;">
-                      <td>
-                        <img src="../icons/protmethod.gif" alt="Protected method" title="Protected method" />
-                      </td>
-                      <td>
-                        <a href="https://docs.microsoft.com/en-us/dotnet/api/system.web.mvc.controller.onauthorization" target="_blank">OnAuthorization(System.Web.Mvc.AuthorizationContext)</a>
-                      </td>
-                      <td> (Inherited from <a href="https://docs.microsoft.com/en-us/dotnet/api/system.web.mvc.controller" target="_blank">Controller</a>.)</td>
-                    </tr>
-                    <tr data="protected;inherited;notNetfw;">
-                      <td>
-                        <img src="../icons/protmethod.gif" alt="Protected method" title="Protected method" />
-                      </td>
-                      <td>
-                        <a href="https://docs.microsoft.com/en-us/dotnet/api/system.web.mvc.controller.onexception" target="_blank">OnException(System.Web.Mvc.ExceptionContext)</a>
-                      </td>
-                      <td> (Inherited from <a href="https://docs.microsoft.com/en-us/dotnet/api/system.web.mvc.controller" target="_blank">Controller</a>.)</td>
-                    </tr>
-                    <tr data="protected;inherited;notNetfw;">
-                      <td>
-                        <img src="../icons/protmethod.gif" alt="Protected method" title="Protected method" />
-                      </td>
-                      <td>
-                        <a href="https://docs.microsoft.com/en-us/dotnet/api/system.web.mvc.controller.onresultexecuted" target="_blank">OnResultExecuted(System.Web.Mvc.ResultExecutedContext)</a>
-                      </td>
-                      <td> (Inherited from <a href="https://docs.microsoft.com/en-us/dotnet/api/system.web.mvc.controller" target="_blank">Controller</a>.)</td>
-                    </tr>
-                    <tr data="protected;inherited;notNetfw;">
-                      <td>
-                        <img src="../icons/protmethod.gif" alt="Protected method" title="Protected method" />
-                      </td>
-                      <td>
-                        <a href="M-Suoranta.EnterpriseLib.Web.MVC.BaseController.OnResultExecuting.htm">OnResultExecuting(ResultExecutingContext)</a>
+                        <a href="M-Suoranta.EnterpriseLib.Web.MVC.BaseController.OnResultExecuting.htm">OnResultExecuting</a>
                       </td>
                       <td> (Inherited from <a href="T-Suoranta.EnterpriseLib.Web.MVC.BaseController.htm">BaseController</a>.)</td>
-                    </tr>
-                    <tr data="protected;inherited;notNetfw;">
-                      <td>
-                        <img src="../icons/protmethod.gif" alt="Protected method" title="Protected method" />
-                      </td>
-                      <td>
-                        <a href="https://docs.microsoft.com/en-us/dotnet/api/system.web.mvc.controller.onresultexecuting" target="_blank">OnResultExecuting(System.Web.Mvc.ResultExecutingContext)</a>
-                      </td>
-                      <td> (Inherited from <a href="https://docs.microsoft.com/en-us/dotnet/api/system.web.mvc.controller" target="_blank">Controller</a>.)</td>
                     </tr>
                     <tr data="public;declared;notNetfw;">
                       <td>
@@ -1995,88 +1709,83 @@
                       <td>
                         <a href="M-Suoranta.EnterpriseLib.Web.MVC.CrudController-3.Read.htm">Read</a>
                       </td>
-                      <td />
-                    </tr>
-                    <tr data="protected;declared;notNetfw;">
                       <td>
-                        <img src="../icons/protmethod.gif" alt="Protected method" title="Protected method" />
+                        <div class="summary">
+     Gets the children of an entity.
+   </div>
                       </td>
-                      <td>
-                        <a href="M-Suoranta.EnterpriseLib.Web.MVC.CrudController-3.ToDTO.htm">ToDTO(TRowEntity)</a>
-                      </td>
-                      <td />
                     </tr>
                     <tr data="protected;inherited;notNetfw;">
                       <td>
                         <img src="../icons/protmethod.gif" alt="Protected method" title="Protected method" />
                       </td>
                       <td>
-                        <a href="M-Suoranta.EnterpriseLib.Web.MVC.BaseController-1.ToDTO--1.htm">ToDTO<span class="languageSpecificText"><span class="cs">&lt;</span><span class="vb">(Of </span><span class="cpp">&lt;</span><span class="fs">&lt;'</span><span class="nu">(</span></span>TDTO<span class="languageSpecificText"><span class="cs">&gt;</span><span class="vb">)</span><span class="cpp">&gt;</span><span class="fs">&gt;</span><span class="nu">)</span></span>(IQueryable<span class="languageSpecificText"><span class="cs">&lt;</span><span class="vb">(Of </span><span class="cpp">&lt;</span><span class="fs">&lt;'</span><span class="nu">(</span></span>IEntity<span class="languageSpecificText"><span class="cs">&gt;</span><span class="vb">)</span><span class="cpp">&gt;</span><span class="fs">&gt;</span><span class="nu">)</span></span>)</a>
+                        <a href="M-Suoranta.EnterpriseLib.Web.MVC.CrudController-2.ToDTO.htm">ToDTO(TRowEntity)</a>
                       </td>
-                      <td> (Inherited from <a href="T-Suoranta.EnterpriseLib.Web.MVC.BaseController-1.htm">BaseController<span class="languageSpecificText"><span class="cs">&lt;</span><span class="vb">(Of </span><span class="cpp">&lt;</span><span class="nu">(</span><span class="fs">&lt;'</span></span>TDbContext<span class="languageSpecificText"><span class="cs">&gt;</span><span class="vb">)</span><span class="cpp">&gt;</span><span class="nu">)</span><span class="fs">&gt;</span></span></a>.)</td>
+                      <td> (Inherited from <a href="T-Suoranta.EnterpriseLib.Web.MVC.CrudController-2.htm">CrudController<span class="languageSpecificText"><span class="cs">&lt;</span><span class="vb">(Of </span><span class="cpp">&lt;</span><span class="nu">(</span><span class="fs">&lt;'</span></span>TRowEntity, TRowDTO<span class="languageSpecificText"><span class="cs">&gt;</span><span class="vb">)</span><span class="cpp">&gt;</span><span class="nu">)</span><span class="fs">&gt;</span></span></a>.)</td>
                     </tr>
                     <tr data="protected;inherited;notNetfw;">
                       <td>
                         <img src="../icons/protmethod.gif" alt="Protected method" title="Protected method" />
                       </td>
                       <td>
-                        <a href="M-Suoranta.EnterpriseLib.Web.MVC.BaseController-1.ToDTO--1_1.htm">ToDTO<span class="languageSpecificText"><span class="cs">&lt;</span><span class="vb">(Of </span><span class="cpp">&lt;</span><span class="fs">&lt;'</span><span class="nu">(</span></span>TDTO<span class="languageSpecificText"><span class="cs">&gt;</span><span class="vb">)</span><span class="cpp">&gt;</span><span class="fs">&gt;</span><span class="nu">)</span></span>(IEntity)</a>
+                        <a href="M-Suoranta.EnterpriseLib.Web.MVC.BaseController.ToDTO--1.htm">ToDTO<span class="languageSpecificText"><span class="cs">&lt;</span><span class="vb">(Of </span><span class="cpp">&lt;</span><span class="fs">&lt;'</span><span class="nu">(</span></span>TDto<span class="languageSpecificText"><span class="cs">&gt;</span><span class="vb">)</span><span class="cpp">&gt;</span><span class="fs">&gt;</span><span class="nu">)</span></span>(IQueryable<span class="languageSpecificText"><span class="cs">&lt;</span><span class="vb">(Of </span><span class="cpp">&lt;</span><span class="fs">&lt;'</span><span class="nu">(</span></span>IEntity<span class="languageSpecificText"><span class="cs">&gt;</span><span class="vb">)</span><span class="cpp">&gt;</span><span class="fs">&gt;</span><span class="nu">)</span></span>)</a>
                       </td>
-                      <td> (Inherited from <a href="T-Suoranta.EnterpriseLib.Web.MVC.BaseController-1.htm">BaseController<span class="languageSpecificText"><span class="cs">&lt;</span><span class="vb">(Of </span><span class="cpp">&lt;</span><span class="nu">(</span><span class="fs">&lt;'</span></span>TDbContext<span class="languageSpecificText"><span class="cs">&gt;</span><span class="vb">)</span><span class="cpp">&gt;</span><span class="nu">)</span><span class="fs">&gt;</span></span></a>.)</td>
+                      <td> (Inherited from <a href="T-Suoranta.EnterpriseLib.Web.MVC.BaseController.htm">BaseController</a>.)</td>
+                    </tr>
+                    <tr data="protected;inherited;notNetfw;">
+                      <td>
+                        <img src="../icons/protmethod.gif" alt="Protected method" title="Protected method" />
+                      </td>
+                      <td>
+                        <a href="M-Suoranta.EnterpriseLib.Web.MVC.BaseController.ToDTO--1_1.htm">ToDTO<span class="languageSpecificText"><span class="cs">&lt;</span><span class="vb">(Of </span><span class="cpp">&lt;</span><span class="fs">&lt;'</span><span class="nu">(</span></span>TDto<span class="languageSpecificText"><span class="cs">&gt;</span><span class="vb">)</span><span class="cpp">&gt;</span><span class="fs">&gt;</span><span class="nu">)</span></span>(IEntity)</a>
+                      </td>
+                      <td> (Inherited from <a href="T-Suoranta.EnterpriseLib.Web.MVC.BaseController.htm">BaseController</a>.)</td>
+                    </tr>
+                    <tr data="protected;inherited;notNetfw;">
+                      <td>
+                        <img src="../icons/protmethod.gif" alt="Protected method" title="Protected method" />
+                      </td>
+                      <td>
+                        <a href="M-Suoranta.EnterpriseLib.Web.MVC.BaseController.TraceException.htm">TraceException</a>
+                      </td>
+                      <td> (Inherited from <a href="T-Suoranta.EnterpriseLib.Web.MVC.BaseController.htm">BaseController</a>.)</td>
+                    </tr>
+                    <tr data="protected;inherited;notNetfw;">
+                      <td>
+                        <img src="../icons/protmethod.gif" alt="Protected method" title="Protected method" />
+                      </td>
+                      <td>
+                        <a href="M-Suoranta.EnterpriseLib.Web.MVC.BaseController.TrySaveChanges.htm">TrySaveChanges</a>
+                      </td>
+                      <td> (Inherited from <a href="T-Suoranta.EnterpriseLib.Web.MVC.BaseController.htm">BaseController</a>.)</td>
                     </tr>
                     <tr data="public;inherited;notNetfw;">
                       <td>
                         <img src="../icons/pubmethod.gif" alt="Public method" title="Public method" />
                       </td>
                       <td>
-                        <a href="https://docs.microsoft.com/en-us/dotnet/api/system.object.tostring" target="_blank">ToString</a>
+                        <a href="M-Suoranta.EnterpriseLib.Web.MVC.CrudController-2.Update.htm">Update</a>
                       </td>
-                      <td> (Inherited from <a href="https://docs.microsoft.com/en-us/dotnet/api/system.object" target="_blank">Object</a>.)</td>
+                      <td> (Inherited from <a href="T-Suoranta.EnterpriseLib.Web.MVC.CrudController-2.htm">CrudController<span class="languageSpecificText"><span class="cs">&lt;</span><span class="vb">(Of </span><span class="cpp">&lt;</span><span class="nu">(</span><span class="fs">&lt;'</span></span>TRowEntity, TRowDTO<span class="languageSpecificText"><span class="cs">&gt;</span><span class="vb">)</span><span class="cpp">&gt;</span><span class="nu">)</span><span class="fs">&gt;</span></span></a>.)</td>
                     </tr>
                     <tr data="protected;inherited;notNetfw;">
                       <td>
                         <img src="../icons/protmethod.gif" alt="Protected method" title="Protected method" />
                       </td>
                       <td>
-                        <a href="M-Suoranta.EnterpriseLib.Web.MVC.BaseController-1.TraceException.htm">TraceException</a>
+                        <a href="M-Suoranta.EnterpriseLib.Web.MVC.CrudController-2.UpdateEntity.htm">UpdateEntity(TRowDTO)</a>
                       </td>
-                      <td> (Inherited from <a href="T-Suoranta.EnterpriseLib.Web.MVC.BaseController-1.htm">BaseController<span class="languageSpecificText"><span class="cs">&lt;</span><span class="vb">(Of </span><span class="cpp">&lt;</span><span class="nu">(</span><span class="fs">&lt;'</span></span>TDbContext<span class="languageSpecificText"><span class="cs">&gt;</span><span class="vb">)</span><span class="cpp">&gt;</span><span class="nu">)</span><span class="fs">&gt;</span></span></a>.)</td>
+                      <td> (Inherited from <a href="T-Suoranta.EnterpriseLib.Web.MVC.CrudController-2.htm">CrudController<span class="languageSpecificText"><span class="cs">&lt;</span><span class="vb">(Of </span><span class="cpp">&lt;</span><span class="nu">(</span><span class="fs">&lt;'</span></span>TRowEntity, TRowDTO<span class="languageSpecificText"><span class="cs">&gt;</span><span class="vb">)</span><span class="cpp">&gt;</span><span class="nu">)</span><span class="fs">&gt;</span></span></a>.)</td>
                     </tr>
                     <tr data="protected;inherited;notNetfw;">
                       <td>
                         <img src="../icons/protmethod.gif" alt="Protected method" title="Protected method" />
                       </td>
                       <td>
-                        <a href="M-Suoranta.EnterpriseLib.Web.MVC.BaseController-1.TrySaveChanges.htm">TrySaveChanges</a>
+                        <a href="M-Suoranta.EnterpriseLib.Web.MVC.BaseController.UpdateEntity--1.htm">UpdateEntity<span class="languageSpecificText"><span class="cs">&lt;</span><span class="vb">(Of </span><span class="cpp">&lt;</span><span class="fs">&lt;'</span><span class="nu">(</span></span>TEntity<span class="languageSpecificText"><span class="cs">&gt;</span><span class="vb">)</span><span class="cpp">&gt;</span><span class="fs">&gt;</span><span class="nu">)</span></span>(IDataTransferObject)</a>
                       </td>
-                      <td> (Inherited from <a href="T-Suoranta.EnterpriseLib.Web.MVC.BaseController-1.htm">BaseController<span class="languageSpecificText"><span class="cs">&lt;</span><span class="vb">(Of </span><span class="cpp">&lt;</span><span class="nu">(</span><span class="fs">&lt;'</span></span>TDbContext<span class="languageSpecificText"><span class="cs">&gt;</span><span class="vb">)</span><span class="cpp">&gt;</span><span class="nu">)</span><span class="fs">&gt;</span></span></a>.)</td>
-                    </tr>
-                    <tr data="public;declared;notNetfw;">
-                      <td>
-                        <img src="../icons/pubmethod.gif" alt="Public method" title="Public method" />
-                      </td>
-                      <td>
-                        <a href="M-Suoranta.EnterpriseLib.Web.MVC.CrudController-3.Update.htm">Update</a>
-                      </td>
-                      <td />
-                    </tr>
-                    <tr data="protected;declared;notNetfw;">
-                      <td>
-                        <img src="../icons/protmethod.gif" alt="Protected method" title="Protected method" />
-                      </td>
-                      <td>
-                        <a href="M-Suoranta.EnterpriseLib.Web.MVC.CrudController-3.UpdateEntity.htm">UpdateEntity(TRowDTO)</a>
-                      </td>
-                      <td />
-                    </tr>
-                    <tr data="protected;inherited;notNetfw;">
-                      <td>
-                        <img src="../icons/protmethod.gif" alt="Protected method" title="Protected method" />
-                      </td>
-                      <td>
-                        <a href="M-Suoranta.EnterpriseLib.Web.MVC.BaseController-1.UpdateEntity--1.htm">UpdateEntity<span class="languageSpecificText"><span class="cs">&lt;</span><span class="vb">(Of </span><span class="cpp">&lt;</span><span class="fs">&lt;'</span><span class="nu">(</span></span>TEntity<span class="languageSpecificText"><span class="cs">&gt;</span><span class="vb">)</span><span class="cpp">&gt;</span><span class="fs">&gt;</span><span class="nu">)</span></span>(IDataTransferObject)</a>
-                      </td>
-                      <td> (Inherited from <a href="T-Suoranta.EnterpriseLib.Web.MVC.BaseController-1.htm">BaseController<span class="languageSpecificText"><span class="cs">&lt;</span><span class="vb">(Of </span><span class="cpp">&lt;</span><span class="nu">(</span><span class="fs">&lt;'</span></span>TDbContext<span class="languageSpecificText"><span class="cs">&gt;</span><span class="vb">)</span><span class="cpp">&gt;</span><span class="nu">)</span><span class="fs">&gt;</span></span></a>.)</td>
+                      <td> (Inherited from <a href="T-Suoranta.EnterpriseLib.Web.MVC.BaseController.htm">BaseController</a>.)</td>
                     </tr>
                   </table>
                 </div>
@@ -2091,7 +1800,7 @@
                     <!---->
                   </a>
                   <div class="seeAlsoStyle">
-                    <a href="T-Suoranta.EnterpriseLib.Web.MVC.CrudController-3.htm">CrudController<span class="languageSpecificText"><span class="cs">&lt;</span><span class="vb">(Of </span><span class="cpp">&lt;</span><span class="nu">(</span><span class="fs">&lt;'</span></span>TDbContext, TRowEntity, TRowDTO<span class="languageSpecificText"><span class="cs">&gt;</span><span class="vb">)</span><span class="cpp">&gt;</span><span class="nu">)</span><span class="fs">&gt;</span></span> Class</a>
+                    <a href="T-Suoranta.EnterpriseLib.Web.MVC.CrudController-3.htm">CrudController<span class="languageSpecificText"><span class="cs">&lt;</span><span class="vb">(Of </span><span class="cpp">&lt;</span><span class="nu">(</span><span class="fs">&lt;'</span></span>TParentEntity, TRowEntity, TRowDTO<span class="languageSpecificText"><span class="cs">&gt;</span><span class="vb">)</span><span class="cpp">&gt;</span><span class="nu">)</span><span class="fs">&gt;</span></span> Class</a>
                   </div>
                   <div class="seeAlsoStyle">
                     <a href="N-Suoranta.EnterpriseLib.Web.MVC.htm">Suoranta.EnterpriseLib.Web.MVC Namespace</a>
@@ -2103,14 +1812,12 @@
         </div>
       </div>
       <div class="footer">
-        <div id="footer" class="footerContainer">
+        <div id="footer" class="footerContainer" style="border-top-width:0px;">
           <div class="footerLogoContainer">
             <div style="margin-top:5px">
-              <span class="customCopyrightFooter">Version 1.2.777.139</span>
+              <span class="customCopyrightFooter">Version 1.2.1031.323</span>
             </div>
-            <div style="margin-top:5px" class="copyrightFooter">
-              <a href="http://submain.com/fwlink/gd-help/generated/">Created with evaluation copy of GhostDoc Enterprise. Click here to purchase and remove this link.</a>
-            </div>
+            <div style="margin-top:5px" class="copyrightFooter" />
             <div> </div>
           </div>
         </div>
