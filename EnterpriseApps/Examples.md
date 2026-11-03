@@ -1,0 +1,195 @@
+# Examples: Suoranta.EnterpriseLib
+Some design choices adopted in EnterpriseLib:
+- EnterpriseLib relies on technology stack comprising the most well-established base packages, most important being Entity Framework and AutoMapper.
+- Within the chosen stack, EnterpriseLib strives to offer flexibility to accomodate complex needs. For instance, the application can have multiple DbContext types, and those do not have to use the same database provider.
+- EnterpriseLib loves attributes and declarative style. Attribute use can often be bypassed, but it is a good idea to add EnterpriseLib attributes just to clarify intent.
+
+## Entity-DTO-Entity transformations ([Suoranta.EnterpriseLib.Util.AutoMapper](Suoranta.EnterpriseLib/html/1810966105.htm))
+EnterpriseLib simplifies configuring [AutoMapper](https://automapper.io/) in scenarios that involve graphs of database entities. The key base classes are:
+- `EntityProfile` (derives AutoMapper's `Profile` class)
+- `DTO<T>` for DTO types. DTO types are not required to be derived, but should always implement `IDataTransferObject`.
+- `EntityResolver<TDto, TEntity>`, provides implementations for AutoMapper's `IValueResolver` interface.
+
+[Suoranta.WebApp](../Suoranta.WebApp/) defines two related attributes: 
+- `DTOText` should be used to decorate the property that provides the basic text representation for the instance.
+- If DTO wraps a singular value, that should be decorated with `DTOValue` attribute.
+
+An example of DTO class is given below. Note that the type parameter is the derived class. This is purely due to performance considerations: retrieving runtime type information for each instance of a derived type is inefficient, and the type parameter is the simplest way to circumvent this.
+```csharp
+public class PersonDTO : DTO<PersonDTO>, IDataTransferObject
+{
+    #region Entity props
+    [DisplayName("First Name")]     public string FirstName { get; set; }
+    [DisplayName("Last Name")]      public string LastName { get; set; }
+    [DisplayName("Date of Birth")]  public DateTime BirthDate { get; set; }
+    [DisplayName("Nationality")]    public string Nationality { get; set; }
+    [DisplayName("Address")]        public int AddressId { get; set; }
+    #endregion
+
+    [DisplayName("Name"), DTOText]  public string Name { get; set; }
+    [Browsable(false)]              public AddressDTO Address { get; set; }
+    [DisplayName("Street Address")] public string StreetAddress => Address.Name;
+
+    public override Type EntityType => typeof(Person);
+}
+```
+
+Updating database entities requires DTO to be fully "reattached" to the original entity graph. Manual configuration of AutoMapper for this purpose is often extremely painful and time-consuming. Instead, create `EntityResolver` for each entity type that has updateable navigation properties. Single derived class can implement all the needed `IValueResolver`s for the particular entity class.
+```csharp
+public class PersonResolver : EntityResolver<PersonDTO, Person>, IValueResolver<PersonDTO, Person, Address>
+{
+    public PersonResolver(DbContext dbContext) : base(dbContext)
+    { }
+
+    public Address Resolve(PersonDTO source, Person destination, Address destMember, ResolutionContext context)
+        => Resolve<Address>(source, destination, destMember, context);
+}
+```
+Sidenote: At least from Entity Framework perspective, AutoMapper goes to excess in that `IValueResolver` has three (independent) type parameters. The task of reattaching any DTO to an entity, primary or nested, should depend only on the type of that specific entity. In the example above, this means that `source` and `destination` parameters of `Resolve` method are generally redundant. Future versions of EnterpriseLib will likely provide a resolver base class in tune with this consideration.
+
+The AutoMapper `Profile` for the preceding types is as follows:
+```csharp
+public class Maps : EntityProfile
+{
+    public Maps()
+    {
+        CreateMap<Address, AddressDTO>()
+            .ForMember(dto => dto.Name, conf => conf.MapFrom(Address.StreetAddress));
+        CreateMap<Person, PersonDTO>()
+            .ForMember(dto => dto.Name, conf => conf.MapFrom(p => p.FirstName + " " + p.LastName))
+            .AutoIgnore();
+
+        // Reverse mappings from DTO to entity
+        PersonDTOToPerson();
+    }
+
+    IMappingExpression<PersonDTO, Person> PersonDTOToPerson()
+    {
+        // GetEntity returns DB entity or creates a new one if a matching id is not found in the DB
+        return CreateMapToEntity<PersonDTO, Person, PersonResolver>()
+            .ForMember(entity => entity.Address, conf => conf.MapFrom<PersonResolver>());
+    }
+}
+```
+
+## DTO-To-LINQ ([Suoranta.EnterpriseLib.Linq](../Suoranta.EnterpriseLib/html/624944415.htm))
+EnterpriseLib's DTO-To-LINQ provides a lightweight, easily customizable alternative to OData.
+
+Assume we have a database-backed entity class `Post` and we want to build a form to query entities flexibly. Here's an excerpt from the class definion:
+```csharp
+public class Post : Entity
+{
+    public BlogReaderType ReaderType { get; set; }
+
+    // ...
+
+    [NotMapped] public DateTime RangeStart => PublishedDate;
+
+    [NotMapped] public DateTime RangeEnd => ExpirationDate;
+}
+```
+
+```csharp
+public enum BlogReaderType
+{
+    Minor            = 1,
+    Adult            = 2,
+    PartyMember      = 4,
+    SecurityPolice   = 8,
+    // ...
+}
+```
+The full enum has additional fields decorated with `Mask` attribute to indicate that they are not primary settable values but define multi-value filtration options. Advanced modeling features such as this are an essential quality of EnterpriseLib, but we leave this part out of this basic example.
+
+Data transfer objects (DTOs) that represent a query translateable to LINQ derive from `EntityQuery<T>`, where the type parameter represents the queryable entity type.
+```csharp
+public class PostQueryFormData : EntityQuery<Post>
+{
+    [ValueFilter(nameof(Post.ReaderType), Comparison.Equal)]
+    public int CensorshipLevel { get; set; }
+
+    [RangeFilter(nameof(Post.RangeStart), nameof(Post.RangeEnd), FilterMode = RangeFilterMode.OverlapsRange)]
+    public DateRange DateRange { get; set; }
+}
+```
+As we can see, the interpretation of query parameters is defined by decorating them with attributes. Names of the entity properties, given to the attribute as parameter, can be navigation properties. The query is constructed by calling its `ApplyAllFilters` method. This does not enumerate the results, hence custom LINQ can be appended before the query is actually executed against the database.
+
+Built-in filters are defined in namespace `Suoranta.EnterpriseLib.Linq.Filters`.
+
+### Range input
+In the example above, input date range is represented by the class `DateRange`. On the client (DTO) side (unlike with the database side), structuring data by nesting is generally a good idea. `DateRange` simply needs to implement the simple `IRange` interface defined by EnterpriseLib. `RangeFilterAttribute` also supports flat DTOs having separate properties for the range bounds. The attribute is in such case applied on the DTO class:
+```csharp
+[RangeFilter(nameof(RangeStart), nameof(RangeEnd), FilterMode = RangeFilterMode.OverlapsRange)]
+public class PostQueryFormData : EntityQuery<Post>
+{
+    [ValueFilter(nameof(Post.ReaderType), Comparison.Equal)]
+    public int CensorshipLevel { get; set; }
+    public DateTime RangeStart { get; set; }
+    public DateTime RangeEnd { get; set; }
+}
+```
+The attribute can be applied multiple times. See the API documentation for more details.
+
+### StringSetFilter
+Many (legacy) databases contain string (char or varchar) columns that represent a value from a fixed set of choices. Furthermore, the data might not be fully normalized: the typical issue is variation in character casing. EnterpriseLib provides the specialized base class `StringSetFilter` to ensure robust querying of these columns. The filter is used by creating a derived class:
+```csharp
+public class CountryFilter : StringSetFilter
+{
+    public CountryFilter(params string[] values) : base(values)
+    { }
+
+    public const string Finland = "FINLAND";
+    public const string Sweden = "SWEDEN";
+    public const string UK = "United Kingdom";
+    public const string USA = "UNITED STATES";
+}
+```
+The set of all known database values can be defined in two ways:
+- Defining them as constant fields of the class, as seen above.
+- By overriding the `GetAllValues` method.
+
+The filter is included in a DTO as follows:
+```csharp
+[StringSetFilter("Address.Country")]
+public string Country { get; }
+```
+In the example above, the target property is a navigation property of Address entity.
+
+## Data Mocking/Sanitization ([Suoranta.EnterpriseLib.Util.MockData](../Suoranta.EnterpriseLib/html/530657435.htm))
+Developing and testing enterprise applications often requires fair sample of data that the application is used to process. Actual real world data can be used and is usually best where it does not contain personal information of customers or other sensitivies. EnterpriseLib has an extendable framework to generate randomized mock data of desired kind. Such data can be used in itself, or EnterpriseLib can sanitize the sensitive fields in an existing data set.
+
+To replace sensitive fields in existing data, start by decorating the properties with `Replace` attribute:
+```csharp
+public class Person
+{
+    // ...
+    [Replace(typeof(HetuGenerator))] public string PersonId { get; set; }
+    //...
+}
+```
+Above, `Person` represents an actual entity class within the application being tested. `HetuGenerator` is a built-in class that implements EnterpriseLib's `IPersonIdGenerator` interface for _henkilötunnus_, the Finnish national id. To sanitize entities, use the class `PropertyReplacer`:
+```csharp
+PropertyReplacer<Person> replacer = new PropertyReplacer<Person>();
+
+foreach (Person p in dataToSanitize)
+{
+    replacer.Process(p);
+}
+```
+
+For person data, there is also an built-in option that does not use the `Replace` attribute:
+```csharp
+var replacer = new PersonGenerator(nameof(Person.FirstName), 
+                                   nameof(Person.LastName), 
+                                   nameof(Person.DateOfBirth),
+                                   nameof(Person.PersonId));
+foreach (Person p in dataToSanitize)
+{
+    Sex sex = Sex.Either; // extract the actual sex of Person p, or randomize using Sex.Either
+    replacer.FillWithRandom(p, sex);
+}
+```
+The advantage of this method is that person ID often encodes the date of birth and sex, and the first name and sex are interlinked.
+
+### Localization of Generated Data
+Randomization of text items such as first and last names is localized. The lists from which random values are picked can be set to match the desired culture (language). For example, if the application is being developed for use in Germany, the randomized names are generated from lists of German first and last names.
