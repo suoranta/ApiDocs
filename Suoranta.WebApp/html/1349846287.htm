@@ -108,12 +108,32 @@
 <img src="../Item.gif"/><a class="UnselectedNode" onclick="javascript: return SelectNode(this);" href="698119882.htm" target="_self">EventType Enumeration</a>
 </div>
 <div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="1391465909.htm" target="_self">FormattedTextBuilder(TBuilder) Class</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeNode">
 <img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="1852158033.htm" target="_self">HtmlAttribute Class</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="1066266092.htm" target="_self">IHtmlHelper Interface</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="806839709.htm" target="_self">IHtmlHelper(TPageModel) Interface</a>
 <div class="Hidden">
 </div>
 </div>
 <div class="TreeItem">
 <img src="../Item.gif"/><a class="UnselectedNode" onclick="javascript: return SelectNode(this);" href="36280043.htm" target="_self">IndentMode Enumeration</a>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="655391511.htm" target="_self">IWebViewPage Interface</a>
+<div class="Hidden">
+</div>
 </div>
 <div class="TreeNode">
 <img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="99996703.htm" target="_self">IWriteTo Interface</a>
@@ -139,6 +159,9 @@
 <img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="33449262.htm" target="_self">ValueTranslationAttribute Class</a>
 <div class="Hidden">
 </div>
+</div>
+<div class="TreeItem">
+<img src="../Item.gif"/><a class="UnselectedNode" onclick="javascript: return SelectNode(this);" href="246019784.htm" target="_self">WidgetOptions Enumeration</a>
 </div>
 <div class="TreeItem">
 <img src="../Item.gif"/><a class="UnselectedNode" onclick="javascript: return SelectNode(this);" href="202594023.htm" target="_self">WriterOptions Enumeration</a>
@@ -422,29 +445,6 @@
 </div>
 </div>
 <div class="TreeNode">
-<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="4734632.htm" target="_self">Suoranta.WebApp.Interfaces Namespace</a>
-<div class="Hidden">
-<div class="TreeNode">
-<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="1971696278.htm" target="_self">IHtmlHelper Interface</a>
-<div class="Hidden">
-</div>
-</div>
-<div class="TreeNode">
-<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="1212765857.htm" target="_self">IHtmlHelper(TPageModel) Interface</a>
-<div class="Hidden">
-</div>
-</div>
-<div class="TreeNode">
-<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="2122301109.htm" target="_self">IWebViewPage Interface</a>
-<div class="Hidden">
-</div>
-</div>
-<div class="TreeItem">
-<img src="../Item.gif"/><a class="UnselectedNode" onclick="javascript: return SelectNode(this);" href="1231411846.htm" target="_self">WidgetOptions Enumeration</a>
-</div>
-</div>
-</div>
-<div class="TreeNode">
 <img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="1431343363.htm" target="_self">Suoranta.WebApp.Kendo Namespace</a>
 <div class="Hidden">
 <div class="TreeItem">
@@ -644,21 +644,6 @@
 </div>
 <div class="TreeNode">
 <img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="1281316950.htm" target="_self">WidgetFactoryExtensions Class</a>
-<div class="Hidden">
-</div>
-</div>
-</div>
-</div>
-<div class="TreeNode">
-<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="1452482921.htm" target="_self">Suoranta.WebApp.LM Namespace</a>
-<div class="Hidden">
-<div class="TreeNode">
-<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="1009680618.htm" target="_self">Generator Class</a>
-<div class="Hidden">
-</div>
-</div>
-<div class="TreeNode">
-<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="406434503.htm" target="_self">Util Class</a>
 <div class="Hidden">
 </div>
 </div>
@@ -1337,7 +1322,7 @@
                       </td>
                       <td>
                         <div class="summary">
-   Builds a HTML anchor ("a") element.
+   Builds a HTML anchor (<span class="code">a</span>) element.
    </div>
                       </td>
                     </tr>
@@ -1350,7 +1335,7 @@
                       </td>
                       <td>
                         <div class="summary">
-     Provides shortcut to attach names of CSS styles and classes.
+     Provides shortcut to the names of CSS styles (<a href="1182326245.htm">CssBase</a>) and classes.
    </div>
                       </td>
                     </tr>
@@ -1372,7 +1357,7 @@
                       </td>
                       <td>
                         <div class="summary">
-   Provides CSS style names.
+   Provides the CSS style names that other WebApp classes use.
    </div>
                       </td>
                     </tr>
@@ -1394,7 +1379,7 @@
                       </td>
                       <td>
                         <div class="summary">
-                          <a href="238869364.htm">VisualElementBuilder</a> for HTML div element.
+                          <a href="238869364.htm">VisualElementBuilder</a> for HTML <span class="code">div</span> elements.
    </div>
                       </td>
                     </tr>
@@ -1405,7 +1390,11 @@
                       <td>
                         <a href="1315716394.htm">FormattedElementBuilder</a>
                       </td>
-                      <td />
+                      <td>
+                        <div class="summary">
+   Base class for HTML elements that have inline <span class="code">style</span>.
+   </div>
+                      </td>
                     </tr>
                     <tr>
                       <td>
@@ -1438,7 +1427,11 @@
                       <td>
                         <a href="1836062331.htm">FormInputStyleBuilder</a>
                       </td>
-                      <td />
+                      <td>
+                        <div class="summary">
+                          <a href="369839896.htm">StyleBlockBuilder</a> CSS variables related to input elements of forms (defined in <span class="code">w.content.css</span>).
+   </div>
+                      </td>
                     </tr>
                     <tr>
                       <td>
@@ -1449,7 +1442,7 @@
                       </td>
                       <td>
                         <div class="summary">
-                          <a href="1277339860.htm">TagBuilder</a> for the HTML head element.
+                          <a href="1277339860.htm">TagBuilder</a> for the HTML <span class="code">head</span> element.
    </div>
                       </td>
                     </tr>
@@ -1473,7 +1466,11 @@
                       <td>
                         <a href="556820932.htm">HtmlFormatter</a>
                       </td>
-                      <td />
+                      <td>
+                        <div class="summary">
+   Formats types <a href="1055909058.htm">DimensionalUnit</a>, <a href="726574291.htm">DimensionalValue</a>, and <a href="1161897902.htm">DimensionalValues</a> into HTML.
+   </div>
+                      </td>
                     </tr>
                     <tr>
                       <td>
@@ -1504,7 +1501,11 @@
                       <td>
                         <a href="718945925.htm">Margin</a>
                       </td>
-                      <td />
+                      <td>
+                        <div class="summary">
+   Holds the four CSS <span class="code">margin</span> values.
+   </div>
+                      </td>
                     </tr>
                     <tr>
                       <td>
@@ -1515,7 +1516,7 @@
                       </td>
                       <td>
                         <div class="summary">
-                          <a href="1277339860.htm">TagBuilder</a> for HTML meta elements.
+                          <a href="1277339860.htm">TagBuilder</a> for HTML <span class="code">meta</span> elements.
    </div>
                       </td>
                     </tr>
@@ -1526,7 +1527,11 @@
                       <td>
                         <a href="820290008.htm">Padding</a>
                       </td>
-                      <td />
+                      <td>
+                        <div class="summary">
+   Holds the four CSS <span class="code">padding</span> values.
+   </div>
+                      </td>
                     </tr>
                     <tr>
                       <td>
@@ -1537,7 +1542,7 @@
                       </td>
                       <td>
                         <div class="summary">
-                          <a href="1277339860.htm">TagBuilder</a> HTML document script blocks.
+                          <a href="1277339860.htm">TagBuilder</a> HTML document <span class="code">script</span> elements.
    </div>
                       </td>
                     </tr>
@@ -1572,7 +1577,7 @@
                       </td>
                       <td>
                         <div class="summary">
-                          <a href="1277339860.htm">TagBuilder</a> for HTML/CSS style blocks.
+                          <a href="1277339860.htm">TagBuilder</a> for HTML/CSS <span class="code">style</span> blocks.
    </div>
                       </td>
                     </tr>
@@ -1610,7 +1615,11 @@
                       <td>
                         <a href="1311439964.htm">TemplateBuilder</a>
                       </td>
-                      <td />
+                      <td>
+                        <div class="summary">
+                          <a href="1277339860.htm">TagBuilder</a> for the HTML <span class="code">template</span> elements.
+   </div>
+                      </td>
                     </tr>
                     <tr>
                       <td>
@@ -1670,7 +1679,7 @@ Token whose disposal triggers <span class="nolink">[IFormBuilder.WriteEndTag(Sys
                       </td>
                       <td>
                         <div class="summary">
-   Provides <a href="1971696278.htm">IHtmlHelper</a> extension for Razor pages.
+   Provides <a href="1066266092.htm">IHtmlHelper</a> extension for Razor pages.
    </div>
                       </td>
                     </tr>
@@ -1690,7 +1699,11 @@ Token whose disposal triggers <span class="nolink">[IFormBuilder.WriteEndTag(Sys
                       <td>
                         <a href="1155396410.htm">WidgetBuilder</a>
                       </td>
-                      <td />
+                      <td>
+                        <div class="summary">
+   Base class for types that build Bootstrap, WebApp, and Winbox widgets.
+   </div>
+                      </td>
                     </tr>
                   </table>
                 </div>
@@ -1757,7 +1770,11 @@ Token whose disposal triggers <span class="nolink">[IFormBuilder.WriteEndTag(Sys
                       <td>
                         <a href="1370912008.htm">ButtonStyle</a>
                       </td>
-                      <td />
+                      <td>
+                        <div class="summary">
+   Defines Bootstrap button styles.
+   </div>
+                      </td>
                     </tr>
                     <tr>
                       <td>
@@ -1784,7 +1801,11 @@ Token whose disposal triggers <span class="nolink">[IFormBuilder.WriteEndTag(Sys
                       <td>
                         <a href="1055909058.htm">DimensionalUnit</a>
                       </td>
-                      <td />
+                      <td>
+                        <div class="summary">
+   Defines CSS units of dimension/size.
+   </div>
+                      </td>
                     </tr>
                     <tr>
                       <td>
@@ -1793,7 +1814,11 @@ Token whose disposal triggers <span class="nolink">[IFormBuilder.WriteEndTag(Sys
                       <td>
                         <a href="772982468.htm">HtmlDisplayAttribute</a>
                       </td>
-                      <td />
+                      <td>
+                        <div class="summary">
+   Defines selectable values of HTML <span class="code">display</span> attribute.
+   </div>
+                      </td>
                     </tr>
                     <tr>
                       <td>
@@ -1833,7 +1858,11 @@ Token whose disposal triggers <span class="nolink">[IFormBuilder.WriteEndTag(Sys
                       <td>
                         <a href="759388410.htm">WidgetSize</a>
                       </td>
-                      <td />
+                      <td>
+                        <div class="summary">
+   Bootstrap size options for widgets.
+   </div>
+                      </td>
                     </tr>
                   </table>
                 </div>

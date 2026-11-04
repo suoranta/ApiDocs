@@ -8,7 +8,7 @@ Note: Most presentation-related attributes and enums are part of the 'Unified Pr
 - [Suoranta.NaturalLanguage](Suoranta.NaturalLanguage/): Advanced text pattern searching in documents and images, transliteration, other functionalities related to natural language processing.
 - [Suoranta.Speech](Suoranta.Speech/): Voice commands for WinForms and other .NET apps.
 - [Suoranta.Storage](Suoranta.Storage/): Virtual file system, binary formatter framework.
-- [Suoranta.WebApp](Suoranta.WebApp/): Upgraded Razor infrastructure, custom widgets framework, KendoUI accelerators, and more. JavaScript support modules not covered in this documentation. Currently for classic ASP.NET MVC but most would be useful in ASP.NET Core.
+- [Suoranta.WebApp](Suoranta.WebApp/): Upgraded Razor infrastructure, custom widgets framework, Bootstrap & Kendo UI Razor accelerators, and more. JavaScript support modules not covered in this documentation. Currently for classic ASP.NET MVC but most would be useful in ASP.NET Core.
 
 See the [dependency diagram of all packages](PackageDependencies.html).
 
