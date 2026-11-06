@@ -3,6 +3,7 @@ Here you can find documentation of public APIs for [my](https://www.linkedin.com
 Note: Most presentation-related attributes and enums are part of the 'Unified Presentation Model' and defined in Suoranta.BaseLib. The model is to ensure easy portability of custom business objects between platforms (Desktop and Web).
 
 ## Packages
+- [Suoranta.DocBuilder](Suoranta.DocBuilder/): Build HTML and Markdown documents flexibly with fluent syntax.
 - [Suoranta.EnterpriseLib](Suoranta.EnterpriseLib/): DTO-To-LINQ (or "query objects"), MVC/WebAPI base controllers, Entity-DTO-Entity mapping, mock data generation, HTTP client hints middleware, application hosts,other functionalities related to Entity Framework and ASP.NET MVC enterprise applications. (Note: Covers three packages. Some functionalities are only for classic ASP.NET MVC as they are not needed in ASP.NET Core.) [Examples](EnterpriseApps/Examples.html) [Presentation](EnterpriseApps/EnterpriseLib.pdf)
 - [Suoranta.Finance](Suoranta.Finance/): Fundamental & quantitative finance framework. Types related to financial markets, particularly different kinds of time series. 
 - [Suoranta.NaturalLanguage](Suoranta.NaturalLanguage/): Advanced text pattern searching in documents and images, transliteration, other functionalities related to natural language processing.

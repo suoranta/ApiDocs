@@ -1,0 +1,973 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="e4e4b789-2fe8-4949-88d8-7dcf390e2284" Title="Suoranta.IO Namespace" Url="html/1390582279.htm">
+    <HelpTOCNode Id="e241063e-6d86-4b6b-9be6-f620b4989a93" Title="ConfigurationExtensions Class" Url="html/419913095.htm">
+      <HelpTOCNode Title="ConfigurationExtensions Members" Url="html/1583576631.htm" />
+      <HelpTOCNode Id="d95988ec-ad5e-4a66-9b58-677ebf72794f" Title="ConfigurationExtensions Methods" Url="html/544362591.htm">
+        <HelpTOCNode Title="AddDocBuilders Method " Url="html/1191044651.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="e356204a-b06c-4282-9ab2-ae308efc9454" Title="DocBuilderException Class" Url="html/238660455.htm">
+      <HelpTOCNode Title="DocBuilderException Members" Url="html/90290081.htm" />
+      <HelpTOCNode Id="af1f443b-ead0-486b-835b-7263ebca4c64" Title="DocBuilderException Methods" Url="html/616102811.htm">
+        <HelpTOCNode Id="89b83b23-1849-4a9e-81d2-3e898c9dfbb8" Title="GetObjectData Method " Url="html/134446554.htm">
+          <HelpTOCNode Title="GetObjectData Method " Url="html/1842609745.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Title="DocBuilderException Properties" Url="html/484776226.htm" />
+      <HelpTOCNode Title="DocBuilderException Events" Url="html/1637053366.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Title="DocumentType Enumeration" Url="html/1051159652.htm" />
+    <HelpTOCNode Title="ExtendedValueFormatter(TValue) Delegate" Url="html/1957826922.htm" />
+    <HelpTOCNode Id="f4f381d3-7f29-443e-881a-5b93343e97e8" Title="Extensions Class" Url="html/13131221.htm">
+      <HelpTOCNode Title="Extensions Members" Url="html/1044317211.htm" />
+      <HelpTOCNode Id="289eb3b3-80d0-4ced-a266-13698fd0e100" Title="Extensions Methods" Url="html/2139577885.htm">
+        <HelpTOCNode Title="ToHtml Method " Url="html/618523977.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="HeadingLevel Enumeration" Url="html/597503349.htm" />
+    <HelpTOCNode Id="3944f65d-49dc-445f-94ca-1c64ac1b07ee" Title="HtmlException Class" Url="html/1148155315.htm">
+      <HelpTOCNode Title="HtmlException Members" Url="html/36982901.htm" />
+      <HelpTOCNode Title="HtmlException Methods" Url="html/1006280469.htm" />
+      <HelpTOCNode Title="HtmlException Properties" Url="html/1224772430.htm" />
+      <HelpTOCNode Title="HtmlException Events" Url="html/1194531794.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="f164f8d3-5443-4516-babf-83bf0b1005dd" Title="IElementCollectionBuilder Interface" Url="html/2002957547.htm">
+      <HelpTOCNode Title="IElementCollectionBuilder Members" Url="html/537272601.htm" />
+      <HelpTOCNode Id="23353fbf-39fb-4712-964d-06f9b2315a50" Title="IElementCollectionBuilder Methods" Url="html/2144238681.htm">
+        <HelpTOCNode Title="Add Method " Url="html/1817182297.htm" />
+        <HelpTOCNode Title="AddRange Method " Url="html/908953635.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="a1e5ea51-aa92-4bf5-8b2a-f49a0fa0ebcd" Title="IHtmlBuilder Interface" Url="html/1454155140.htm">
+      <HelpTOCNode Title="IHtmlBuilder Members" Url="html/273073948.htm" />
+      <HelpTOCNode Id="74ea4b6b-b0e1-4f82-8ca6-c07d3fbd56ac" Title="IHtmlBuilder Methods" Url="html/1470532.htm">
+        <HelpTOCNode Title="CloseTag Method " Url="html/1525255311.htm" />
+        <HelpTOCNode Title="OpenCustomTag Method " Url="html/918798537.htm" />
+        <HelpTOCNode Id="e5d70d00-990a-47c8-9fa2-c6d2391565b5" Title="OpenTag Method " Url="html/263246508.htm">
+          <HelpTOCNode Title="OpenTag Method (String, String)" Url="html/1919972358.htm" />
+          <HelpTOCNode Title="OpenTag Method (String, HtmlAttributeCollection)" Url="html/1471402291.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="8aad17e2-902a-4abc-8812-469eb6c287f7" Title="IHtmlContent Interface" Url="html/552981014.htm">
+      <HelpTOCNode Title="IHtmlContent Members" Url="html/90627294.htm" />
+      <HelpTOCNode Id="8da9aaf9-5f2a-4054-8d64-e408aaa81cb8" Title="IHtmlContent Methods" Url="html/557400414.htm">
+        <HelpTOCNode Title="ToHtmlString Method " Url="html/1859323336.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="9b25eca8-36a8-41cf-a57f-a0148d53f09a" Title="IHtmlElement Interface" Url="html/2063051707.htm">
+      <HelpTOCNode Title="IHtmlElement Members" Url="html/1249987933.htm" />
+      <HelpTOCNode Id="c6505aac-07e4-4e2d-9a66-9093b19c0c5c" Title="IHtmlElement Methods" Url="html/743126255.htm">
+        <HelpTOCNode Title="ToHtmlString Method " Url="html/493124077.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="7db96dea-bcb5-4a1d-b581-083098152f39" Title="IHtmlElementBuilder Interface" Url="html/1259704434.htm">
+      <HelpTOCNode Title="IHtmlElementBuilder Members" Url="html/578551378.htm" />
+      <HelpTOCNode Id="27f23e24-9c47-44f8-86a9-93251c68cea2" Title="IHtmlElementBuilder Methods" Url="html/1221940902.htm">
+        <HelpTOCNode Title="EndElement Method " Url="html/106239386.htm" />
+        <HelpTOCNode Title="SetCssClass Method " Url="html/2049424649.htm" />
+        <HelpTOCNode Title="ToHtmlString Method " Url="html/1092980612.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="06fdd8a8-e08f-41aa-8037-9f51c547f917" Title="IHtmlParagraphBuilder Interface" Url="html/1501182800.htm">
+      <HelpTOCNode Title="IHtmlParagraphBuilder Methods" Url="html/1813049212.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="e2f03ce2-5324-443e-a264-7aeb61c719b1" Title="IHtmlTableBuilder Interface" Url="html/636106458.htm">
+      <HelpTOCNode Title="IHtmlTableBuilder Members" Url="html/1334525718.htm" />
+      <HelpTOCNode Id="2c315cfc-a712-4ac4-bf22-bce37b2678f0" Title="IHtmlTableBuilder Methods" Url="html/502004754.htm">
+        <HelpTOCNode Title="BeginRow Method " Url="html/418273724.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="9067a4d6-57b6-48b1-87f8-6270a533c421" Title="IHtmlTableRowBuilder Interface" Url="html/1060941184.htm">
+      <HelpTOCNode Title="IHtmlTableRowBuilder Members" Url="html/1339356896.htm" />
+      <HelpTOCNode Id="f2d30262-4c5a-407c-86e8-0d45315fbda4" Title="IHtmlTableRowBuilder Methods" Url="html/744570456.htm">
+        <HelpTOCNode Id="5d3c33f7-e05e-47d4-be24-f2de73974e3b" Title="AddCell Method " Url="html/1347263255.htm">
+          <HelpTOCNode Title="AddCell Method (String, Int32, ContentAlignment)" Url="html/612865202.htm" />
+          <HelpTOCNode Title="AddCell Method (IFormattable, Int32, ContentAlignment)" Url="html/1265543750.htm" />
+          <HelpTOCNode Title="AddCell Method (Object, Int32, ContentAlignment)" Url="html/1657013464.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="AddHeaderCell Method " Url="html/823981471.htm" />
+        <HelpTOCNode Title="EndRow Method " Url="html/1512956574.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="18e49e15-dd1f-4f15-b722-709679c58444" Title="IJsBuilder Interface" Url="html/1528902462.htm">
+      <HelpTOCNode Title="IJsBuilder Members" Url="html/359932778.htm" />
+      <HelpTOCNode Id="12979576-4bf8-4231-bbb7-95e62fd22282" Title="IJsBuilder Methods" Url="html/22732038.htm">
+        <HelpTOCNode Title="AppendStatement Method " Url="html/1379225311.htm" />
+        <HelpTOCNode Title="CloseBlock Method " Url="html/1075002454.htm" />
+        <HelpTOCNode Title="OpenBlock Method " Url="html/220896016.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="IndentationType Enumeration" Url="html/1389277392.htm" />
+    <HelpTOCNode Id="d4522240-d837-41f9-b706-dd3482f24d31" Title="IParagraphBuilder(TDocBuilder, TBuilder) Interface" Url="html/2017015837.htm">
+      <HelpTOCNode Title="IParagraphBuilder Members" Url="html/483248295.htm" />
+      <HelpTOCNode Id="6363cd52-fe12-4aec-b15f-70ab3b830d75" Title="IParagraphBuilder Methods" Url="html/1422333947.htm">
+        <HelpTOCNode Title="Append Method " Url="html/435158757.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="693ca712-2ac3-462f-b3fd-766f4b90d51f" Title="IWriteTo Interface" Url="html/718973418.htm">
+      <HelpTOCNode Title="IWriteTo Members" Url="html/1078812406.htm" />
+      <HelpTOCNode Id="9a7ab3c3-4975-4ac3-a882-069efd3cc3cd" Title="IWriteTo Methods" Url="html/1768383114.htm">
+        <HelpTOCNode Title="WriteTo Method " Url="html/245344054.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="LineEndings Enumeration" Url="html/835474323.htm" />
+    <HelpTOCNode Id="48efdc32-3d4e-403c-81ae-8d3b23ff9e26" Title="ReflectionExtensions Class" Url="html/477857430.htm">
+      <HelpTOCNode Title="ReflectionExtensions Members" Url="html/1535244846.htm" />
+      <HelpTOCNode Id="c560f17a-eb92-4c31-9518-989444a64fd9" Title="ReflectionExtensions Methods" Url="html/1284071466.htm">
+        <HelpTOCNode Title="GetRangeProperty Method " Url="html/1223284752.htm" />
+        <HelpTOCNode Title="Set Method " Url="html/284973049.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="0c2e740d-4f50-4de3-ab2b-5965c225a21e" Title="Resources Class" Url="html/422083970.htm">
+      <HelpTOCNode Title="Resources Members" Url="html/749433758.htm" />
+      <HelpTOCNode Title="Resources Methods" Url="html/1283453206.htm" />
+      <HelpTOCNode Id="70f6acc2-4fc5-4770-a07d-747f84671bb5" Title="Resources Properties" Url="html/605354939.htm">
+        <HelpTOCNode Title="Culture Property " Url="html/1156643274.htm" />
+        <HelpTOCNode Title="DefaultStyleSheet Property " Url="html/1501227981.htm" />
+        <HelpTOCNode Title="DisplayCsvTableScript Property " Url="html/1076068895.htm" />
+        <HelpTOCNode Title="ResourceManager Property " Url="html/2079516993.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="ScriptBlocks Enumeration" Url="html/508710936.htm" />
+    <HelpTOCNode Title="StringBuilderMode Enumeration" Url="html/1296702588.htm" />
+    <HelpTOCNode Title="StringBuilderOptions Enumeration" Url="html/745050673.htm" />
+    <HelpTOCNode Title="TagOptions Enumeration" Url="html/1123698837.htm" />
+    <HelpTOCNode Title="ValueFormatter(TValue) Delegate" Url="html/528874093.htm" />
+    <HelpTOCNode Id="c6775400-ab2b-4b44-8b5c-403bedbcbb55" Title="ValueFormatterWrapper Class" Url="html/287074993.htm">
+      <HelpTOCNode Title="ValueFormatterWrapper Members" Url="html/531289587.htm" />
+      <HelpTOCNode Id="7dc12be3-003a-40e8-ad54-d8ee0a9270e3" Title="ValueFormatterWrapper Constructor " Url="html/1910226224.htm">
+        <HelpTOCNode Title="ValueFormatterWrapper Constructor " Url="html/1160132631.htm" />
+        <HelpTOCNode Title="ValueFormatterWrapper Constructor (ValueFormatterWrapper)" Url="html/2103782012.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="79a319eb-7401-47bf-a3f3-c7b441b49f85" Title="ValueFormatterWrapper Methods" Url="html/1917201641.htm">
+        <HelpTOCNode Title="Add Method " Url="html/2002238589.htm" />
+        <HelpTOCNode Id="e9b095ef-3a36-44b8-8cc2-9b7d824bbb06" Title="AddFormatter Method " Url="html/364992906.htm">
+          <HelpTOCNode Title="AddFormatter(T) Method (ValueFormatter(T))" Url="html/299251792.htm" />
+          <HelpTOCNode Title="AddFormatter(T) Method (ExtendedValueFormatter(T))" Url="html/2103223783.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="CanFormat Method " Url="html/1726024572.htm" />
+        <HelpTOCNode Id="af61cc83-d53c-4357-8a36-ef902fa72532" Title="Format Method " Url="html/1868598470.htm">
+          <HelpTOCNode Title="Format(T) Method (T)" Url="html/229942457.htm" />
+          <HelpTOCNode Title="Format(T) Method (String, T)" Url="html/614291151.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="GetFormat Method " Url="html/673900814.htm" />
+        <HelpTOCNode Title="TryFormat Method " Url="html/658417905.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="82673458-cc1f-40a6-8301-80b9bc3db375" Title="ValueFormatterWrapper Properties" Url="html/554623892.htm">
+        <HelpTOCNode Title="UpstreamProvider Property " Url="html/1964809693.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="3a87e56a-9643-4da2-808c-e35bb3d3bae4" Title="WebStringBuilder Class" Url="html/1098593933.htm">
+      <HelpTOCNode Title="WebStringBuilder Members" Url="html/1378199841.htm" />
+      <HelpTOCNode Id="3872f8a0-9dbd-4ee6-86a2-80790c0b1546" Title="WebStringBuilder Constructor " Url="html/531845276.htm">
+        <HelpTOCNode Title="WebStringBuilder Constructor " Url="html/1311681029.htm" />
+        <HelpTOCNode Title="WebStringBuilder Constructor (Int32)" Url="html/1519277895.htm" />
+        <HelpTOCNode Title="WebStringBuilder Constructor (StringBuilder)" Url="html/1535948294.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="66d92272-efee-453a-ad96-e15db081b790" Title="WebStringBuilder Methods" Url="html/622405007.htm">
+        <HelpTOCNode Id="25e00649-19a9-4c52-a845-4800cac47564" Title="Append Method " Url="html/621142491.htm">
+          <HelpTOCNode Title="Append Method (IHtmlContent)" Url="html/2124274290.htm" />
+          <HelpTOCNode Title="Append Method (IHtmlElement)" Url="html/565189297.htm" />
+          <HelpTOCNode Title="Append Method (IWriteTo)" Url="html/1809134446.htm" />
+          <HelpTOCNode Title="Append Method (String)" Url="html/455208523.htm" />
+          <HelpTOCNode Title="Append Method (String[])" Url="html/396780735.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="AppendFormat Method " Url="html/991784824.htm" />
+        <HelpTOCNode Id="bef06745-fb90-4d3c-a41f-d7018dcd052a" Title="AppendLine Method " Url="html/749350503.htm">
+          <HelpTOCNode Title="AppendLine Method (IHtmlContent)" Url="html/1628644956.htm" />
+          <HelpTOCNode Title="AppendLine Method (String)" Url="html/430526987.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="306a5710-5992-4383-b386-43ed00dee833" Title="AppendLines Method " Url="html/983504488.htm">
+          <HelpTOCNode Title="AppendLines Method (String[])" Url="html/1627172018.htm" />
+          <HelpTOCNode Title="AppendLines Method (IHtmlContent[])" Url="html/314880217.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="AppendLiteral Method " Url="html/1069896474.htm" />
+        <HelpTOCNode Title="AppendStatement Method " Url="html/542693836.htm" />
+        <HelpTOCNode Title="AppendText Method " Url="html/368282130.htm" />
+        <HelpTOCNode Title="Close Method " Url="html/1971062712.htm" />
+        <HelpTOCNode Title="CloseBlock Method " Url="html/1886505399.htm" />
+        <HelpTOCNode Title="EndElement Method " Url="html/896893969.htm" />
+        <HelpTOCNode Title="IndentLess Method " Url="html/1893849605.htm" />
+        <HelpTOCNode Title="IndentMore Method " Url="html/468927857.htm" />
+        <HelpTOCNode Title="IsValidHtmlId Method " Url="html/854762325.htm" />
+        <HelpTOCNode Title="OpenBlock Method " Url="html/883613597.htm" />
+        <HelpTOCNode Title="OpenCustomTag Method " Url="html/1179632332.htm" />
+        <HelpTOCNode Title="OpenInlineTag Method " Url="html/2053469982.htm" />
+        <HelpTOCNode Id="de26d2bb-f9df-4844-8a21-0bd5c7ed327c" Title="OpenTag Method " Url="html/1646463705.htm">
+          <HelpTOCNode Title="OpenTag Method (String, HtmlAttributeCollection, TagOptions)" Url="html/276368726.htm" />
+          <HelpTOCNode Title="OpenTag Method (String, String)" Url="html/909226917.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="SetIndents Method " Url="html/1800848047.htm" />
+        <HelpTOCNode Title="ToHtmlString Method " Url="html/301766701.htm" />
+        <HelpTOCNode Title="ToString Method " Url="html/504957868.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="bb5470ba-8bb8-4703-9fdd-e2161f720d98" Title="WebStringBuilder Properties" Url="html/1172564638.htm">
+        <HelpTOCNode Title="FormatProvider Property " Url="html/1964769943.htm" />
+        <HelpTOCNode Title="IndentMode Property " Url="html/922759958.htm" />
+        <HelpTOCNode Title="Mode Property " Url="html/190567888.htm" />
+        <HelpTOCNode Title="Options Property " Url="html/676868503.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="ce4157b2-1a6e-4edd-a99f-05029695780b" Title="WebStringBuilder.HtmlTagWriter Class" Url="html/1122388863.htm">
+      <HelpTOCNode Title="WebStringBuilder.HtmlTagWriter Members" Url="html/1958662495.htm" />
+      <HelpTOCNode Title="HtmlTagWriter Constructor " Url="html/1096850860.htm" />
+      <HelpTOCNode Id="aac8bcd6-2038-4e04-8dd6-1fccc59a9aa9" Title="WebStringBuilder.HtmlTagWriter Methods" Url="html/1011426163.htm">
+        <HelpTOCNode Title="AppendLang Method " Url="html/1406875481.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="d799ae60-df33-4cbf-8259-2cb6096ee72d" Title="WebStringBuilder.TagWriter Class" Url="html/426890594.htm">
+      <HelpTOCNode Title="WebStringBuilder.TagWriter Members" Url="html/187774166.htm" />
+      <HelpTOCNode Title="TagWriter Constructor " Url="html/1358798497.htm" />
+      <HelpTOCNode Id="4c4f11f3-cfdd-4787-b050-9f44ae443690" Title="WebStringBuilder.TagWriter Methods" Url="html/1074226530.htm">
+        <HelpTOCNode Title="AppendClasses Method " Url="html/262449420.htm" />
+        <HelpTOCNode Title="AppendId Method " Url="html/81783803.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="37f9d4b7-b093-46fd-b228-af9fc6446a6a" Title="WebStringBuilder.TagWriterBase(T) Class" Url="html/260452536.htm">
+      <HelpTOCNode Title="WebStringBuilder.TagWriterBase(T) Members" Url="html/1676538644.htm" />
+      <HelpTOCNode Id="49e548e0-acad-44e3-932c-494975879467" Title="WebStringBuilder.TagWriterBase(T) Methods" Url="html/1931194052.htm">
+        <HelpTOCNode Id="09a41fe8-45f3-4904-8879-01481d19a9cb" Title="AppendAttribute Method " Url="html/300907080.htm">
+          <HelpTOCNode Title="AppendAttribute Method (String, String)" Url="html/155740786.htm" />
+          <HelpTOCNode Title="AppendAttribute Method (String, Object)" Url="html/1616423128.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="AppendRaw Method " Url="html/172031108.htm" />
+        <HelpTOCNode Title="Complete Method " Url="html/1819875382.htm" />
+        <HelpTOCNode Title="Dispose Method " Url="html/1731928678.htm" />
+        <HelpTOCNode Title="SanitizeId Method " Url="html/1643955854.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="935db927-f583-4524-a596-636b088560e7" Title="Suoranta.IO.Builders Namespace" Url="html/991101113.htm">
+    <HelpTOCNode Id="120a841b-e897-4a4d-8163-9f06c21e03a5" Title="DocumentOptions Class" Url="html/1465256222.htm">
+      <HelpTOCNode Title="DocumentOptions Members" Url="html/405269498.htm" />
+      <HelpTOCNode Id="a767e67a-130c-413f-a081-4b6720545ea9" Title="DocumentOptions Constructor " Url="html/1275147337.htm">
+        <HelpTOCNode Title="DocumentOptions Constructor " Url="html/1346341098.htm" />
+        <HelpTOCNode Title="DocumentOptions Constructor (DocumentOptions)" Url="html/792718798.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="7bf988ec-cd26-4449-b10d-afc3608a8d1f" Title="DocumentOptions Methods" Url="html/810628218.htm">
+        <HelpTOCNode Title="ToHtmlDocumentOptions Method " Url="html/433562416.htm" />
+        <HelpTOCNode Title="ToMarkdownDocumentOptions Method " Url="html/785833156.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="a51b5880-68cf-44a3-a7fa-fdf2587a6403" Title="DocumentOptions Properties" Url="html/2108187589.htm">
+        <HelpTOCNode Title="IndentationSize Property " Url="html/1649477190.htm" />
+        <HelpTOCNode Title="IndentationType Property " Url="html/386890069.htm" />
+        <HelpTOCNode Title="LineEndings Property " Url="html/557075654.htm" />
+        <HelpTOCNode Title="ValueFormatters Property " Url="html/1330894838.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="db258270-013b-4d34-a896-b91e2f7533ca" Title="GenericDocumentBuilder Class" Url="html/1803723222.htm">
+      <HelpTOCNode Title="GenericDocumentBuilder Members" Url="html/1166152570.htm" />
+      <HelpTOCNode Id="66368e22-d4ca-4f94-8e6e-4b692f292a10" Title="GenericDocumentBuilder Constructor " Url="html/137151753.htm">
+        <HelpTOCNode Title="GenericDocumentBuilder Constructor " Url="html/1748724192.htm" />
+        <HelpTOCNode Title="GenericDocumentBuilder Constructor (DocumentOptions)" Url="html/172195696.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="32bd4993-5311-4769-95c7-5697edcccccc" Title="GenericDocumentBuilder Methods" Url="html/1616961070.htm">
+        <HelpTOCNode Title="AddCodeblock Method " Url="html/1235130805.htm" />
+        <HelpTOCNode Title="AddHeading Method " Url="html/294086267.htm" />
+        <HelpTOCNode Title="AddHorizontalRule Method " Url="html/1427695006.htm" />
+        <HelpTOCNode Title="AddImage Method " Url="html/352767552.htm" />
+        <HelpTOCNode Title="AddOrderedList(T) Method " Url="html/762158760.htm" />
+        <HelpTOCNode Title="AddParagraph Method " Url="html/1437482291.htm" />
+        <HelpTOCNode Title="AddTable(T) Method " Url="html/155897161.htm" />
+        <HelpTOCNode Title="AddUnorderedList(T) Method " Url="html/1321294481.htm" />
+        <HelpTOCNode Id="b2d644a8-8cf8-4d3e-9dae-35742cd8c184" Title="BuildAsync Method " Url="html/872949946.htm">
+          <HelpTOCNode Title="BuildAsync Method (Stream)" Url="html/1355294226.htm" />
+          <HelpTOCNode Title="BuildAsync Method (String)" Url="html/2021889376.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="c983cb75-ea16-46eb-9ca4-a9afffa673d7" Title="GenericDocumentBuilder Properties" Url="html/754000933.htm">
+        <HelpTOCNode Title="DocumentType Property " Url="html/622969483.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="94e8d156-e30d-4695-a367-779adeb746da" Title="HtmlDocumentBuilder Class" Url="html/1555856780.htm">
+      <HelpTOCNode Title="HtmlDocumentBuilder Members" Url="html/178561616.htm" />
+      <HelpTOCNode Id="32fb451e-8a20-4052-b533-e6ffb11527b5" Title="HtmlDocumentBuilder Constructor " Url="html/1738244109.htm">
+        <HelpTOCNode Title="HtmlDocumentBuilder Constructor " Url="html/1695136388.htm" />
+        <HelpTOCNode Title="HtmlDocumentBuilder Constructor (HtmlDocumentOptions)" Url="html/2127040699.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="acc8d269-42f9-424e-8416-36d8eae680eb" Title="HtmlDocumentBuilder Methods" Url="html/1135114964.htm">
+        <HelpTOCNode Title="AddCodeblock Method " Url="html/1397124829.htm" />
+        <HelpTOCNode Title="AddCsvTable Method " Url="html/1853987571.htm" />
+        <HelpTOCNode Title="AddDetails Method " Url="html/969858939.htm" />
+        <HelpTOCNode Title="AddElement(TBuilder) Method " Url="html/772333062.htm" />
+        <HelpTOCNode Title="AddHeading Method " Url="html/970250155.htm" />
+        <HelpTOCNode Title="AddHorizontalRule Method " Url="html/86432522.htm" />
+        <HelpTOCNode Id="e2c9aa8c-9374-4360-8cee-b843e9624f8d" Title="AddImage Method " Url="html/1817967608.htm">
+          <HelpTOCNode Title="AddImage Method (String, String, String)" Url="html/1359093364.htm" />
+          <HelpTOCNode Title="AddImage Method (String, Byte[], String)" Url="html/2008623.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="AddOrderedList(T) Method " Url="html/1561347828.htm" />
+        <HelpTOCNode Id="fdf54865-3f03-4366-89cc-51c64af84a6f" Title="AddParagraph Method " Url="html/1139008667.htm">
+          <HelpTOCNode Title="AddParagraph Method (String)" Url="html/188931517.htm" />
+          <HelpTOCNode Title="AddParagraph Method (Action(ParagraphBuilder))" Url="html/1931203462.htm" />
+          <HelpTOCNode Title="AddParagraph Method (String, String)" Url="html/29530183.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="AddRaw Method " Url="html/1040640913.htm" />
+        <HelpTOCNode Title="AddSvgImage Method " Url="html/832959298.htm" />
+        <HelpTOCNode Id="783257a6-e674-4ba1-8072-65a35098d787" Title="AddTable Method " Url="html/707457167.htm">
+          <HelpTOCNode Title="AddTable Method (Action(TableBuilder))" Url="html/220413434.htm" />
+          <HelpTOCNode Title="AddTable(T) Method (IEnumerable(T))" Url="html/969919425.htm" />
+          <HelpTOCNode Title="AddTable(T) Method (IEnumerable(T), String)" Url="html/271140483.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="AddUnorderedList(T) Method " Url="html/874607407.htm" />
+        <HelpTOCNode Id="3c6a8cf2-124e-4009-bc4b-6b990efdf2e2" Title="BuildAsync Method " Url="html/2018112144.htm">
+          <HelpTOCNode Title="BuildAsync Method " Url="html/1174432613.htm" />
+          <HelpTOCNode Title="BuildAsync Method (Stream)" Url="html/592131186.htm" />
+          <HelpTOCNode Title="BuildAsync Method (String)" Url="html/464132068.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="d2519c28-d5bc-4c90-bd9a-db4ffa29b03e" Title="HtmlDocumentBuilder Properties" Url="html/459692881.htm">
+        <HelpTOCNode Title="DocumentType Property " Url="html/220026695.htm" />
+        <HelpTOCNode Title="Options Property " Url="html/1455500116.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="2a8b5cd1-1857-4325-9663-3dd556b5d7b5" Title="HtmlDocumentOptions Class" Url="html/1146810869.htm">
+      <HelpTOCNode Title="HtmlDocumentOptions Members" Url="html/465592531.htm" />
+      <HelpTOCNode Id="16b87095-ef3a-4960-b64e-5ed36fa617b5" Title="HtmlDocumentOptions Constructor " Url="html/352962350.htm">
+        <HelpTOCNode Title="HtmlDocumentOptions Constructor " Url="html/1819986081.htm" />
+        <HelpTOCNode Title="HtmlDocumentOptions Constructor (DocumentOptions)" Url="html/1153734557.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="HtmlDocumentOptions Methods" Url="html/1476404289.htm" />
+      <HelpTOCNode Id="e54763cc-49af-413d-a2c1-1873f354de02" Title="HtmlDocumentOptions Properties" Url="html/746205296.htm">
+        <HelpTOCNode Title="BuiltInScripts Property " Url="html/1482358756.htm" />
+        <HelpTOCNode Title="CustomScript Property " Url="html/1194232585.htm" />
+        <HelpTOCNode Title="Language Property " Url="html/1377246189.htm" />
+        <HelpTOCNode Title="Stylesheet Property " Url="html/1387915195.htm" />
+        <HelpTOCNode Title="Title Property " Url="html/1116817613.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="bdcda95d-b29c-48c6-b4ee-a31c4bb448da" Title="IDocumentBuilder Interface" Url="html/2051251336.htm">
+      <HelpTOCNode Title="IDocumentBuilder Members" Url="html/1331576036.htm" />
+      <HelpTOCNode Id="0adbb13a-8309-482c-91fb-9ae067776017" Title="IDocumentBuilder Methods" Url="html/2103068524.htm">
+        <HelpTOCNode Id="23b12070-5ca7-41b6-a478-cdbd76dc84ef" Title="BuildAsync Method " Url="html/1113205196.htm">
+          <HelpTOCNode Title="BuildAsync Method (Stream)" Url="html/217838272.htm" />
+          <HelpTOCNode Title="BuildAsync Method (String)" Url="html/607192546.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="be6afbbd-316f-4158-914e-66bc9a1f18bd" Title="IDocumentBuilder Properties" Url="html/147258431.htm">
+        <HelpTOCNode Title="DocumentType Property " Url="html/597045007.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="17aecd7f-e02a-44f3-8d72-bff50f7d1ad4" Title="IDocumentBuilder(TBuilder) Interface" Url="html/1007979623.htm">
+      <HelpTOCNode Title="IDocumentBuilder Members" Url="html/1583837519.htm" />
+      <HelpTOCNode Id="997f2689-f362-4fd9-ba0e-fc5219e7c383" Title="IDocumentBuilder Methods" Url="html/661581627.htm">
+        <HelpTOCNode Title="AddCodeblock Method " Url="html/1736101672.htm" />
+        <HelpTOCNode Title="AddHeading Method " Url="html/1046074718.htm" />
+        <HelpTOCNode Title="AddHorizontalRule Method " Url="html/600420735.htm" />
+        <HelpTOCNode Title="AddImage Method " Url="html/19314547.htm" />
+        <HelpTOCNode Title="AddOrderedList(TItem) Method " Url="html/1341415883.htm" />
+        <HelpTOCNode Title="AddParagraph Method " Url="html/1458883584.htm" />
+        <HelpTOCNode Title="AddTable(TRow) Method " Url="html/1202365898.htm" />
+        <HelpTOCNode Title="AddUnorderedList(TItem) Method " Url="html/3318674.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="053982c1-67c1-4f17-96e8-67f6de4d29e4" Title="IGenericDocumentBuilder Interface" Url="html/1405969309.htm">
+      <HelpTOCNode Title="IGenericDocumentBuilder Methods" Url="html/1256978213.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="7d9c7d1d-b303-4ca2-aba5-728f48508261" Title="IHtmlDocumentBuilder Interface" Url="html/1655649773.htm">
+      <HelpTOCNode Title="IHtmlDocumentBuilder Members" Url="html/1709245163.htm" />
+      <HelpTOCNode Id="8d8380d2-e162-4293-8432-2f0373da8bdd" Title="IHtmlDocumentBuilder Methods" Url="html/1231639977.htm">
+        <HelpTOCNode Title="AddCsvTable Method " Url="html/1579142412.htm" />
+        <HelpTOCNode Title="AddDetails Method " Url="html/550024508.htm" />
+        <HelpTOCNode Title="AddElement(TBuilder) Method " Url="html/1417196613.htm" />
+        <HelpTOCNode Title="AddImage Method " Url="html/1415163056.htm" />
+        <HelpTOCNode Title="AddParagraph Method " Url="html/1730301873.htm" />
+        <HelpTOCNode Title="AddRaw Method " Url="html/120192632.htm" />
+        <HelpTOCNode Title="AddSvgImage Method " Url="html/1196545455.htm" />
+        <HelpTOCNode Id="ad0c5b02-63f6-4c1d-bd57-e146a24bb69d" Title="Overload:Suoranta.IO.Builders.IHtmlDocumentBuilder.AddTable">
+          <HelpTOCNode Title="AddTable Method (Action(TableBuilder))" Url="html/707486577.htm" />
+          <HelpTOCNode Title="AddTable(TRow) Method (IEnumerable(TRow), String)" Url="html/1766370602.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="BuildAsync Method " Url="html/1052823366.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="72209733-b972-44e6-8874-b1c9a084690d" Title="IMarkdownDocumentBuilder Interface" Url="html/1540636977.htm">
+      <HelpTOCNode Title="IMarkdownDocumentBuilder Members" Url="html/1750995147.htm" />
+      <HelpTOCNode Id="9c94d765-cd13-40be-9f4d-b46294f25fac" Title="IMarkdownDocumentBuilder Methods" Url="html/107871995.htm">
+        <HelpTOCNode Title="AddBlockquote Method " Url="html/309022989.htm" />
+        <HelpTOCNode Title="AddRaw Method " Url="html/612065200.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="fd4fb916-46e9-465d-b403-6fc018c49ca5" Title="MarkdownDocumentBuilder Class" Url="html/1432181240.htm">
+      <HelpTOCNode Title="MarkdownDocumentBuilder Members" Url="html/203705240.htm" />
+      <HelpTOCNode Id="f44322dd-8277-4c29-8931-08c8a4c3131a" Title="MarkdownDocumentBuilder Constructor " Url="html/2094656883.htm">
+        <HelpTOCNode Title="MarkdownDocumentBuilder Constructor " Url="html/1844745848.htm" />
+        <HelpTOCNode Title="MarkdownDocumentBuilder Constructor (MarkdownOptions)" Url="html/244770244.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="4a34b7b5-a428-4af7-8f1a-f910c936b7f5" Title="MarkdownDocumentBuilder Methods" Url="html/1714778292.htm">
+        <HelpTOCNode Title="AddBlockquote Method " Url="html/1674846722.htm" />
+        <HelpTOCNode Title="AddCodeblock Method " Url="html/302688391.htm" />
+        <HelpTOCNode Title="AddHeading Method " Url="html/783250441.htm" />
+        <HelpTOCNode Title="AddHorizontalRule Method " Url="html/101029082.htm" />
+        <HelpTOCNode Title="AddImage Method " Url="html/1778305520.htm" />
+        <HelpTOCNode Title="AddOrderedList(T) Method " Url="html/70110948.htm" />
+        <HelpTOCNode Title="AddParagraph Method " Url="html/1284551353.htm" />
+        <HelpTOCNode Title="AddRaw Method " Url="html/2010080527.htm" />
+        <HelpTOCNode Title="AddTable(T) Method " Url="html/1339147159.htm" />
+        <HelpTOCNode Title="AddUnorderedList(T) Method " Url="html/828196051.htm" />
+        <HelpTOCNode Id="cbef6e6c-6c92-48d5-bf36-7eb330f10e4c" Title="BuildAsync Method " Url="html/2084180540.htm">
+          <HelpTOCNode Title="BuildAsync Method (Stream)" Url="html/1931622970.htm" />
+          <HelpTOCNode Title="BuildAsync Method (String)" Url="html/851352672.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="fd9101d6-6be0-4827-8679-116fdac57a12" Title="MarkdownDocumentBuilder Properties" Url="html/1434950779.htm">
+        <HelpTOCNode Title="DocumentType Property " Url="html/2027507107.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="cb776e96-e2df-44f3-b4e6-22dda687aed7" Title="MarkdownOptions Class" Url="html/85371654.htm">
+      <HelpTOCNode Title="MarkdownOptions Members" Url="html/1192738754.htm" />
+      <HelpTOCNode Id="76194f00-c445-47d8-990b-b1803d043562" Title="MarkdownOptions Constructor " Url="html/1874192385.htm">
+        <HelpTOCNode Title="MarkdownOptions Constructor " Url="html/1511465730.htm" />
+        <HelpTOCNode Title="MarkdownOptions Constructor (DocumentOptions)" Url="html/882456758.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="MarkdownOptions Methods" Url="html/1141049874.htm" />
+      <HelpTOCNode Id="d09d9f33-ab65-4bca-8d82-4997c158e040" Title="MarkdownOptions Properties" Url="html/1640276861.htm">
+        <HelpTOCNode Title="Tables Property " Url="html/1358395835.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="a4bc56c0-abe9-4557-af70-469b56055e23" Title="MarkdownOptions.TableOptions Class" Url="html/1519971490.htm">
+      <HelpTOCNode Title="MarkdownOptions.TableOptions Members" Url="html/949041774.htm" />
+      <HelpTOCNode Title="MarkdownOptions.TableOptions Methods" Url="html/1433702070.htm" />
+      <HelpTOCNode Id="3890181e-8384-4215-b76b-e17c3f33c471" Title="MarkdownOptions.TableOptions Properties" Url="html/1172836525.htm">
+        <HelpTOCNode Title="AlignColumns Property " Url="html/1118536952.htm" />
+        <HelpTOCNode Title="BoldColumnNames Property " Url="html/335238019.htm" />
+        <HelpTOCNode Title="DefaultAlignment Property " Url="html/187825790.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="c3e0e93a-8cbd-4227-9293-4a1bf4bf1bea" Title="Suoranta.IO.HtmlElements Namespace" Url="html/794236859.htm">
+    <HelpTOCNode Id="9b96cecb-58c0-4d92-82c8-066f3611ba10" Title="ChildElementBuilder(TParent, TElement) Class" Url="html/1233665396.htm">
+      <HelpTOCNode Title="ChildElementBuilder(TParent, TElement) Members" Url="html/849926884.htm" />
+      <HelpTOCNode Title="ChildElementBuilder(TParent, TElement) Constructor " Url="html/1884072105.htm" />
+      <HelpTOCNode Id="72e7bf32-37a0-4021-86cf-9ea6e2bcb8e8" Title="ChildElementBuilder(TParent, TElement) Fields" Url="html/1435676927.htm">
+        <HelpTOCNode Title="_parent Field" Url="html/476089149.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="a2f559b9-79ed-4830-8726-a8489fd7516d" Title="ChildElementBuilder(TParent, TElement) Methods" Url="html/390271616.htm">
+        <HelpTOCNode Title="Dispose Method " Url="html/1415919610.htm" />
+        <HelpTOCNode Title="EndElement Method " Url="html/142533882.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="ChildElementBuilder(TParent, TElement) Properties" Url="html/921289183.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="46e2fd8b-8ae9-4c6d-be46-26391e82ab80" Title="ElementBuilder Class" Url="html/1233063950.htm">
+      <HelpTOCNode Title="ElementBuilder Members" Url="html/1283544902.htm" />
+      <HelpTOCNode Title="ElementBuilder Constructor " Url="html/1778922347.htm" />
+      <HelpTOCNode Id="496e3a3e-abec-4d09-a260-626c3b247002" Title="ElementBuilder Fields" Url="html/963068883.htm">
+        <HelpTOCNode Title="closed Field" Url="html/1312299046.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="ec665bff-9a18-42df-a3f3-8a28008c61d4" Title="ElementBuilder Methods" Url="html/60092842.htm">
+        <HelpTOCNode Title="EndElement Method " Url="html/1070975858.htm" />
+        <HelpTOCNode Title="SetCssClass Method " Url="html/423346345.htm" />
+        <HelpTOCNode Title="ToHtmlString Method " Url="html/667954376.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="df981d4a-651a-47a5-b706-a22a3bccd79a" Title="ElementBuilder Properties" Url="html/1080712419.htm">
+        <HelpTOCNode Title="Element Property " Url="html/840146332.htm" />
+        <HelpTOCNode Title="FormatProvider Property " Url="html/1477163058.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="09623886-2a8e-49ca-a30e-fcdc94ae726b" Title="ElementBuilder(TElement) Class" Url="html/611483261.htm">
+      <HelpTOCNode Title="ElementBuilder(TElement) Members" Url="html/1446314447.htm" />
+      <HelpTOCNode Title="ElementBuilder(TElement) Constructor " Url="html/647910726.htm" />
+      <HelpTOCNode Id="bac6675c-3dd5-4910-aeed-38fa80a879d5" Title="ElementBuilder(TElement) Methods" Url="html/558142299.htm">
+        <HelpTOCNode Title="Configure Method " Url="html/878680952.htm" />
+        <HelpTOCNode Title="EndElement Method " Url="html/208132639.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="c7be4821-9adc-4625-a15a-12c67a093f2a" Title="ElementBuilder(TElement) Properties" Url="html/1875069710.htm">
+        <HelpTOCNode Title="Element Property " Url="html/665330835.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="1848f264-28d6-47e8-bcad-64c66fa53ab3" Title="ElementCollection Class" Url="html/268845447.htm">
+      <HelpTOCNode Title="ElementCollection Methods" Url="html/349894671.htm" />
+      <HelpTOCNode Title="ElementCollection Properties" Url="html/1006709498.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="4b114a4d-79d4-4cf7-aaf6-7648b60e441b" Title="ElementCollection.Builder Class" Url="html/1436332022.htm">
+      <HelpTOCNode Title="ElementCollection.Builder Members" Url="html/1637291374.htm" />
+      <HelpTOCNode Title="Builder Constructor " Url="html/952460854.htm" />
+      <HelpTOCNode Id="33f8e638-5af5-440a-b48c-34d7f2ad7eb1" Title="ElementCollection.Builder Methods" Url="html/661783042.htm">
+        <HelpTOCNode Title="Add Method " Url="html/91538752.htm" />
+        <HelpTOCNode Title="AddRange Method " Url="html/549654630.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="2fdf24e0-9a92-4138-9f7e-0f4c5c1610f8" Title="ElementCollection(T) Class" Url="html/1734457444.htm">
+      <HelpTOCNode Title="ElementCollection(T) Members" Url="html/729353208.htm" />
+      <HelpTOCNode Title="ElementCollection(T) Methods" Url="html/484754556.htm" />
+      <HelpTOCNode Title="ElementCollection(T) Properties" Url="html/286596489.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="e2823139-83e4-4311-a5ed-812387cb0e35" Title="HtmlElement Class" Url="html/1758240908.htm">
+      <HelpTOCNode Title="HtmlElement Members" Url="html/1658481468.htm" />
+      <HelpTOCNode Id="d48a4975-3098-4832-b33b-d231ce4f5781" Title="HtmlElement Constructor " Url="html/185683779.htm">
+        <HelpTOCNode Title="HtmlElement Constructor " Url="html/1352869288.htm" />
+        <HelpTOCNode Title="HtmlElement Constructor (ElementCollection)" Url="html/1751934737.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="e7830c28-d7d9-45c0-9be2-2afe41bec440" Title="HtmlElement Methods" Url="html/786684556.htm">
+        <HelpTOCNode Title="GetOpenTag Method " Url="html/1741088667.htm" />
+        <HelpTOCNode Id="b7e39d86-9a95-4297-838f-b7fef264ea96" Title="ToHtmlString Method " Url="html/436910229.htm">
+          <HelpTOCNode Title="ToHtmlString Method (Int32)" Url="html/41424114.htm" />
+          <HelpTOCNode Title="ToHtmlString Method " Url="html/1248721348.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="991771ce-1a2f-426d-9036-f287b19db01f" Title="HtmlElement Properties" Url="html/2078704795.htm">
+        <HelpTOCNode Title="Attributes Property " Url="html/1727709031.htm" />
+        <HelpTOCNode Title="Class Property " Url="html/810491754.htm" />
+        <HelpTOCNode Title="Elements Property " Url="html/77345641.htm" />
+        <HelpTOCNode Title="ElementTag Property " Url="html/156273298.htm" />
+        <HelpTOCNode Title="Id Property " Url="html/581123655.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="37b77fe3-9d70-4c8c-82f0-468d9afdbc57" Title="ParagraphBuilder Class" Url="html/1701435696.htm">
+      <HelpTOCNode Title="ParagraphBuilder Members" Url="html/1741728976.htm" />
+      <HelpTOCNode Title="ParagraphBuilder Constructor " Url="html/715182718.htm" />
+      <HelpTOCNode Id="9d517c80-e253-4a7e-a779-34dd3fdee890" Title="ParagraphBuilder Methods" Url="html/1115309016.htm">
+        <HelpTOCNode Title="Append Method " Url="html/467344710.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="ParagraphBuilder Properties" Url="html/125466831.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="58d74cc1-6edc-42e9-bbd4-d3b214c0c989" Title="StreamElementBuilder(TElement) Class" Url="html/932327623.htm">
+      <HelpTOCNode Title="StreamElementBuilder(TElement) Members" Url="html/24617299.htm" />
+      <HelpTOCNode Title="StreamElementBuilder(TElement) Constructor " Url="html/983225561.htm" />
+      <HelpTOCNode Id="88659535-8883-421a-9931-cb40badd636d" Title="StreamElementBuilder(TElement) Methods" Url="html/1660148751.htm">
+        <HelpTOCNode Title="EndElement Method " Url="html/1350030483.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="StreamElementBuilder(TElement) Properties" Url="html/477596086.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="c844b844-67d8-4f8f-b99d-81b0fb880567" Title="TableBuilder Class" Url="html/11941126.htm">
+      <HelpTOCNode Title="TableBuilder Members" Url="html/1839214694.htm" />
+      <HelpTOCNode Id="98b0c373-723b-47ba-adb6-acc90eef2b7f" Title="TableBuilder Constructor " Url="html/1100310689.htm">
+        <HelpTOCNode Title="TableBuilder Constructor " Url="html/294380532.htm" />
+        <HelpTOCNode Title="TableBuilder Constructor (WebStringBuilder)" Url="html/652404467.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="7e8891de-07a9-48ed-b1b6-e8b65039fe72" Title="TableBuilder Methods" Url="html/949928894.htm">
+        <HelpTOCNode Title="BeginRow Method " Url="html/1141957652.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="TableBuilder Properties" Url="html/139367643.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="6398b235-d5be-4a08-aaa6-39df1eb90189" Title="TableBuilder.RowBuilder Class" Url="html/1884037971.htm">
+      <HelpTOCNode Title="TableBuilder.RowBuilder Members" Url="html/62796287.htm" />
+      <HelpTOCNode Id="9cd1327c-90d4-40fe-b04e-0d03001d42a4" Title="TableBuilder.RowBuilder Methods" Url="html/594208943.htm">
+        <HelpTOCNode Id="f29f0241-4528-48b5-b325-da34844a041a" Title="AddCell Method " Url="html/1680685936.htm">
+          <HelpTOCNode Title="AddCell Method (String, Int32, ContentAlignment)" Url="html/1040967239.htm" />
+          <HelpTOCNode Title="AddCell Method (IFormattable, Int32, ContentAlignment)" Url="html/1158724003.htm" />
+          <HelpTOCNode Title="AddCell Method (Object, Int32, ContentAlignment)" Url="html/388662627.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="AddHeaderCell Method " Url="html/1426561160.htm" />
+        <HelpTOCNode Title="EndElement Method " Url="html/407708145.htm" />
+        <HelpTOCNode Title="EndRow Method " Url="html/1536764093.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="TableBuilder.RowBuilder Properties" Url="html/1604877438.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="32c0c262-7c8c-4591-8d03-3b9e0a962363" Title="TableElement Class" Url="html/1905127641.htm">
+      <HelpTOCNode Title="TableElement Members" Url="html/2008974153.htm" />
+      <HelpTOCNode Title="TableElement Constructor " Url="html/1398017771.htm" />
+      <HelpTOCNode Id="07f5edd1-ae17-4d69-8980-d9e1ea842db0" Title="TableElement Methods" Url="html/1298797317.htm">
+        <HelpTOCNode Title="AddRaw Method " Url="html/49497414.htm" />
+        <HelpTOCNode Title="AddRawFormat Method " Url="html/263998785.htm" />
+        <HelpTOCNode Id="f64837b9-54d7-4f1c-b578-ccad5ff5d8ad" Title="Row Method " Url="html/403771149.htm">
+          <HelpTOCNode Title="Row Method (Object[])" Url="html/1182033905.htm" />
+          <HelpTOCNode Title="Row Method (Attribute[])" Url="html/811201414.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="7d25905b-137f-4c04-be02-b821daa0a984" Title="RowFormat Method " Url="html/1827443790.htm">
+          <HelpTOCNode Title="RowFormat Method (String, Object[])" Url="html/927429104.htm" />
+          <HelpTOCNode Title="RowFormat Method (String, Attribute[])" Url="html/25788475.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="fe5d0856-3043-4fac-a297-066cb31e076c" Title="TableElement Properties" Url="html/30433130.htm">
+        <HelpTOCNode Title="ElementTag Property " Url="html/483899437.htm" />
+        <HelpTOCNode Title="FormatProvider Property " Url="html/2135779257.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="cb6a51c1-48c2-46f2-8774-db0b87758fc7" Title="TableElement.RowElement Class" Url="html/534004205.htm">
+      <HelpTOCNode Title="TableElement.RowElement Members" Url="html/658913049.htm" />
+      <HelpTOCNode Title="RowElement Constructor " Url="html/992184319.htm" />
+      <HelpTOCNode Id="f83de8e0-3558-4113-a762-4ba24bf1ce48" Title="TableElement.RowElement Methods" Url="html/1915582229.htm">
+        <HelpTOCNode Id="efc9a0fb-cd46-446c-89e0-b34fbc0b8866" Title="ToHtmlString Method " Url="html/1015773310.htm">
+          <HelpTOCNode Title="ToHtmlString Method " Url="html/867588205.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="WriteTo Method " Url="html/1501021123.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="fa0de470-53ef-4b33-b891-9be52810b1f9" Title="TableElement.RowElement Properties" Url="html/1321105384.htm">
+        <HelpTOCNode Title="Elements Property " Url="html/2006691408.htm" />
+        <HelpTOCNode Title="ElementTag Property " Url="html/210021227.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="da29b8be-9091-426d-aa84-1ba5c55a6880" Title="RowElement.CellElement Class" Url="html/3722213.htm">
+      <HelpTOCNode Title="RowElement.CellElement Members" Url="html/1823714509.htm" />
+      <HelpTOCNode Title="CellElement Constructor " Url="html/1258032110.htm" />
+      <HelpTOCNode Id="2eeb1d44-11a7-4061-be0d-7242406c19d6" Title="RowElement.CellElement Methods" Url="html/545997091.htm">
+        <HelpTOCNode Id="250ac1aa-02c8-4a05-a34a-537cfb37bede" Title="ToHtmlString Method " Url="html/230765240.htm">
+          <HelpTOCNode Title="ToHtmlString Method " Url="html/128473087.htm" />
+          <HelpTOCNode Title="ToHtmlString Method (Int32)" Url="html/913163789.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="WriteTo Method " Url="html/213924271.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="38bc6b3c-8e1c-420d-bc42-48746a0af23d" Title="RowElement.CellElement Properties" Url="html/1610934614.htm">
+        <HelpTOCNode Title="Alignment Property " Url="html/75951252.htm" />
+        <HelpTOCNode Title="Class Property " Url="html/1577570459.htm" />
+        <HelpTOCNode Title="ColumnSpan Property " Url="html/1739290763.htm" />
+        <HelpTOCNode Title="FormattedValue Property " Url="html/115042418.htm" />
+        <HelpTOCNode Title="IsHeader Property " Url="html/1854110906.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="fe409251-4cb0-4aee-8d5b-bd5595d04a97" Title="Suoranta.IO.Model.Excel Namespace" Url="html/88979993.htm">
+    <HelpTOCNode Id="0407fc75-a1bc-4594-913e-9b011b1d53b4" Title="ExcelCell Class" Url="html/118208094.htm">
+      <HelpTOCNode Title="ExcelCell Members" Url="html/161969838.htm" />
+      <HelpTOCNode Title="ExcelCell Constructor " Url="html/1576465326.htm" />
+      <HelpTOCNode Title="ExcelCell Methods" Url="html/1322315530.htm" />
+      <HelpTOCNode Id="310ca853-076b-4e5b-a2a0-4101d8a87f47" Title="ExcelCell Properties" Url="html/1206484757.htm">
+        <HelpTOCNode Title="ExcelColumnIdentifier Property " Url="html/1590547826.htm" />
+        <HelpTOCNode Title="ExcelRowIdentifier Property " Url="html/813369706.htm" />
+        <HelpTOCNode Title="Value Property " Url="html/765958329.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="a5997826-3513-4c1f-a020-748296889f39" Title="Suoranta.IO.Plotting Namespace" Url="html/274782052.htm">
+    <HelpTOCNode Title="AxisDirection Enumeration" Url="html/1748609210.htm" />
+    <HelpTOCNode Id="763e2c82-005c-4234-a193-93d1ad205a27" Title="AxisPlacement Structure" Url="html/736634708.htm">
+      <HelpTOCNode Title="AxisPlacement Members" Url="html/754259384.htm" />
+      <HelpTOCNode Title="AxisPlacement Constructor " Url="html/956483303.htm" />
+      <HelpTOCNode Id="d675f955-8e4d-4724-ac67-178be35af737" Title="AxisPlacement Fields" Url="html/1998888209.htm">
+        <HelpTOCNode Title="AtBottom Field" Url="html/1079686806.htm" />
+        <HelpTOCNode Title="AtMiddle Field" Url="html/1563526688.htm" />
+        <HelpTOCNode Title="AtTop Field" Url="html/987300008.htm" />
+        <HelpTOCNode Title="FullView Field" Url="html/81361768.htm" />
+        <HelpTOCNode Title="TopAndMiddle Field" Url="html/925936927.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="AxisPlacement Methods" Url="html/609489012.htm" />
+      <HelpTOCNode Id="a4ca4582-3008-4efe-a692-a249df5da77c" Title="AxisPlacement Properties" Url="html/380244471.htm">
+        <HelpTOCNode Title="Bottom Property " Url="html/335176061.htm" />
+        <HelpTOCNode Title="Height Property " Url="html/1613304461.htm" />
+        <HelpTOCNode Title="Top Property " Url="html/394948453.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="80b7070d-e490-494e-8234-3aa157ff96f8" Title="BaseAxis Class" Url="html/929200248.htm">
+      <HelpTOCNode Title="BaseAxis Members" Url="html/1602620820.htm" />
+      <HelpTOCNode Title="BaseAxis Constructor " Url="html/2090329820.htm" />
+      <HelpTOCNode Id="dff67a04-5fb6-4e73-9e46-3a60e84d87e7" Title="BaseAxis Methods" Url="html/691717904.htm">
+        <HelpTOCNode Title="Dispose Method " Url="html/1475260352.htm" />
+        <HelpTOCNode Title="NewAreaSeries Method " Url="html/487641999.htm" />
+        <HelpTOCNode Title="Reset Method " Url="html/366083590.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="5ae2aae3-ee5d-46a2-b2d8-10ae27dd2511" Title="BaseAxis Properties" Url="html/1558995053.htm">
+        <HelpTOCNode Title="AbsoluteMaximum Property " Url="html/1809954907.htm" />
+        <HelpTOCNode Title="AbsoluteMinimum Property " Url="html/1161399949.htm" />
+        <HelpTOCNode Title="DisplayMargin Property " Url="html/1411507278.htm" />
+        <HelpTOCNode Title="Placement Property " Url="html/360120877.htm" />
+        <HelpTOCNode Title="Site Property " Url="html/698478479.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="d6f1cc52-9d87-45e6-86f7-9132e396f19b" Title="BaseAxis Events" Url="html/452464685.htm">
+        <HelpTOCNode Title="Disposed Event" Url="html/631816972.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="0dc30c92-1ebf-44f3-99de-88457bad457b" Title="DocumentExtensions Class" Url="html/916183603.htm">
+      <HelpTOCNode Title="DocumentExtensions Members" Url="html/1481976641.htm" />
+      <HelpTOCNode Id="bbed96f2-1753-40e2-8630-5fb8a378f75f" Title="DocumentExtensions Methods" Url="html/1808910113.htm">
+        <HelpTOCNode Id="1850acdd-3ed2-495d-8f04-cc75aced232d" Title="AddPlot Method " Url="html/350367305.htm">
+          <HelpTOCNode Title="AddPlot Method (IHtmlDocumentBuilder, String, IPlotModel, String)" Url="html/1382662260.htm" />
+          <HelpTOCNode Title="AddPlot Method (IHtmlDocumentBuilder, String, IPlotModel, Int32, Int32, Int32, String)" Url="html/1506578973.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="RenderPng Method " Url="html/49357798.htm" />
+        <HelpTOCNode Title="RenderSvg Method " Url="html/1123338054.htm" />
+        <HelpTOCNode Title="RenderToStream Method " Url="html/1170735580.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="a9ba0418-4dde-4394-9731-eab91e104e73" Title="FloatingAnnotation Class" Url="html/1440737569.htm">
+      <HelpTOCNode Title="FloatingAnnotation Members" Url="html/1419720129.htm" />
+      <HelpTOCNode Id="622ff2be-de45-40ee-9316-a224d4f4922e" Title="FloatingAnnotation Constructor " Url="html/179701112.htm">
+        <HelpTOCNode Title="FloatingAnnotation Constructor " Url="html/359293763.htm" />
+        <HelpTOCNode Title="FloatingAnnotation Constructor (String)" Url="html/362545832.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="fd034c40-d553-40d4-9ad3-1f91c732ac10" Title="FloatingAnnotation Methods" Url="html/1880051187.htm">
+        <HelpTOCNode Title="Dispose Method " Url="html/1785888697.htm" />
+        <HelpTOCNode Id="efbf27c4-f1e2-4cab-8630-0512e44bf1fb" Title="Render Method " Url="html/1060155603.htm">
+          <HelpTOCNode Title="Render Method " Url="html/973168301.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="72080e55-68a3-45bd-a91c-dbb11e275031" Title="FloatingAnnotation Properties" Url="html/1039316380.htm">
+        <HelpTOCNode Title="OffsetX Property " Url="html/1179312280.htm" />
+        <HelpTOCNode Title="OffsetY Property " Url="html/1179312279.htm" />
+        <HelpTOCNode Title="Placement Property " Url="html/1709953610.htm" />
+        <HelpTOCNode Title="Site Property " Url="html/1122545672.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="125d5c14-b519-423a-998d-6940ab0b7986" Title="FloatingAnnotation Events" Url="html/1510901408.htm">
+        <HelpTOCNode Title="Disposed Event" Url="html/165129053.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="690663a4-77fe-44b8-b9a0-f7091acbfb95" Title="GridPosition Structure" Url="html/1697109909.htm">
+      <HelpTOCNode Title="GridPosition Members" Url="html/1462758015.htm" />
+      <HelpTOCNode Id="4c2740b9-45ad-4075-b37f-997543fec6fb" Title="GridPosition Constructor " Url="html/343825916.htm">
+        <HelpTOCNode Title="GridPosition Constructor (String)" Url="html/765967348.htm" />
+        <HelpTOCNode Title="GridPosition Constructor (SerializationInfo, StreamingContext)" Url="html/50400223.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="e89c5a21-6293-4f61-8683-d949445bfc2c" Title="GridPosition Fields" Url="html/2024447256.htm">
+        <HelpTOCNode Title="BottomCenter Field" Url="html/705396387.htm" />
+        <HelpTOCNode Title="BottomLeft Field" Url="html/556052097.htm" />
+        <HelpTOCNode Title="BottomRight Field" Url="html/950424508.htm" />
+        <HelpTOCNode Title="Default Field" Url="html/813380574.htm" />
+        <HelpTOCNode Title="MiddleCenter Field" Url="html/845264093.htm" />
+        <HelpTOCNode Title="MiddleLeft Field" Url="html/2043760251.htm" />
+        <HelpTOCNode Title="MiddleRight Field" Url="html/1317676486.htm" />
+        <HelpTOCNode Title="TopCenter Field" Url="html/1665012909.htm" />
+        <HelpTOCNode Title="TopLeft Field" Url="html/591779447.htm" />
+        <HelpTOCNode Title="TopRight Field" Url="html/576533918.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="8e7359c1-1e63-411f-86f6-e6412906ed21" Title="GridPosition Methods" Url="html/43985011.htm">
+        <HelpTOCNode Title="Equals Method " Url="html/1139268768.htm" />
+        <HelpTOCNode Title="GetHashCode Method " Url="html/1526108977.htm" />
+        <HelpTOCNode Title="GetObjectData Method " Url="html/476352861.htm" />
+        <HelpTOCNode Title="ToString Method " Url="html/1908688546.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="63cf13ea-994b-4e88-998f-f214182ca9bc" Title="GridPosition Operators and Type Conversions" Url="html/265402508.htm">
+        <HelpTOCNode Title="Equality Operator " Url="html/1585649215.htm" />
+        <HelpTOCNode Id="1708894a-0e2f-49bc-a371-b458665fb640" Title="Implicit Conversion Operators" Url="html/281027736.htm">
+          <HelpTOCNode Title="Implicit Conversion (GridPosition to HorizontalAlignment)" Url="html/398853873.htm" />
+          <HelpTOCNode Title="Implicit Conversion (GridPosition to VerticalAlignment)" Url="html/1983415043.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="Inequality Operator " Url="html/966220570.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="20f5113d-ab9d-4f2c-ab12-070116343869" Title="IndexAxis Class" Url="html/1585774807.htm">
+      <HelpTOCNode Title="IndexAxis Members" Url="html/436331131.htm" />
+      <HelpTOCNode Title="IndexAxis Constructor " Url="html/301539779.htm" />
+      <HelpTOCNode Id="78766856-410d-4c37-aad4-f9eb5cad26c5" Title="IndexAxis Methods" Url="html/775851887.htm">
+        <HelpTOCNode Title="Dispose Method " Url="html/1532708411.htm" />
+        <HelpTOCNode Id="2a789c3f-3701-4b60-8810-e1dab82252ee" Title="OnAxisChanged Method " Url="html/1609835549.htm">
+          <HelpTOCNode Title="OnAxisChanged Method " Url="html/1709166165.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="Reset Method " Url="html/2021408711.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="da5da401-2d51-4790-8cbf-d86a22c3e189" Title="IndexAxis Properties" Url="html/198685148.htm">
+        <HelpTOCNode Title="AbsoluteMaximum Property " Url="html/1228535874.htm" />
+        <HelpTOCNode Title="AbsoluteMinimum Property " Url="html/1292943192.htm" />
+        <HelpTOCNode Title="IntegerValued Property " Url="html/1481252278.htm" />
+        <HelpTOCNode Title="Maximum Property " Url="html/82289479.htm" />
+        <HelpTOCNode Title="Minimum Property " Url="html/1045658667.htm" />
+        <HelpTOCNode Title="Site Property " Url="html/403511314.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="1abf453b-997b-411c-aff6-bf6fbe8a09ed" Title="IndexAxis Events" Url="html/70885988.htm">
+        <HelpTOCNode Title="Disposed Event" Url="html/1712253849.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="13e9d549-a7ae-452c-a887-dd580a486a42" Title="IndexMapping Structure" Url="html/1698760890.htm">
+      <HelpTOCNode Title="IndexMapping Members" Url="html/1484132374.htm" />
+      <HelpTOCNode Id="83543633-c9a1-4b0f-952e-481817a933bc" Title="IndexMapping Constructor " Url="html/859902323.htm">
+        <HelpTOCNode Title="IndexMapping Constructor (Int32)" Url="html/877741302.htm" />
+        <HelpTOCNode Title="IndexMapping Constructor (Int32, Int32)" Url="html/1802066991.htm" />
+        <HelpTOCNode Title="IndexMapping Constructor (Int32, Int32, Int32)" Url="html/158266440.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="b7561d9e-7b84-4450-8e12-d920bdae0ede" Title="IndexMapping Fields" Url="html/2083856529.htm">
+        <HelpTOCNode Title="FirstDataIndex Field" Url="html/1575397572.htm" />
+        <HelpTOCNode Title="FirstVirtualIndex Field" Url="html/560735497.htm" />
+        <HelpTOCNode Title="LastVirtualIndex Field" Url="html/1268690471.htm" />
+        <HelpTOCNode Title="VirtualCount Field" Url="html/301035408.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="12a8212c-113b-4a49-bf45-e9e0de6ee4b5" Title="IndexMapping Methods" Url="html/857323334.htm">
+        <HelpTOCNode Title="CreateSubrange Method " Url="html/1072296585.htm" />
+        <HelpTOCNode Title="CreateZeroBased Method " Url="html/889336955.htm" />
+        <HelpTOCNode Title="GetNthVirtual Method " Url="html/1919784136.htm" />
+        <HelpTOCNode Title="ToData Method " Url="html/1817176426.htm" />
+        <HelpTOCNode Title="ToVirtual Method " Url="html/1795924435.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="0b937b4c-5511-4340-9069-96aae9e1837e" Title="ITimeSeriesElement Interface" Url="html/928618403.htm">
+      <HelpTOCNode Title="ITimeSeriesElement Members" Url="html/512253401.htm" />
+      <HelpTOCNode Title="ITimeSeriesElement Methods" Url="html/1198551393.htm" />
+      <HelpTOCNode Id="7cc9b39c-cdd3-44d5-9d83-80ad33a0f4a3" Title="ITimeSeriesElement Properties" Url="html/2003874426.htm">
+        <HelpTOCNode Title="Index Property " Url="html/1985683843.htm" />
+        <HelpTOCNode Title="Timestamp Property " Url="html/1601173641.htm" />
+        <HelpTOCNode Title="Value Property " Url="html/2040511410.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="7b075765-fd0e-4d5e-8f69-4cf0acb1b395" Title="PercentageTimeSeries Class" Url="html/1823525416.htm">
+      <HelpTOCNode Title="PercentageTimeSeries Members" Url="html/1062899276.htm" />
+      <HelpTOCNode Title="PercentageTimeSeries Constructor " Url="html/489263156.htm" />
+      <HelpTOCNode Title="PercentageTimeSeries Methods" Url="html/1847566096.htm" />
+      <HelpTOCNode Title="PercentageTimeSeries Properties" Url="html/119470579.htm" />
+      <HelpTOCNode Title="PercentageTimeSeries Events" Url="html/1537246573.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="98aac000-115e-40fb-a075-b8d128a011c8" Title="PlottingExtensions Class" Url="html/2047843133.htm">
+      <HelpTOCNode Title="PlottingExtensions Members" Url="html/504507593.htm" />
+      <HelpTOCNode Id="d12a4959-7edf-453b-8d95-bb95511066d0" Title="PlottingExtensions Methods" Url="html/1742356993.htm">
+        <HelpTOCNode Id="e6daf761-331c-4e90-96e5-b37ea6329674" Title="AddRange Method " Url="html/1960383829.htm">
+          <HelpTOCNode Title="AddRange(T) Method (ElementCollection(T), T[])" Url="html/305237522.htm" />
+          <HelpTOCNode Title="AddRange(T) Method (ElementCollection(T), IEnumerable(T))" Url="html/2048369535.htm" />
+          <HelpTOCNode Title="AddRange(T) Method (List(T), T[])" Url="html/1993052136.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="RemoveRange(T) Method " Url="html/85253995.htm" />
+        <HelpTOCNode Title="ToOxyColor Method " Url="html/946972821.htm" />
+        <HelpTOCNode Title="WithTransparency Method " Url="html/5916911.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="215adba9-9490-4e02-a160-ffb2c6e65924" Title="ScalableTimeSeries Class" Url="html/424920259.htm">
+      <HelpTOCNode Title="ScalableTimeSeries Members" Url="html/1881748465.htm" />
+      <HelpTOCNode Id="9d3e4676-5192-4980-8072-c061075bfa3a" Title="ScalableTimeSeries Constructor " Url="html/745494964.htm">
+        <HelpTOCNode Title="ScalableTimeSeries Constructor (IReadOnlyList(Double))" Url="html/1661933055.htm" />
+        <HelpTOCNode Title="ScalableTimeSeries Constructor (IReadOnlyList(Double), Int32)" Url="html/129989584.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="bf4e71a3-6b1a-4ac3-b549-b63b1c8db75d" Title="ScalableTimeSeries Fields" Url="html/130594760.htm">
+        <HelpTOCNode Title="Gain Field" Url="html/1805067694.htm" />
+        <HelpTOCNode Title="Offset Field" Url="html/536583694.htm" />
+        <HelpTOCNode Title="Scale Field" Url="html/418856603.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="ScalableTimeSeries Methods" Url="html/1209006075.htm" />
+      <HelpTOCNode Id="6e53a62d-0191-4b18-b98d-13b3a368ea7a" Title="ScalableTimeSeries Properties" Url="html/331625680.htm">
+        <HelpTOCNode Title="Item Property " Url="html/724434818.htm" />
+        <HelpTOCNode Title="Max Property " Url="html/535920207.htm" />
+        <HelpTOCNode Title="Min Property " Url="html/892150557.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="ScalableTimeSeries Events" Url="html/420573160.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="00880e77-c131-4f1b-b660-664c9bf0de0c" Title="TimeSeries Class" Url="html/1090801384.htm">
+      <HelpTOCNode Title="TimeSeries Members" Url="html/520810996.htm" />
+      <HelpTOCNode Id="8f5fa8db-163f-4372-a122-376a53204163" Title="TimeSeries Constructor " Url="html/342797831.htm">
+        <HelpTOCNode Title="TimeSeries Constructor (IReadOnlyList(Double))" Url="html/1821874766.htm" />
+        <HelpTOCNode Title="TimeSeries Constructor (IReadOnlyList(Double), Int32)" Url="html/960500321.htm" />
+        <HelpTOCNode Title="TimeSeries Constructor (IEnumerable(Double), IndexMapping, IEnumerable(DateTime))" Url="html/944280724.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="cde3b8b4-3e35-4901-b3d0-1e23ae22e8e7" Title="TimeSeries Fields" Url="html/909655739.htm">
+        <HelpTOCNode Title="_values Field" Url="html/431946083.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="6d86c7d4-d999-4d17-9e01-cb300f27fbb5" Title="TimeSeries Methods" Url="html/761734608.htm">
+        <HelpTOCNode Title="Dispose Method " Url="html/1387679488.htm" />
+        <HelpTOCNode Title="Export Method " Url="html/1184766349.htm" />
+        <HelpTOCNode Title="GetNth Method " Url="html/312994021.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="03ca1a2a-9126-47b8-a876-c866bf05ffa4" Title="TimeSeries Properties" Url="html/1753515701.htm">
+        <HelpTOCNode Title="Count Property " Url="html/2110577269.htm" />
+        <HelpTOCNode Title="IndexMapping Property " Url="html/1951383312.htm" />
+        <HelpTOCNode Title="IndexToTimestamp Property " Url="html/1836447711.htm" />
+        <HelpTOCNode Title="Item Property " Url="html/1132131949.htm" />
+        <HelpTOCNode Title="Max Property " Url="html/715109556.htm" />
+        <HelpTOCNode Title="Min Property " Url="html/358879186.htm" />
+        <HelpTOCNode Title="Site Property " Url="html/321653951.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="68d66358-95fc-48d0-994a-b7bb923fc888" Title="TimeSeries Events" Url="html/1647786323.htm">
+        <HelpTOCNode Title="Disposed Event" Url="html/964042612.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="210f015f-f035-4cfc-97ea-c2cf1760665b" Title="TimeSeriesPlotModel Class" Url="html/1838958648.htm">
+      <HelpTOCNode Title="TimeSeriesPlotModel Members" Url="html/2055850908.htm" />
+      <HelpTOCNode Title="TimeSeriesPlotModel Constructor " Url="html/163241060.htm" />
+      <HelpTOCNode Id="46cafc5f-314a-4f44-af6d-8268e8e6d433" Title="TimeSeriesPlotModel Methods" Url="html/607144116.htm">
+        <HelpTOCNode Title="AddBand Method " Url="html/526618630.htm" />
+        <HelpTOCNode Id="5e44f366-862b-46bf-ad7a-88fc393ff5f7" Title="AddTextAnnotation Method " Url="html/649533669.htm">
+          <HelpTOCNode Title="AddTextAnnotation Method (String, Boolean, Boolean)" Url="html/122534625.htm" />
+          <HelpTOCNode Title="AddTextAnnotation Method (String, GridPosition, Boolean, Boolean)" Url="html/1689667310.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="Dispose Method " Url="html/1425151578.htm" />
+        <HelpTOCNode Title="ExportData Method " Url="html/884645202.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="5212b895-93e1-43ae-8e78-f417651d5584" Title="TimeSeriesPlotModel Properties" Url="html/136423359.htm">
+        <HelpTOCNode Title="DataDisplayMargins Property " Url="html/1027030539.htm" />
+        <HelpTOCNode Title="DataSeries Property " Url="html/1738179953.htm" />
+        <HelpTOCNode Title="DateTimeAxis Property " Url="html/1603607002.htm" />
+        <HelpTOCNode Title="IndexAxis Property " Url="html/957912181.htm" />
+        <HelpTOCNode Title="IndexAxisKey Property " Url="html/1385907562.htm" />
+        <HelpTOCNode Title="IndexRange Property " Url="html/704421925.htm" />
+        <HelpTOCNode Title="Site Property " Url="html/868904365.htm" />
+        <HelpTOCNode Title="Timestamps Property " Url="html/1479407551.htm" />
+        <HelpTOCNode Title="ValueAxis Property " Url="html/795182706.htm" />
+        <HelpTOCNode Title="ValueAxisKey Property " Url="html/734694055.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="235d16e4-44bd-4187-a264-360afcb19f5b" Title="TimeSeriesPlotModel Events" Url="html/1000802803.htm">
+        <HelpTOCNode Title="Disposed Event" Url="html/1546140334.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="ead09278-d0ea-4ce9-ad77-1709466db357" Title="TimeSeriesPlotModel.Band Class" Url="html/316398329.htm">
+      <HelpTOCNode Title="TimeSeriesPlotModel.Band Members" Url="html/1082597733.htm" />
+      <HelpTOCNode Id="dea91234-9a10-4a41-a064-5c764f6089b5" Title="Band Constructor " Url="html/102234074.htm">
+        <HelpTOCNode Title="Band Constructor (TimeSeriesPlotModel, Double, Double)" Url="html/1831238222.htm" />
+        <HelpTOCNode Title="Band Constructor (LineSeries, Double, Double)" Url="html/638625583.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="ca30601a-f325-4bb5-ba66-2c28606da993" Title="TimeSeriesPlotModel.Band Methods" Url="html/863852433.htm">
+        <HelpTOCNode Title="Dispose Method " Url="html/1122474185.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="f2dd2d1a-116e-4d4c-9c52-97e82a4a4abe" Title="TimeSeriesPlotModel.Band Properties" Url="html/1533512642.htm">
+        <HelpTOCNode Title="HighValue Property " Url="html/1095889850.htm" />
+        <HelpTOCNode Title="Lower Property " Url="html/1466166946.htm" />
+        <HelpTOCNode Title="LowValue Property " Url="html/2079633490.htm" />
+        <HelpTOCNode Title="Site Property " Url="html/591759578.htm" />
+        <HelpTOCNode Title="Upper Property " Url="html/411021625.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="93894982-2d38-4f3b-8ce7-1261470d543f" Title="TimeSeriesPlotModel.Band Events" Url="html/266428246.htm">
+        <HelpTOCNode Title="Disposed Event" Url="html/734445803.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="47b4c4e6-b8f6-478e-b2eb-25d26ddb478a" Title="TimeSeriesPlotModel.TextBox Class" Url="html/512907542.htm">
+      <HelpTOCNode Title="TimeSeriesPlotModel.TextBox Members" Url="html/239758370.htm" />
+      <HelpTOCNode Title="TextBox Constructor " Url="html/1155964043.htm" />
+      <HelpTOCNode Id="60b30951-c0cb-47d9-a499-d51dbd4b1f79" Title="TimeSeriesPlotModel.TextBox Fields" Url="html/872225561.htm">
+        <HelpTOCNode Title="DefaultFont Field" Url="html/1799671530.htm" />
+        <HelpTOCNode Title="DefaultFontSize Field" Url="html/421682757.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="56a04ddf-dc74-4101-8c62-ba39f505f5df" Title="TimeSeriesPlotModel.TextBox Methods" Url="html/1558474666.htm">
+        <HelpTOCNode Title="OnBackground Method " Url="html/1504170036.htm" />
+        <HelpTOCNode Title="UpdatePosition Method " Url="html/1070047571.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="b38f60b9-87f6-44f5-8772-27f4f4432894" Title="TimeSeriesPlotModel.TextBox Properties" Url="html/735350081.htm">
+        <HelpTOCNode Title="BaseOffsetX Property " Url="html/410157946.htm" />
+        <HelpTOCNode Title="BaseOffsetY Property " Url="html/1155925995.htm" />
+        <HelpTOCNode Title="Position Property " Url="html/1583620205.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="TimeSeriesPlotModel.TextBox Events" Url="html/1651594923.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="980a306a-13b7-42ef-98f1-0269155d094d" Title="ValueSeries Class" Url="html/367971520.htm">
+      <HelpTOCNode Title="ValueSeries Members" Url="html/1763625752.htm" />
+      <HelpTOCNode Id="6226d24a-db08-4bac-875c-1389fd8356ec" Title="ValueSeries Constructor " Url="html/814807371.htm">
+        <HelpTOCNode Title="ValueSeries Constructor " Url="html/2111757224.htm" />
+        <HelpTOCNode Title="ValueSeries Constructor (OxyColor, Double, String, String)" Url="html/911887384.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="8b9120d2-a9ca-4f8f-9972-75f3653692b9" Title="ValueSeries Methods" Url="html/645252020.htm">
+        <HelpTOCNode Title="Dispose Method " Url="html/1165241638.htm" />
+        <HelpTOCNode Title="GetItem Method " Url="html/266116346.htm" />
+        <HelpTOCNode Id="4dd6b017-446d-4693-92de-6e374f590d23" Title="GetNearestPoint Method " Url="html/843527780.htm">
+          <HelpTOCNode Title="GetNearestPoint Method " Url="html/1179658381.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="af368093-ab3c-45b0-8ddc-145b9df3fd19" Title="ValueSeries Properties" Url="html/136347115.htm">
+        <HelpTOCNode Title="ItemsSource Property " Url="html/1925720473.htm" />
+        <HelpTOCNode Title="Scatter Property " Url="html/498602988.htm" />
+        <HelpTOCNode Title="Site Property " Url="html/892083593.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="1c089bc1-1220-4d2b-bcaa-3a74eb710438" Title="ValueSeries Events" Url="html/1598268823.htm">
+        <HelpTOCNode Title="Disposed Event" Url="html/1936539110.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="c8e1c5bf-6ebf-4f43-b960-c8a5aa2946cd" Title="WFPDateTimeAxis Class" Url="html/415565919.htm">
+      <HelpTOCNode Title="WFPDateTimeAxis Members" Url="html/1561563521.htm" />
+      <HelpTOCNode Title="WFPDateTimeAxis Constructor " Url="html/1740414479.htm" />
+      <HelpTOCNode Id="18f822d7-cbe5-4709-8a2b-8f441866ff92" Title="WFPDateTimeAxis Fields" Url="html/2001914362.htm">
+        <HelpTOCNode Title="DefaultResolution Field" Url="html/693139500.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="01a8af71-26cb-4851-8565-7535ff453e14" Title="WFPDateTimeAxis Methods" Url="html/1938214409.htm">
+        <HelpTOCNode Title="Dispose Method " Url="html/53022461.htm" />
+        <HelpTOCNode Title="OnRangeChanged Method (String)" Url="html/354229207.htm" />
+        <HelpTOCNode Title="RangePropertyChangedHandler Method " Url="html/236555695.htm" />
+        <HelpTOCNode Title="ToDateTime Method " Url="html/819191186.htm" />
+        <HelpTOCNode Title="ToIndex Method " Url="html/1844533365.htm" />
+        <HelpTOCNode Title="UpdateRangeFromBinding Method " Url="html/1993692443.htm" />
+        <HelpTOCNode Title="WriteRangeToBinding Method " Url="html/701899582.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="0566b5ac-e5ac-40c8-8675-b942579f1665" Title="WFPDateTimeAxis Properties" Url="html/286001246.htm">
+        <HelpTOCNode Title="AbsoluteMaximum Property " Url="html/692457680.htm" />
+        <HelpTOCNode Title="AbsoluteMinimum Property " Url="html/957081682.htm" />
+        <HelpTOCNode Title="DateTimePrecision Property " Url="html/1559527126.htm" />
+        <HelpTOCNode Title="Maximum Property " Url="html/1295970347.htm" />
+        <HelpTOCNode Title="Minimum Property " Url="html/104139729.htm" />
+        <HelpTOCNode Title="RangeBindingTarget Property " Url="html/1691035632.htm" />
+        <HelpTOCNode Title="Site Property " Url="html/1055432172.htm" />
+        <HelpTOCNode Title="TrackIndexAxis Property " Url="html/1473038443.htm" />
+        <HelpTOCNode Title="Values Property " Url="html/1745608809.htm" />
+        <HelpTOCNode Title="Virtual Property " Url="html/1331714366.htm" />
+        <HelpTOCNode Title="VirtualRange Property " Url="html/2141731209.htm" />
+        <HelpTOCNode Title="VisibleRangeLabel Property " Url="html/144937278.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="e5946ea1-1bc4-48dc-9258-dee14b99d131" Title="WFPDateTimeAxis Events" Url="html/792772530.htm">
+        <HelpTOCNode Title="Disposed Event" Url="html/1956441825.htm" />
+        <HelpTOCNode Title="PropertyChanged Event" Url="html/1332427233.htm" />
+        <HelpTOCNode Title="RangeChanged Event" Url="html/81518427.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>

@@ -1,0 +1,1048 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="89dbe89e-437d-4f48-b291-2b1ab52655a1" Title="Suoranta.Storage Namespace" Url="html/1391584584.htm">
+    <HelpTOCNode Id="df219062-8ba2-49af-8da4-02b2ca3fa91b" Title="MagicBytesAttribute Class" Url="html/738024050.htm">
+      <HelpTOCNode Title="MagicBytesAttribute Members" Url="html/599496746.htm" />
+      <HelpTOCNode Id="89858791-e3aa-4fb1-881b-930d38ef723e" Title="MagicBytesAttribute Constructor " Url="html/933179003.htm">
+        <HelpTOCNode Title="MagicBytesAttribute Constructor (Byte[], Byte[])" Url="html/820196559.htm" />
+        <HelpTOCNode Title="MagicBytesAttribute Constructor (String)" Url="html/689861445.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="MagicBytesAttribute Methods" Url="html/558583754.htm" />
+      <HelpTOCNode Id="90748296-3286-4242-9a51-701288b11fd4" Title="MagicBytesAttribute Properties" Url="html/1557049913.htm">
+        <HelpTOCNode Title="FirstBytes Property " Url="html/803087139.htm" />
+        <HelpTOCNode Title="LastBytes Property " Url="html/1596783267.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="SignatureVerificationResult Enumeration" Url="html/1816439120.htm" />
+    <HelpTOCNode Title="SigningResult Enumeration" Url="html/696307698.htm" />
+  </HelpTOCNode>
+  <HelpTOCNode Id="2c355fe2-9498-44c2-bc30-11dae51334ae" Title="Suoranta.Storage.Encoders.ReedSolomon Namespace" Url="html/472176730.htm">
+    <HelpTOCNode Id="2c2d4bc9-7581-481d-9915-e73499c12531" Title="GField Class" Url="html/109025845.htm">
+      <HelpTOCNode Title="GField Members" Url="html/1462403663.htm" />
+      <HelpTOCNode Title="GField Constructor " Url="html/575204592.htm" />
+      <HelpTOCNode Id="b6a84f2f-8b69-45fb-8d6c-8fb157ecd31a" Title="GField Methods" Url="html/578211703.htm">
+        <HelpTOCNode Id="ddf7c753-741e-4ead-b06a-ada516c98823" Title="Equals Method " Url="html/47943038.htm">
+          <HelpTOCNode Title="Equals Method (GField)" Url="html/816131503.htm" />
+          <HelpTOCNode Title="Equals Method (Object)" Url="html/928056556.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="Exp Method " Url="html/443366843.htm" />
+        <HelpTOCNode Title="GetHashCode Method " Url="html/554310983.htm" />
+        <HelpTOCNode Title="GetInverse Method " Url="html/1822380636.htm" />
+        <HelpTOCNode Title="Log Method " Url="html/1901016514.htm" />
+        <HelpTOCNode Title="Multiply Method " Url="html/35514463.htm" />
+        <HelpTOCNode Title="ToString Method " Url="html/759514874.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="bbac377e-50eb-41fe-935d-a98f991f636a" Title="GField Properties" Url="html/70209836.htm">
+        <HelpTOCNode Title="Alpha Property " Url="html/446214631.htm" />
+        <HelpTOCNode Title="GeneratorBase Property " Url="html/1646069373.htm" />
+        <HelpTOCNode Title="Primitive Property " Url="html/552285186.htm" />
+        <HelpTOCNode Title="Size Property " Url="html/981746596.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="09cdf7bc-7342-4d8c-8683-84d61c0fd91a" Title="ReedSolomonDecoder Class" Url="html/259237625.htm">
+      <HelpTOCNode Title="ReedSolomonDecoder Members" Url="html/1437959615.htm" />
+      <HelpTOCNode Title="ReedSolomonDecoder Constructor " Url="html/1227467701.htm" />
+      <HelpTOCNode Id="43e067e6-93af-4ef3-be68-69fe3c0afed6" Title="ReedSolomonDecoder Methods" Url="html/632330415.htm">
+        <HelpTOCNode Id="6e905826-f619-425c-ad85-5be0821063ae" Title="Decode Method " Url="html/1402009777.htm">
+          <HelpTOCNode Title="Decode Method (Int32[], Int32)" Url="html/249357185.htm" />
+          <HelpTOCNode Title="Decode Method (Int32[], Int32, Int32[])" Url="html/1763484750.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="Verify Method " Url="html/1133394406.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="e3a8a005-7de9-4093-8e45-b9f39bff5203" Title="ReedSolomonEncoder Class" Url="html/595908267.htm">
+      <HelpTOCNode Title="ReedSolomonEncoder Members" Url="html/4291383.htm" />
+      <HelpTOCNode Title="ReedSolomonEncoder Constructor " Url="html/1781486973.htm" />
+      <HelpTOCNode Id="df3d06ee-4d71-433e-bf5b-8953d844c3f6" Title="ReedSolomonEncoder Methods" Url="html/295680489.htm">
+        <HelpTOCNode Id="99fe0736-9954-4414-ae55-8ce24da1ed0a" Title="Encode Method " Url="html/600157775.htm">
+          <HelpTOCNode Title="Encode Method (Int32[], Int32)" Url="html/182311169.htm" />
+          <HelpTOCNode Title="Encode Method (Byte[], Int32)" Url="html/1524992899.htm" />
+          <HelpTOCNode Title="Encode Method (UInt16[], Int32)" Url="html/739661550.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="07599fcd-de7d-4bbd-aa3c-ba8da63e0e89" Title="StandardFields Class" Url="html/220219778.htm">
+      <HelpTOCNode Title="StandardFields Members" Url="html/477484582.htm" />
+      <HelpTOCNode Title="StandardFields Methods" Url="html/1491239166.htm" />
+      <HelpTOCNode Id="5879b0bb-9963-457d-b556-dfd1804a3c58" Title="StandardFields Properties" Url="html/1736154887.htm">
+        <HelpTOCNode Title="AztecData12 Property " Url="html/869306530.htm" />
+        <HelpTOCNode Title="DataMatrixField256 Property " Url="html/1191293048.htm" />
+        <HelpTOCNode Title="QRCodeField256 Property " Url="html/417947935.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="efe53885-be4c-4aff-8d41-fa2e50e90ae0" Title="Suoranta.Storage.Formatters Namespace" Url="html/1901439441.htm">
+    <HelpTOCNode Id="a25e686a-2429-4c46-9db1-34023c504421" Title="BinaryDataProperty Class" Url="html/1784222997.htm">
+      <HelpTOCNode Title="BinaryDataProperty Members" Url="html/330750891.htm" />
+      <HelpTOCNode Title="BinaryDataProperty Constructor " Url="html/554571523.htm" />
+      <HelpTOCNode Id="1e896e4c-51dd-4959-8a81-c5352abcf279" Title="BinaryDataProperty Methods" Url="html/1956483811.htm">
+        <HelpTOCNode Title="ReadOne Method " Url="html/390104777.htm" />
+        <HelpTOCNode Id="532fc6de-0c9e-47b8-b5e5-09521312e5c2" Title="Serialize Method " Url="html/357905199.htm">
+          <HelpTOCNode Title="Serialize Method " Url="html/1514526796.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="936f2cce-dc6a-4dab-9094-aeb0ac6a7388" Title="BinaryDataProperty Properties" Url="html/2054245778.htm">
+        <HelpTOCNode Title="LengthFieldFormat Property " Url="html/2002972426.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="686de272-da3a-49c4-9875-14ce91bb65ac" Title="BinaryFormatter(T) Class" Url="html/1554954805.htm">
+      <HelpTOCNode Title="BinaryFormatter(T) Members" Url="html/1475422367.htm" />
+      <HelpTOCNode Id="b0e79306-5a3e-47a2-9318-5bf075f3e652" Title="BinaryFormatter(T) Methods" Url="html/965205843.htm">
+        <HelpTOCNode Title="CanReadFrom Method " Url="html/470460709.htm" />
+        <HelpTOCNode Title="ReadMany Method " Url="html/1975192030.htm" />
+        <HelpTOCNode Id="80107a95-d50f-47fe-b8dd-00da2b1c71f3" Title="ReadOne Method " Url="html/585907815.htm">
+          <HelpTOCNode Title="ReadOne Method (Stream)" Url="html/1371139419.htm" />
+          <HelpTOCNode Title="ReadOne Method (Stream, IEnumerable(IPropertyDescriptor))" Url="html/1946627621.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="Serialize Method " Url="html/1736493819.htm" />
+        <HelpTOCNode Title="SerializeTo Method " Url="html/1287239012.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="7b1bd211-9093-4190-89f4-88a6f96baa75" Title="BinaryFormatter(T) Properties" Url="html/909963712.htm">
+        <HelpTOCNode Title="Descriptors Property " Url="html/112302501.htm" />
+        <HelpTOCNode Title="EndBytes Property " Url="html/142434139.htm" />
+        <HelpTOCNode Title="MagicBytes Property " Url="html/1124598189.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="cf64b576-ab26-48bd-80de-555915c467c9" Title="BinaryFormatter(T).DateTimeProperty Class" Url="html/1314270461.htm">
+      <HelpTOCNode Title="BinaryFormatter(T).DateTimeProperty Members" Url="html/1777371199.htm" />
+      <HelpTOCNode Title="DateTimeProperty Constructor " Url="html/2062134830.htm" />
+      <HelpTOCNode Title="BinaryFormatter(T).DateTimeProperty Methods" Url="html/2073209343.htm" />
+      <HelpTOCNode Title="BinaryFormatter(T).DateTimeProperty Properties" Url="html/1420853758.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="8101350f-6334-40e5-bf77-76e9c1e637a7" Title="BinaryFormatter(T).LongProperty Class" Url="html/1092537028.htm">
+      <HelpTOCNode Title="BinaryFormatter(T).LongProperty Members" Url="html/56348984.htm" />
+      <HelpTOCNode Title="LongProperty Constructor " Url="html/1214799763.htm" />
+      <HelpTOCNode Title="BinaryFormatter(T).LongProperty Methods" Url="html/1938773116.htm" />
+      <HelpTOCNode Title="BinaryFormatter(T).LongProperty Properties" Url="html/1545419593.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="b1e5871f-8997-41f1-8ced-3504e81ac029" Title="BinaryFormatter(T).StringProperty Class" Url="html/1117631547.htm">
+      <HelpTOCNode Title="BinaryFormatter(T).StringProperty Members" Url="html/75752495.htm" />
+      <HelpTOCNode Title="StringProperty Constructor " Url="html/1986363922.htm" />
+      <HelpTOCNode Title="BinaryFormatter(T).StringProperty Methods" Url="html/1515333523.htm" />
+      <HelpTOCNode Title="BinaryFormatter(T).StringProperty Properties" Url="html/2120283058.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="4d266afe-ba65-4a3d-acc5-9bdc1095ba09" Title="ComplexProperty(T) Class" Url="html/1101329895.htm">
+      <HelpTOCNode Title="ComplexProperty(T) Members" Url="html/766907051.htm" />
+      <HelpTOCNode Title="ComplexProperty(T) Constructor " Url="html/2081348680.htm" />
+      <HelpTOCNode Id="24a5874d-483d-496f-8c2d-d193051832fe" Title="ComplexProperty(T) Methods" Url="html/1383441667.htm">
+        <HelpTOCNode Title="ReadOne Method " Url="html/545565745.htm" />
+        <HelpTOCNode Title="Serialize Method " Url="html/408369625.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="ComplexProperty(T) Properties" Url="html/480366664.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="4c0fc52b-838b-4737-aff9-bd7c4857e016" Title="DateTimeProperty(T) Class" Url="html/830785864.htm">
+      <HelpTOCNode Title="DateTimeProperty(T) Members" Url="html/789325960.htm" />
+      <HelpTOCNode Title="DateTimeProperty(T) Constructor " Url="html/1953874201.htm" />
+      <HelpTOCNode Id="41fde5b0-66c6-4e58-bf20-e71475ff8cd7" Title="DateTimeProperty(T) Methods" Url="html/1875934348.htm">
+        <HelpTOCNode Title="ReadOne Method " Url="html/997067340.htm" />
+        <HelpTOCNode Id="3d85b0cc-c971-4ec4-a6f1-b6afd51d079b" Title="Serialize Method " Url="html/1697652642.htm">
+          <HelpTOCNode Title="Serialize Method " Url="html/2116016551.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Title="DateTimeProperty(T) Properties" Url="html/1838828555.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="a5717ac5-1987-436c-bf8e-c6c6baa64a6a" Title="IBinaryFormattable Interface" Url="html/1590523156.htm">
+      <HelpTOCNode Title="IBinaryFormattable Members" Url="html/1806374532.htm" />
+      <HelpTOCNode Title="IBinaryFormattable Methods" Url="html/1799645408.htm" />
+      <HelpTOCNode Id="fd05e24d-af4b-4b8d-bd29-3676d7836719" Title="IBinaryFormattable Properties" Url="html/1629788095.htm">
+        <HelpTOCNode Title="FormatterType Property " Url="html/2026323680.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="c78b6988-360e-4100-bda9-46b3185710d0" Title="IBinaryRecordHeader Interface" Url="html/310782229.htm">
+      <HelpTOCNode Title="IBinaryRecordHeader Members" Url="html/18712493.htm" />
+      <HelpTOCNode Title="IBinaryRecordHeader Methods" Url="html/310279405.htm" />
+      <HelpTOCNode Id="672150ca-b654-4777-b2de-bfeac1861727" Title="IBinaryRecordHeader Properties" Url="html/258895636.htm">
+        <HelpTOCNode Title="Id Property " Url="html/2051411074.htm" />
+        <HelpTOCNode Title="TotalPayloadLength Property " Url="html/1933375461.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="057e0dcf-c12c-454b-9a98-917d05d28983" Title="IndexedPropertyDescriptor(TKey, TProp) Class" Url="html/1090204158.htm">
+      <HelpTOCNode Title="IndexedPropertyDescriptor(TKey, TProp) Members" Url="html/707328802.htm" />
+      <HelpTOCNode Title="IndexedPropertyDescriptor(TKey, TProp) Constructor " Url="html/1630961653.htm" />
+      <HelpTOCNode Id="bc2a79e6-c458-44b0-bf0d-ddd671fbf89c" Title="IndexedPropertyDescriptor(TKey, TProp) Methods" Url="html/552124950.htm">
+        <HelpTOCNode Title="GetValue Method " Url="html/1212185097.htm" />
+        <HelpTOCNode Id="c8c4cee9-a4e3-4191-a1b3-83419f63f872" Title="SetValue Method " Url="html/704227563.htm">
+          <HelpTOCNode Title="SetValue Method " Url="html/1073144924.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="9afb527f-5cf2-445b-a616-14a0c9d4ca84" Title="IndexedPropertyDescriptor(TKey, TProp) Properties" Url="html/809714781.htm">
+        <HelpTOCNode Title="Index Property " Url="html/1442791500.htm" />
+        <HelpTOCNode Title="IsDynamic Property " Url="html/1859181191.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="bd75cf39-e5f1-4017-a6df-1940d21a3717" Title="IPropertyDescriptor Interface" Url="html/1648761842.htm">
+      <HelpTOCNode Title="IPropertyDescriptor Members" Url="html/733947358.htm" />
+      <HelpTOCNode Id="a4e7d842-6bd2-4e80-85a0-6622aede395f" Title="IPropertyDescriptor Methods" Url="html/152755206.htm">
+        <HelpTOCNode Title="CanReadFrom Method " Url="html/995166314.htm" />
+        <HelpTOCNode Title="Serialize Method " Url="html/790510778.htm" />
+        <HelpTOCNode Title="SetValue Method " Url="html/132342061.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="4acd3814-339b-404e-8372-59b6e3d19c93" Title="IPropertyDescriptor Properties" Url="html/1094412261.htm">
+        <HelpTOCNode Title="EntityType Property " Url="html/2092587641.htm" />
+        <HelpTOCNode Title="Name Property " Url="html/374300077.htm" />
+        <HelpTOCNode Title="PropertyType Property " Url="html/1793542991.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="c7613443-68b7-4805-bc8a-bad6d3e84734" Title="ITypeFormatter Interface" Url="html/161814824.htm">
+      <HelpTOCNode Title="ITypeFormatter Members" Url="html/2000227508.htm" />
+      <HelpTOCNode Id="2030e692-4d82-43f0-8190-78b2580ff881" Title="ITypeFormatter Methods" Url="html/2082794012.htm">
+        <HelpTOCNode Title="CanReadFrom Method " Url="html/452082814.htm" />
+        <HelpTOCNode Title="ReadOne Method " Url="html/2051126180.htm" />
+        <HelpTOCNode Title="SerializeTo Method " Url="html/709700259.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="f019081c-1429-484a-8be1-cc8bba470439" Title="ITypeFormatter Properties" Url="html/673423113.htm">
+        <HelpTOCNode Title="FormattableType Property " Url="html/1588863045.htm" />
+        <HelpTOCNode Title="MagicBytes Property " Url="html/2018369272.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="83254797-6798-4bf3-8c86-9656a38d77f5" Title="LongProperty(T) Class" Url="html/1280223455.htm">
+      <HelpTOCNode Title="LongProperty(T) Members" Url="html/2129339329.htm" />
+      <HelpTOCNode Title="LongProperty(T) Constructor " Url="html/1707507762.htm" />
+      <HelpTOCNode Id="b277cb81-ddf9-434d-8e75-7d7f06446642" Title="LongProperty(T) Methods" Url="html/383679817.htm">
+        <HelpTOCNode Title="ReadOne Method " Url="html/331825395.htm" />
+        <HelpTOCNode Id="83d027a3-4adc-4dff-8327-2840bdcd151f" Title="Serialize Method " Url="html/1174905109.htm">
+          <HelpTOCNode Title="Serialize Method " Url="html/324137187.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Title="LongProperty(T) Properties" Url="html/1187565310.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="54bc7f4d-eb0f-4194-8c8e-2c774a887623" Title="PropertyDescriptor(TProp) Class" Url="html/598356100.htm">
+      <HelpTOCNode Title="PropertyDescriptor(TProp) Members" Url="html/1843437400.htm" />
+      <HelpTOCNode Title="PropertyDescriptor(TProp) Constructor " Url="html/1583817533.htm" />
+      <HelpTOCNode Id="da7d92f1-e24b-4ef2-8b2e-59ac021c7e94" Title="PropertyDescriptor(TProp) Methods" Url="html/2017707548.htm">
+        <HelpTOCNode Title="GetValue Method " Url="html/1087251623.htm" />
+        <HelpTOCNode Id="06de2ddf-ae37-4e57-b309-6f412739711e" Title="SetValue Method " Url="html/780869695.htm">
+          <HelpTOCNode Title="SetValue Method (Object, TProp)" Url="html/1520430939.htm" />
+          <HelpTOCNode Title="SetValue Method (Object, Stream)" Url="html/795449815.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="5817d51b-51c7-42d8-ad49-e2677bdddb7a" Title="PropertyDescriptor(TProp) Properties" Url="html/1369082263.htm">
+        <HelpTOCNode Title="EntityType Property " Url="html/1561013681.htm" />
+        <HelpTOCNode Title="Name Property " Url="html/2030685309.htm" />
+        <HelpTOCNode Title="PropertyType Property " Url="html/2137070625.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="9793331a-1ea4-4e4d-967f-33623bf608e4" Title="RequiredAttribute Class" Url="html/1870985710.htm">
+      <HelpTOCNode Title="RequiredAttribute Members" Url="html/603443950.htm" />
+      <HelpTOCNode Title="RequiredAttribute Constructor " Url="html/999250052.htm" />
+      <HelpTOCNode Title="RequiredAttribute Methods" Url="html/791133714.htm" />
+      <HelpTOCNode Title="RequiredAttribute Properties" Url="html/1960837327.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="f15082a7-1c0a-4042-b94e-05d826565ab9" Title="StringProperty(T) Class" Url="html/391498792.htm">
+      <HelpTOCNode Title="StringProperty(T) Members" Url="html/1930296528.htm" />
+      <HelpTOCNode Title="StringProperty(T) Constructor " Url="html/812864769.htm" />
+      <HelpTOCNode Id="a9317223-2df4-4010-b320-6c79bd499fa5" Title="StringProperty(T) Methods" Url="html/123210992.htm">
+        <HelpTOCNode Title="ReadOne Method " Url="html/156609780.htm" />
+        <HelpTOCNode Id="c3719d08-e77e-4c49-a535-d9a93e46b156" Title="Serialize Method " Url="html/373184302.htm">
+          <HelpTOCNode Title="Serialize Method " Url="html/1057429508.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Title="StringProperty(T) Properties" Url="html/1494232783.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="3d46abe3-90e0-4d4f-a115-2e67c2ae4ac4" Title="TypeSerializer(TValue) Class" Url="html/381824508.htm">
+      <HelpTOCNode Title="TypeSerializer(TValue) Members" Url="html/78095368.htm" />
+      <HelpTOCNode Id="c672a2c3-d6c0-4ac3-b50c-fb29dc62b38d" Title="TypeSerializer(TValue) Methods" Url="html/1190930748.htm">
+        <HelpTOCNode Title="CanReadFrom Method " Url="html/2082387050.htm" />
+        <HelpTOCNode Title="ReadOne Method " Url="html/49308512.htm" />
+        <HelpTOCNode Title="Serialize Method " Url="html/1391905282.htm" />
+        <HelpTOCNode Title="SerializeTo Method " Url="html/606244995.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="6e64ad7a-11ec-430f-8129-15b5980cdbaa" Title="TypeSerializer(TValue) Properties" Url="html/1935997063.htm">
+        <HelpTOCNode Title="EndBytes Property " Url="html/1150316706.htm" />
+        <HelpTOCNode Title="MagicBytes Property " Url="html/749688928.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="9c9ea016-2653-47d8-8107-4dbdc6571c21" Title="WordConverter Class" Url="html/1813524955.htm">
+      <HelpTOCNode Title="WordConverter Members" Url="html/372081001.htm" />
+      <HelpTOCNode Id="b22e9e73-d82b-41e8-a402-889a0def11ee" Title="WordConverter Methods" Url="html/1959071673.htm">
+        <HelpTOCNode Title="GetByteCount Method " Url="html/1691880773.htm" />
+        <HelpTOCNode Title="GetBytes Method " Url="html/1993742211.htm" />
+        <HelpTOCNode Title="GetValue Method " Url="html/549125016.htm" />
+        <HelpTOCNode Title="ReadValue Method " Url="html/140328874.htm" />
+        <HelpTOCNode Title="WriteValue Method " Url="html/39438178.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="WordFormat Enumeration" Url="html/14400588.htm" />
+  </HelpTOCNode>
+  <HelpTOCNode Id="94e3fa1f-9997-4011-8c00-8e8cfdf6ed3a" Title="Suoranta.Storage.Formatters.ImageFormats Namespace" Url="html/432555790.htm">
+    <HelpTOCNode Id="5f4413ca-b475-451a-a47a-9441740a7d28" Title="JfifFormatter Class" Url="html/1959052987.htm">
+      <HelpTOCNode Title="JfifFormatter Members" Url="html/2140812017.htm" />
+      <HelpTOCNode Title="JfifFormatter Methods" Url="html/2031920071.htm" />
+      <HelpTOCNode Id="14db2846-5ab3-4bc8-8467-56554860ccd2" Title="JfifFormatter Properties" Url="html/1557464820.htm">
+        <HelpTOCNode Title="Descriptors Property " Url="html/1294846689.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="c8751fa6-61d7-4ac9-bec8-c06737f8d7c6" Title="JfifFormatter.AppMarker Class" Url="html/1959154622.htm">
+      <HelpTOCNode Title="JfifFormatter.AppMarker Members" Url="html/1200693910.htm" />
+      <HelpTOCNode Title="AppMarker Constructor " Url="html/1354731928.htm" />
+      <HelpTOCNode Id="e8bbfed2-a8dd-47cd-b42e-0d8d1a900bbf" Title="JfifFormatter.AppMarker Methods" Url="html/1035535486.htm">
+        <HelpTOCNode Title="ReadOne Method " Url="html/942389674.htm" />
+        <HelpTOCNode Id="5b4e7964-294b-40f3-8de0-21067bee8b9a" Title="Serialize Method " Url="html/483900464.htm">
+          <HelpTOCNode Title="Serialize Method " Url="html/20084927.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="44db68e8-73f7-4df9-b45c-0a62b4242af5" Title="JfifFormatter.AppMarker Properties" Url="html/1172182089.htm">
+        <HelpTOCNode Title="Index Property " Url="html/420315380.htm" />
+        <HelpTOCNode Title="IsDynamic Property " Url="html/38063301.htm" />
+        <HelpTOCNode Title="MagicBytes Property " Url="html/1891978058.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="52e56f61-92d0-47f2-aa02-45aab6418f34" Title="JfifImage Class" Url="html/1656719018.htm">
+      <HelpTOCNode Title="JfifImage Members" Url="html/1000752850.htm" />
+      <HelpTOCNode Id="a88d69f5-3ece-4e47-9b2e-c2d87277d258" Title="JfifImage Constructor " Url="html/1014113779.htm">
+        <HelpTOCNode Title="JfifImage Constructor " Url="html/1387949498.htm" />
+        <HelpTOCNode Title="JfifImage Constructor (Byte[])" Url="html/1297268620.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="7e5949c1-45d5-400c-a3ef-84f0f1b74378" Title="JfifImage Methods" Url="html/634502826.htm">
+        <HelpTOCNode Id="b8a4f0be-a357-4ef8-b75a-eeddf59c8836" Title="Dispose Method " Url="html/1218562105.htm">
+          <HelpTOCNode Title="Dispose Method (Boolean)" Url="html/832965686.htm" />
+          <HelpTOCNode Title="Dispose Method " Url="html/683485468.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="FromFile Method " Url="html/103042628.htm" />
+        <HelpTOCNode Title="GetSignerInfo Method " Url="html/2095914531.htm" />
+        <HelpTOCNode Id="4b94b7e9-7308-4596-bfbd-354f883236e1" Title="Sign Method " Url="html/1634202471.htm">
+          <HelpTOCNode Title="Sign Method (X509Certificate2, Boolean)" Url="html/1991538821.htm" />
+          <HelpTOCNode Title="Sign Method (String, Boolean)" Url="html/1382891404.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="Verify Method " Url="html/202644368.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="308b85a5-4b47-469a-a8c9-c96f9fecddf0" Title="JfifImage Properties" Url="html/842249489.htm">
+        <HelpTOCNode Title="AppMarkers Property " Url="html/779060082.htm" />
+        <HelpTOCNode Title="Comment Property " Url="html/342324267.htm" />
+        <HelpTOCNode Title="ImageData Property " Url="html/765439207.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="928da0b9-1fbd-4db2-b7a2-d9b31df8f77d" Title="JfifImageExtensions Class" Url="html/1978071320.htm">
+      <HelpTOCNode Title="JfifImageExtensions Members" Url="html/183765464.htm" />
+      <HelpTOCNode Id="6af5164e-d030-4652-be5e-af5b6b28a0f4" Title="JfifImageExtensions Methods" Url="html/590262420.htm">
+        <HelpTOCNode Title="Save Method " Url="html/570981533.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="8979f8c5-a771-4bef-9b25-658c93d9fc4b" Title="Suoranta.Storage.Formatters.ImageFormats.Exif Namespace" Url="html/1809976738.htm">
+    <HelpTOCNode Id="c01c9215-a37a-438e-a2c7-889f4173be86" Title="ExifEntry Structure" Url="html/1677362356.htm">
+      <HelpTOCNode Title="ExifEntry Members" Url="html/1560225116.htm" />
+      <HelpTOCNode Id="5895eec3-462d-4345-8aa5-f61e4df031ca" Title="ExifEntry Fields" Url="html/1212671319.htm">
+        <HelpTOCNode Title="Empty Field" Url="html/1412300683.htm" />
+        <HelpTOCNode Title="Tag Field" Url="html/595324428.htm" />
+        <HelpTOCNode Title="Type Field" Url="html/1986492604.htm" />
+        <HelpTOCNode Title="Value Field" Url="html/733581425.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="56c22157-b601-4951-afc6-cb73b2aca89a" Title="ExifEntry Methods" Url="html/1798511440.htm">
+        <HelpTOCNode Title="GetValueAsByte Method " Url="html/131966568.htm" />
+        <HelpTOCNode Title="GetValueAsDouble Method " Url="html/1177865207.htm" />
+        <HelpTOCNode Title="GetValueAsFloat Method " Url="html/590311544.htm" />
+        <HelpTOCNode Title="GetValueAsLong Method " Url="html/1207047872.htm" />
+        <HelpTOCNode Title="GetValueAsSByte Method " Url="html/1237372399.htm" />
+        <HelpTOCNode Title="GetValueAsShort Method " Url="html/1141412848.htm" />
+        <HelpTOCNode Title="GetValueAsString Method " Url="html/697596021.htm" />
+        <HelpTOCNode Title="GetValueAsULong Method " Url="html/1069351717.htm" />
+        <HelpTOCNode Title="GetValueAsUShort Method " Url="html/1351407653.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="ExifType Enumeration" Url="html/367997264.htm" />
+    <HelpTOCNode Title="ExposureProgram Enumeration" Url="html/868495505.htm" />
+    <HelpTOCNode Id="1938083e-d9e4-4ad8-96d8-70ceef063b82" Title="ImageMetadata Class" Url="html/1682676406.htm">
+      <HelpTOCNode Title="ImageMetadata Members" Url="html/294106034.htm" />
+      <HelpTOCNode Id="d9eca93f-b6c4-46cf-bc4f-ee8ad87479ac" Title="ImageMetadata Fields" Url="html/1702422025.htm">
+        <HelpTOCNode Title="Aperture Field" Url="html/51869882.htm" />
+        <HelpTOCNode Title="Artist Field" Url="html/1053904955.htm" />
+        <HelpTOCNode Title="BitsPerSample Field" Url="html/1254388043.htm" />
+        <HelpTOCNode Title="CameraMake Field" Url="html/341648195.htm" />
+        <HelpTOCNode Title="CameraModel Field" Url="html/549314586.htm" />
+        <HelpTOCNode Title="ColorComponents Field" Url="html/1964257507.htm" />
+        <HelpTOCNode Title="Copyright Field" Url="html/1195295271.htm" />
+        <HelpTOCNode Title="CreatedDate Field" Url="html/527084014.htm" />
+        <HelpTOCNode Title="Encoding Field" Url="html/614804315.htm" />
+        <HelpTOCNode Title="ExposureProgram Field" Url="html/1977052185.htm" />
+        <HelpTOCNode Title="FocalLength Field" Url="html/2017638601.htm" />
+        <HelpTOCNode Title="Height Field" Url="html/679992643.htm" />
+        <HelpTOCNode Title="IsColor Field" Url="html/570275705.htm" />
+        <HelpTOCNode Title="ISO Field" Url="html/1832771271.htm" />
+        <HelpTOCNode Title="Lens Field" Url="html/2021071826.htm" />
+        <HelpTOCNode Title="MaxAperture Field" Url="html/1856440536.htm" />
+        <HelpTOCNode Title="ModifiedDate Field" Url="html/1373771831.htm" />
+        <HelpTOCNode Title="Name Field" Url="html/166014477.htm" />
+        <HelpTOCNode Title="Orientation Field" Url="html/968747532.htm" />
+        <HelpTOCNode Title="Software Field" Url="html/561731999.htm" />
+        <HelpTOCNode Title="Width Field" Url="html/62134866.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="ImageMetadata Methods" Url="html/1372848854.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="791b562d-ff2c-4ace-ba0f-a55942625dd9" Title="JpegParser Class" Url="html/1987677903.htm">
+      <HelpTOCNode Title="JpegParser Members" Url="html/1726949795.htm" />
+      <HelpTOCNode Id="39c7c34b-e552-4118-9cb8-642a1180ca42" Title="JpegParser Fields" Url="html/204298238.htm">
+        <HelpTOCNode Title="ParseImageData Field" Url="html/144942311.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="a4e6dcec-274e-4e3a-a375-e1f04000b967" Title="JpegParser Methods" Url="html/416670117.htm">
+        <HelpTOCNode Title="Parse Method " Url="html/1154419012.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="OrientationType Enumeration" Url="html/789301504.htm" />
+    <HelpTOCNode Id="e044b4e0-4bd3-4eb4-ad9d-747c62c31d02" Title="RawImageMetadata Class" Url="html/1401030984.htm">
+      <HelpTOCNode Title="RawImageMetadata Members" Url="html/1493879048.htm" />
+      <HelpTOCNode Id="e174d677-5f4d-4997-8585-8eca3698ad93" Title="RawImageMetadata Fields" Url="html/1997650809.htm">
+        <HelpTOCNode Title="AdobeXmpData Field" Url="html/1835759440.htm" />
+        <HelpTOCNode Title="ExifImageEntries Field" Url="html/1913272749.htm" />
+        <HelpTOCNode Title="ExifThumbnailEntries Field" Url="html/963812566.htm" />
+        <HelpTOCNode Title="FrameData Field" Url="html/481767051.htm" />
+        <HelpTOCNode Title="JfifData Field" Url="html/1017817717.htm" />
+        <HelpTOCNode Title="ThumbnailData Field" Url="html/838929156.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="97ce017b-9a04-4c86-b0fb-98e52b24bcf9" Title="RawImageMetadata Methods" Url="html/1674290928.htm">
+        <HelpTOCNode Title="GetImageMetadata Method " Url="html/1664907139.htm" />
+        <HelpTOCNode Title="TryGetExifTag Method " Url="html/373315497.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="f5b81d7d-cda8-410a-83aa-0a97b3ffaa83" Title="StartOfFrameData Structure" Url="html/1842369264.htm">
+      <HelpTOCNode Title="StartOfFrameData Members" Url="html/1026261284.htm" />
+      <HelpTOCNode Id="b8ec04fa-cfca-4be0-a920-b2598934e71b" Title="StartOfFrameData Fields" Url="html/1150221195.htm">
+        <HelpTOCNode Title="BitPerSample Field" Url="html/2046614380.htm" />
+        <HelpTOCNode Title="ColorComponents Field" Url="html/605802801.htm" />
+        <HelpTOCNode Title="EncodingProcess Field" Url="html/1046229990.htm" />
+        <HelpTOCNode Title="Height Field" Url="html/268984429.htm" />
+        <HelpTOCNode Title="IsColor Field" Url="html/319321823.htm" />
+        <HelpTOCNode Title="Width Field" Url="html/750143096.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="StartOfFrameData Methods" Url="html/1718851976.htm" />
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="4ee0b43d-6790-4dd4-ba24-5c271e06b271" Title="Suoranta.Storage.Formatters.Versioned Namespace" Url="html/882284330.htm">
+    <HelpTOCNode Id="29c318dd-fd71-4774-8cf1-5a560e117e8d" Title="DataStore(T, THeader, THeaderFormat) Class" Url="html/1763032034.htm">
+      <HelpTOCNode Title="DataStore(T, THeader, THeaderFormat) Members" Url="html/1882781030.htm" />
+      <HelpTOCNode Title="DataStore(T, THeader, THeaderFormat) Methods" Url="html/1223490490.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="2cd94843-c9d7-4a00-a870-43f92623232b" Title="HeaderTypeAttribute Class" Url="html/658722549.htm">
+      <HelpTOCNode Title="HeaderTypeAttribute Members" Url="html/1340793193.htm" />
+      <HelpTOCNode Title="HeaderTypeAttribute Constructor " Url="html/357482776.htm" />
+      <HelpTOCNode Title="HeaderTypeAttribute Methods" Url="html/549191063.htm" />
+      <HelpTOCNode Id="422eeb5e-a74c-4cfa-ac3d-6633e36df6fa" Title="HeaderTypeAttribute Properties" Url="html/252525270.htm">
+        <HelpTOCNode Title="RecordType Property " Url="html/1651606424.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="e3d23659-32f5-4ca1-afc8-3f956f568795" Title="IHeaderCollection Interface" Url="html/412506284.htm">
+      <HelpTOCNode Title="IHeaderCollection Members" Url="html/2119711992.htm" />
+      <HelpTOCNode Id="a6bc4ece-b6b7-4cf9-b1f0-f1f60737cece" Title="IHeaderCollection Methods" Url="html/1960538616.htm">
+        <HelpTOCNode Title="Add Method " Url="html/1849078621.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="bb2d6155-8569-4e84-b065-f35605312634" Title="IHeaderCollection Properties" Url="html/179691077.htm">
+        <HelpTOCNode Title="Count Property " Url="html/747219233.htm" />
+        <HelpTOCNode Title="Item Property " Url="html/914170310.htm" />
+        <HelpTOCNode Title="Title Property " Url="html/1181752272.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="dd94daf4-2953-43b1-b256-aa25897f7cc2" Title="VersionedDataStore Class" Url="html/35098808.htm">
+      <HelpTOCNode Title="VersionedDataStore Members" Url="html/2138520420.htm" />
+      <HelpTOCNode Id="dbb11fa9-fae4-437c-8573-97e1bb890067" Title="VersionedDataStore Constructor " Url="html/2123713301.htm">
+        <HelpTOCNode Title="VersionedDataStore Constructor " Url="html/1527819508.htm" />
+        <HelpTOCNode Title="VersionedDataStore Constructor (Stream)" Url="html/1448609011.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="33fa5323-ab25-4469-93d6-c2f4134e3865" Title="VersionedDataStore Methods" Url="html/1505427372.htm">
+        <HelpTOCNode Title="AddRevision Method " Url="html/1137642554.htm" />
+        <HelpTOCNode Title="CopyTo Method " Url="html/1330325781.htm" />
+        <HelpTOCNode Title="GetRevisionContent Method " Url="html/1306216001.htm" />
+        <HelpTOCNode Title="Save Method " Url="html/509922823.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="2708e161-126b-478f-9e65-a063a2bc7234" Title="VersionedDataStore Properties" Url="html/643412903.htm">
+        <HelpTOCNode Title="Title Property " Url="html/1017116160.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="27b34c87-0a5c-4a1f-8708-2a049f346d64" Title="VersionedDataStore.BaseRevision Class" Url="html/1476493450.htm">
+      <HelpTOCNode Title="VersionedDataStore.BaseRevision Members" Url="html/219383230.htm" />
+      <HelpTOCNode Id="99489974-cb88-4fda-aa40-e020295e3354" Title="BaseRevision Constructor " Url="html/736439207.htm">
+        <HelpTOCNode Title="BaseRevision Constructor (Byte[], Byte[])" Url="html/372311167.htm" />
+        <HelpTOCNode Title="BaseRevision Constructor (RevisionHeader, VersionedDataStore)" Url="html/119668141.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="5c669a9d-c067-4543-82f7-a54608bb7b37" Title="VersionedDataStore.BaseRevision Methods" Url="html/1100508802.htm">
+        <HelpTOCNode Title="GetBaseStream Method " Url="html/1418069206.htm" />
+        <HelpTOCNode Title="Load Method " Url="html/2044911687.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="3a5742c1-39f2-4f19-87cd-68f23bd04fd1" Title="VersionedDataStore.BaseRevision Properties" Url="html/1084069315.htm">
+        <HelpTOCNode Title="Data Property " Url="html/384908004.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="fe722390-e3ed-4d6c-8224-d19986310cdb" Title="VersionedDataStore.DeltaRevision Class" Url="html/269985099.htm">
+      <HelpTOCNode Title="VersionedDataStore.DeltaRevision Members" Url="html/575881557.htm" />
+      <HelpTOCNode Id="7ba397a5-dbd2-4b97-8990-b64d2a41e33b" Title="DeltaRevision Constructor " Url="html/1114581882.htm">
+        <HelpTOCNode Title="DeltaRevision Constructor (Byte[], Byte[], DateTime)" Url="html/2088381667.htm" />
+        <HelpTOCNode Title="DeltaRevision Constructor (RevisionHeader, VersionedDataStore)" Url="html/1781976330.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="694b4df6-28da-4970-9c43-6c8ae26badb9" Title="VersionedDataStore.DeltaRevision Methods" Url="html/1390175117.htm">
+        <HelpTOCNode Title="GetDeltaStream Method " Url="html/1931561608.htm" />
+        <HelpTOCNode Title="Load Method " Url="html/1732139846.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="72fbb840-96e0-46a8-ba80-11ca58ae7b3e" Title="VersionedDataStore.DeltaRevision Properties" Url="html/84963188.htm">
+        <HelpTOCNode Title="BaseTimestamp Property " Url="html/599561324.htm" />
+        <HelpTOCNode Title="Data Property " Url="html/161074069.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="0992da65-9d13-4e99-8c55-88672b70d52b" Title="VersionedDataStore.Revision Class" Url="html/1154864293.htm">
+      <HelpTOCNode Title="VersionedDataStore.Revision Members" Url="html/1774834875.htm" />
+      <HelpTOCNode Id="4ec8505b-36d5-4dfb-a429-90e12a442aac" Title="Revision Constructor " Url="html/53386436.htm">
+        <HelpTOCNode Title="Revision Constructor (RevisionHeader, VersionedDataStore)" Url="html/1702870078.htm" />
+        <HelpTOCNode Title="Revision Constructor (Byte[])" Url="html/281854043.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="32285fa6-02fd-4ff1-b1be-017aa63f55ca" Title="VersionedDataStore.Revision Fields" Url="html/107496416.htm">
+        <HelpTOCNode Title="_header Field" Url="html/536047151.htm" />
+        <HelpTOCNode Title="_parentStore Field" Url="html/2129367249.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="17a4c90f-7ed0-4aad-863a-496323061253" Title="VersionedDataStore.Revision Methods" Url="html/1953181969.htm">
+        <HelpTOCNode Title="CompareTo Method " Url="html/352284244.htm" />
+        <HelpTOCNode Id="dd584bea-d6c0-43c0-938a-5f7ebb2fc456" Title="Equals Method " Url="html/940084040.htm">
+          <HelpTOCNode Title="Equals Method (Revision)" Url="html/594105809.htm" />
+          <HelpTOCNode Title="Equals Method (Object)" Url="html/1361553904.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="GetHashCode Method " Url="html/739318283.htm" />
+        <HelpTOCNode Title="GetSignatureReader Method " Url="html/2092709961.htm" />
+        <HelpTOCNode Title="Load Method " Url="html/1616606794.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="0bc477e1-2b99-40e1-a864-1890ce28f95f" Title="VersionedDataStore.Revision Properties" Url="html/1836169704.htm">
+        <HelpTOCNode Title="Data Property " Url="html/514985949.htm" />
+        <HelpTOCNode Title="Header Property " Url="html/1032973282.htm" />
+        <HelpTOCNode Title="Signature Property " Url="html/331191909.htm" />
+        <HelpTOCNode Title="Timestamp Property " Url="html/1691243635.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="b87ddd01-9c59-4901-b2eb-4484c6d00ac1" Title="VersionedDataStore.RevisionHeader Class" Url="html/1890314414.htm">
+      <HelpTOCNode Title="VersionedDataStore.RevisionHeader Members" Url="html/1994325866.htm" />
+      <HelpTOCNode Title="RevisionHeader Constructor " Url="html/1659629380.htm" />
+      <HelpTOCNode Id="002dc8d9-ef9d-4059-b489-45a60315be05" Title="VersionedDataStore.RevisionHeader Methods" Url="html/1687249398.htm">
+        <HelpTOCNode Title="CompareTo Method " Url="html/481751930.htm" />
+        <HelpTOCNode Id="4744cd34-4e74-4abb-9da1-e6827a2fb42d" Title="Equals Method " Url="html/14908911.htm">
+          <HelpTOCNode Title="Equals Method (RevisionHeader)" Url="html/2029388367.htm" />
+          <HelpTOCNode Title="Equals Method (Object)" Url="html/1956415345.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="GetHashCode Method " Url="html/204884622.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="35dd074b-8b5e-4b39-a281-3b769d7590a5" Title="VersionedDataStore.RevisionHeader Properties" Url="html/1098945485.htm">
+        <HelpTOCNode Title="BaseTimestamp Property " Url="html/1623470723.htm" />
+        <HelpTOCNode Title="DataLength Property " Url="html/805631484.htm" />
+        <HelpTOCNode Title="Description Property " Url="html/2097807718.htm" />
+        <HelpTOCNode Title="SignatureLength Property " Url="html/1175836934.htm" />
+        <HelpTOCNode Title="Timestamp Property " Url="html/1098525288.htm" />
+        <HelpTOCNode Title="TotalPayloadLength Property " Url="html/107015576.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="6148b577-a6c1-4c2d-84a3-34b652aeb930" Title="Suoranta.Storage.VirtualFS Namespace" Url="html/533412194.htm">
+    <HelpTOCNode Id="480de066-674e-45f6-8286-98cf41e2d37e" Title="EnumMasks Class" Url="html/158024720.htm">
+      <HelpTOCNode Title="EnumMasks Members" Url="html/1394069088.htm" />
+      <HelpTOCNode Id="c58d0aa6-9706-446f-9a26-5397dedf77c4" Title="EnumMasks Fields" Url="html/614717551.htm">
+        <HelpTOCNode Title="AllActionAttributes Field" Url="html/1009408816.htm" />
+        <HelpTOCNode Title="AllItemAttributes Field" Url="html/162063061.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="EnumMasks Methods" Url="html/492364136.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Title="ErrorOption Enumeration" Url="html/1538588285.htm" />
+    <HelpTOCNode Title="FileActionKind Enumeration" Url="html/2109941548.htm" />
+    <HelpTOCNode Id="8cadd548-f215-41f1-9e7b-daf511077352" Title="FileSystem Class" Url="html/420407079.htm">
+      <HelpTOCNode Title="FileSystem Members" Url="html/1562130401.htm" />
+      <HelpTOCNode Id="5bc0d9a8-ca6a-4d61-8133-ad6decf9c11e" Title="FileSystem Fields" Url="html/1080794118.htm">
+        <HelpTOCNode Title="pathSeparator Field" Url="html/1487842543.htm" />
+        <HelpTOCNode Title="pathSeparators Field" Url="html/1249991088.htm" />
+        <HelpTOCNode Title="PostActionEvents Field" Url="html/1017375426.htm" />
+        <HelpTOCNode Title="PreActionEvents Field" Url="html/207076053.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="10c5a7c9-d2ef-4a96-996f-31bcf5257eb4" Title="FileSystem Methods" Url="html/2013732945.htm">
+        <HelpTOCNode Title="CopyFile Method " Url="html/1579074447.htm" />
+        <HelpTOCNode Title="CopyTo Method " Url="html/423455401.htm" />
+        <HelpTOCNode Title="CreateDirectory Method " Url="html/813686411.htm" />
+        <HelpTOCNode Title="CreateFile Method " Url="html/226681630.htm" />
+        <HelpTOCNode Title="GetNameString Method " Url="html/2095595552.htm" />
+        <HelpTOCNode Id="625b0767-fce9-4069-9e2b-ad94e2ff62b5" Title="GetPathString Method " Url="html/352489813.htm">
+          <HelpTOCNode Title="GetPathString Method (Int32)" Url="html/1255935168.htm" />
+          <HelpTOCNode Title="GetPathString Method (Int32, Int32)" Url="html/1326488739.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="Hash Method " Url="html/2134270651.htm" />
+        <HelpTOCNode Title="Normalize Method " Url="html/1171765347.htm" />
+        <HelpTOCNode Title="RemoveItem Method " Url="html/1738086102.htm" />
+        <HelpTOCNode Title="SplitPath Method " Url="html/1617763114.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="91752bf4-4281-470b-b29d-d2ba3dca0f89" Title="FileSystem Properties" Url="html/1306660638.htm">
+        <HelpTOCNode Title="Description Property " Url="html/421684485.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="2ce93e9f-eb95-47e6-8dae-660230a5cc73" Title="FileSystem.AddFileAction Structure" Url="html/1789966640.htm">
+      <HelpTOCNode Title="FileSystem.AddFileAction Members" Url="html/1746392080.htm" />
+      <HelpTOCNode Title="AddFileAction Constructor " Url="html/284749282.htm" />
+      <HelpTOCNode Id="5142f5c5-a9a0-4804-9bb8-609d2467cb02" Title="FileSystem.AddFileAction Methods" Url="html/1376526328.htm">
+        <HelpTOCNode Title="CompareTo Method " Url="html/629127541.htm" />
+        <HelpTOCNode Title="ToString Method " Url="html/417408903.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="b0a8aff6-b440-4b6c-a7b5-91df76f976ba" Title="FileSystem.AddFileAction Properties" Url="html/1934018127.htm">
+        <HelpTOCNode Title="Attributes Property " Url="html/1929022047.htm" />
+        <HelpTOCNode Title="Kind Property " Url="html/1567044352.htm" />
+        <HelpTOCNode Title="Path Property " Url="html/1083206859.htm" />
+        <HelpTOCNode Title="StorageRef Property " Url="html/1586840704.htm" />
+        <HelpTOCNode Title="UtcTimestamp Property " Url="html/1667845140.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="FileSystem.AddItemResult Enumeration" Url="html/464116494.htm" />
+    <HelpTOCNode Id="01b133f3-d1f3-4b7e-8d4e-60a4fdd35042" Title="FileSystem.CopyAction Structure" Url="html/793056446.htm">
+      <HelpTOCNode Title="FileSystem.CopyAction Members" Url="html/1540561406.htm" />
+      <HelpTOCNode Title="CopyAction Constructor " Url="html/2056964090.htm" />
+      <HelpTOCNode Id="26b5173e-bd60-4a83-9198-38bdbc11b1f6" Title="FileSystem.CopyAction Methods" Url="html/1481412618.htm">
+        <HelpTOCNode Title="ToString Method " Url="html/2120073225.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="ba5eeee7-8309-4644-b9dd-503ef0e7e915" Title="FileSystem.CopyAction Properties" Url="html/1654740449.htm">
+        <HelpTOCNode Title="Kind Property " Url="html/1391164354.htm" />
+        <HelpTOCNode Title="Path Property " Url="html/1088377785.htm" />
+        <HelpTOCNode Title="UtcTimestamp Property " Url="html/1376909378.htm" />
+        <HelpTOCNode Title="Value Property " Url="html/1907138857.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="538ca2b3-c238-40d6-a8eb-3309cf2b9845" Title="FileSystem.CreateDirectoryAction Structure" Url="html/1085706450.htm">
+      <HelpTOCNode Title="FileSystem.CreateDirectoryAction Members" Url="html/1177169930.htm" />
+      <HelpTOCNode Title="CreateDirectoryAction Constructor " Url="html/799402591.htm" />
+      <HelpTOCNode Id="bffffce5-12b7-4b77-a942-31e664936f1f" Title="FileSystem.CreateDirectoryAction Methods" Url="html/774539254.htm">
+        <HelpTOCNode Title="ToString Method " Url="html/811420615.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="985b1d70-61e2-4910-86b6-4503aec92577" Title="FileSystem.CreateDirectoryAction Properties" Url="html/267852999.htm">
+        <HelpTOCNode Title="Attributes Property " Url="html/149497907.htm" />
+        <HelpTOCNode Title="Kind Property " Url="html/1338152018.htm" />
+        <HelpTOCNode Title="Path Property " Url="html/1821990791.htm" />
+        <HelpTOCNode Title="UtcTimestamp Property " Url="html/50886294.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="8372622b-7d8e-41d6-88e1-ecb419b40318" Title="FileSystem.CustomObject Class" Url="html/52360781.htm">
+      <HelpTOCNode Title="FileSystem.CustomObject Members" Url="html/521965453.htm" />
+      <HelpTOCNode Id="6857a292-4a2c-49a2-9e3e-ae9b91165baf" Title="CustomObject Constructor " Url="html/550410622.htm">
+        <HelpTOCNode Title="CustomObject Constructor (Int32, IStorageRef)" Url="html/1449729028.htm" />
+        <HelpTOCNode Title="CustomObject Constructor (SerializationInfo, StreamingContext)" Url="html/243376087.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="494ef562-1956-4e09-a859-3bf14a93f55b" Title="FileSystem.CustomObject Methods" Url="html/646409781.htm">
+        <HelpTOCNode Title="GetObjectData Method " Url="html/397042623.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="5b8ec01c-90cc-46a3-8abd-13dd5e71e547" Title="FileSystem.CustomObject Properties" Url="html/1586464876.htm">
+        <HelpTOCNode Title="StorageRef Property " Url="html/77885233.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="9bca7c16-b26b-4f4b-b31f-eb42a8de2fde" Title="FileSystem.Directory Class" Url="html/1150388524.htm">
+      <HelpTOCNode Title="FileSystem.Directory Members" Url="html/2028350988.htm" />
+      <HelpTOCNode Id="be35131b-7030-4550-be66-04be1693fc52" Title="Directory Constructor " Url="html/873443995.htm">
+        <HelpTOCNode Title="Directory Constructor (Int32, ItemAttribute)" Url="html/1389009205.htm" />
+        <HelpTOCNode Title="Directory Constructor (Int32, ItemSet, ItemAttribute)" Url="html/282675544.htm" />
+        <HelpTOCNode Title="Directory Constructor (SerializationInfo, StreamingContext)" Url="html/388831984.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="28463889-9b55-4bef-ad0f-14722a1a3dd7" Title="FileSystem.Directory Methods" Url="html/27371352.htm">
+        <HelpTOCNode Title="Add Method " Url="html/1880024045.htm" />
+        <HelpTOCNode Title="GetObjectData Method " Url="html/515099440.htm" />
+        <HelpTOCNode Title="RemoveChild Method " Url="html/895407599.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="2bcda012-cadb-4b73-b2e5-3d5c90cebcf7" Title="FileSystem.Directory Properties" Url="html/309155497.htm">
+        <HelpTOCNode Title="ItemCount Property " Url="html/1456999916.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="bad86b61-64f3-4b46-bbc3-fb759e8a6005" Title="FileSystem.File Class" Url="html/619038201.htm">
+      <HelpTOCNode Title="FileSystem.File Members" Url="html/530787983.htm" />
+      <HelpTOCNode Id="966f20f0-2d6d-48ed-874c-5db61cc36977" Title="File Constructor " Url="html/1618624456.htm">
+        <HelpTOCNode Title="File Constructor (Int32, IStorageRef, ItemAttribute)" Url="html/142316539.htm" />
+        <HelpTOCNode Title="File Constructor (SerializationInfo, StreamingContext)" Url="html/1075039971.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="d59ff09c-3e44-494d-9766-d80b8cc4896f" Title="FileSystem.File Methods" Url="html/609641179.htm">
+        <HelpTOCNode Title="GetObjectData Method " Url="html/1751303319.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="f9c1197a-a1bd-404c-9404-bc7ec2154e55" Title="FileSystem.File Properties" Url="html/926595858.htm">
+        <HelpTOCNode Title="StorageRef Property " Url="html/1775563735.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="51883d99-b6b9-4ce3-b1a8-7dee7822b81a" Title="FileSystem.Item Class" Url="html/1216074282.htm">
+      <HelpTOCNode Title="FileSystem.Item Members" Url="html/127971230.htm" />
+      <HelpTOCNode Id="f2c8a4ff-571e-4825-a809-b86721e0ee2b" Title="Item Constructor " Url="html/1272915199.htm">
+        <HelpTOCNode Title="Item Constructor (Int32, ItemAttribute)" Url="html/1716040027.htm" />
+        <HelpTOCNode Title="Item Constructor (SerializationInfo, StreamingContext)" Url="html/1383838720.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="1c453a9b-4019-404b-a8e5-50998f594503" Title="FileSystem.Item Methods" Url="html/898613986.htm">
+        <HelpTOCNode Id="19fc10be-5a04-4bbc-b939-ffb07a07a153" Title="Equals Method " Url="html/1602485705.htm">
+          <HelpTOCNode Title="Equals Method " Url="html/194383569.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="GetHashCode Method " Url="html/173701168.htm" />
+        <HelpTOCNode Title="GetObjectData Method " Url="html/1654483500.htm" />
+        <HelpTOCNode Title="ToString Method " Url="html/2061138855.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="2588bf2f-77ad-48d3-823e-9a678deb3b00" Title="FileSystem.Item Properties" Url="html/1585353825.htm">
+        <HelpTOCNode Title="Attributes Property " Url="html/81720499.htm" />
+        <HelpTOCNode Title="NameRef Property " Url="html/1948197780.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="eb499652-070c-485d-817a-f0d79853ced7" Title="FileSystem.NullItem Class" Url="html/958957937.htm">
+      <HelpTOCNode Title="FileSystem.NullItem Members" Url="html/968089119.htm" />
+      <HelpTOCNode Title="NullItem Constructor " Url="html/151298675.htm" />
+      <HelpTOCNode Title="FileSystem.NullItem Methods" Url="html/284310387.htm" />
+      <HelpTOCNode Title="FileSystem.NullItem Properties" Url="html/1278832770.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Title="FileSystem.PathOptions Enumeration" Url="html/145630568.htm" />
+    <HelpTOCNode Id="603f82b8-de25-4087-82da-0b422fc58245" Title="FileSystem.RemoveAction Structure" Url="html/1969335031.htm">
+      <HelpTOCNode Title="FileSystem.RemoveAction Members" Url="html/1388341339.htm" />
+      <HelpTOCNode Title="RemoveAction Constructor " Url="html/1740339141.htm" />
+      <HelpTOCNode Id="6f73bbff-3a65-462c-b682-fc0d7bb33c58" Title="FileSystem.RemoveAction Methods" Url="html/359713715.htm">
+        <HelpTOCNode Title="ToString Method " Url="html/163292768.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="2d8b3ef0-a12f-446e-8534-e6387f2c7690" Title="FileSystem.RemoveAction Properties" Url="html/10723110.htm">
+        <HelpTOCNode Title="Kind Property " Url="html/807917573.htm" />
+        <HelpTOCNode Title="Path Property " Url="html/899587452.htm" />
+        <HelpTOCNode Title="UtcTimestamp Property " Url="html/1603361471.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="55a2be6e-7b91-4283-963b-78ea071b39ef" Title="FileSystem.ReplaceFileAction Structure" Url="html/1433983919.htm">
+      <HelpTOCNode Title="FileSystem.ReplaceFileAction Members" Url="html/1683060181.htm" />
+      <HelpTOCNode Title="ReplaceFileAction Constructor " Url="html/637305846.htm" />
+      <HelpTOCNode Id="aaced261-4288-4df9-93d5-bc9c4d2d0e28" Title="FileSystem.ReplaceFileAction Methods" Url="html/427754533.htm">
+        <HelpTOCNode Title="ToString Method " Url="html/122977746.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="00c72778-0e23-486e-8411-528f4376e115" Title="FileSystem.ReplaceFileAction Properties" Url="html/405368216.htm">
+        <HelpTOCNode Title="Kind Property " Url="html/538950805.htm" />
+        <HelpTOCNode Title="Path Property " Url="html/55111776.htm" />
+        <HelpTOCNode Title="StorageRef Property " Url="html/1026622853.htm" />
+        <HelpTOCNode Title="UtcTimestamp Property " Url="html/851067087.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="b6edc046-cd43-44b4-9ea1-7f94fab2efdc" Title="FileSystem.SetNameAction Structure" Url="html/507558322.htm">
+      <HelpTOCNode Title="FileSystem.SetNameAction Members" Url="html/628264886.htm" />
+      <HelpTOCNode Title="SetNameAction Constructor " Url="html/1967724484.htm" />
+      <HelpTOCNode Id="02444301-985f-4ea6-a6e3-d84b80d087a1" Title="FileSystem.SetNameAction Methods" Url="html/1571714922.htm">
+        <HelpTOCNode Title="ToString Method " Url="html/529246585.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="d07db286-d123-4773-a31f-1cca64b1d400" Title="FileSystem.SetNameAction Properties" Url="html/606714869.htm">
+        <HelpTOCNode Title="Kind Property " Url="html/819828066.htm" />
+        <HelpTOCNode Title="Path Property " Url="html/1659896749.htm" />
+        <HelpTOCNode Title="UtcTimestamp Property " Url="html/1631814414.htm" />
+        <HelpTOCNode Title="Value Property " Url="html/1639657445.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="3808d1f4-339f-4ded-816e-1bb7ee976360" Title="FileSystem(TStorageRef) Class" Url="html/968328726.htm">
+      <HelpTOCNode Title="FileSystem(TStorageRef) Members" Url="html/2005726922.htm" />
+      <HelpTOCNode Id="8039bd72-ea72-4c38-bf4d-193ff99544ef" Title="FileSystem(TStorageRef) Constructor " Url="html/1567370289.htm">
+        <HelpTOCNode Title="FileSystem(TStorageRef) Constructor " Url="html/1747643400.htm" />
+        <HelpTOCNode Title="FileSystem(TStorageRef) Constructor (SerializationInfo, StreamingContext)" Url="html/1948936270.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="FileSystem(TStorageRef) Fields" Url="html/735169211.htm" />
+      <HelpTOCNode Id="87c611ed-2b2b-4cf7-a0e9-9fe2eb8c6814" Title="FileSystem(TStorageRef) Methods" Url="html/2048880706.htm">
+        <HelpTOCNode Title="AddCustomObject Method " Url="html/619062391.htm" />
+        <HelpTOCNode Title="CopyFile Method " Url="html/455962432.htm" />
+        <HelpTOCNode Title="CopyTo Method " Url="html/1902573112.htm" />
+        <HelpTOCNode Title="CreateDirectory Method " Url="html/528047300.htm" />
+        <HelpTOCNode Title="CreateFile Method " Url="html/1029605201.htm" />
+        <HelpTOCNode Id="4e0212fc-92fc-4a99-a7a9-5ee88b2094c6" Title="Execute Method " Url="html/868620719.htm">
+          <HelpTOCNode Title="Execute Method (IFileAction)" Url="html/149313746.htm" />
+          <HelpTOCNode Title="Execute Method (IEnumerable(IFileAction))" Url="html/1508941147.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="Exists Method " Url="html/1658875252.htm" />
+        <HelpTOCNode Title="GetCustomObject(T) Method " Url="html/1965704809.htm" />
+        <HelpTOCNode Title="GetItemNames Method " Url="html/1992814223.htm" />
+        <HelpTOCNode Title="GetNameString Method " Url="html/1266937137.htm" />
+        <HelpTOCNode Id="f3e4c9ad-dda9-47c8-bfd9-941086f7bf5b" Title="GetPathString Method " Url="html/664526464.htm">
+          <HelpTOCNode Title="GetPathString Method (Int32)" Url="html/859938225.htm" />
+          <HelpTOCNode Title="GetPathString Method (Int32, Int32)" Url="html/1090788850.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="RemoveItem Method " Url="html/795263515.htm" />
+        <HelpTOCNode Title="SetStorageManager Method " Url="html/1107589253.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="170a4c61-a435-4cdc-a231-e81e29d3fb9d" Title="FileSystem(TStorageRef) Properties" Url="html/421373069.htm">
+        <HelpTOCNode Title="ErrorOptions Property " Url="html/1224369816.htm" />
+        <HelpTOCNode Title="Journal Property " Url="html/1948421365.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="cae541e9-a36e-4cd3-b486-f3ba2817bca7" Title="FileSystem(TStorageRef).ItemRef Structure" Url="html/156040236.htm">
+      <HelpTOCNode Title="FileSystem(TStorageRef).ItemRef Members" Url="html/963875548.htm" />
+      <HelpTOCNode Id="ebac705a-fbca-4185-bcb3-21963960b18f" Title="ItemRef Constructor " Url="html/1993539943.htm">
+        <HelpTOCNode Title="ItemRef Constructor (Int32, Int32)" Url="html/559743681.htm" />
+        <HelpTOCNode Title="ItemRef Constructor (SerializationInfo, StreamingContext)" Url="html/825861312.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="a627acdb-6e8b-4d37-b550-702ecaff5d95" Title="FileSystem(TStorageRef).ItemRef Methods" Url="html/2108564628.htm">
+        <HelpTOCNode Id="386bf740-136b-4d11-be05-1c1243554248" Title="Equals Method " Url="html/1830483233.htm">
+          <HelpTOCNode Title="Equals Method (Int32)" Url="html/1071460440.htm" />
+          <HelpTOCNode Title="Equals Method (ItemRef)" Url="html/1497975741.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="FromPath Method " Url="html/448142105.htm" />
+        <HelpTOCNode Title="GetHashCode Method " Url="html/1739704776.htm" />
+        <HelpTOCNode Title="GetObjectData Method " Url="html/1382530156.htm" />
+        <HelpTOCNode Title="Rename Method " Url="html/439992431.htm" />
+        <HelpTOCNode Title="ToString Method " Url="html/1392834221.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="c1452df9-c898-49c9-a9aa-52501c181728" Title="FileSystem(TStorageRef).ItemRef Properties" Url="html/346637533.htm">
+        <HelpTOCNode Title="Hash Property " Url="html/1144849250.htm" />
+        <HelpTOCNode Title="NameRef Property " Url="html/524091974.htm" />
+        <HelpTOCNode Title="ParentRef Property " Url="html/1814915081.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="e9ce2cff-95aa-4637-8722-4d27eacef7a8" Title="FileSystem(TStorageRef).Junction Class" Url="html/1884944452.htm">
+      <HelpTOCNode Title="FileSystem(TStorageRef).Junction Members" Url="html/1157687216.htm" />
+      <HelpTOCNode Title="Junction Constructor " Url="html/1672496244.htm" />
+      <HelpTOCNode Title="FileSystem(TStorageRef).Junction Methods" Url="html/143673464.htm" />
+      <HelpTOCNode Id="44ebec95-0f33-4533-8ec7-3b9ee115621a" Title="FileSystem(TStorageRef).Junction Properties" Url="html/358459219.htm">
+        <HelpTOCNode Title="Target Property " Url="html/2140008561.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="cb611764-38f8-4037-bacd-9823d20c93ba" Title="FileSystemEventArgs Class" Url="html/1747583878.htm">
+      <HelpTOCNode Title="FileSystemEventArgs Members" Url="html/277663098.htm" />
+      <HelpTOCNode Title="FileSystemEventArgs Constructor " Url="html/1421858160.htm" />
+      <HelpTOCNode Title="FileSystemEventArgs Methods" Url="html/208068198.htm" />
+      <HelpTOCNode Id="268b2dd5-6fdb-4a8f-a788-28adaddda976" Title="FileSystemEventArgs Properties" Url="html/1034229081.htm">
+        <HelpTOCNode Title="Action Property " Url="html/1135912010.htm" />
+        <HelpTOCNode Title="ActionKind Property " Url="html/1386750992.htm" />
+        <HelpTOCNode Title="ItemPath Property " Url="html/1703004220.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="2f019d1d-2362-4581-bff1-d9e24bd05546" Title="FileSystemEventFilter Structure" Url="html/1922947873.htm">
+      <HelpTOCNode Title="FileSystemEventFilter Members" Url="html/1485915007.htm" />
+      <HelpTOCNode Title="FileSystemEventFilter Constructor " Url="html/2083333348.htm" />
+      <HelpTOCNode Id="329405c8-03f2-4707-8747-a25c307993d8" Title="FileSystemEventFilter Methods" Url="html/1164912595.htm">
+        <HelpTOCNode Title="Matches Method " Url="html/1194285307.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="df4ea489-a315-4d80-8c88-2c861fc36e2d" Title="FileSystemEventFilter Properties" Url="html/2005886916.htm">
+        <HelpTOCNode Title="ActionKind Property " Url="html/849674279.htm" />
+        <HelpTOCNode Title="ItemPathBeginsWith Property " Url="html/193180965.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="fe973694-8045-4455-91ff-ae8ccb83e096" Title="FileSystemPostEventArgs Class" Url="html/624694620.htm">
+      <HelpTOCNode Title="FileSystemPostEventArgs Members" Url="html/678485564.htm" />
+      <HelpTOCNode Title="FileSystemPostEventArgs Constructor " Url="html/2062490342.htm" />
+      <HelpTOCNode Title="FileSystemPostEventArgs Methods" Url="html/94323748.htm" />
+      <HelpTOCNode Title="FileSystemPostEventArgs Properties" Url="html/851141507.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Title="FileSystemPostEventHandler Delegate" Url="html/85054967.htm" />
+    <HelpTOCNode Id="c7b2cdd6-7725-4d92-8f9b-08e9746ca341" Title="FileSystemPreEventArgs Class" Url="html/1955984703.htm">
+      <HelpTOCNode Title="FileSystemPreEventArgs Members" Url="html/772107169.htm" />
+      <HelpTOCNode Title="FileSystemPreEventArgs Constructor " Url="html/258547977.htm" />
+      <HelpTOCNode Title="FileSystemPreEventArgs Methods" Url="html/1776850451.htm" />
+      <HelpTOCNode Id="bdd2798f-050f-45b5-bafd-1a210f2bb69a" Title="FileSystemPreEventArgs Properties" Url="html/713136476.htm">
+        <HelpTOCNode Title="Cancel Property " Url="html/1202394717.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="FileSystemPreEventHandler Delegate" Url="html/1707701006.htm" />
+    <HelpTOCNode Id="f400a803-b55e-4ded-87e7-9438c4b67947" Title="FileSystems Class" Url="html/969326350.htm">
+      <HelpTOCNode Title="FileSystems Members" Url="html/653376782.htm" />
+      <HelpTOCNode Id="cbe071d4-cb1f-4c2c-92dd-98ccc7fb06b7" Title="FileSystems Methods" Url="html/505137786.htm">
+        <HelpTOCNode Title="CreateInMemory Method " Url="html/1300476001.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="89196bcf-0924-40f6-a80d-a8fd5f130f88" Title="IDirectory Interface" Url="html/1912758728.htm">
+      <HelpTOCNode Title="IDirectory Members" Url="html/1169448600.htm" />
+      <HelpTOCNode Title="IDirectory Methods" Url="html/1792515516.htm" />
+      <HelpTOCNode Id="c65967d0-ae0d-42f3-9302-68e18c5c7987" Title="IDirectory Properties" Url="html/1528689947.htm">
+        <HelpTOCNode Title="ItemCount Property " Url="html/221293032.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="ae704049-cc7d-47e5-b4c4-e39d1dbc4c58" Title="IFileAction Interface" Url="html/1988901059.htm">
+      <HelpTOCNode Title="IFileAction Members" Url="html/1832447623.htm" />
+      <HelpTOCNode Title="IFileAction Methods" Url="html/2117800507.htm" />
+      <HelpTOCNode Id="8db0752f-e164-44b2-996e-bf910c9cc4b2" Title="IFileAction Properties" Url="html/1232100280.htm">
+        <HelpTOCNode Title="Kind Property " Url="html/150111955.htm" />
+        <HelpTOCNode Title="Path Property " Url="html/1395769262.htm" />
+        <HelpTOCNode Title="UtcTimestamp Property " Url="html/516099161.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="be966829-7c8b-47b0-a72b-2093d573261c" Title="IFileStorageAction Interface" Url="html/253356502.htm">
+      <HelpTOCNode Title="IFileStorageAction Methods" Url="html/1481239818.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="ba4dea2a-3cd7-4cca-8502-035ee738e063" Title="IFileSystem Interface" Url="html/38648502.htm">
+      <HelpTOCNode Title="IFileSystem Members" Url="html/1614608470.htm" />
+      <HelpTOCNode Id="51d8ffb9-fddc-4fad-ad9a-9a98eabd610c" Title="IFileSystem Methods" Url="html/1135941142.htm">
+        <HelpTOCNode Title="AddCustomObject Method " Url="html/181448383.htm" />
+        <HelpTOCNode Title="CopyFile Method " Url="html/1825014002.htm" />
+        <HelpTOCNode Title="CreateDirectory Method " Url="html/2146041130.htm" />
+        <HelpTOCNode Title="CreateFile Method " Url="html/1146947201.htm" />
+        <HelpTOCNode Title="Execute Method " Url="html/257107532.htm" />
+        <HelpTOCNode Title="Exists Method " Url="html/466271446.htm" />
+        <HelpTOCNode Title="GetCustomObject(T) Method " Url="html/1718994855.htm" />
+        <HelpTOCNode Title="GetFile Method " Url="html/271740646.htm" />
+        <HelpTOCNode Title="GetItemNames Method " Url="html/1763379407.htm" />
+        <HelpTOCNode Title="RemoveItem Method " Url="html/1440892195.htm" />
+        <HelpTOCNode Title="SetStorageManager Method " Url="html/521409277.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="7bace38d-4847-4a51-a052-93a971377c73" Title="IFileSystem Properties" Url="html/250751095.htm">
+        <HelpTOCNode Title="ErrorOptions Property " Url="html/1855533120.htm" />
+        <HelpTOCNode Title="Journal Property " Url="html/162939825.htm" />
+        <HelpTOCNode Title="Root Property " Url="html/400287312.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="6cfdf13c-8376-44af-a9dd-0c984ff104ef" Title="IItem Interface" Url="html/2086534986.htm">
+      <HelpTOCNode Title="IItem Members" Url="html/1969959826.htm" />
+      <HelpTOCNode Title="IItem Methods" Url="html/503410510.htm" />
+      <HelpTOCNode Id="85584cef-c87d-4126-965c-3771b0a31c05" Title="IItem Properties" Url="html/1926256949.htm">
+        <HelpTOCNode Title="NameRef Property " Url="html/818225160.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="0eb1115a-f8bd-4b99-ada1-ed570d465dc1" Title="IJournal Interface" Url="html/2025375820.htm">
+      <HelpTOCNode Title="IJournal Methods" Url="html/267813708.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="b870bf9e-cb63-4868-896b-d5aa4f2107e3" Title="INameStore Interface" Url="html/477746839.htm">
+      <HelpTOCNode Title="INameStore Members" Url="html/2091200669.htm" />
+      <HelpTOCNode Id="3200ee91-75d2-4465-b701-f014b98c1804" Title="INameStore Methods" Url="html/348318221.htm">
+        <HelpTOCNode Title="GetExactMatch Method " Url="html/1802395529.htm" />
+        <HelpTOCNode Title="GetExpressionMatches Method " Url="html/684199232.htm" />
+        <HelpTOCNode Title="GetMatches Method " Url="html/100847058.htm" />
+        <HelpTOCNode Id="db40374c-c697-483b-98f3-eb7ec2c8779d" Title="Translate Method " Url="html/152231661.htm">
+          <HelpTOCNode Title="Translate Method (IEnumerable(Int32))" Url="html/1343225055.htm" />
+          <HelpTOCNode Title="Translate Method (IEnumerable(IItem))" Url="html/454466348.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="37eb5e13-b399-4a77-a313-20f7012dd133" Title="INameStore Properties" Url="html/1724014656.htm">
+        <HelpTOCNode Title="Item Property " Url="html/336635946.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="c0a2b064-8baf-4874-92f9-4d0eb74d07d8" Title="IStorageManager Interface" Url="html/1760660171.htm">
+      <HelpTOCNode Title="IStorageManager Members" Url="html/968310405.htm" />
+      <HelpTOCNode Id="5890c727-5158-4214-9f66-be992a875be8" Title="IStorageManager Methods" Url="html/1930970419.htm">
+        <HelpTOCNode Title="Allocate Method " Url="html/1189171918.htm" />
+        <HelpTOCNode Title="Delink Method " Url="html/1140471573.htm" />
+        <HelpTOCNode Title="Duplicate Method " Url="html/2088471.htm" />
+        <HelpTOCNode Title="GetObject Method " Url="html/563543463.htm" />
+        <HelpTOCNode Title="GetReadStream Method " Url="html/1899955794.htm" />
+        <HelpTOCNode Title="GetWriteStream Method " Url="html/1742910352.htm" />
+        <HelpTOCNode Title="StoreObject Method " Url="html/853203487.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="d682a3ae-05eb-4b40-ae46-8c170e916a82" Title="IStorageManager Events" Url="html/1210945428.htm">
+        <HelpTOCNode Title="ReferenceUpdated Event" Url="html/1580265318.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="40b7233f-50ee-44ea-be9d-238cda8bee6f" Title="IStorageRef Interface" Url="html/1340010657.htm">
+      <HelpTOCNode Title="IStorageRef Members" Url="html/573820259.htm" />
+      <HelpTOCNode Id="dd874849-e207-4739-98ba-a3a5ad15e226" Title="IStorageRef Methods" Url="html/1865123081.htm">
+        <HelpTOCNode Title="FromString Method " Url="html/649618884.htm" />
+        <HelpTOCNode Title="WithSize Method " Url="html/2095266370.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="381fe033-bbfb-4181-a673-11393fa71099" Title="IStorageRef Properties" Url="html/51130682.htm">
+        <HelpTOCNode Title="Flags Property " Url="html/324412194.htm" />
+        <HelpTOCNode Title="Hash Property " Url="html/1835133391.htm" />
+        <HelpTOCNode Title="Location Property " Url="html/1741364480.htm" />
+        <HelpTOCNode Title="Size Property " Url="html/1445403878.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="a407e3ff-3e90-468d-9856-e672b3e69589" Title="IStorageStream Interface" Url="html/1467081302.htm">
+      <HelpTOCNode Title="IStorageStream Members" Url="html/1892550238.htm" />
+      <HelpTOCNode Id="8f837890-6337-4edd-b3d9-32f3398b2aab" Title="IStorageStream Methods" Url="html/1900312882.htm">
+        <HelpTOCNode Title="GetSourceDataHash Method " Url="html/1224204430.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="b473d16c-ba2a-4545-a1b6-71e8f8066294" Title="IStorageStream Events" Url="html/2120316061.htm">
+        <HelpTOCNode Title="Stored Event" Url="html/617509306.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="ItemAttribute Enumeration" Url="html/1671819529.htm" />
+    <HelpTOCNode Id="cb5b0681-1b5d-43bb-bad3-9a58becf17d8" Title="ItemSet Class" Url="html/1161120963.htm">
+      <HelpTOCNode Title="ItemSet Members" Url="html/1043569395.htm" />
+      <HelpTOCNode Id="2bc3cb59-b231-4310-8465-cac7a9648ee3" Title="ItemSet Constructor " Url="html/570068880.htm">
+        <HelpTOCNode Title="ItemSet Constructor " Url="html/1993901963.htm" />
+        <HelpTOCNode Title="ItemSet Constructor (IEnumerable(IItem))" Url="html/426267363.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="de1a7bee-c111-4fe3-82a4-46739beb986b" Title="ItemSet Methods" Url="html/581573557.htm">
+        <HelpTOCNode Id="b43cf86b-0996-4c30-8489-f3e9078d13e2" Title="Contains Method " Url="html/105784280.htm">
+          <HelpTOCNode Title="Contains Method " Url="html/967677897.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="fa6f7274-a529-49be-ad4e-9e100863cc6f" Title="Remove Method " Url="html/790114341.htm">
+          <HelpTOCNode Title="Remove Method " Url="html/1323642986.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="a8b7a56d-b51b-4741-825e-7880bb835148" Title="TryGetValue Method " Url="html/461215343.htm">
+          <HelpTOCNode Title="TryGetValue Method " Url="html/1479029272.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Title="ItemSet Properties" Url="html/1229472182.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="136c37fe-9269-4fa4-817d-2dbb878b85fd" Title="NameStore Class" Url="html/140225738.htm">
+      <HelpTOCNode Title="NameStore Members" Url="html/409197546.htm" />
+      <HelpTOCNode Id="f866418f-6872-4a4a-b3af-dd44d8bd9764" Title="NameStore Methods" Url="html/1449695786.htm">
+        <HelpTOCNode Title="GetExactMatch Method " Url="html/146491712.htm" />
+        <HelpTOCNode Title="GetExpressionMatches Method " Url="html/1327686307.htm" />
+        <HelpTOCNode Title="GetMatches Method (String)" Url="html/1032534957.htm" />
+        <HelpTOCNode Id="3351c86a-caa4-4b81-918c-1db319f949f7" Title="Translate Method " Url="html/802629068.htm">
+          <HelpTOCNode Title="Translate Method (IEnumerable(Int32))" Url="html/1453391522.htm" />
+          <HelpTOCNode Title="Translate Method (IEnumerable(IItem))" Url="html/1727810689.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Title="NameStore Properties" Url="html/1582408375.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Title="ReferenceUpdatedHandler Delegate" Url="html/1048299530.htm" />
+    <HelpTOCNode Id="4f400263-d70b-43a8-a9c0-1688c71c0e9d" Title="Replicator Class" Url="html/1292729013.htm">
+      <HelpTOCNode Title="Replicator Members" Url="html/192521689.htm" />
+      <HelpTOCNode Title="Replicator Constructor " Url="html/123904928.htm" />
+      <HelpTOCNode Id="d81521c8-4613-4bd7-ad7d-3ff64d5dad99" Title="Replicator Methods" Url="html/519573427.htm">
+        <HelpTOCNode Title="AddDirectory Method " Url="html/1543416578.htm" />
+        <HelpTOCNode Id="657e6ac5-fc79-4bb5-8a07-062f526dc309" Title="ReplicateTo Method " Url="html/1083629673.htm">
+          <HelpTOCNode Title="ReplicateTo Method (String)" Url="html/1782080783.htm" />
+          <HelpTOCNode Title="ReplicateTo Method (DirectoryInfo)" Url="html/788686578.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="5768b6fc-523e-4b75-b39b-d1525a53f943" Title="Replicator Properties" Url="html/684499368.htm">
+        <HelpTOCNode Title="FileSystem Property " Url="html/1602437064.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="StorageFlag Enumeration" Url="html/755254341.htm" />
+    <HelpTOCNode Id="4f7374cb-a2d7-4a50-b33f-0040e046059b" Title="StorageManager(TStorageRef) Class" Url="html/864870441.htm">
+      <HelpTOCNode Title="StorageManager(TStorageRef) Members" Url="html/1682464959.htm" />
+      <HelpTOCNode Id="a309ed8f-79b2-4666-b5ad-a7e23e97ef3b" Title="StorageManager(TStorageRef) Methods" Url="html/1731243883.htm">
+        <HelpTOCNode Title="Allocate Method " Url="html/1274531092.htm" />
+        <HelpTOCNode Title="Delink Method " Url="html/1189162248.htm" />
+        <HelpTOCNode Title="Duplicate Method " Url="html/147714198.htm" />
+        <HelpTOCNode Title="GetCachedReadStream Method " Url="html/1864723829.htm" />
+        <HelpTOCNode Title="GetObject Method " Url="html/1277793768.htm" />
+        <HelpTOCNode Title="GetReadStream Method " Url="html/686345633.htm" />
+        <HelpTOCNode Title="GetWriteStream Method " Url="html/1483442449.htm" />
+        <HelpTOCNode Title="OnReferenceUpdated Method " Url="html/2123860997.htm" />
+        <HelpTOCNode Title="Store Method " Url="html/1800028.htm" />
+        <HelpTOCNode Title="StoreObject Method " Url="html/2075423113.htm" />
+        <HelpTOCNode Title="TryGetReference Method " Url="html/1174240541.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="e7049394-49db-4104-ac72-853227b16e57" Title="StorageManager(TStorageRef) Properties" Url="html/1453439042.htm">
+        <HelpTOCNode Title="AllocatedTotal Property " Url="html/625263460.htm" />
+        <HelpTOCNode Title="CacheManager Property " Url="html/341051184.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="9f6e1a36-02e9-4101-a4bc-a5f7ca2eeeff" Title="StorageManager(TStorageRef) Events" Url="html/982907226.htm">
+        <HelpTOCNode Title="ReferenceUpdated Event" Url="html/2137866932.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="43f65fc7-be05-4606-a17b-50575aef5f38" Title="StorageManager(TStorageRef).DeflateStorageStream Class" Url="html/1208074979.htm">
+      <HelpTOCNode Title="StorageManager(TStorageRef).DeflateStorageStream Members" Url="html/329138123.htm" />
+      <HelpTOCNode Title="DeflateStorageStream Constructor " Url="html/715809586.htm" />
+      <HelpTOCNode Id="5ea3ef07-24a3-49b4-8cd8-7afe6cddbab7" Title="StorageManager(TStorageRef).DeflateStorageStream Methods" Url="html/1950718971.htm">
+        <HelpTOCNode Title="GetSourceDataHash Method " Url="html/1152422307.htm" />
+        <HelpTOCNode Id="2c33a8b7-5868-46aa-a0ca-9bf107623efe" Title="Read Method " Url="html/776137079.htm">
+          <HelpTOCNode Title="Read Method " Url="html/545493782.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="cdff97ea-8ddc-41e8-be74-319c0ea85c1b" Title="Seek Method " Url="html/789946899.htm">
+          <HelpTOCNode Title="Seek Method " Url="html/1596296219.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="Write Method " Url="html/1356356047.htm" />
+        <HelpTOCNode Id="d97fd90e-9910-4f64-a336-f180b9ede44d" Title="WriteAsync Method " Url="html/226948990.htm">
+          <HelpTOCNode Title="WriteAsync Method " Url="html/89277433.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="WriteByte Method " Url="html/1248824355.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="StorageManager(TStorageRef).DeflateStorageStream Properties" Url="html/571227636.htm" />
+      <HelpTOCNode Id="832daed4-ce96-4bc0-a3cd-64f97836e4fe" Title="StorageManager(TStorageRef).DeflateStorageStream Events" Url="html/46187212.htm">
+        <HelpTOCNode Title="Stored Event" Url="html/1806899925.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="fac6a8e2-e482-4354-99e5-56caf053398e" Title="StorageManager(TStorageRef).StorageStream Class" Url="html/1435609518.htm">
+      <HelpTOCNode Title="StorageManager(TStorageRef).StorageStream Members" Url="html/402681682.htm" />
+      <HelpTOCNode Title="StorageStream Constructor " Url="html/1268994329.htm" />
+      <HelpTOCNode Id="f75962d0-31a8-48b4-9097-a793da8e1184" Title="StorageManager(TStorageRef).StorageStream Methods" Url="html/1089542510.htm">
+        <HelpTOCNode Title="Close Method " Url="html/1086469769.htm" />
+        <HelpTOCNode Title="GetSourceDataHash Method " Url="html/293812642.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="StorageManager(TStorageRef).StorageStream Properties" Url="html/388060337.htm" />
+      <HelpTOCNode Id="15a6dd46-2cdf-4520-a153-35a685421b5c" Title="StorageManager(TStorageRef).StorageStream Events" Url="html/1097749693.htm">
+        <HelpTOCNode Title="Stored Event" Url="html/804745058.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="40cb083b-71b3-4e2e-ba1a-24fdb5832178" Title="StorageRef(TRef) Structure" Url="html/327578251.htm">
+      <HelpTOCNode Title="StorageRef(TRef) Members" Url="html/711434455.htm" />
+      <HelpTOCNode Title="StorageRef(TRef) Constructor " Url="html/1025729473.htm" />
+      <HelpTOCNode Id="7dc489b1-811f-44e0-9931-d7ab8bbba1e4" Title="StorageRef(TRef) Methods" Url="html/1132315277.htm">
+        <HelpTOCNode Id="2bfa91a3-554a-4c73-9bcc-246e6e7c1e17" Title="Equals Method " Url="html/1230210812.htm">
+          <HelpTOCNode Title="Equals Method " Url="html/1017159855.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="GetHashCode Method " Url="html/1348205591.htm" />
+        <HelpTOCNode Title="WithSize Method " Url="html/1587692844.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="6cdd1b07-6680-4689-a472-78ae35b5c88d" Title="StorageRef(TRef) Properties" Url="html/1328062616.htm">
+        <HelpTOCNode Title="Flags Property " Url="html/113725046.htm" />
+        <HelpTOCNode Title="Hash Property " Url="html/1134792637.htm" />
+        <HelpTOCNode Title="Location Property " Url="html/759579872.htm" />
+        <HelpTOCNode Title="Size Property " Url="html/1271359046.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="StoredHandler Delegate" Url="html/1986344177.htm" />
+  </HelpTOCNode>
+</HelpTOC>

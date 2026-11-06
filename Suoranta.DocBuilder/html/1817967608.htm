@@ -1,0 +1,660 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"[]>
+<html>
+  <head><link rel="shortcut icon" href="../favicon.ico" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="save" content="history" />
+    <title>AddImage Method </title>
+    <link rel="stylesheet" type="text/css" href="../styles/lightweight.css" xmlns:MSHelp="http://msdn.microsoft.com/mshelp" xmlns:mshelp="http://msdn.microsoft.com/mshelp" xmlns:ddue="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:msxsl="urn:schemas-microsoft-com:xslt" />
+    <link rel="stylesheet" type="text/css" href="../styles/lw-code.css" xmlns:MSHelp="http://msdn.microsoft.com/mshelp" xmlns:mshelp="http://msdn.microsoft.com/mshelp" xmlns:ddue="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:msxsl="urn:schemas-microsoft-com:xslt" />
+    <script type="text/javascript" xmlns:MSHelp="http://msdn.microsoft.com/mshelp" xmlns:mshelp="http://msdn.microsoft.com/mshelp" xmlns:ddue="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:msxsl="urn:schemas-microsoft-com:xslt" src="../scripts/languageSelector.js"> </script>
+    <meta name="container" content="Suoranta.IO.Builders" xmlns:MSHelp="http://msdn.microsoft.com/mshelp" xmlns:mshelp="http://msdn.microsoft.com/mshelp" xmlns:ddue="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:msxsl="urn:schemas-microsoft-com:xslt" />
+    <meta name="file" content="1817967608" xmlns:MSHelp="http://msdn.microsoft.com/mshelp" xmlns:mshelp="http://msdn.microsoft.com/mshelp" xmlns:ddue="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:msxsl="urn:schemas-microsoft-com:xslt" />
+    <meta name="guid" content="1817967608" xmlns:MSHelp="http://msdn.microsoft.com/mshelp" xmlns:mshelp="http://msdn.microsoft.com/mshelp" xmlns:ddue="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:msxsl="urn:schemas-microsoft-com:xslt" />
+    <xml xmlns:MSHelp="http://msdn.microsoft.com/mshelp" xmlns:mshelp="http://msdn.microsoft.com/mshelp" xmlns:ddue="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+      <MSHelp:Attr Name="AssetID" Value="Overload:Suoranta.IO.Builders.HtmlDocumentBuilder.AddImage" />
+      <MSHelp:TOCTitle Title="AddImage Method " />
+      <MSHelp:RLTitle Title="HtmlDocumentBuilder.AddImage Method  (Suoranta.IO.Builders)" />
+      <MSHelp:Keyword Index="A" Term="Overload:Suoranta.IO.Builders.HtmlDocumentBuilder.AddImage" />
+      <MSHelp:Keyword Index="A" Term="frlrfSuorantaIOBuildersHtmlDocumentBuilderClassAddImageTopic" />
+      <MSHelp:Keyword Index="K" Term="AddImage method" />
+      <MSHelp:Keyword Index="K" Term="HtmlDocumentBuilder.AddImage method" />
+      <MSHelp:Keyword Index="F" Term="Suoranta.IO.Builders.HtmlDocumentBuilder.AddImage" />
+      <MSHelp:Attr Name="DevLang" Value="CSharp" />
+      <MSHelp:Attr Name="DevLang" Value="VB" />
+      <MSHelp:Attr Name="Locale" Value="en-us" />
+      <MSHelp:Attr Name="TopicType" Value="kbSyntax" />
+      <MSHelp:Attr Name="TopicType" Value="apiref" />
+      <MSHelp:Attr Name="AssemblyVersion" Value="" />
+    </xml>
+  <link rel="stylesheet" href="../TOC.css"><script type="text/javascript" src="../TOC.js"></script></head>
+  <body onload="javascript: Initialize();" onresize="javascript: ResizeTree();">
+            <div id="TOCDiv" class="TOCDiv" style="width: 310px; float: left; position: relative; ">
+
+            <div id="divSearchOpts" class="SearchOpts" style="height: 95px; display: none;">
+                <div class="SearchOptsInner">
+                    <img class="TOCLink" onclick="javascript: ShowHideSearch(false);" src="../Close.png" height="24" width="24" alt="Hide Search" title="Hide Search" style="float: right;" />
+                    <span class="Title">Keyword(s) to search:</span>
+                </div>
+                <div class="SearchOptsInner">
+                    <input id="txtSearchText" type="text" style="width: 95.5%;" onkeypress="javascript: return OnSearchTextKeyPress(event);" />
+                </div>
+                <div class="SearchOptsInner">
+                    <input id="chkSortByTitle" type="checkbox" />&nbsp;Sort results by title
+                    <input type="button" value="Search" onclick="javascript: return PerformSearch();" style="float: right;" />
+                </div>
+            </div>
+
+            <div id="divIndexOpts" class="IndexOpts" style="height: 28px; display: none;">
+                <img class="TOCLink" onclick="javascript: ShowHideIndex(false);"
+                     src="../Close.png" height="24" width="24" alt="Hide Keyword Index" title="Hide Keyword Index" style="float: right;" />
+                <span class="Title">Keyword Index</span>
+            </div>
+
+            <div id="divNavOpts" class="NavOpts" style="height: 28px;">
+                <!--<img class="TOCLink" onclick="javascript: SyncTOC();" src="../SyncTOC.png"
+                     height="24" width="24" alt="Sync to TOC" title="Sync to TOC" />-->
+                <img class="TOCLink" onclick="javascript: ExpandOrCollapseAll(true);"
+                     src="../ExpandAll.png" height="24" width="24" alt="Expand all" title="Expand all" />
+                <img class="TOCLink" onclick="javascript: ExpandOrCollapseAll(false);"
+                     src="../CollapseAll.png" height="24" width="24" alt="Collapse all" title="Collapse all" />
+                <!--<img class="TOCLink" onclick="javascript: alert('Please make sure to use either Index.aspx or Index.php to enable the Keyword Index feature.');"
+                     src="../Index.png" height="24" width="24" alt="Keyword Index" title="Keyword Index" />-->
+                <img class="TOCLink" onclick="javascript: ShowHideSearch(true);"
+                     src="../Search.png" height="24" width="24" alt="Search" title="Search" />
+                <img class="TOCLink" onclick="javascript: ShowDirectLink();"
+                     src="../Link.png" height="24" width="24" alt="Get direct link to the displayed topic" title="Get direct link to the displayed topic" />
+                <a href="#" onclick="javascript: window.history.go(-1); return false;">
+                    <img class="TOCLink" style="float: right;"
+                         src="../Back.png" height="24" width="24" alt="Previous page" title="Previous page" />
+                </a>
+            </div>
+
+            <div class="Tree" id="divSearchResults" style="display: none;"
+                 onselectstart="javascript: return false;">
+            </div>
+
+            <div class="Tree" id="divIndexResults" style="display: none;"
+                 onselectstart="javascript: return false;">
+            </div>
+
+            <div class="Tree" id="divTree" onselectstart="javascript: return false;">
+              <div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="1390582279.htm" target="_self">Suoranta.IO Namespace</a>
+<div class="Hidden">
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="419913095.htm" target="_self">ConfigurationExtensions Class</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="238660455.htm" target="_self">DocBuilderException Class</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeItem">
+<img src="../Item.gif"/><a class="UnselectedNode" onclick="javascript: return SelectNode(this);" href="1051159652.htm" target="_self">DocumentType Enumeration</a>
+</div>
+<div class="TreeItem">
+<img src="../Item.gif"/><a class="UnselectedNode" onclick="javascript: return SelectNode(this);" href="1957826922.htm" target="_self">ExtendedValueFormatter(TValue) Delegate</a>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="13131221.htm" target="_self">Extensions Class</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeItem">
+<img src="../Item.gif"/><a class="UnselectedNode" onclick="javascript: return SelectNode(this);" href="597503349.htm" target="_self">HeadingLevel Enumeration</a>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="1148155315.htm" target="_self">HtmlException Class</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="2002957547.htm" target="_self">IElementCollectionBuilder Interface</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="1454155140.htm" target="_self">IHtmlBuilder Interface</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="552981014.htm" target="_self">IHtmlContent Interface</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="2063051707.htm" target="_self">IHtmlElement Interface</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="1259704434.htm" target="_self">IHtmlElementBuilder Interface</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="1501182800.htm" target="_self">IHtmlParagraphBuilder Interface</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="636106458.htm" target="_self">IHtmlTableBuilder Interface</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="1060941184.htm" target="_self">IHtmlTableRowBuilder Interface</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="1528902462.htm" target="_self">IJsBuilder Interface</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeItem">
+<img src="../Item.gif"/><a class="UnselectedNode" onclick="javascript: return SelectNode(this);" href="1389277392.htm" target="_self">IndentationType Enumeration</a>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="2017015837.htm" target="_self">IParagraphBuilder(TDocBuilder, TBuilder) Interface</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="718973418.htm" target="_self">IWriteTo Interface</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeItem">
+<img src="../Item.gif"/><a class="UnselectedNode" onclick="javascript: return SelectNode(this);" href="835474323.htm" target="_self">LineEndings Enumeration</a>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="477857430.htm" target="_self">ReflectionExtensions Class</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="422083970.htm" target="_self">Resources Class</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeItem">
+<img src="../Item.gif"/><a class="UnselectedNode" onclick="javascript: return SelectNode(this);" href="508710936.htm" target="_self">ScriptBlocks Enumeration</a>
+</div>
+<div class="TreeItem">
+<img src="../Item.gif"/><a class="UnselectedNode" onclick="javascript: return SelectNode(this);" href="1296702588.htm" target="_self">StringBuilderMode Enumeration</a>
+</div>
+<div class="TreeItem">
+<img src="../Item.gif"/><a class="UnselectedNode" onclick="javascript: return SelectNode(this);" href="745050673.htm" target="_self">StringBuilderOptions Enumeration</a>
+</div>
+<div class="TreeItem">
+<img src="../Item.gif"/><a class="UnselectedNode" onclick="javascript: return SelectNode(this);" href="1123698837.htm" target="_self">TagOptions Enumeration</a>
+</div>
+<div class="TreeItem">
+<img src="../Item.gif"/><a class="UnselectedNode" onclick="javascript: return SelectNode(this);" href="528874093.htm" target="_self">ValueFormatter(TValue) Delegate</a>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="287074993.htm" target="_self">ValueFormatterWrapper Class</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="1098593933.htm" target="_self">WebStringBuilder Class</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="1122388863.htm" target="_self">WebStringBuilder.HtmlTagWriter Class</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="426890594.htm" target="_self">WebStringBuilder.TagWriter Class</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="260452536.htm" target="_self">WebStringBuilder.TagWriterBase(T) Class</a>
+<div class="Hidden">
+</div>
+</div>
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="991101113.htm" target="_self">Suoranta.IO.Builders Namespace</a>
+<div class="Hidden">
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="1465256222.htm" target="_self">DocumentOptions Class</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="1803723222.htm" target="_self">GenericDocumentBuilder Class</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="1555856780.htm" target="_self">HtmlDocumentBuilder Class</a>
+<div class="Hidden">
+<div class="TreeItem">
+<img src="../Item.gif"/><a class="UnselectedNode" onclick="javascript: return SelectNode(this);" href="178561616.htm" target="_self">HtmlDocumentBuilder Members</a>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="1738244109.htm" target="_self">HtmlDocumentBuilder Constructor </a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="1135114964.htm" target="_self">HtmlDocumentBuilder Methods</a>
+<div class="Hidden">
+<div class="TreeItem">
+<img src="../Item.gif"/><a class="UnselectedNode" onclick="javascript: return SelectNode(this);" href="1397124829.htm" target="_self">AddCodeblock Method </a>
+</div>
+<div class="TreeItem">
+<img src="../Item.gif"/><a class="UnselectedNode" onclick="javascript: return SelectNode(this);" href="1853987571.htm" target="_self">AddCsvTable Method </a>
+</div>
+<div class="TreeItem">
+<img src="../Item.gif"/><a class="UnselectedNode" onclick="javascript: return SelectNode(this);" href="969858939.htm" target="_self">AddDetails Method </a>
+</div>
+<div class="TreeItem">
+<img src="../Item.gif"/><a class="UnselectedNode" onclick="javascript: return SelectNode(this);" href="772333062.htm" target="_self">AddElement(TBuilder) Method </a>
+</div>
+<div class="TreeItem">
+<img src="../Item.gif"/><a class="UnselectedNode" onclick="javascript: return SelectNode(this);" href="970250155.htm" target="_self">AddHeading Method </a>
+</div>
+<div class="TreeItem">
+<img src="../Item.gif"/><a class="UnselectedNode" onclick="javascript: return SelectNode(this);" href="86432522.htm" target="_self">AddHorizontalRule Method </a>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="1817967608.htm" target="_self">AddImage Method </a>
+<div class="Hidden">
+<div class="TreeItem">
+<img src="../Item.gif"/><a class="UnselectedNode" onclick="javascript: return SelectNode(this);" href="1359093364.htm" target="_self">AddImage Method (String, String, String)</a>
+</div>
+<div class="TreeItem">
+<img src="../Item.gif"/><a class="UnselectedNode" onclick="javascript: return SelectNode(this);" href="2008623.htm" target="_self">AddImage Method (String, Byte[], String)</a>
+</div>
+</div>
+</div>
+<div class="TreeItem">
+<img src="../Item.gif"/><a class="UnselectedNode" onclick="javascript: return SelectNode(this);" href="1561347828.htm" target="_self">AddOrderedList(T) Method </a>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="1139008667.htm" target="_self">AddParagraph Method </a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeItem">
+<img src="../Item.gif"/><a class="UnselectedNode" onclick="javascript: return SelectNode(this);" href="1040640913.htm" target="_self">AddRaw Method </a>
+</div>
+<div class="TreeItem">
+<img src="../Item.gif"/><a class="UnselectedNode" onclick="javascript: return SelectNode(this);" href="832959298.htm" target="_self">AddSvgImage Method </a>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="707457167.htm" target="_self">AddTable Method </a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeItem">
+<img src="../Item.gif"/><a class="UnselectedNode" onclick="javascript: return SelectNode(this);" href="874607407.htm" target="_self">AddUnorderedList(T) Method </a>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="2018112144.htm" target="_self">BuildAsync Method </a>
+<div class="Hidden">
+</div>
+</div>
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="459692881.htm" target="_self">HtmlDocumentBuilder Properties</a>
+<div class="Hidden">
+</div>
+</div>
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="1146810869.htm" target="_self">HtmlDocumentOptions Class</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="2051251336.htm" target="_self">IDocumentBuilder Interface</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="1007979623.htm" target="_self">IDocumentBuilder(TBuilder) Interface</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="1405969309.htm" target="_self">IGenericDocumentBuilder Interface</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="1655649773.htm" target="_self">IHtmlDocumentBuilder Interface</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="1540636977.htm" target="_self">IMarkdownDocumentBuilder Interface</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="1432181240.htm" target="_self">MarkdownDocumentBuilder Class</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="85371654.htm" target="_self">MarkdownOptions Class</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="1519971490.htm" target="_self">MarkdownOptions.TableOptions Class</a>
+<div class="Hidden">
+</div>
+</div>
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="794236859.htm" target="_self">Suoranta.IO.HtmlElements Namespace</a>
+<div class="Hidden">
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="1233665396.htm" target="_self">ChildElementBuilder(TParent, TElement) Class</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="1233063950.htm" target="_self">ElementBuilder Class</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="611483261.htm" target="_self">ElementBuilder(TElement) Class</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="268845447.htm" target="_self">ElementCollection Class</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="1436332022.htm" target="_self">ElementCollection.Builder Class</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="1734457444.htm" target="_self">ElementCollection(T) Class</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="1758240908.htm" target="_self">HtmlElement Class</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="1701435696.htm" target="_self">ParagraphBuilder Class</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="932327623.htm" target="_self">StreamElementBuilder(TElement) Class</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="11941126.htm" target="_self">TableBuilder Class</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="1884037971.htm" target="_self">TableBuilder.RowBuilder Class</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="1905127641.htm" target="_self">TableElement Class</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="534004205.htm" target="_self">TableElement.RowElement Class</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="3722213.htm" target="_self">RowElement.CellElement Class</a>
+<div class="Hidden">
+</div>
+</div>
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="88979993.htm" target="_self">Suoranta.IO.Model.Excel Namespace</a>
+<div class="Hidden">
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="118208094.htm" target="_self">ExcelCell Class</a>
+<div class="Hidden">
+</div>
+</div>
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="274782052.htm" target="_self">Suoranta.IO.Plotting Namespace</a>
+<div class="Hidden">
+<div class="TreeItem">
+<img src="../Item.gif"/><a class="UnselectedNode" onclick="javascript: return SelectNode(this);" href="1748609210.htm" target="_self">AxisDirection Enumeration</a>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="736634708.htm" target="_self">AxisPlacement Structure</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="929200248.htm" target="_self">BaseAxis Class</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="916183603.htm" target="_self">DocumentExtensions Class</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="1440737569.htm" target="_self">FloatingAnnotation Class</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="1697109909.htm" target="_self">GridPosition Structure</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="1585774807.htm" target="_self">IndexAxis Class</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="1698760890.htm" target="_self">IndexMapping Structure</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="928618403.htm" target="_self">ITimeSeriesElement Interface</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="1823525416.htm" target="_self">PercentageTimeSeries Class</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="2047843133.htm" target="_self">PlottingExtensions Class</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="424920259.htm" target="_self">ScalableTimeSeries Class</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="1090801384.htm" target="_self">TimeSeries Class</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="1838958648.htm" target="_self">TimeSeriesPlotModel Class</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="316398329.htm" target="_self">TimeSeriesPlotModel.Band Class</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="512907542.htm" target="_self">TimeSeriesPlotModel.TextBox Class</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="367971520.htm" target="_self">ValueSeries Class</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="415565919.htm" target="_self">WFPDateTimeAxis Class</a>
+<div class="Hidden">
+</div>
+</div>
+</div>
+</div>
+
+            </div>
+
+        </div>
+
+        <div id="TOCSizer" class="TOCSizer" onmousedown="OnMouseDown(event)" onselectstart="javascript: return false;"></div>
+        
+        <div id ="TopicContent" name="TopicContent" class="TopicContent" style="float: none; margin-left: 312px;height: -webkit-fill-available;display:block;overflow: auto;">
+          <div class="header" xmlns:MSHelp="http://msdn.microsoft.com/mshelp" xmlns:mshelp="http://msdn.microsoft.com/mshelp" xmlns:ddue="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+      <table class="headerBar cl_lightweight_topnav_slice" border="0" cellpadding="0" cellspacing="0">
+        <tbody>
+          <tr>
+            <td class="leftSection cl_lightweight_header_leftSection_wave leftSectionImageClusterOverride" />
+            <td class="rightSection cl_lightweight_header_rightSection_wave rightSectionImageClusterOverride">
+              <div class="tabContainer">Suoranta.DocBuilder - Developer API</div>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+          <!-- Content Starts Here -->
+          <div class="contentPlaceHolder" xmlns:MSHelp="http://msdn.microsoft.com/mshelp" xmlns:mshelp="http://msdn.microsoft.com/mshelp" xmlns:ddue="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+      <div class="content">
+        <div class="topicContainer">
+          <div class="topic">
+            <p class="majorTitle" />
+            <h1 class="title">HtmlDocumentBuilder<span class="languageSpecificText"><span class="cs">.</span><span class="vb">.</span><span class="cpp">::</span><span class="nu">.</span><span class="fs">.</span></span>AddImage Method </h1>
+            <div id="mainSection">
+              <div id="mainBody">
+                <div class="LW_CollapsibleArea_Container">
+                  <div class="LW_CollapsibleArea_TitleDiv">
+                    <h2 class="LW_CollapsibleArea_Title">Overload List</h2>
+                    <div class="LW_CollapsibleArea_HrDiv">
+                      <hr class="LW_CollapsibleArea_Hr" />
+                    </div>
+                  </div>
+                  <a id="overloadMembersTableSection">
+                    <!---->
+                  </a>
+                  <table class="members">
+                    <tr>
+                      <th class="iconColumn">
+               
+            </th>
+                      <th class="nameColumn">Name</th>
+                      <th class="descriptionColumn">Description</th>
+                    </tr>
+                    <tr data="public;declared;notNetfw;">
+                      <td>
+                        <img src="../icons/pubmethod.gif" alt="Public method" title="Public method" />
+                      </td>
+                      <td>
+                        <a href="1359093364.htm">AddImage(String, String, String)</a>
+                      </td>
+                      <td>
+                        <div class="summary">
+Adds an image.
+</div>
+                      </td>
+                    </tr>
+                    <tr data="public;declared;notNetfw;">
+                      <td>
+                        <img src="../icons/pubmethod.gif" alt="Public method" title="Public method" />
+                      </td>
+                      <td>
+                        <a href="2008623.htm">AddImage(String, <span class="languageSpecificText"><span class="cpp">array&lt;</span></span>Byte<span class="languageSpecificText"><span class="cpp">&gt;</span><span class="cs">[]</span><span class="vb">()</span><span class="nu">[]</span><span class="fs">[]</span></span>, String)</a>
+                      </td>
+                      <td>
+                        <div class="summary">
+Adds an inline PNG image.
+</div>
+                      </td>
+                    </tr>
+                  </table>
+                </div>
+                <div class="LW_CollapsibleArea_Container">
+                  <div class="LW_CollapsibleArea_TitleDiv">
+                    <h2 class="LW_CollapsibleArea_Title">See Also</h2>
+                    <div class="LW_CollapsibleArea_HrDiv">
+                      <hr class="LW_CollapsibleArea_Hr" />
+                    </div>
+                  </div>
+                  <a id="seeAlsoSection">
+                    <!---->
+                  </a>
+                  <div class="seeAlsoStyle">
+                    <a href="1555856780.htm">HtmlDocumentBuilder Class</a>
+                  </div>
+                  <div class="seeAlsoStyle">
+                    <a href="178561616.htm">HtmlDocumentBuilder Members</a>
+                  </div>
+                  <div class="seeAlsoStyle">
+                    <a href="991101113.htm">Suoranta.IO.Builders Namespace</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="footer">
+        <div id="footer" class="footerContainer" style="border-top-width:0px;">
+          <div class="footerLogoContainer">
+            <div style="margin-top:5px">
+              <span class="customCopyrightFooter" />
+            </div>
+            <div style="margin-top:5px" class="copyrightFooter" />
+            <div> </div>
+          </div>
+        </div>
+      </div>
+    </div>
+          <!-- /Content Ends Here -->
+        </div>
+
+
+  </body>
+</html>
