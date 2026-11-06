@@ -523,11 +523,6 @@
 </div>
 </div>
 <div class="TreeNode">
-<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="1475613349.htm" target="_self">MvcExtensions Class</a>
-<div class="Hidden">
-</div>
-</div>
-<div class="TreeNode">
 <img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="809312010.htm" target="_self">WebAppWidgetFactory Class</a>
 <div class="Hidden">
 </div>
@@ -929,7 +924,7 @@
 </div>
 </div>
 <div class="TreeNode">
-<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="1562738998.htm" target="_self">AjaxHelper(T) Class</a>
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="1562738998.htm" target="_self">AjaxHelper(TModel) Class</a>
 <div class="Hidden">
 </div>
 </div>
@@ -1018,6 +1013,11 @@
 </div>
 <div class="TreeNode">
 <img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="1979246734.htm" target="_self">Dom(TPageModel) Class</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="11128325.htm" target="_self">DomExtensions Class</a>
 <div class="Hidden">
 </div>
 </div>
@@ -1143,6 +1143,11 @@
 </div>
 <div class="TreeNode">
 <img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="1451791682.htm" target="_self">EventParameters Class</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="1358460008.htm" target="_self">Extensions Class</a>
 <div class="Hidden">
 </div>
 </div>
@@ -1330,12 +1335,19 @@
     <b>Assembly:</b>
    <span sdata="assembly">Suoranta.WebApp</span> (in Suoranta.WebApp.dll)<div class="LW_CollapsibleArea_Container"><div class="LW_CollapsibleArea_TitleDiv"><h2 class="LW_CollapsibleArea_Title">Syntax</h2><div class="LW_CollapsibleArea_HrDiv"><hr class="LW_CollapsibleArea_Hr" /></div></div><a id="syntaxSection"><!----></a><div class="CodeSnippetContainer"><div class="CodeSnippetContainerTabs"><div class="CodeSnippetContainerTabLeft"><!----></div><div class="CodeSnippetContainerTabFirst CSharpTab" id="CSharpTabId" style="background:white;border-bottom-color:white"><a href="javascript:setActiveTab('CodeSnippetContainerCode','CSharpCode','CSharpTabId');" title="C#">C#</a></div><div class="CodeSnippetContainerTabRight"><!----></div></div><div class="CodeSnippetContainerCodeCollection"><div class="CodeSnippetToolBar"><div class="CodeSnippetToolBarText" /></div><div class="CodeSnippetContainerCode CSharpCode"><pre xml:space="preserve" class="libCScode">[<a href="https://docs.microsoft.com/en-us/dotnet/api/system.flagsattribute" target="_blank">FlagsAttribute</a>]
 [<a href="https://docs.microsoft.com/en-us/dotnet/api/system.componentmodel.defaultvalueattribute" target="_blank">DefaultValueAttribute</a>]
-<span class="keyword">public</span> <span class="keyword">enum</span> <span class="identifier">DocEvent</span></pre></div></div></div></div><div id="enumerationSection"><div class="LW_CollapsibleArea_Container"><div class="LW_CollapsibleArea_TitleDiv"><h2 class="LW_CollapsibleArea_Title">Members</h2><div class="LW_CollapsibleArea_HrDiv"><hr class="LW_CollapsibleArea_Hr" /></div></div><a id="membersSection"><!----></a><table class="members" id="memberList" frame="lhs" cellpadding="2"><tr><th class="iconColumn" /><th class="nameColumn">Member name</th><th class="descriptionColumn">Description</th></tr><tr><td /><td target="F:Suoranta.WebApp.View.JS.DocEvent.JQueryDocReady"><span class="selflink">JQueryDocReady</span></td><td>Executed through JQuery <span class="code">$(document).ready()</span>. Run once the page DOM
-   is ready for JavaScript code to execute.</td></tr><tr><td /><td target="F:Suoranta.WebApp.View.JS.DocEvent.KendoSyncReady"><span class="selflink">KendoSyncReady</span></td><td>Executed through <span class="code">kendo.syncReady()</span></td></tr><tr><td /><td target="F:Suoranta.WebApp.View.JS.DocEvent.WindowLoad"><span class="selflink">WindowLoad</span></td><td>Executed through <span class="code">$(window).on("load")</span>. Run once the entire page,
-   including images and iframes, is ready.</td></tr><tr><td /><td target="F:Suoranta.WebApp.View.JS.DocEvent.KendoGridDialogEdit"><span class="selflink">KendoGridDialogEdit</span></td><td>
+<span class="keyword">public</span> <span class="keyword">enum</span> <span class="identifier">DocEvent</span></pre></div></div></div></div><div id="enumerationSection"><div class="LW_CollapsibleArea_Container"><div class="LW_CollapsibleArea_TitleDiv"><h2 class="LW_CollapsibleArea_Title">Members</h2><div class="LW_CollapsibleArea_HrDiv"><hr class="LW_CollapsibleArea_Hr" /></div></div><a id="membersSection"><!----></a><table class="members" id="memberList" frame="lhs" cellpadding="2"><tr><th class="iconColumn" /><th class="nameColumn">Member name</th><th class="descriptionColumn">Description</th></tr><tr><td /><td target="F:Suoranta.WebApp.View.JS.DocEvent.JQueryDocReady"><span class="selflink">JQueryDocReady</span></td><td>
+   Executed through JQuery <span class="code">$(document).ready()</span>. Run once the page DOM is ready for JavaScript
+   code to execute.
+   </td></tr><tr><td /><td target="F:Suoranta.WebApp.View.JS.DocEvent.KendoSyncReady"><span class="selflink">KendoSyncReady</span></td><td>
+   Executed through <span class="code">kendo.syncReady()</span>.
+   </td></tr><tr><td /><td target="F:Suoranta.WebApp.View.JS.DocEvent.WindowLoad"><span class="selflink">WindowLoad</span></td><td>
+   Executed through <span class="code">$(window).on("load")</span>. Runs once the entire page, including images and iframes, is ready.
+   </td></tr><tr><td /><td target="F:Suoranta.WebApp.View.JS.DocEvent.KendoGridDialogEdit"><span class="selflink">KendoGridDialogEdit</span></td><td>
    This is a special value for use when the associated view is row editor dialog of Kendo
    Grid. Statements are executed through <span class="code">$("#grid").data("kendoGrid").bind("edit")</span>.
-   </td></tr><tr><td /><td target="F:Suoranta.WebApp.View.JS.DocEvent.Early"><span class="selflink">Early</span></td><td /></tr></table></div></div><div class="LW_CollapsibleArea_Container"><div class="LW_CollapsibleArea_TitleDiv"><h2 class="LW_CollapsibleArea_Title">See Also</h2><div class="LW_CollapsibleArea_HrDiv"><hr class="LW_CollapsibleArea_Hr" /></div></div><a id="seeAlsoSection"><!----></a><div class="seeAlsoStyle"><a href="1054335490.htm">Suoranta.WebApp.View.JS Namespace</a></div></div></div>
+   </td></tr><tr><td /><td target="F:Suoranta.WebApp.View.JS.DocEvent.Early"><span class="selflink">Early</span></td><td>
+   The union of <a href="486819061.htm">JQueryDocReady</a>, <a href="251669051.htm">KendoGridDialogEdit</a>, and <a href="1695662084.htm">WindowLoad</a>.
+   </td></tr></table></div></div><div class="LW_CollapsibleArea_Container"><div class="LW_CollapsibleArea_TitleDiv"><h2 class="LW_CollapsibleArea_Title">See Also</h2><div class="LW_CollapsibleArea_HrDiv"><hr class="LW_CollapsibleArea_Hr" /></div></div><a id="seeAlsoSection"><!----></a><div class="seeAlsoStyle"><a href="1054335490.htm">Suoranta.WebApp.View.JS Namespace</a></div></div></div>
             </div>
           </div>
         </div>
