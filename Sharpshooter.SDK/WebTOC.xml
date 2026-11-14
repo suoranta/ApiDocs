@@ -1,0 +1,1280 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="5538a0e5-e17e-4cd5-bdc7-3b5e5d2fc8b1" Title="Sharpshooter.SDK Namespace" Url="html/N-Sharpshooter.SDK.htm">
+    <HelpTOCNode Id="7053db88-3d33-4f34-8ac1-2763207de488" Title="ArgumentList Class" Url="html/T-Sharpshooter.SDK.ArgumentList.htm">
+      <HelpTOCNode Title="ArgumentList Members" Url="html/AllMembers.T-Sharpshooter.SDK.ArgumentList.htm" />
+      <HelpTOCNode Id="6c35dfda-7751-47b5-a384-200b2c72286f" Title="ArgumentList Constructor " Url="html/Overload-Sharpshooter.SDK.ArgumentList.-ctor.htm">
+        <HelpTOCNode Title="ArgumentList Constructor " Url="html/M-Sharpshooter.SDK.ArgumentList.-ctor.htm" />
+        <HelpTOCNode Title="ArgumentList Constructor (IEnumerable(TypedArgument))" Url="html/M-Sharpshooter.SDK.ArgumentList.-ctor_1.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="003bf8c2-c95f-4185-8e14-1d0085f3a56d" Title="ArgumentList Methods" Url="html/Methods.T-Sharpshooter.SDK.ArgumentList.htm">
+        <HelpTOCNode Title="Equals Method " Url="html/M-Sharpshooter.SDK.ArgumentList.Equals.htm" />
+        <HelpTOCNode Title="GetHashCode Method " Url="html/M-Sharpshooter.SDK.ArgumentList.GetHashCode.htm" />
+        <HelpTOCNode Title="ToString Method " Url="html/M-Sharpshooter.SDK.ArgumentList.ToString.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="5dac4926-915f-4d58-ba78-bcbf17535bc7" Title="ArgumentList Properties" Url="html/Properties.T-Sharpshooter.SDK.ArgumentList.htm">
+        <HelpTOCNode Title="Item Property " Url="html/P-Sharpshooter.SDK.ArgumentList.Item-System.String-.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="c9ea74c5-f616-47c1-9c44-a5b3b4292201" Title="BacktestData Class" Url="html/T-Sharpshooter.SDK.BacktestData.htm">
+      <HelpTOCNode Title="BacktestData Members" Url="html/AllMembers.T-Sharpshooter.SDK.BacktestData.htm" />
+      <HelpTOCNode Title="BacktestData Constructor " Url="html/M-Sharpshooter.SDK.BacktestData.-ctor.htm" />
+      <HelpTOCNode Id="d8a8157a-5e3d-4f7f-84ce-08dc09c4cbee" Title="BacktestData Fields" Url="html/Fields.T-Sharpshooter.SDK.BacktestData.htm">
+        <HelpTOCNode Title="PngPlot Field" Url="html/F-Sharpshooter.SDK.BacktestData.PngPlot.htm" />
+        <HelpTOCNode Title="TrainingEquity Field" Url="html/F-Sharpshooter.SDK.BacktestData.TrainingEquity.htm" />
+        <HelpTOCNode Title="ValidationEquity Field" Url="html/F-Sharpshooter.SDK.BacktestData.ValidationEquity.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="BacktestData Methods" Url="html/Methods.T-Sharpshooter.SDK.BacktestData.htm" />
+      <HelpTOCNode Id="fe714868-2b74-4974-9df9-6fa89e4cf2a5" Title="BacktestData Properties" Url="html/Properties.T-Sharpshooter.SDK.BacktestData.htm">
+        <HelpTOCNode Title="Plot Property " Url="html/P-Sharpshooter.SDK.BacktestData.Plot.htm" />
+        <HelpTOCNode Title="TrainingEnd Property " Url="html/P-Sharpshooter.SDK.BacktestData.TrainingEnd.htm" />
+        <HelpTOCNode Title="TrainingStart Property " Url="html/P-Sharpshooter.SDK.BacktestData.TrainingStart.htm" />
+        <HelpTOCNode Title="ValidationEnd Property " Url="html/P-Sharpshooter.SDK.BacktestData.ValidationEnd.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="f973280b-c619-4166-b509-dbaee7655803" Title="CloseQuote Structure" Url="html/T-Sharpshooter.SDK.CloseQuote.htm">
+      <HelpTOCNode Title="CloseQuote Members" Url="html/AllMembers.T-Sharpshooter.SDK.CloseQuote.htm" />
+      <HelpTOCNode Title="CloseQuote Constructor " Url="html/M-Sharpshooter.SDK.CloseQuote.-ctor.htm" />
+      <HelpTOCNode Id="bc80065c-0df8-40ff-bb3d-5b601de0a32a" Title="CloseQuote Methods" Url="html/Methods.T-Sharpshooter.SDK.CloseQuote.htm">
+        <HelpTOCNode Title="CompareTo Method " Url="html/M-Sharpshooter.SDK.CloseQuote.CompareTo.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="e3c7991b-1121-4ae0-9b13-a6e3497aee3e" Title="CloseQuote Type Conversions" Url="html/Operators.T-Sharpshooter.SDK.CloseQuote.htm">
+        <HelpTOCNode Title="Explicit Conversion (OhlcBar to CloseQuote)" Url="html/M-Sharpshooter.SDK.CloseQuote.op_Explicit.htm" />
+        <HelpTOCNode Title="Implicit Conversion (CloseQuote to Double)" Url="html/M-Sharpshooter.SDK.CloseQuote.op_Implicit.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="c5726267-364e-4f25-8a98-1a740fa47072" Title="CloseQuote Properties" Url="html/Properties.T-Sharpshooter.SDK.CloseQuote.htm">
+        <HelpTOCNode Title="Close Property " Url="html/P-Sharpshooter.SDK.CloseQuote.Close.htm" />
+        <HelpTOCNode Title="Timestamp Property " Url="html/P-Sharpshooter.SDK.CloseQuote.Timestamp.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="f1ea231c-46b4-4861-aaf4-e241f63366cd" Title="CloseQuoteValueComparer Class" Url="html/T-Sharpshooter.SDK.CloseQuoteValueComparer.htm">
+      <HelpTOCNode Title="CloseQuoteValueComparer Members" Url="html/AllMembers.T-Sharpshooter.SDK.CloseQuoteValueComparer.htm" />
+      <HelpTOCNode Id="4a3527c9-ed13-4058-98fe-0fbb69a5b3f9" Title="CloseQuoteValueComparer Methods" Url="html/Methods.T-Sharpshooter.SDK.CloseQuoteValueComparer.htm">
+        <HelpTOCNode Title="Compare Method " Url="html/M-Sharpshooter.SDK.CloseQuoteValueComparer.Compare.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="04d3c089-d332-461d-851b-d99f84dc9aa9" Title="CloseSeries Class" Url="html/T-Sharpshooter.SDK.CloseSeries.htm">
+      <HelpTOCNode Title="CloseSeries Members" Url="html/AllMembers.T-Sharpshooter.SDK.CloseSeries.htm" />
+      <HelpTOCNode Id="50405628-69d5-43c0-95a0-98bd54899a08" Title="CloseSeries Constructor " Url="html/Overload-Sharpshooter.SDK.CloseSeries.-ctor.htm">
+        <HelpTOCNode Title="CloseSeries Constructor " Url="html/M-Sharpshooter.SDK.CloseSeries.-ctor.htm" />
+        <HelpTOCNode Title="CloseSeries Constructor (Int32)" Url="html/M-Sharpshooter.SDK.CloseSeries.-ctor_1.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="dd2b4f3b-a8ab-4260-a28f-573e7a43dd1f" Title="CloseSeries Methods" Url="html/Methods.T-Sharpshooter.SDK.CloseSeries.htm">
+        <HelpTOCNode Id="53ef30d6-c816-41d1-bb29-38d78e625e9a" Title="High Method " Url="html/Overload-Sharpshooter.SDK.CloseSeries.High.htm">
+          <HelpTOCNode Title="High Method " Url="html/M-Sharpshooter.SDK.CloseSeries.High.htm" />
+          <HelpTOCNode Title="High Method (Int32)" Url="html/M-Sharpshooter.SDK.CloseSeries.High_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="8dce4ecd-5c0e-4478-afe2-c5c350e1860f" Title="Initialize Method " Url="html/Overload-Sharpshooter.SDK.CloseSeries.Initialize.htm">
+          <HelpTOCNode Title="Initialize Method " Url="html/M-Sharpshooter.SDK.CloseSeries.Initialize.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="a592d4ed-6024-468c-a29a-0a7ca08863aa" Title="Low Method " Url="html/Overload-Sharpshooter.SDK.CloseSeries.Low.htm">
+          <HelpTOCNode Title="Low Method " Url="html/M-Sharpshooter.SDK.CloseSeries.Low.htm" />
+          <HelpTOCNode Title="Low Method (Int32)" Url="html/M-Sharpshooter.SDK.CloseSeries.Low_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="4b41cd5e-e4f7-486e-a242-c4500fcdfa24" Title="Project Method " Url="html/Overload-Sharpshooter.SDK.CloseSeries.Project.htm">
+          <HelpTOCNode Title="Project Method " Url="html/M-Sharpshooter.SDK.CloseSeries.Project.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="a11a3f06-c4fd-487d-bc53-77fd01dac2e6" Title="Push Method " Url="html/Overload-Sharpshooter.SDK.CloseSeries.Push.htm">
+          <HelpTOCNode Title="Push Method " Url="html/M-Sharpshooter.SDK.CloseSeries.Push.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="TruncateTo Method " Url="html/M-Sharpshooter.SDK.CloseSeries.TruncateTo.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="90a00fd6-9c7b-4450-a283-560257347ee2" Title="CloseSeries Properties" Url="html/Properties.T-Sharpshooter.SDK.CloseSeries.htm">
+        <HelpTOCNode Title="Average Property " Url="html/P-Sharpshooter.SDK.CloseSeries.Average.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="afb9e7cd-7b6c-4dae-ae13-82c2224d672f" Title="CustomIndicatorException Class" Url="html/T-Sharpshooter.SDK.CustomIndicatorException.htm">
+      <HelpTOCNode Title="CustomIndicatorException Members" Url="html/AllMembers.T-Sharpshooter.SDK.CustomIndicatorException.htm" />
+      <HelpTOCNode Title="CustomIndicatorException Constructor " Url="html/M-Sharpshooter.SDK.CustomIndicatorException.-ctor.htm" />
+      <HelpTOCNode Title="CustomIndicatorException Methods" Url="html/Methods.T-Sharpshooter.SDK.CustomIndicatorException.htm" />
+      <HelpTOCNode Id="854413f3-10c8-49fe-9aa2-60b2f5d64e8b" Title="CustomIndicatorException Properties" Url="html/Properties.T-Sharpshooter.SDK.CustomIndicatorException.htm">
+        <HelpTOCNode Title="IndicatorClass Property " Url="html/P-Sharpshooter.SDK.CustomIndicatorException.IndicatorClass.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="CustomIndicatorException Events" Url="html/Events.T-Sharpshooter.SDK.CustomIndicatorException.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="72500270-fc80-4369-b2a2-b08251c2bff8" Title="DataImportManagerAttribute Class" Url="html/T-Sharpshooter.SDK.DataImportManagerAttribute.htm">
+      <HelpTOCNode Title="DataImportManagerAttribute Members" Url="html/AllMembers.T-Sharpshooter.SDK.DataImportManagerAttribute.htm" />
+      <HelpTOCNode Title="DataImportManagerAttribute Constructor " Url="html/M-Sharpshooter.SDK.DataImportManagerAttribute.-ctor.htm" />
+      <HelpTOCNode Title="DataImportManagerAttribute Methods" Url="html/Methods.T-Sharpshooter.SDK.DataImportManagerAttribute.htm" />
+      <HelpTOCNode Id="d668e381-a774-49a1-b765-c0f834275faf" Title="DataImportManagerAttribute Properties" Url="html/Properties.T-Sharpshooter.SDK.DataImportManagerAttribute.htm">
+        <HelpTOCNode Title="ImportFormType Property " Url="html/P-Sharpshooter.SDK.DataImportManagerAttribute.ImportFormType.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="7bc4dc77-a742-404c-99c3-eb8a3ad14be4" Title="FitnessBase Class" Url="html/T-Sharpshooter.SDK.FitnessBase.htm">
+      <HelpTOCNode Title="FitnessBase Members" Url="html/AllMembers.T-Sharpshooter.SDK.FitnessBase.htm" />
+      <HelpTOCNode Id="f3bbaaf1-4660-44b8-b789-74e9bd0843a4" Title="FitnessBase Methods" Url="html/Methods.T-Sharpshooter.SDK.FitnessBase.htm">
+        <HelpTOCNode Title="ComputeFitness Method " Url="html/M-Sharpshooter.SDK.FitnessBase.ComputeFitness.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="2755538c-9771-4ccc-befa-713de55ef127" Title="FitnessBase Properties" Url="html/Properties.T-Sharpshooter.SDK.FitnessBase.htm">
+        <HelpTOCNode Title="GetEquity Property " Url="html/P-Sharpshooter.SDK.FitnessBase.GetEquity.htm" />
+        <HelpTOCNode Title="GetTrades Property " Url="html/P-Sharpshooter.SDK.FitnessBase.GetTrades.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="42c7c4cf-a0ee-4ab9-8d8f-a4b0eec2329b" Title="ICloseSeries Interface" Url="html/T-Sharpshooter.SDK.ICloseSeries.htm">
+      <HelpTOCNode Title="ICloseSeries Methods" Url="html/Methods.T-Sharpshooter.SDK.ICloseSeries.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="287dca8d-b61e-483a-9c75-10fb3eb103fc" Title="IDiscretizer Interface" Url="html/T-Sharpshooter.SDK.IDiscretizer.htm">
+      <HelpTOCNode Title="IDiscretizer Members" Url="html/AllMembers.T-Sharpshooter.SDK.IDiscretizer.htm" />
+      <HelpTOCNode Id="33e2ab84-7e7b-4b04-a7b0-4198c637892f" Title="IDiscretizer Methods" Url="html/Methods.T-Sharpshooter.SDK.IDiscretizer.htm">
+        <HelpTOCNode Id="4c4adfed-f372-49fa-b454-4e555d912817" Title="Discretize Method " Url="html/Overload-Sharpshooter.SDK.IDiscretizer.Discretize.htm">
+          <HelpTOCNode Title="Discretize Method (Double)" Url="html/M-Sharpshooter.SDK.IDiscretizer.Discretize.htm" />
+          <HelpTOCNode Title="Discretize Method (IEnumerable(Double))" Url="html/M-Sharpshooter.SDK.IDiscretizer.Discretize_1.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="c0ebb600-e4e3-4560-b8e5-456d9ddf1192" Title="IDiscretizer Properties" Url="html/Properties.T-Sharpshooter.SDK.IDiscretizer.htm">
+        <HelpTOCNode Title="Active Property " Url="html/P-Sharpshooter.SDK.IDiscretizer.Active.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="f08c026c-f025-4877-b07f-5f70c39e7cc1" Title="IInstrument Interface" Url="html/T-Sharpshooter.SDK.IInstrument.htm">
+      <HelpTOCNode Title="IInstrument Members" Url="html/AllMembers.T-Sharpshooter.SDK.IInstrument.htm" />
+      <HelpTOCNode Id="958e9898-0843-4346-8985-97ea3f816273" Title="IInstrument Methods" Url="html/Methods.T-Sharpshooter.SDK.IInstrument.htm">
+        <HelpTOCNode Title="AddIndicatorColumn Method " Url="html/M-Sharpshooter.SDK.IInstrument.AddIndicatorColumn.htm" />
+        <HelpTOCNode Title="GetRange Method " Url="html/M-Sharpshooter.SDK.IInstrument.GetRange.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="c4f53cc8-189e-4768-9ff9-3db62f10037a" Title="IInstrument Properties" Url="html/Properties.T-Sharpshooter.SDK.IInstrument.htm">
+        <HelpTOCNode Title="BarCount Property " Url="html/P-Sharpshooter.SDK.IInstrument.BarCount.htm" />
+        <HelpTOCNode Title="Close Property " Url="html/P-Sharpshooter.SDK.IInstrument.Close.htm" />
+        <HelpTOCNode Title="FirstBarStart Property " Url="html/P-Sharpshooter.SDK.IInstrument.FirstBarStart.htm" />
+        <HelpTOCNode Title="High Property " Url="html/P-Sharpshooter.SDK.IInstrument.High.htm" />
+        <HelpTOCNode Title="InputQuotes Property " Url="html/P-Sharpshooter.SDK.IInstrument.InputQuotes.htm" />
+        <HelpTOCNode Title="InputQuotesNoised Property " Url="html/P-Sharpshooter.SDK.IInstrument.InputQuotesNoised.htm" />
+        <HelpTOCNode Title="LastBarEnd Property " Url="html/P-Sharpshooter.SDK.IInstrument.LastBarEnd.htm" />
+        <HelpTOCNode Title="Low Property " Url="html/P-Sharpshooter.SDK.IInstrument.Low.htm" />
+        <HelpTOCNode Title="Open Property " Url="html/P-Sharpshooter.SDK.IInstrument.Open.htm" />
+        <HelpTOCNode Title="TradingQuotes Property " Url="html/P-Sharpshooter.SDK.IInstrument.TradingQuotes.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="76db1697-4df2-4a64-bacb-d69b6080d1d7" Title="IInstrumentFactory Interface" Url="html/T-Sharpshooter.SDK.IInstrumentFactory.htm">
+      <HelpTOCNode Title="IInstrumentFactory Members" Url="html/AllMembers.T-Sharpshooter.SDK.IInstrumentFactory.htm" />
+      <HelpTOCNode Id="a5c66061-a28c-4f1c-8e17-beea8f17e7d0" Title="IInstrumentFactory Methods" Url="html/Methods.T-Sharpshooter.SDK.IInstrumentFactory.htm">
+        <HelpTOCNode Id="a5efa4b4-805c-440d-bc0b-a967b9033866" Title="CreateInstruments Method " Url="html/Overload-Sharpshooter.SDK.IInstrumentFactory.CreateInstruments.htm">
+          <HelpTOCNode Title="CreateInstruments Method (TimeScale, DateTimeOffset[], ITradingSchedule, String[])" Url="html/M-Sharpshooter.SDK.IInstrumentFactory.CreateInstruments.htm" />
+          <HelpTOCNode Title="CreateInstruments Method (TimeScale, DateTimeOffset, DateTimeOffset, ITradingSchedule, String[])" Url="html/M-Sharpshooter.SDK.IInstrumentFactory.CreateInstruments_1.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="7cd19e3c-aafe-4af2-8342-7c61356a9e7e" Title="IInstrumentId Interface" Url="html/T-Sharpshooter.SDK.IInstrumentId.htm">
+      <HelpTOCNode Title="IInstrumentId Members" Url="html/AllMembers.T-Sharpshooter.SDK.IInstrumentId.htm" />
+      <HelpTOCNode Title="IInstrumentId Methods" Url="html/Methods.T-Sharpshooter.SDK.IInstrumentId.htm" />
+      <HelpTOCNode Id="036d85c8-064b-4a27-96ab-11a2b7e6d740" Title="IInstrumentId Properties" Url="html/Properties.T-Sharpshooter.SDK.IInstrumentId.htm">
+        <HelpTOCNode Title="BarWidth Property " Url="html/P-Sharpshooter.SDK.IInstrumentId.BarWidth.htm" />
+        <HelpTOCNode Title="Ticker Property " Url="html/P-Sharpshooter.SDK.IInstrumentId.Ticker.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="bc6a8e96-6c16-40c9-bde7-0409287e8e6c" Title="IInstrumentParameters Interface" Url="html/T-Sharpshooter.SDK.IInstrumentParameters.htm">
+      <HelpTOCNode Title="IInstrumentParameters Members" Url="html/AllMembers.T-Sharpshooter.SDK.IInstrumentParameters.htm" />
+      <HelpTOCNode Title="IInstrumentParameters Methods" Url="html/Methods.T-Sharpshooter.SDK.IInstrumentParameters.htm" />
+      <HelpTOCNode Id="75ba08ea-e88a-42a1-b6f8-d02f058dd385" Title="IInstrumentParameters Properties" Url="html/Properties.T-Sharpshooter.SDK.IInstrumentParameters.htm">
+        <HelpTOCNode Title="PriceLevelGap Property " Url="html/P-Sharpshooter.SDK.IInstrumentParameters.PriceLevelGap.htm" />
+        <HelpTOCNode Title="Ticker Property " Url="html/P-Sharpshooter.SDK.IInstrumentParameters.Ticker.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="69e340af-2026-43b0-8683-794f46d0d458" Title="IndicatorColumnId Class" Url="html/T-Sharpshooter.SDK.IndicatorColumnId.htm">
+      <HelpTOCNode Title="IndicatorColumnId Members" Url="html/AllMembers.T-Sharpshooter.SDK.IndicatorColumnId.htm" />
+      <HelpTOCNode Id="61fbf8cc-8bbe-4829-813b-90a658984afc" Title="IndicatorColumnId Constructor " Url="html/Overload-Sharpshooter.SDK.IndicatorColumnId.-ctor.htm">
+        <HelpTOCNode Title="IndicatorColumnId Constructor " Url="html/M-Sharpshooter.SDK.IndicatorColumnId.-ctor.htm" />
+        <HelpTOCNode Title="IndicatorColumnId Constructor (String, String, Int32, IndicatorFlags, IEnumerable(TypedArgument))" Url="html/M-Sharpshooter.SDK.IndicatorColumnId.-ctor_1.htm" />
+        <HelpTOCNode Title="IndicatorColumnId Constructor (IndicatorColumnId)" Url="html/M-Sharpshooter.SDK.IndicatorColumnId.-ctor_2.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="4d13bb3d-591b-4879-8ea5-cb9224711861" Title="IndicatorColumnId Methods" Url="html/Methods.T-Sharpshooter.SDK.IndicatorColumnId.htm">
+        <HelpTOCNode Id="571811d6-e1b3-447a-99f0-2c51472463e7" Title="Equals Method " Url="html/Overload-Sharpshooter.SDK.IndicatorColumnId.Equals.htm">
+          <HelpTOCNode Title="Equals Method " Url="html/M-Sharpshooter.SDK.IndicatorColumnId.Equals.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="From Method " Url="html/M-Sharpshooter.SDK.IndicatorColumnId.From.htm" />
+        <HelpTOCNode Title="GetHashCode Method " Url="html/M-Sharpshooter.SDK.IndicatorColumnId.GetHashCode.htm" />
+        <HelpTOCNode Title="Parse Method " Url="html/M-Sharpshooter.SDK.IndicatorColumnId.Parse.htm" />
+        <HelpTOCNode Title="ToString Method " Url="html/M-Sharpshooter.SDK.IndicatorColumnId.ToString.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="71f04c41-7e8c-4319-a57d-df653cab7252" Title="IndicatorColumnId Properties" Url="html/Properties.T-Sharpshooter.SDK.IndicatorColumnId.htm">
+        <HelpTOCNode Title="IndicatorId Property " Url="html/P-Sharpshooter.SDK.IndicatorColumnId.IndicatorId.htm" />
+        <HelpTOCNode Title="Instrument Property " Url="html/P-Sharpshooter.SDK.IndicatorColumnId.Instrument.htm" />
+        <HelpTOCNode Title="Label Property " Url="html/P-Sharpshooter.SDK.IndicatorColumnId.Label.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="0afcdfde-cd0a-4ebf-a09b-7d90498ce260" Title="IndicatorId Class" Url="html/T-Sharpshooter.SDK.IndicatorId.htm">
+      <HelpTOCNode Title="IndicatorId Members" Url="html/AllMembers.T-Sharpshooter.SDK.IndicatorId.htm" />
+      <HelpTOCNode Id="0cf400fc-be7f-49d3-a666-0b46fe7b57b3" Title="IndicatorId Constructor " Url="html/Overload-Sharpshooter.SDK.IndicatorId.-ctor.htm">
+        <HelpTOCNode Title="IndicatorId Constructor " Url="html/M-Sharpshooter.SDK.IndicatorId.-ctor.htm" />
+        <HelpTOCNode Title="IndicatorId Constructor (String, Int32, IndicatorFlags, IEnumerable(TypedArgument))" Url="html/M-Sharpshooter.SDK.IndicatorId.-ctor_1.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="34b6f3df-2679-4cdc-8fd6-b47fe07531ab" Title="IndicatorId Fields" Url="html/Fields.T-Sharpshooter.SDK.IndicatorId.htm">
+        <HelpTOCNode Title="_flags Field" Url="html/F-Sharpshooter.SDK.IndicatorId._flags.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="80782c8c-f59d-451b-87cb-06a1a405ff3e" Title="IndicatorId Methods" Url="html/Methods.T-Sharpshooter.SDK.IndicatorId.htm">
+        <HelpTOCNode Id="bc71cebc-3ee4-44d9-89f5-dd18a04f8a3a" Title="Equals Method " Url="html/Overload-Sharpshooter.SDK.IndicatorId.Equals.htm">
+          <HelpTOCNode Title="Equals Method " Url="html/M-Sharpshooter.SDK.IndicatorId.Equals.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="GetHashCode Method " Url="html/M-Sharpshooter.SDK.IndicatorId.GetHashCode.htm" />
+        <HelpTOCNode Title="Parse Method " Url="html/M-Sharpshooter.SDK.IndicatorId.Parse.htm" />
+        <HelpTOCNode Title="ToString Method " Url="html/M-Sharpshooter.SDK.IndicatorId.ToString.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="7e03bdfe-c68e-4704-8c78-2fd0332b54c7" Title="IndicatorId Properties" Url="html/Properties.T-Sharpshooter.SDK.IndicatorId.htm">
+        <HelpTOCNode Title="Bars Property " Url="html/P-Sharpshooter.SDK.IndicatorId.Bars.htm" />
+        <HelpTOCNode Title="Discrete Property " Url="html/P-Sharpshooter.SDK.IndicatorId.Discrete.htm" />
+        <HelpTOCNode Title="Flags Property " Url="html/P-Sharpshooter.SDK.IndicatorId.Flags.htm" />
+        <HelpTOCNode Title="IndicatorName Property " Url="html/P-Sharpshooter.SDK.IndicatorId.IndicatorName.htm" />
+        <HelpTOCNode Title="Item Property " Url="html/P-Sharpshooter.SDK.IndicatorId.Item-System.String-.htm" />
+        <HelpTOCNode Title="Label Property " Url="html/P-Sharpshooter.SDK.IndicatorId.Label.htm" />
+        <HelpTOCNode Title="Parameters Property " Url="html/P-Sharpshooter.SDK.IndicatorId.Parameters.htm" />
+        <HelpTOCNode Title="Rescale Property " Url="html/P-Sharpshooter.SDK.IndicatorId.Rescale.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="a4b7d57c-babd-443b-891a-b19bea73bab9" Title="IOHLCSeries Interface" Url="html/T-Sharpshooter.SDK.IOHLCSeries.htm">
+      <HelpTOCNode Title="IOHLCSeries Methods" Url="html/Methods.T-Sharpshooter.SDK.IOHLCSeries.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="8bc0a9a3-c5f8-4807-87e7-4e435fd0adbf" Title="IQuoteSeries(TValue) Interface" Url="html/T-Sharpshooter.SDK.IQuoteSeries-1.htm">
+      <HelpTOCNode Title="IQuoteSeries Members" Url="html/AllMembers.T-Sharpshooter.SDK.IQuoteSeries-1.htm" />
+      <HelpTOCNode Id="c77567e5-8a02-4b5c-9909-da4bcf7dafe3" Title="IQuoteSeries Methods" Url="html/Methods.T-Sharpshooter.SDK.IQuoteSeries-1.htm">
+        <HelpTOCNode Title="High Method " Url="html/M-Sharpshooter.SDK.IQuoteSeries-1.High.htm" />
+        <HelpTOCNode Title="Low Method " Url="html/M-Sharpshooter.SDK.IQuoteSeries-1.Low.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="1a2a93e4-7f41-4394-b932-40e56c430cd5" Title="IQuoteSeries Properties" Url="html/Properties.T-Sharpshooter.SDK.IQuoteSeries-1.htm">
+        <HelpTOCNode Title="CurrentTimestamp Property " Url="html/P-Sharpshooter.SDK.IQuoteSeries-1.CurrentTimestamp.htm" />
+        <HelpTOCNode Title="Item Property " Url="html/P-Sharpshooter.SDK.IQuoteSeries-1.Item-System.Int32-.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="1666a801-96f0-48b6-968c-69b05757229f" Title="IRTIndicatorInstance Interface" Url="html/T-Sharpshooter.SDK.IRTIndicatorInstance.htm">
+      <HelpTOCNode Title="IRTIndicatorInstance Members" Url="html/AllMembers.T-Sharpshooter.SDK.IRTIndicatorInstance.htm" />
+      <HelpTOCNode Id="91d7c1bc-f6e7-4136-a0ff-e5ca2dcbdbf7" Title="IRTIndicatorInstance Methods" Url="html/Methods.T-Sharpshooter.SDK.IRTIndicatorInstance.htm">
+        <HelpTOCNode Title="GetValue Method " Url="html/M-Sharpshooter.SDK.IRTIndicatorInstance.GetValue.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="62ca0255-aa35-4b8f-a679-34354f46bb56" Title="IRTIndicatorInstance Properties" Url="html/Properties.T-Sharpshooter.SDK.IRTIndicatorInstance.htm">
+        <HelpTOCNode Title="Gain Property " Url="html/P-Sharpshooter.SDK.IRTIndicatorInstance.Gain.htm" />
+        <HelpTOCNode Title="HasState Property " Url="html/P-Sharpshooter.SDK.IRTIndicatorInstance.HasState.htm" />
+        <HelpTOCNode Title="Id Property " Url="html/P-Sharpshooter.SDK.IRTIndicatorInstance.Id.htm" />
+        <HelpTOCNode Title="Instrument Property " Url="html/P-Sharpshooter.SDK.IRTIndicatorInstance.Instrument.htm" />
+        <HelpTOCNode Title="Label Property " Url="html/P-Sharpshooter.SDK.IRTIndicatorInstance.Label.htm" />
+        <HelpTOCNode Title="Offset Property " Url="html/P-Sharpshooter.SDK.IRTIndicatorInstance.Offset.htm" />
+        <HelpTOCNode Title="Update Property " Url="html/P-Sharpshooter.SDK.IRTIndicatorInstance.Update.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="797f8560-8e0e-476e-b85c-4db1d8fb16b5" Title="ISelectableValue Interface" Url="html/T-Sharpshooter.SDK.ISelectableValue.htm">
+      <HelpTOCNode Title="ISelectableValue Members" Url="html/AllMembers.T-Sharpshooter.SDK.ISelectableValue.htm" />
+      <HelpTOCNode Title="ISelectableValue Methods" Url="html/Methods.T-Sharpshooter.SDK.ISelectableValue.htm" />
+      <HelpTOCNode Id="4fcda731-f973-40e9-bf57-ccbb4d348a17" Title="ISelectableValue Properties" Url="html/Properties.T-Sharpshooter.SDK.ISelectableValue.htm">
+        <HelpTOCNode Title="Text Property " Url="html/P-Sharpshooter.SDK.ISelectableValue.Text.htm" />
+        <HelpTOCNode Title="Value Property " Url="html/P-Sharpshooter.SDK.ISelectableValue.Value.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="9f6f004f-2c17-4b4d-ab68-c31f2a6e365f" Title="ITrade Interface" Url="html/T-Sharpshooter.SDK.ITrade.htm">
+      <HelpTOCNode Title="ITrade Members" Url="html/AllMembers.T-Sharpshooter.SDK.ITrade.htm" />
+      <HelpTOCNode Title="ITrade Methods" Url="html/Methods.T-Sharpshooter.SDK.ITrade.htm" />
+      <HelpTOCNode Id="b1b8a75b-38de-4218-8798-56bb66759cf1" Title="ITrade Properties" Url="html/Properties.T-Sharpshooter.SDK.ITrade.htm">
+        <HelpTOCNode Title="CloseQuote Property " Url="html/P-Sharpshooter.SDK.ITrade.CloseQuote.htm" />
+        <HelpTOCNode Title="Duration Property " Url="html/P-Sharpshooter.SDK.ITrade.Duration.htm" />
+        <HelpTOCNode Title="OpenQuote Property " Url="html/P-Sharpshooter.SDK.ITrade.OpenQuote.htm" />
+        <HelpTOCNode Title="ProfitLoss Property " Url="html/P-Sharpshooter.SDK.ITrade.ProfitLoss.htm" />
+        <HelpTOCNode Title="Quantity Property " Url="html/P-Sharpshooter.SDK.ITrade.Quantity.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="f806bb17-3036-4550-afa3-2521b5c504e3" Title="ObjectiveParameterAttribute Class" Url="html/T-Sharpshooter.SDK.ObjectiveParameterAttribute.htm">
+      <HelpTOCNode Title="ObjectiveParameterAttribute Methods" Url="html/Methods.T-Sharpshooter.SDK.ObjectiveParameterAttribute.htm" />
+      <HelpTOCNode Title="ObjectiveParameterAttribute Properties" Url="html/Properties.T-Sharpshooter.SDK.ObjectiveParameterAttribute.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="2d1a8860-727b-42d1-92c0-9d1b877001fc" Title="OhlcBarExtensions Class" Url="html/T-Sharpshooter.SDK.OhlcBarExtensions.htm">
+      <HelpTOCNode Title="OhlcBarExtensions Members" Url="html/AllMembers.T-Sharpshooter.SDK.OhlcBarExtensions.htm" />
+      <HelpTOCNode Id="37560885-383b-4287-9c7d-ec236e1e2fdb" Title="OhlcBarExtensions Methods" Url="html/Methods.T-Sharpshooter.SDK.OhlcBarExtensions.htm">
+        <HelpTOCNode Title="ToCloseValue Method " Url="html/M-Sharpshooter.SDK.OhlcBarExtensions.ToCloseValue.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="193b750b-2dd8-443d-9357-883fd11640c7" Title="OHLCSeries Class" Url="html/T-Sharpshooter.SDK.OHLCSeries.htm">
+      <HelpTOCNode Title="OHLCSeries Members" Url="html/AllMembers.T-Sharpshooter.SDK.OHLCSeries.htm" />
+      <HelpTOCNode Id="e5e7a2e9-c682-4014-8888-ed986df5c40d" Title="OHLCSeries Constructor " Url="html/Overload-Sharpshooter.SDK.OHLCSeries.-ctor.htm">
+        <HelpTOCNode Title="OHLCSeries Constructor " Url="html/M-Sharpshooter.SDK.OHLCSeries.-ctor.htm" />
+        <HelpTOCNode Title="OHLCSeries Constructor (Int32)" Url="html/M-Sharpshooter.SDK.OHLCSeries.-ctor_1.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="d8ad59b4-6c4c-4727-a0f5-c1f6c184832d" Title="OHLCSeries Methods" Url="html/Methods.T-Sharpshooter.SDK.OHLCSeries.htm">
+        <HelpTOCNode Title="Average Method " Url="html/M-Sharpshooter.SDK.OHLCSeries.Average.htm" />
+        <HelpTOCNode Title="GetCloseSeries Method " Url="html/M-Sharpshooter.SDK.OHLCSeries.GetCloseSeries.htm" />
+        <HelpTOCNode Id="4100d617-a1c7-4a61-b5e3-c27c12fb567a" Title="High Method " Url="html/Overload-Sharpshooter.SDK.OHLCSeries.High.htm">
+          <HelpTOCNode Title="High Method " Url="html/M-Sharpshooter.SDK.OHLCSeries.High.htm" />
+          <HelpTOCNode Title="High Method (Int32)" Url="html/M-Sharpshooter.SDK.OHLCSeries.High_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="782bae43-be7d-4229-80c1-5fafe87478dd" Title="Low Method " Url="html/Overload-Sharpshooter.SDK.OHLCSeries.Low.htm">
+          <HelpTOCNode Title="Low Method " Url="html/M-Sharpshooter.SDK.OHLCSeries.Low.htm" />
+          <HelpTOCNode Title="Low Method (Int32)" Url="html/M-Sharpshooter.SDK.OHLCSeries.Low_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="05122cab-aa31-4b2f-af80-154e69708d82" Title="Project Method " Url="html/Overload-Sharpshooter.SDK.OHLCSeries.Project.htm">
+          <HelpTOCNode Title="Project Method " Url="html/M-Sharpshooter.SDK.OHLCSeries.Project.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="26f2a76b-94e3-4acb-8a18-a803c7e05710" Title="Push Method " Url="html/Overload-Sharpshooter.SDK.OHLCSeries.Push.htm">
+          <HelpTOCNode Title="Push Method " Url="html/M-Sharpshooter.SDK.OHLCSeries.Push.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="TruncateTo Method " Url="html/M-Sharpshooter.SDK.OHLCSeries.TruncateTo.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="OHLCSeries Properties" Url="html/Properties.T-Sharpshooter.SDK.OHLCSeries.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="b9cd81cb-3c02-4ab0-92e0-9e27686f1084" Title="QuoteSeries(TValue, TSeries) Class" Url="html/T-Sharpshooter.SDK.QuoteSeries-2.htm">
+      <HelpTOCNode Title="QuoteSeries(TValue, TSeries) Members" Url="html/AllMembers.T-Sharpshooter.SDK.QuoteSeries-2.htm" />
+      <HelpTOCNode Id="e5db455b-aa0a-4eab-8501-4df6159313aa" Title="QuoteSeries(TValue, TSeries) Constructor " Url="html/Overload-Sharpshooter.SDK.QuoteSeries-2.-ctor.htm">
+        <HelpTOCNode Title="QuoteSeries(TValue, TSeries) Constructor " Url="html/M-Sharpshooter.SDK.QuoteSeries-2.-ctor.htm" />
+        <HelpTOCNode Title="QuoteSeries(TValue, TSeries) Constructor (Int32)" Url="html/M-Sharpshooter.SDK.QuoteSeries-2.-ctor_1.htm" />
+        <HelpTOCNode Title="QuoteSeries(TValue, TSeries) Constructor (TValue[], Int32, Int32, Int32)" Url="html/M-Sharpshooter.SDK.QuoteSeries-2.-ctor_2.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="89f8354f-c038-4f7e-95b8-21d58628f333" Title="QuoteSeries(TValue, TSeries) Methods" Url="html/Methods.T-Sharpshooter.SDK.QuoteSeries-2.htm">
+        <HelpTOCNode Title="Create Method " Url="html/M-Sharpshooter.SDK.QuoteSeries-2.Create.htm" />
+        <HelpTOCNode Title="GetValueArray Method " Url="html/M-Sharpshooter.SDK.QuoteSeries-2.GetValueArray.htm" />
+        <HelpTOCNode Id="46103722-0fec-4ec0-a2fd-3f32d3e6d869" Title="High Method " Url="html/Overload-Sharpshooter.SDK.QuoteSeries-2.High.htm">
+          <HelpTOCNode Title="High Method " Url="html/M-Sharpshooter.SDK.QuoteSeries-2.High.htm" />
+          <HelpTOCNode Title="High Method (Int32)" Url="html/M-Sharpshooter.SDK.QuoteSeries-2.High_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="c3498135-a331-47a8-a577-9e1a19aa7f46" Title="Low Method " Url="html/Overload-Sharpshooter.SDK.QuoteSeries-2.Low.htm">
+          <HelpTOCNode Title="Low Method " Url="html/M-Sharpshooter.SDK.QuoteSeries-2.Low.htm" />
+          <HelpTOCNode Title="Low Method (Int32)" Url="html/M-Sharpshooter.SDK.QuoteSeries-2.Low_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="Project Method " Url="html/M-Sharpshooter.SDK.QuoteSeries-2.Project.htm" />
+        <HelpTOCNode Title="ProjectToValues Method " Url="html/M-Sharpshooter.SDK.QuoteSeries-2.ProjectToValues.htm" />
+        <HelpTOCNode Title="TruncateTo Method " Url="html/M-Sharpshooter.SDK.QuoteSeries-2.TruncateTo.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="99a82ff4-52a9-45e0-9d3e-0f06802adb03" Title="QuoteSeries(TValue, TSeries) Properties" Url="html/Properties.T-Sharpshooter.SDK.QuoteSeries-2.htm">
+        <HelpTOCNode Title="Aggregates Property " Url="html/P-Sharpshooter.SDK.QuoteSeries-2.Aggregates.htm" />
+        <HelpTOCNode Title="CurrentTimestamp Property " Url="html/P-Sharpshooter.SDK.QuoteSeries-2.CurrentTimestamp.htm" />
+        <HelpTOCNode Title="PreviousTimestamp Property " Url="html/P-Sharpshooter.SDK.QuoteSeries-2.PreviousTimestamp.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="263eea54-d321-482e-a652-c20175701de7" Title="RealTimeIndicatorException Class" Url="html/T-Sharpshooter.SDK.RealTimeIndicatorException.htm">
+      <HelpTOCNode Title="RealTimeIndicatorException Members" Url="html/AllMembers.T-Sharpshooter.SDK.RealTimeIndicatorException.htm" />
+      <HelpTOCNode Title="RealTimeIndicatorException Constructor " Url="html/M-Sharpshooter.SDK.RealTimeIndicatorException.-ctor.htm" />
+      <HelpTOCNode Title="RealTimeIndicatorException Methods" Url="html/Methods.T-Sharpshooter.SDK.RealTimeIndicatorException.htm" />
+      <HelpTOCNode Id="3b3f7761-4fb1-4808-9e1c-a1db3ac51e31" Title="RealTimeIndicatorException Properties" Url="html/Properties.T-Sharpshooter.SDK.RealTimeIndicatorException.htm">
+        <HelpTOCNode Title="IndicatorClass Property " Url="html/P-Sharpshooter.SDK.RealTimeIndicatorException.IndicatorClass.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="RealTimeIndicatorException Events" Url="html/Events.T-Sharpshooter.SDK.RealTimeIndicatorException.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="7c11ee54-7822-4cdd-86e5-e765ad648446" Title="RTStrategyInput Class" Url="html/T-Sharpshooter.SDK.RTStrategyInput.htm">
+      <HelpTOCNode Title="RTStrategyInput Members" Url="html/AllMembers.T-Sharpshooter.SDK.RTStrategyInput.htm" />
+      <HelpTOCNode Title="RTStrategyInput Constructor " Url="html/M-Sharpshooter.SDK.RTStrategyInput.-ctor.htm" />
+      <HelpTOCNode Title="RTStrategyInput Methods" Url="html/Methods.T-Sharpshooter.SDK.RTStrategyInput.htm" />
+      <HelpTOCNode Id="5a6e6622-f41e-49ef-84d1-5369dae5d510" Title="RTStrategyInput Properties" Url="html/Properties.T-Sharpshooter.SDK.RTStrategyInput.htm">
+        <HelpTOCNode Title="Discrete Property " Url="html/P-Sharpshooter.SDK.RTStrategyInput.Discrete.htm" />
+        <HelpTOCNode Title="Gain Property " Url="html/P-Sharpshooter.SDK.RTStrategyInput.Gain.htm" />
+        <HelpTOCNode Title="Index Property " Url="html/P-Sharpshooter.SDK.RTStrategyInput.Index.htm" />
+        <HelpTOCNode Title="IndicatorId Property " Url="html/P-Sharpshooter.SDK.RTStrategyInput.IndicatorId.htm" />
+        <HelpTOCNode Title="Instrument Property " Url="html/P-Sharpshooter.SDK.RTStrategyInput.Instrument.htm" />
+        <HelpTOCNode Title="Label Property " Url="html/P-Sharpshooter.SDK.RTStrategyInput.Label.htm" />
+        <HelpTOCNode Title="Offset Property " Url="html/P-Sharpshooter.SDK.RTStrategyInput.Offset.htm" />
+        <HelpTOCNode Title="Type Property " Url="html/P-Sharpshooter.SDK.RTStrategyInput.Type.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="6c299719-d552-4d82-a77e-7e94abd288a5" Title="SDKException Class" Url="html/T-Sharpshooter.SDK.SDKException.htm">
+      <HelpTOCNode Title="SDKException Members" Url="html/AllMembers.T-Sharpshooter.SDK.SDKException.htm" />
+      <HelpTOCNode Title="SDKException Constructor " Url="html/M-Sharpshooter.SDK.SDKException.-ctor.htm" />
+      <HelpTOCNode Title="SDKException Methods" Url="html/Methods.T-Sharpshooter.SDK.SDKException.htm" />
+      <HelpTOCNode Title="SDKException Properties" Url="html/Properties.T-Sharpshooter.SDK.SDKException.htm" />
+      <HelpTOCNode Title="SDKException Events" Url="html/Events.T-Sharpshooter.SDK.SDKException.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="8f3ba3ed-6c2b-482e-ba82-d457294383db" Title="SdkServices Class" Url="html/T-Sharpshooter.SDK.SdkServices.htm">
+      <HelpTOCNode Title="SdkServices Members" Url="html/AllMembers.T-Sharpshooter.SDK.SdkServices.htm" />
+      <HelpTOCNode Id="98435776-1fc3-43e1-90db-1cbd35fe3fe7" Title="SdkServices Methods" Url="html/Methods.T-Sharpshooter.SDK.SdkServices.htm">
+        <HelpTOCNode Title="GetInstrumentFactory Method " Url="html/M-Sharpshooter.SDK.SdkServices.GetInstrumentFactory.htm" />
+        <HelpTOCNode Title="SetServiceProvider Method " Url="html/M-Sharpshooter.SDK.SdkServices.SetServiceProvider.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="c898c050-2c15-43c7-839d-0002b2cf6e20" Title="SerializedRTStrategy Class" Url="html/T-Sharpshooter.SDK.SerializedRTStrategy.htm">
+      <HelpTOCNode Title="SerializedRTStrategy Members" Url="html/AllMembers.T-Sharpshooter.SDK.SerializedRTStrategy.htm" />
+      <HelpTOCNode Title="SerializedRTStrategy Methods" Url="html/Methods.T-Sharpshooter.SDK.SerializedRTStrategy.htm" />
+      <HelpTOCNode Id="cb1745f6-8001-43f9-b6a4-899afc0da74b" Title="SerializedRTStrategy Properties" Url="html/Properties.T-Sharpshooter.SDK.SerializedRTStrategy.htm">
+        <HelpTOCNode Title="EvaluationData Property " Url="html/P-Sharpshooter.SDK.SerializedRTStrategy.EvaluationData.htm" />
+        <HelpTOCNode Title="LongThreshold Property " Url="html/P-Sharpshooter.SDK.SerializedRTStrategy.LongThreshold.htm" />
+        <HelpTOCNode Title="OriginalExpression Property " Url="html/P-Sharpshooter.SDK.SerializedRTStrategy.OriginalExpression.htm" />
+        <HelpTOCNode Title="RTStrategy Property " Url="html/P-Sharpshooter.SDK.SerializedRTStrategy.RTStrategy.htm" />
+        <HelpTOCNode Title="ShortThreshold Property " Url="html/P-Sharpshooter.SDK.SerializedRTStrategy.ShortThreshold.htm" />
+        <HelpTOCNode Title="StopLoss Property " Url="html/P-Sharpshooter.SDK.SerializedRTStrategy.StopLoss.htm" />
+        <HelpTOCNode Title="StopProfit Property " Url="html/P-Sharpshooter.SDK.SerializedRTStrategy.StopProfit.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="ce89d89e-65c6-48ba-ab4d-e59c684e9b48" Title="SharpshooterModuleAttribute Class" Url="html/T-Sharpshooter.SDK.SharpshooterModuleAttribute.htm">
+      <HelpTOCNode Title="SharpshooterModuleAttribute Members" Url="html/AllMembers.T-Sharpshooter.SDK.SharpshooterModuleAttribute.htm" />
+      <HelpTOCNode Id="fd18f4a3-dfc1-4ea0-a01d-6ccd683c3f4f" Title="SharpshooterModuleAttribute Fields" Url="html/Fields.T-Sharpshooter.SDK.SharpshooterModuleAttribute.htm">
+        <HelpTOCNode Title="SdkVersion Field" Url="html/F-Sharpshooter.SDK.SharpshooterModuleAttribute.SdkVersion.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="SharpshooterModuleAttribute Methods" Url="html/Methods.T-Sharpshooter.SDK.SharpshooterModuleAttribute.htm" />
+      <HelpTOCNode Title="SharpshooterModuleAttribute Properties" Url="html/Properties.T-Sharpshooter.SDK.SharpshooterModuleAttribute.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="5ed038df-4891-4c2d-a55f-9d67fdf1a4ab" Title="StrategyCollectionBase Class" Url="html/T-Sharpshooter.SDK.StrategyCollectionBase.htm">
+      <HelpTOCNode Title="StrategyCollectionBase Members" Url="html/AllMembers.T-Sharpshooter.SDK.StrategyCollectionBase.htm" />
+      <HelpTOCNode Id="d5512a1b-8b80-498c-ab1f-6b317c6f84ba" Title="StrategyCollectionBase Methods" Url="html/Methods.T-Sharpshooter.SDK.StrategyCollectionBase.htm">
+        <HelpTOCNode Title="Deserialize Method " Url="html/M-Sharpshooter.SDK.StrategyCollectionBase.Deserialize.htm" />
+        <HelpTOCNode Title="GetEnumerator Method " Url="html/M-Sharpshooter.SDK.StrategyCollectionBase.GetEnumerator.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="ebbcefc9-15a7-4f22-abae-d7e08a1d06d8" Title="StrategyCollectionBase Properties" Url="html/Properties.T-Sharpshooter.SDK.StrategyCollectionBase.htm">
+        <HelpTOCNode Title="Author Property " Url="html/P-Sharpshooter.SDK.StrategyCollectionBase.Author.htm" />
+        <HelpTOCNode Title="BarWidth Property " Url="html/P-Sharpshooter.SDK.StrategyCollectionBase.BarWidth.htm" />
+        <HelpTOCNode Title="Comments Property " Url="html/P-Sharpshooter.SDK.StrategyCollectionBase.Comments.htm" />
+        <HelpTOCNode Title="Count Property " Url="html/P-Sharpshooter.SDK.StrategyCollectionBase.Count.htm" />
+        <HelpTOCNode Title="Inputs Property " Url="html/P-Sharpshooter.SDK.StrategyCollectionBase.Inputs.htm" />
+        <HelpTOCNode Title="Item Property " Url="html/P-Sharpshooter.SDK.StrategyCollectionBase.Item-System.Int32-.htm" />
+        <HelpTOCNode Title="Label Property " Url="html/P-Sharpshooter.SDK.StrategyCollectionBase.Label.htm" />
+        <HelpTOCNode Title="Strategies Property " Url="html/P-Sharpshooter.SDK.StrategyCollectionBase.Strategies.htm" />
+        <HelpTOCNode Title="TradingInstrument Property " Url="html/P-Sharpshooter.SDK.StrategyCollectionBase.TradingInstrument.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="0e739186-99f3-427f-9146-c23973c225c5" Title="ValueSeries Class" Url="html/T-Sharpshooter.SDK.ValueSeries.htm">
+      <HelpTOCNode Title="ValueSeries Members" Url="html/AllMembers.T-Sharpshooter.SDK.ValueSeries.htm" />
+      <HelpTOCNode Id="9fc95415-6af4-496c-8b05-00e2040f0f32" Title="ValueSeries Constructor " Url="html/Overload-Sharpshooter.SDK.ValueSeries.-ctor.htm">
+        <HelpTOCNode Title="ValueSeries Constructor (Int32)" Url="html/M-Sharpshooter.SDK.ValueSeries.-ctor.htm" />
+        <HelpTOCNode Title="ValueSeries Constructor (Int32, BufferIndex)" Url="html/M-Sharpshooter.SDK.ValueSeries.-ctor_1.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="a445eb15-bfe2-4de0-adaf-b78d66c492e7" Title="ValueSeries Methods" Url="html/Methods.T-Sharpshooter.SDK.ValueSeries.htm">
+        <HelpTOCNode Id="2cbcb93c-ab0f-4e39-9132-08af7e86d440" Title="Initialize Method " Url="html/Overload-Sharpshooter.SDK.ValueSeries.Initialize.htm">
+          <HelpTOCNode Title="Initialize Method " Url="html/M-Sharpshooter.SDK.ValueSeries.Initialize.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="8864c466-d73b-4cdd-9e14-6aee1dfe39d4" Title="Push Method " Url="html/Overload-Sharpshooter.SDK.ValueSeries.Push.htm">
+          <HelpTOCNode Title="Push Method " Url="html/M-Sharpshooter.SDK.ValueSeries.Push.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="TruncateTo Method " Url="html/M-Sharpshooter.SDK.ValueSeries.TruncateTo.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="146975e0-e270-49cf-8d68-01b372c94962" Title="ValueSeries Operators" Url="html/Operators.T-Sharpshooter.SDK.ValueSeries.htm">
+        <HelpTOCNode Id="dea18952-341e-4787-a204-1da7d245b2eb" Title="Addition Operator " Url="html/Overload-Sharpshooter.SDK.ValueSeries.op_Addition.htm">
+          <HelpTOCNode Title="Addition Operator (ValueSeries, Double)" Url="html/M-Sharpshooter.SDK.ValueSeries.op_Addition.htm" />
+          <HelpTOCNode Title="Addition Operator (Double, ValueSeries)" Url="html/M-Sharpshooter.SDK.ValueSeries.op_Addition_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="c5bdb635-b253-4151-998c-418e4b8fc317" Title="Multiply Operator " Url="html/Overload-Sharpshooter.SDK.ValueSeries.op_Multiply.htm">
+          <HelpTOCNode Title="Multiply Operator (Double, ValueSeries)" Url="html/M-Sharpshooter.SDK.ValueSeries.op_Multiply.htm" />
+          <HelpTOCNode Title="Multiply Operator (ValueSeries, Double)" Url="html/M-Sharpshooter.SDK.ValueSeries.op_Multiply_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="Subtraction Operator " Url="html/M-Sharpshooter.SDK.ValueSeries.op_Subtraction.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="0c6a181c-b8eb-4d55-9c16-520f01370acd" Title="ValueSeries Properties" Url="html/Properties.T-Sharpshooter.SDK.ValueSeries.htm">
+        <HelpTOCNode Title="Average Property " Url="html/P-Sharpshooter.SDK.ValueSeries.Average.htm" />
+        <HelpTOCNode Title="SquareAverage Property " Url="html/P-Sharpshooter.SDK.ValueSeries.SquareAverage.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="ac40f6a0-496a-44b4-b57e-378cdcb25ff3" Title="Sharpshooter.SDK.Data Namespace" Url="html/N-Sharpshooter.SDK.Data.htm">
+    <HelpTOCNode Id="94ebf67b-584a-4c6d-8ae2-bec96af3bb96" Title="ColumnIndexAttribute Class" Url="html/T-Sharpshooter.SDK.Data.ColumnIndexAttribute.htm">
+      <HelpTOCNode Title="ColumnIndexAttribute Members" Url="html/AllMembers.T-Sharpshooter.SDK.Data.ColumnIndexAttribute.htm" />
+      <HelpTOCNode Title="ColumnIndexAttribute Constructor " Url="html/M-Sharpshooter.SDK.Data.ColumnIndexAttribute.-ctor.htm" />
+      <HelpTOCNode Title="ColumnIndexAttribute Methods" Url="html/Methods.T-Sharpshooter.SDK.Data.ColumnIndexAttribute.htm" />
+      <HelpTOCNode Id="8858207c-b3f3-4893-b1bb-97778b465f5e" Title="ColumnIndexAttribute Properties" Url="html/Properties.T-Sharpshooter.SDK.Data.ColumnIndexAttribute.htm">
+        <HelpTOCNode Title="Index Property " Url="html/P-Sharpshooter.SDK.Data.ColumnIndexAttribute.Index.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="c603d80f-49ca-4476-86bb-263bd15031a4" Title="DataFetchResult Class" Url="html/T-Sharpshooter.SDK.Data.DataFetchResult.htm">
+      <HelpTOCNode Title="DataFetchResult Members" Url="html/AllMembers.T-Sharpshooter.SDK.Data.DataFetchResult.htm" />
+      <HelpTOCNode Title="DataFetchResult Constructor " Url="html/M-Sharpshooter.SDK.Data.DataFetchResult.-ctor.htm" />
+      <HelpTOCNode Title="DataFetchResult Methods" Url="html/Methods.T-Sharpshooter.SDK.Data.DataFetchResult.htm" />
+      <HelpTOCNode Id="3ee1adc5-7df2-4d55-b254-e9b393065a5b" Title="DataFetchResult Properties" Url="html/Properties.T-Sharpshooter.SDK.Data.DataFetchResult.htm">
+        <HelpTOCNode Title="EventColumn Property " Url="html/P-Sharpshooter.SDK.Data.DataFetchResult.EventColumn.htm" />
+        <HelpTOCNode Title="InputInstruments Property " Url="html/P-Sharpshooter.SDK.Data.DataFetchResult.InputInstruments.htm" />
+        <HelpTOCNode Title="IsSuccess Property " Url="html/P-Sharpshooter.SDK.Data.DataFetchResult.IsSuccess.htm" />
+        <HelpTOCNode Title="Status Property " Url="html/P-Sharpshooter.SDK.Data.DataFetchResult.Status.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="05dede23-828f-453d-bb09-c1d1cf9dd2b9" Title="IDataImportManager Interface" Url="html/T-Sharpshooter.SDK.Data.IDataImportManager.htm">
+      <HelpTOCNode Title="IDataImportManager Members" Url="html/AllMembers.T-Sharpshooter.SDK.Data.IDataImportManager.htm" />
+      <HelpTOCNode Id="019842ce-99fc-4a25-b7c6-6b22e899d8dd" Title="IDataImportManager Methods" Url="html/Methods.T-Sharpshooter.SDK.Data.IDataImportManager.htm">
+        <HelpTOCNode Title="ImportData Method " Url="html/M-Sharpshooter.SDK.Data.IDataImportManager.ImportData.htm" />
+        <HelpTOCNode Title="Initialize Method " Url="html/M-Sharpshooter.SDK.Data.IDataImportManager.Initialize.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="33e4bc03-a76a-41c3-ac3c-858b11a6f08f" Title="IDataImportManager Properties" Url="html/Properties.T-Sharpshooter.SDK.Data.IDataImportManager.htm">
+        <HelpTOCNode Title="InputSource Property " Url="html/P-Sharpshooter.SDK.Data.IDataImportManager.InputSource.htm" />
+        <HelpTOCNode Title="SourceReader Property " Url="html/P-Sharpshooter.SDK.Data.IDataImportManager.SourceReader.htm" />
+        <HelpTOCNode Title="SourceReaderType Property " Url="html/P-Sharpshooter.SDK.Data.IDataImportManager.SourceReaderType.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="17f22d12-933b-42f7-8081-56166a62ef23" Title="IDataImportManager Events" Url="html/Events.T-Sharpshooter.SDK.Data.IDataImportManager.htm">
+        <HelpTOCNode Title="ImportCompleted Event" Url="html/E-Sharpshooter.SDK.Data.IDataImportManager.ImportCompleted.htm" />
+        <HelpTOCNode Title="ImportFailed Event" Url="html/E-Sharpshooter.SDK.Data.IDataImportManager.ImportFailed.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="3b1b654f-5c13-4b07-b90e-c5c83550ffb1" Title="IDataReader Interface" Url="html/T-Sharpshooter.SDK.Data.IDataReader.htm">
+      <HelpTOCNode Title="IDataReader Members" Url="html/AllMembers.T-Sharpshooter.SDK.Data.IDataReader.htm" />
+      <HelpTOCNode Id="1e424c63-0208-410d-8120-c946cd4d8318" Title="IDataReader Methods" Url="html/Methods.T-Sharpshooter.SDK.Data.IDataReader.htm">
+        <HelpTOCNode Title="LoadData Method " Url="html/M-Sharpshooter.SDK.Data.IDataReader.LoadData.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="119e3927-2638-4d40-ba65-95270201dd6d" Title="IDataReader Properties" Url="html/Properties.T-Sharpshooter.SDK.Data.IDataReader.htm">
+        <HelpTOCNode Title="AddMissingRows Property " Url="html/P-Sharpshooter.SDK.Data.IDataReader.AddMissingRows.htm" />
+        <HelpTOCNode Title="ImportFromTimestamp Property " Url="html/P-Sharpshooter.SDK.Data.IDataReader.ImportFromTimestamp.htm" />
+        <HelpTOCNode Title="NormalizeBaseIndex Property " Url="html/P-Sharpshooter.SDK.Data.IDataReader.NormalizeBaseIndex.htm" />
+        <HelpTOCNode Title="SupportedDataSourceTypes Property " Url="html/P-Sharpshooter.SDK.Data.IDataReader.SupportedDataSourceTypes.htm" />
+        <HelpTOCNode Title="TimestampFormat Property " Url="html/P-Sharpshooter.SDK.Data.IDataReader.TimestampFormat.htm" />
+        <HelpTOCNode Title="TradingSchedule Property " Url="html/P-Sharpshooter.SDK.Data.IDataReader.TradingSchedule.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="95672a1a-94cf-49da-a1c6-f76a899b469d" Title="IDataReader(TDataSource) Interface" Url="html/T-Sharpshooter.SDK.Data.IDataReader-1.htm">
+      <HelpTOCNode Title="IDataReader Members" Url="html/AllMembers.T-Sharpshooter.SDK.Data.IDataReader-1.htm" />
+      <HelpTOCNode Id="ba778650-21f1-4629-960c-9fae0997e734" Title="IDataReader Methods" Url="html/Methods.T-Sharpshooter.SDK.Data.IDataReader-1.htm">
+        <HelpTOCNode Title="LoadData Method " Url="html/M-Sharpshooter.SDK.Data.IDataReader-1.LoadData.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="28afea20-83fd-413d-afe2-3e033f675b24" Title="IDataSource Interface" Url="html/T-Sharpshooter.SDK.Data.IDataSource.htm">
+      <HelpTOCNode Title="IDataSource Members" Url="html/AllMembers.T-Sharpshooter.SDK.Data.IDataSource.htm" />
+      <HelpTOCNode Id="c2646f33-50c0-4519-a896-37ad1b95ad5d" Title="IDataSource Methods" Url="html/Methods.T-Sharpshooter.SDK.Data.IDataSource.htm">
+        <HelpTOCNode Title="GetData Method " Url="html/M-Sharpshooter.SDK.Data.IDataSource.GetData.htm" />
+        <HelpTOCNode Title="GetErrors Method " Url="html/M-Sharpshooter.SDK.Data.IDataSource.GetErrors.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="2a4195e6-ab48-4c7e-89ec-c51139cbd7e5" Title="IDataSource Properties" Url="html/Properties.T-Sharpshooter.SDK.Data.IDataSource.htm">
+        <HelpTOCNode Title="Comments Property " Url="html/P-Sharpshooter.SDK.Data.IDataSource.Comments.htm" />
+        <HelpTOCNode Title="Identifier Property " Url="html/P-Sharpshooter.SDK.Data.IDataSource.Identifier.htm" />
+        <HelpTOCNode Title="IsReadyToImport Property " Url="html/P-Sharpshooter.SDK.Data.IDataSource.IsReadyToImport.htm" />
+        <HelpTOCNode Title="Preview Property " Url="html/P-Sharpshooter.SDK.Data.IDataSource.Preview.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="e8a1ad8a-7cc4-4e4b-8fa5-1ca2c8f0ce81" Title="IDataSourceColumn Interface" Url="html/T-Sharpshooter.SDK.Data.IDataSourceColumn.htm">
+      <HelpTOCNode Title="IDataSourceColumn Members" Url="html/AllMembers.T-Sharpshooter.SDK.Data.IDataSourceColumn.htm" />
+      <HelpTOCNode Title="IDataSourceColumn Methods" Url="html/Methods.T-Sharpshooter.SDK.Data.IDataSourceColumn.htm" />
+      <HelpTOCNode Id="699d70b8-8d8b-404e-afd5-f49063a18120" Title="IDataSourceColumn Properties" Url="html/Properties.T-Sharpshooter.SDK.Data.IDataSourceColumn.htm">
+        <HelpTOCNode Title="ColumnName Property " Url="html/P-Sharpshooter.SDK.Data.IDataSourceColumn.ColumnName.htm" />
+        <HelpTOCNode Title="Hide Property " Url="html/P-Sharpshooter.SDK.Data.IDataSourceColumn.Hide.htm" />
+        <HelpTOCNode Title="Import Property " Url="html/P-Sharpshooter.SDK.Data.IDataSourceColumn.Import.htm" />
+        <HelpTOCNode Title="InputType Property " Url="html/P-Sharpshooter.SDK.Data.IDataSourceColumn.InputType.htm" />
+        <HelpTOCNode Title="IsEventColumn Property " Url="html/P-Sharpshooter.SDK.Data.IDataSourceColumn.IsEventColumn.htm" />
+        <HelpTOCNode Title="IsIndicatorColumn Property " Url="html/P-Sharpshooter.SDK.Data.IDataSourceColumn.IsIndicatorColumn.htm" />
+        <HelpTOCNode Title="IsQuoteColumn Property " Url="html/P-Sharpshooter.SDK.Data.IDataSourceColumn.IsQuoteColumn.htm" />
+        <HelpTOCNode Title="IsTimestampColumn Property " Url="html/P-Sharpshooter.SDK.Data.IDataSourceColumn.IsTimestampColumn.htm" />
+        <HelpTOCNode Title="QuoteColumnType Property " Url="html/P-Sharpshooter.SDK.Data.IDataSourceColumn.QuoteColumnType.htm" />
+        <HelpTOCNode Title="Ticker Property " Url="html/P-Sharpshooter.SDK.Data.IDataSourceColumn.Ticker.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="6cb50e5b-8054-482e-96e3-58b3dc292c87" Title="IImportDataTable Interface" Url="html/T-Sharpshooter.SDK.Data.IImportDataTable.htm">
+      <HelpTOCNode Title="IImportDataTable Members" Url="html/AllMembers.T-Sharpshooter.SDK.Data.IImportDataTable.htm" />
+      <HelpTOCNode Title="IImportDataTable Methods" Url="html/Methods.T-Sharpshooter.SDK.Data.IImportDataTable.htm" />
+      <HelpTOCNode Id="63ffb6d0-3a35-4f2c-b387-30a05e6142e3" Title="IImportDataTable Properties" Url="html/Properties.T-Sharpshooter.SDK.Data.IImportDataTable.htm">
+        <HelpTOCNode Title="AllColumns Property " Url="html/P-Sharpshooter.SDK.Data.IImportDataTable.AllColumns.htm" />
+        <HelpTOCNode Title="FirstTimestamp Property " Url="html/P-Sharpshooter.SDK.Data.IImportDataTable.FirstTimestamp.htm" />
+        <HelpTOCNode Title="Instruments Property " Url="html/P-Sharpshooter.SDK.Data.IImportDataTable.Instruments.htm" />
+        <HelpTOCNode Title="UntiedColumns Property " Url="html/P-Sharpshooter.SDK.Data.IImportDataTable.UntiedColumns.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="319be125-23fa-442b-8abe-c1d4e7f0aed2" Title="IImportDataWindow Interface" Url="html/T-Sharpshooter.SDK.Data.IImportDataWindow.htm">
+      <HelpTOCNode Title="IImportDataWindow Members" Url="html/AllMembers.T-Sharpshooter.SDK.Data.IImportDataWindow.htm" />
+      <HelpTOCNode Id="fc5df944-40d8-4ccb-9e38-4a04002e9257" Title="IImportDataWindow Methods" Url="html/Methods.T-Sharpshooter.SDK.Data.IImportDataWindow.htm">
+        <HelpTOCNode Title="Initialize Method " Url="html/M-Sharpshooter.SDK.Data.IImportDataWindow.Initialize.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="6d164169-c857-41a4-bb09-21861b5bd642" Title="IImportDataWindow Properties" Url="html/Properties.T-Sharpshooter.SDK.Data.IImportDataWindow.htm">
+        <HelpTOCNode Title="ImportManagerType Property " Url="html/P-Sharpshooter.SDK.Data.IImportDataWindow.ImportManagerType.htm" />
+        <HelpTOCNode Title="ViewModel Property " Url="html/P-Sharpshooter.SDK.Data.IImportDataWindow.ViewModel.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="71e74c3c-6902-47a4-8e0f-6833caa17915" Title="IImportDataWindow Events" Url="html/Events.T-Sharpshooter.SDK.Data.IImportDataWindow.htm">
+        <HelpTOCNode Title="AllImportsCompleted Event" Url="html/E-Sharpshooter.SDK.Data.IImportDataWindow.AllImportsCompleted.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="1295454b-93bd-4511-8a85-ae5383f2d18d" Title="ImportEventArgs Class" Url="html/T-Sharpshooter.SDK.Data.ImportEventArgs.htm">
+      <HelpTOCNode Title="ImportEventArgs Members" Url="html/AllMembers.T-Sharpshooter.SDK.Data.ImportEventArgs.htm" />
+      <HelpTOCNode Title="ImportEventArgs Constructor " Url="html/M-Sharpshooter.SDK.Data.ImportEventArgs.-ctor.htm" />
+      <HelpTOCNode Title="ImportEventArgs Methods" Url="html/Methods.T-Sharpshooter.SDK.Data.ImportEventArgs.htm" />
+      <HelpTOCNode Id="053730c8-a89a-4ffd-a4e3-bf062a68d2cd" Title="ImportEventArgs Properties" Url="html/Properties.T-Sharpshooter.SDK.Data.ImportEventArgs.htm">
+        <HelpTOCNode Title="Result Property " Url="html/P-Sharpshooter.SDK.Data.ImportEventArgs.Result.htm" />
+        <HelpTOCNode Title="SourceId Property " Url="html/P-Sharpshooter.SDK.Data.ImportEventArgs.SourceId.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="9d1f5f19-d0ae-4e0b-b42d-233d956b8982" Title="ImportsCompletedEventArgs Class" Url="html/T-Sharpshooter.SDK.Data.ImportsCompletedEventArgs.htm">
+      <HelpTOCNode Title="ImportsCompletedEventArgs Members" Url="html/AllMembers.T-Sharpshooter.SDK.Data.ImportsCompletedEventArgs.htm" />
+      <HelpTOCNode Title="ImportsCompletedEventArgs Constructor " Url="html/M-Sharpshooter.SDK.Data.ImportsCompletedEventArgs.-ctor.htm" />
+      <HelpTOCNode Title="ImportsCompletedEventArgs Methods" Url="html/Methods.T-Sharpshooter.SDK.Data.ImportsCompletedEventArgs.htm" />
+      <HelpTOCNode Id="73d028d2-1e1b-463f-b7a4-120f9ac91efc" Title="ImportsCompletedEventArgs Properties" Url="html/Properties.T-Sharpshooter.SDK.Data.ImportsCompletedEventArgs.htm">
+        <HelpTOCNode Title="Instruments Property " Url="html/P-Sharpshooter.SDK.Data.ImportsCompletedEventArgs.Instruments.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="InputColumnType Enumeration" Url="html/T-Sharpshooter.SDK.Data.InputColumnType.htm" />
+    <HelpTOCNode Id="3fcf6ef1-10e9-4491-a1e6-1606ecbd76ab" Title="IPreviewDataTable Interface" Url="html/T-Sharpshooter.SDK.Data.IPreviewDataTable.htm">
+      <HelpTOCNode Title="IPreviewDataTable Methods" Url="html/Methods.T-Sharpshooter.SDK.Data.IPreviewDataTable.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Title="LoadStatus Enumeration" Url="html/T-Sharpshooter.SDK.Data.LoadStatus.htm" />
+    <HelpTOCNode Title="QuoteColumnType Enumeration" Url="html/T-Sharpshooter.SDK.Data.QuoteColumnType.htm" />
+  </HelpTOCNode>
+  <HelpTOCNode Id="c66dbf62-76a5-4d94-aaa0-3d399790f98c" Title="Sharpshooter.SDK.Indicators Namespace" Url="html/N-Sharpshooter.SDK.Indicators.htm">
+    <HelpTOCNode Id="0a13ec8a-6052-4879-8eb6-fa56c84d7a67" Title="CloseIndicatorInstance Class" Url="html/T-Sharpshooter.SDK.Indicators.CloseIndicatorInstance.htm">
+      <HelpTOCNode Title="CloseIndicatorInstance Members" Url="html/AllMembers.T-Sharpshooter.SDK.Indicators.CloseIndicatorInstance.htm" />
+      <HelpTOCNode Title="CloseIndicatorInstance Constructor " Url="html/M-Sharpshooter.SDK.Indicators.CloseIndicatorInstance.-ctor.htm" />
+      <HelpTOCNode Title="CloseIndicatorInstance Methods" Url="html/Methods.T-Sharpshooter.SDK.Indicators.CloseIndicatorInstance.htm" />
+      <HelpTOCNode Id="46f2d1e1-5663-4982-9321-a0b1eb6ba0e0" Title="CloseIndicatorInstance Properties" Url="html/Properties.T-Sharpshooter.SDK.Indicators.CloseIndicatorInstance.htm">
+        <HelpTOCNode Title="HasState Property " Url="html/P-Sharpshooter.SDK.Indicators.CloseIndicatorInstance.HasState.htm" />
+        <HelpTOCNode Title="Map Property " Url="html/P-Sharpshooter.SDK.Indicators.CloseIndicatorInstance.Map.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="09fbdd1b-f840-4165-afbf-9a74fa069a61" Title="DefaultDiscretizer Class" Url="html/T-Sharpshooter.SDK.Indicators.DefaultDiscretizer.htm">
+      <HelpTOCNode Title="DefaultDiscretizer Members" Url="html/AllMembers.T-Sharpshooter.SDK.Indicators.DefaultDiscretizer.htm" />
+      <HelpTOCNode Title="DefaultDiscretizer Constructor " Url="html/M-Sharpshooter.SDK.Indicators.DefaultDiscretizer.-ctor.htm" />
+      <HelpTOCNode Id="f0106d00-b770-4788-ac1c-517e698964a2" Title="DefaultDiscretizer Methods" Url="html/Methods.T-Sharpshooter.SDK.Indicators.DefaultDiscretizer.htm">
+        <HelpTOCNode Id="4139ded7-3b7a-4d7f-bb36-35b2af200268" Title="Discretize Method " Url="html/Overload-Sharpshooter.SDK.Indicators.DefaultDiscretizer.Discretize.htm">
+          <HelpTOCNode Title="Discretize Method (Double)" Url="html/M-Sharpshooter.SDK.Indicators.DefaultDiscretizer.Discretize.htm" />
+          <HelpTOCNode Title="Discretize Method (IEnumerable(Double))" Url="html/M-Sharpshooter.SDK.Indicators.DefaultDiscretizer.Discretize_1.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="7dc4ed71-cf5e-443a-b6ea-db83dbcc8018" Title="DefaultDiscretizer Properties" Url="html/Properties.T-Sharpshooter.SDK.Indicators.DefaultDiscretizer.htm">
+        <HelpTOCNode Title="Active Property " Url="html/P-Sharpshooter.SDK.Indicators.DefaultDiscretizer.Active.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="72397942-b079-41d9-afe3-9907823c0cf1" Title="IndicatorAttribute Class" Url="html/T-Sharpshooter.SDK.Indicators.IndicatorAttribute.htm">
+      <HelpTOCNode Title="IndicatorAttribute Members" Url="html/AllMembers.T-Sharpshooter.SDK.Indicators.IndicatorAttribute.htm" />
+      <HelpTOCNode Id="ab7d8c69-7f03-498d-891d-67c33dcb707b" Title="IndicatorAttribute Constructor " Url="html/Overload-Sharpshooter.SDK.Indicators.IndicatorAttribute.-ctor.htm">
+        <HelpTOCNode Title="IndicatorAttribute Constructor (Int32)" Url="html/M-Sharpshooter.SDK.Indicators.IndicatorAttribute.-ctor.htm" />
+        <HelpTOCNode Title="IndicatorAttribute Constructor (Int32, IndicatorFlags)" Url="html/M-Sharpshooter.SDK.Indicators.IndicatorAttribute.-ctor_1.htm" />
+        <HelpTOCNode Title="IndicatorAttribute Constructor (Int32, Int32)" Url="html/M-Sharpshooter.SDK.Indicators.IndicatorAttribute.-ctor_2.htm" />
+        <HelpTOCNode Title="IndicatorAttribute Constructor (Int32, String)" Url="html/M-Sharpshooter.SDK.Indicators.IndicatorAttribute.-ctor_3.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="IndicatorAttribute Methods" Url="html/Methods.T-Sharpshooter.SDK.Indicators.IndicatorAttribute.htm" />
+      <HelpTOCNode Id="d47d81b9-9603-4daf-a3a6-9979af2f3c5a" Title="IndicatorAttribute Properties" Url="html/Properties.T-Sharpshooter.SDK.Indicators.IndicatorAttribute.htm">
+        <HelpTOCNode Title="Flags Property " Url="html/P-Sharpshooter.SDK.Indicators.IndicatorAttribute.Flags.htm" />
+        <HelpTOCNode Title="IsDiscrete Property " Url="html/P-Sharpshooter.SDK.Indicators.IndicatorAttribute.IsDiscrete.htm" />
+        <HelpTOCNode Title="Label Property " Url="html/P-Sharpshooter.SDK.Indicators.IndicatorAttribute.Label.htm" />
+        <HelpTOCNode Title="MaxBarCount Property " Url="html/P-Sharpshooter.SDK.Indicators.IndicatorAttribute.MaxBarCount.htm" />
+        <HelpTOCNode Title="MinBarCount Property " Url="html/P-Sharpshooter.SDK.Indicators.IndicatorAttribute.MinBarCount.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="e48dcaa3-3251-4136-a0c1-c30302c46d70" Title="IndicatorClassAttribute Class" Url="html/T-Sharpshooter.SDK.Indicators.IndicatorClassAttribute.htm">
+      <HelpTOCNode Title="IndicatorClassAttribute Members" Url="html/AllMembers.T-Sharpshooter.SDK.Indicators.IndicatorClassAttribute.htm" />
+      <HelpTOCNode Id="cabebf66-0134-4bf9-a388-11f26b7ba3c4" Title="IndicatorClassAttribute Constructor " Url="html/Overload-Sharpshooter.SDK.Indicators.IndicatorClassAttribute.-ctor.htm">
+        <HelpTOCNode Title="IndicatorClassAttribute Constructor (IndicatorClassFlags)" Url="html/M-Sharpshooter.SDK.Indicators.IndicatorClassAttribute.-ctor.htm" />
+        <HelpTOCNode Title="IndicatorClassAttribute Constructor (IndicatorClassFlags, String)" Url="html/M-Sharpshooter.SDK.Indicators.IndicatorClassAttribute.-ctor_1.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="IndicatorClassAttribute Methods" Url="html/Methods.T-Sharpshooter.SDK.Indicators.IndicatorClassAttribute.htm" />
+      <HelpTOCNode Id="4fd247a0-6da5-4fa7-b8fe-c832bdb8786c" Title="IndicatorClassAttribute Properties" Url="html/Properties.T-Sharpshooter.SDK.Indicators.IndicatorClassAttribute.htm">
+        <HelpTOCNode Title="Flags Property " Url="html/P-Sharpshooter.SDK.Indicators.IndicatorClassAttribute.Flags.htm" />
+        <HelpTOCNode Title="Label Property " Url="html/P-Sharpshooter.SDK.Indicators.IndicatorClassAttribute.Label.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="IndicatorClassFlags Enumeration" Url="html/T-Sharpshooter.SDK.Indicators.IndicatorClassFlags.htm" />
+    <HelpTOCNode Title="IndicatorFlags Enumeration" Url="html/T-Sharpshooter.SDK.Indicators.IndicatorFlags.htm" />
+    <HelpTOCNode Id="954e7f3e-9211-4be7-8a77-970e453df083" Title="IndicatorHelpers Class" Url="html/T-Sharpshooter.SDK.Indicators.IndicatorHelpers.htm">
+      <HelpTOCNode Title="IndicatorHelpers Members" Url="html/AllMembers.T-Sharpshooter.SDK.Indicators.IndicatorHelpers.htm" />
+      <HelpTOCNode Id="5bc07f5c-0090-4834-a6cb-cc35c1c7688a" Title="IndicatorHelpers Methods" Url="html/Methods.T-Sharpshooter.SDK.Indicators.IndicatorHelpers.htm">
+        <HelpTOCNode Title="BollingerZScore Method " Url="html/M-Sharpshooter.SDK.Indicators.IndicatorHelpers.BollingerZScore.htm" />
+        <HelpTOCNode Title="EMA Method " Url="html/M-Sharpshooter.SDK.Indicators.IndicatorHelpers.EMA.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="3b180aea-6b26-49be-845d-21aca9341748" Title="IndicatorInstanceBase Class" Url="html/T-Sharpshooter.SDK.Indicators.IndicatorInstanceBase.htm">
+      <HelpTOCNode Title="IndicatorInstanceBase Members" Url="html/AllMembers.T-Sharpshooter.SDK.Indicators.IndicatorInstanceBase.htm" />
+      <HelpTOCNode Id="7f265951-bfab-4766-87ba-450f77d0c9f5" Title="IndicatorInstanceBase Constructor " Url="html/Overload-Sharpshooter.SDK.Indicators.IndicatorInstanceBase.-ctor.htm">
+        <HelpTOCNode Title="IndicatorInstanceBase Constructor (Object, Int32, Boolean)" Url="html/M-Sharpshooter.SDK.Indicators.IndicatorInstanceBase.-ctor.htm" />
+        <HelpTOCNode Title="IndicatorInstanceBase Constructor (Object, Int32, Int32, Boolean)" Url="html/M-Sharpshooter.SDK.Indicators.IndicatorInstanceBase.-ctor_1.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="IndicatorInstanceBase Methods" Url="html/Methods.T-Sharpshooter.SDK.Indicators.IndicatorInstanceBase.htm" />
+      <HelpTOCNode Id="a758b720-2204-43d0-a5aa-af80cfc70633" Title="IndicatorInstanceBase Properties" Url="html/Properties.T-Sharpshooter.SDK.Indicators.IndicatorInstanceBase.htm">
+        <HelpTOCNode Title="Bars Property " Url="html/P-Sharpshooter.SDK.Indicators.IndicatorInstanceBase.Bars.htm" />
+        <HelpTOCNode Title="Discrete Property " Url="html/P-Sharpshooter.SDK.Indicators.IndicatorInstanceBase.Discrete.htm" />
+        <HelpTOCNode Title="Instrument Property " Url="html/P-Sharpshooter.SDK.Indicators.IndicatorInstanceBase.Instrument.htm" />
+        <HelpTOCNode Title="MinBars Property " Url="html/P-Sharpshooter.SDK.Indicators.IndicatorInstanceBase.MinBars.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="ad2cf1c9-d521-4f3f-9d6c-082e342950b7" Title="IndicatorParameterAttribute Class" Url="html/T-Sharpshooter.SDK.Indicators.IndicatorParameterAttribute.htm">
+      <HelpTOCNode Title="IndicatorParameterAttribute Members" Url="html/AllMembers.T-Sharpshooter.SDK.Indicators.IndicatorParameterAttribute.htm" />
+      <HelpTOCNode Title="IndicatorParameterAttribute Methods" Url="html/Methods.T-Sharpshooter.SDK.Indicators.IndicatorParameterAttribute.htm" />
+      <HelpTOCNode Id="e80c0a3a-609b-4bc9-9e61-fef751fd4b1a" Title="IndicatorParameterAttribute Properties" Url="html/Properties.T-Sharpshooter.SDK.Indicators.IndicatorParameterAttribute.htm">
+        <HelpTOCNode Title="Type Property " Url="html/P-Sharpshooter.SDK.Indicators.IndicatorParameterAttribute.Type.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="2537cf80-6758-43ac-9616-befa5d16b926" Title="IndicatorsBase Class" Url="html/T-Sharpshooter.SDK.Indicators.IndicatorsBase.htm">
+      <HelpTOCNode Title="IndicatorsBase Members" Url="html/AllMembers.T-Sharpshooter.SDK.Indicators.IndicatorsBase.htm" />
+      <HelpTOCNode Title="IndicatorsBase Constructor " Url="html/M-Sharpshooter.SDK.Indicators.IndicatorsBase.-ctor.htm" />
+      <HelpTOCNode Id="99e3a6e4-ac0e-47e0-a657-2cf254a05446" Title="IndicatorsBase Fields" Url="html/Fields.T-Sharpshooter.SDK.Indicators.IndicatorsBase.htm">
+        <HelpTOCNode Title="_instrument Field" Url="html/F-Sharpshooter.SDK.Indicators.IndicatorsBase._instrument.htm" />
+        <HelpTOCNode Title="L Field" Url="html/F-Sharpshooter.SDK.Indicators.IndicatorsBase.L.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="2cc451c5-de19-4fc4-a156-0d9a5af1fc34" Title="IndicatorsBase Methods" Url="html/Methods.T-Sharpshooter.SDK.Indicators.IndicatorsBase.htm">
+        <HelpTOCNode Id="c779c68f-6598-48e1-9821-00e632126bfe" Title="Calculate Method " Url="html/Overload-Sharpshooter.SDK.Indicators.IndicatorsBase.Calculate.htm">
+          <HelpTOCNode Title="Calculate Method (CloseIndicatorInstance, IReadOnlyList(CloseQuote))" Url="html/M-Sharpshooter.SDK.Indicators.IndicatorsBase.Calculate.htm" />
+          <HelpTOCNode Title="Calculate Method (OhlcIndicatorInstance, IReadOnlyList(OhlcBar))" Url="html/M-Sharpshooter.SDK.Indicators.IndicatorsBase.Calculate_1.htm" />
+          <HelpTOCNode Title="Calculate Method (TransformIndicator, IReadOnlyList(Double))" Url="html/M-Sharpshooter.SDK.Indicators.IndicatorsBase.Calculate_2.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="EMA Method " Url="html/M-Sharpshooter.SDK.Indicators.IndicatorsBase.EMA.htm" />
+        <HelpTOCNode Title="NoiseOff Method " Url="html/M-Sharpshooter.SDK.Indicators.IndicatorsBase.NoiseOff.htm" />
+        <HelpTOCNode Title="NoiseOn Method " Url="html/M-Sharpshooter.SDK.Indicators.IndicatorsBase.NoiseOn.htm" />
+        <HelpTOCNode Title="SMA Method " Url="html/M-Sharpshooter.SDK.Indicators.IndicatorsBase.SMA.htm" />
+        <HelpTOCNode Title="SmoothedMA Method " Url="html/M-Sharpshooter.SDK.Indicators.IndicatorsBase.SmoothedMA.htm" />
+        <HelpTOCNode Title="WMA Method " Url="html/M-Sharpshooter.SDK.Indicators.IndicatorsBase.WMA.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="b613d14b-ed3e-49ff-aa5c-3adba6ef939a" Title="IndicatorsBase Properties" Url="html/Properties.T-Sharpshooter.SDK.Indicators.IndicatorsBase.htm">
+        <HelpTOCNode Title="Close Property " Url="html/P-Sharpshooter.SDK.Indicators.IndicatorsBase.Close.htm" />
+        <HelpTOCNode Title="CustomData Property " Url="html/P-Sharpshooter.SDK.Indicators.IndicatorsBase.CustomData.htm" />
+        <HelpTOCNode Title="Discretize Property " Url="html/P-Sharpshooter.SDK.Indicators.IndicatorsBase.Discretize.htm" />
+        <HelpTOCNode Title="Discretizer Property " Url="html/P-Sharpshooter.SDK.Indicators.IndicatorsBase.Discretizer.htm" />
+        <HelpTOCNode Title="High Property " Url="html/P-Sharpshooter.SDK.Indicators.IndicatorsBase.High.htm" />
+        <HelpTOCNode Title="Low Property " Url="html/P-Sharpshooter.SDK.Indicators.IndicatorsBase.Low.htm" />
+        <HelpTOCNode Title="MinimumBarCount Property " Url="html/P-Sharpshooter.SDK.Indicators.IndicatorsBase.MinimumBarCount.htm" />
+        <HelpTOCNode Title="Noised Property " Url="html/P-Sharpshooter.SDK.Indicators.IndicatorsBase.Noised.htm" />
+        <HelpTOCNode Title="Open Property " Url="html/P-Sharpshooter.SDK.Indicators.IndicatorsBase.Open.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="30c35763-c986-41da-a838-19cc3f13171b" Title="NullDiscretizer Class" Url="html/T-Sharpshooter.SDK.Indicators.NullDiscretizer.htm">
+      <HelpTOCNode Title="NullDiscretizer Members" Url="html/AllMembers.T-Sharpshooter.SDK.Indicators.NullDiscretizer.htm" />
+      <HelpTOCNode Id="2719a32a-c9eb-4811-b568-87509fa9fbbb" Title="NullDiscretizer Methods" Url="html/Methods.T-Sharpshooter.SDK.Indicators.NullDiscretizer.htm">
+        <HelpTOCNode Id="5d769963-a898-4620-9922-b5cf2b25f1df" Title="Discretize Method " Url="html/Overload-Sharpshooter.SDK.Indicators.NullDiscretizer.Discretize.htm">
+          <HelpTOCNode Title="Discretize Method (Double)" Url="html/M-Sharpshooter.SDK.Indicators.NullDiscretizer.Discretize.htm" />
+          <HelpTOCNode Title="Discretize Method (IEnumerable(Double))" Url="html/M-Sharpshooter.SDK.Indicators.NullDiscretizer.Discretize_1.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="156d33bf-fc2e-46b2-af52-9dcb1e007e35" Title="NullDiscretizer Properties" Url="html/Properties.T-Sharpshooter.SDK.Indicators.NullDiscretizer.htm">
+        <HelpTOCNode Title="Active Property " Url="html/P-Sharpshooter.SDK.Indicators.NullDiscretizer.Active.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="6b253f6d-b0ef-4be9-8251-05075c4a2552" Title="OhlcAdvancedIndicatorInstance Class" Url="html/T-Sharpshooter.SDK.Indicators.OhlcAdvancedIndicatorInstance.htm">
+      <HelpTOCNode Title="OhlcAdvancedIndicatorInstance Members" Url="html/AllMembers.T-Sharpshooter.SDK.Indicators.OhlcAdvancedIndicatorInstance.htm" />
+      <HelpTOCNode Title="OhlcAdvancedIndicatorInstance Constructor " Url="html/M-Sharpshooter.SDK.Indicators.OhlcAdvancedIndicatorInstance.-ctor.htm" />
+      <HelpTOCNode Id="ead31e53-8bb1-4730-8a61-054df4192002" Title="OhlcAdvancedIndicatorInstance Methods" Url="html/Methods.T-Sharpshooter.SDK.Indicators.OhlcAdvancedIndicatorInstance.htm">
+        <HelpTOCNode Id="f0ba7513-14cf-4ae4-b04f-51d0bd8a8363" Title="Equals Method " Url="html/Overload-Sharpshooter.SDK.Indicators.OhlcAdvancedIndicatorInstance.Equals.htm">
+          <HelpTOCNode Title="Equals Method " Url="html/M-Sharpshooter.SDK.Indicators.OhlcAdvancedIndicatorInstance.Equals.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="GetValue Method " Url="html/M-Sharpshooter.SDK.Indicators.OhlcAdvancedIndicatorInstance.GetValue.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="3499655e-8f60-4618-b986-d6dbc3ad0522" Title="OhlcAdvancedIndicatorInstance Properties" Url="html/Properties.T-Sharpshooter.SDK.Indicators.OhlcAdvancedIndicatorInstance.htm">
+        <HelpTOCNode Title="ClassInstance Property " Url="html/P-Sharpshooter.SDK.Indicators.OhlcAdvancedIndicatorInstance.ClassInstance.htm" />
+        <HelpTOCNode Title="Gain Property " Url="html/P-Sharpshooter.SDK.Indicators.OhlcAdvancedIndicatorInstance.Gain.htm" />
+        <HelpTOCNode Title="HasState Property " Url="html/P-Sharpshooter.SDK.Indicators.OhlcAdvancedIndicatorInstance.HasState.htm" />
+        <HelpTOCNode Title="Id Property " Url="html/P-Sharpshooter.SDK.Indicators.OhlcAdvancedIndicatorInstance.Id.htm" />
+        <HelpTOCNode Title="Label Property " Url="html/P-Sharpshooter.SDK.Indicators.OhlcAdvancedIndicatorInstance.Label.htm" />
+        <HelpTOCNode Title="Offset Property " Url="html/P-Sharpshooter.SDK.Indicators.OhlcAdvancedIndicatorInstance.Offset.htm" />
+        <HelpTOCNode Title="Update Property " Url="html/P-Sharpshooter.SDK.Indicators.OhlcAdvancedIndicatorInstance.Update.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="396cc83b-15fc-4175-89c0-a8be679d7fde" Title="OhlcIndicatorInstance Class" Url="html/T-Sharpshooter.SDK.Indicators.OhlcIndicatorInstance.htm">
+      <HelpTOCNode Title="OhlcIndicatorInstance Members" Url="html/AllMembers.T-Sharpshooter.SDK.Indicators.OhlcIndicatorInstance.htm" />
+      <HelpTOCNode Title="OhlcIndicatorInstance Constructor " Url="html/M-Sharpshooter.SDK.Indicators.OhlcIndicatorInstance.-ctor.htm" />
+      <HelpTOCNode Id="8a0e8e28-b2bf-4b39-ae77-3ac4ec00c774" Title="OhlcIndicatorInstance Methods" Url="html/Methods.T-Sharpshooter.SDK.Indicators.OhlcIndicatorInstance.htm">
+        <HelpTOCNode Id="bd866728-f091-47f1-b9c5-de4bc5272f80" Title="Equals Method " Url="html/Overload-Sharpshooter.SDK.Indicators.OhlcIndicatorInstance.Equals.htm">
+          <HelpTOCNode Title="Equals Method " Url="html/M-Sharpshooter.SDK.Indicators.OhlcIndicatorInstance.Equals.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="GetValue Method " Url="html/M-Sharpshooter.SDK.Indicators.OhlcIndicatorInstance.GetValue.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="d1f76b3d-2ed0-43d4-9c62-4c23eb6fed84" Title="OhlcIndicatorInstance Properties" Url="html/Properties.T-Sharpshooter.SDK.Indicators.OhlcIndicatorInstance.htm">
+        <HelpTOCNode Title="Gain Property " Url="html/P-Sharpshooter.SDK.Indicators.OhlcIndicatorInstance.Gain.htm" />
+        <HelpTOCNode Title="HasState Property " Url="html/P-Sharpshooter.SDK.Indicators.OhlcIndicatorInstance.HasState.htm" />
+        <HelpTOCNode Title="Id Property " Url="html/P-Sharpshooter.SDK.Indicators.OhlcIndicatorInstance.Id.htm" />
+        <HelpTOCNode Title="Label Property " Url="html/P-Sharpshooter.SDK.Indicators.OhlcIndicatorInstance.Label.htm" />
+        <HelpTOCNode Title="Map Property " Url="html/P-Sharpshooter.SDK.Indicators.OhlcIndicatorInstance.Map.htm" />
+        <HelpTOCNode Title="Offset Property " Url="html/P-Sharpshooter.SDK.Indicators.OhlcIndicatorInstance.Offset.htm" />
+        <HelpTOCNode Title="Update Property " Url="html/P-Sharpshooter.SDK.Indicators.OhlcIndicatorInstance.Update.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="ParameterType Enumeration" Url="html/T-Sharpshooter.SDK.Indicators.ParameterType.htm" />
+    <HelpTOCNode Id="5508a574-bc4c-49b6-8943-098f77a7be03" Title="TransformIndicator Class" Url="html/T-Sharpshooter.SDK.Indicators.TransformIndicator.htm">
+      <HelpTOCNode Title="TransformIndicator Members" Url="html/AllMembers.T-Sharpshooter.SDK.Indicators.TransformIndicator.htm" />
+      <HelpTOCNode Title="TransformIndicator Constructor " Url="html/M-Sharpshooter.SDK.Indicators.TransformIndicator.-ctor.htm" />
+      <HelpTOCNode Title="TransformIndicator Methods" Url="html/Methods.T-Sharpshooter.SDK.Indicators.TransformIndicator.htm" />
+      <HelpTOCNode Id="eb1b8eed-2ac6-4fca-8c9f-6d7cc2adc129" Title="TransformIndicator Properties" Url="html/Properties.T-Sharpshooter.SDK.Indicators.TransformIndicator.htm">
+        <HelpTOCNode Title="HasState Property " Url="html/P-Sharpshooter.SDK.Indicators.TransformIndicator.HasState.htm" />
+        <HelpTOCNode Title="Map Property " Url="html/P-Sharpshooter.SDK.Indicators.TransformIndicator.Map.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="67ffca56-a396-4485-9544-d3d034f66aaf" Title="ValueRangeAttribute Class" Url="html/T-Sharpshooter.SDK.Indicators.ValueRangeAttribute.htm">
+      <HelpTOCNode Title="ValueRangeAttribute Members" Url="html/AllMembers.T-Sharpshooter.SDK.Indicators.ValueRangeAttribute.htm" />
+      <HelpTOCNode Title="ValueRangeAttribute Constructor " Url="html/M-Sharpshooter.SDK.Indicators.ValueRangeAttribute.-ctor.htm" />
+      <HelpTOCNode Title="ValueRangeAttribute Methods" Url="html/Methods.T-Sharpshooter.SDK.Indicators.ValueRangeAttribute.htm" />
+      <HelpTOCNode Id="765e7ff7-d1a4-4e95-bcab-babe70a8d2ed" Title="ValueRangeAttribute Properties" Url="html/Properties.T-Sharpshooter.SDK.Indicators.ValueRangeAttribute.htm">
+        <HelpTOCNode Title="CustomMax Property " Url="html/P-Sharpshooter.SDK.Indicators.ValueRangeAttribute.CustomMax.htm" />
+        <HelpTOCNode Title="CustomMin Property " Url="html/P-Sharpshooter.SDK.Indicators.ValueRangeAttribute.CustomMin.htm" />
+        <HelpTOCNode Title="Type Property " Url="html/P-Sharpshooter.SDK.Indicators.ValueRangeAttribute.Type.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="ValueRangeType Enumeration" Url="html/T-Sharpshooter.SDK.Indicators.ValueRangeType.htm" />
+  </HelpTOCNode>
+  <HelpTOCNode Id="89531678-5212-481e-ba31-0696de5c0ce9" Title="Sharpshooter.SDK.Indicators.RealTime Namespace" Url="html/N-Sharpshooter.SDK.Indicators.RealTime.htm">
+    <HelpTOCNode Id="d19689dc-1e24-4d03-972e-6bac2855533f" Title="AdvancedCloseIndicator Class" Url="html/T-Sharpshooter.SDK.Indicators.RealTime.AdvancedCloseIndicator.htm">
+      <HelpTOCNode Title="AdvancedCloseIndicator Members" Url="html/AllMembers.T-Sharpshooter.SDK.Indicators.RealTime.AdvancedCloseIndicator.htm" />
+      <HelpTOCNode Id="c5853726-b4ea-480f-a917-c96a71ee41eb" Title="AdvancedCloseIndicator Methods" Url="html/Methods.T-Sharpshooter.SDK.Indicators.RealTime.AdvancedCloseIndicator.htm">
+        <HelpTOCNode Id="65c35869-e414-4982-bab6-8f37b6ffba19" Title="GetValue Method " Url="html/Overload-Sharpshooter.SDK.Indicators.RealTime.AdvancedCloseIndicator.GetValue.htm">
+          <HelpTOCNode Title="GetValue Method " Url="html/M-Sharpshooter.SDK.Indicators.RealTime.AdvancedCloseIndicator.GetValue.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="ea5bdd7e-f1b6-4c2a-b438-16cff2057701" Title="Initialize Method " Url="html/Overload-Sharpshooter.SDK.Indicators.RealTime.AdvancedCloseIndicator.Initialize.htm">
+          <HelpTOCNode Title="Initialize Method " Url="html/M-Sharpshooter.SDK.Indicators.RealTime.AdvancedCloseIndicator.Initialize.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Title="AdvancedCloseIndicator Properties" Url="html/Properties.T-Sharpshooter.SDK.Indicators.RealTime.AdvancedCloseIndicator.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="3e458627-de00-4892-a945-062a1f06900f" Title="AdvancedIndicator(TValue, TSeries) Class" Url="html/T-Sharpshooter.SDK.Indicators.RealTime.AdvancedIndicator-2.htm">
+      <HelpTOCNode Title="AdvancedIndicator(TValue, TSeries) Members" Url="html/AllMembers.T-Sharpshooter.SDK.Indicators.RealTime.AdvancedIndicator-2.htm" />
+      <HelpTOCNode Id="4a9a931e-bec1-49a1-8fe0-c7d33ff5a714" Title="AdvancedIndicator(TValue, TSeries) Methods" Url="html/Methods.T-Sharpshooter.SDK.Indicators.RealTime.AdvancedIndicator-2.htm">
+        <HelpTOCNode Title="Calculate Method " Url="html/M-Sharpshooter.SDK.Indicators.RealTime.AdvancedIndicator-2.Calculate.htm" />
+        <HelpTOCNode Title="GetValue Method " Url="html/M-Sharpshooter.SDK.Indicators.RealTime.AdvancedIndicator-2.GetValue.htm" />
+        <HelpTOCNode Title="Initialize Method " Url="html/M-Sharpshooter.SDK.Indicators.RealTime.AdvancedIndicator-2.Initialize.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="52c6ef50-1cbf-4663-8a68-f9cb84f1c35e" Title="AdvancedIndicator(TValue, TSeries) Properties" Url="html/Properties.T-Sharpshooter.SDK.Indicators.RealTime.AdvancedIndicator-2.htm">
+        <HelpTOCNode Title="EnableImplicitInitialize Property " Url="html/P-Sharpshooter.SDK.Indicators.RealTime.AdvancedIndicator-2.EnableImplicitInitialize.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="233d79ab-b121-4980-acab-8d089f3965f3" Title="AdvancedIndicatorBase(TValue, TSeries) Class" Url="html/T-Sharpshooter.SDK.Indicators.RealTime.AdvancedIndicatorBase-2.htm">
+      <HelpTOCNode Title="AdvancedIndicatorBase(TValue, TSeries) Members" Url="html/AllMembers.T-Sharpshooter.SDK.Indicators.RealTime.AdvancedIndicatorBase-2.htm" />
+      <HelpTOCNode Id="36a38b5d-3a0a-4ff2-8ddd-ddde8a607557" Title="AdvancedIndicatorBase(TValue, TSeries) Methods" Url="html/Methods.T-Sharpshooter.SDK.Indicators.RealTime.AdvancedIndicatorBase-2.htm">
+        <HelpTOCNode Title="ForwardByBar Method " Url="html/M-Sharpshooter.SDK.Indicators.RealTime.AdvancedIndicatorBase-2.ForwardByBar.htm" />
+        <HelpTOCNode Title="InitializeWith Method " Url="html/M-Sharpshooter.SDK.Indicators.RealTime.AdvancedIndicatorBase-2.InitializeWith.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="317d8944-8616-4856-a7a1-03340ddeb6d6" Title="AdvancedIndicatorBase(TValue, TSeries) Properties" Url="html/Properties.T-Sharpshooter.SDK.Indicators.RealTime.AdvancedIndicatorBase-2.htm">
+        <HelpTOCNode Title="Bars Property " Url="html/P-Sharpshooter.SDK.Indicators.RealTime.AdvancedIndicatorBase-2.Bars.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="8dcace4a-271b-4f8c-9b87-fdeee1b2268d" Title="AdvancedOhlcIndicator Class" Url="html/T-Sharpshooter.SDK.Indicators.RealTime.AdvancedOhlcIndicator.htm">
+      <HelpTOCNode Title="AdvancedOhlcIndicator Methods" Url="html/Methods.T-Sharpshooter.SDK.Indicators.RealTime.AdvancedOhlcIndicator.htm" />
+      <HelpTOCNode Title="AdvancedOhlcIndicator Properties" Url="html/Properties.T-Sharpshooter.SDK.Indicators.RealTime.AdvancedOhlcIndicator.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="6f0b1c03-cc84-4cd8-9d84-39803bef5cb9" Title="BollingerZScore Class" Url="html/T-Sharpshooter.SDK.Indicators.RealTime.BollingerZScore.htm">
+      <HelpTOCNode Title="BollingerZScore Members" Url="html/AllMembers.T-Sharpshooter.SDK.Indicators.RealTime.BollingerZScore.htm" />
+      <HelpTOCNode Title="BollingerZScore Constructor " Url="html/M-Sharpshooter.SDK.Indicators.RealTime.BollingerZScore.-ctor.htm" />
+      <HelpTOCNode Id="a6f97be6-57e5-434e-9045-13bf71bd20a6" Title="BollingerZScore Methods" Url="html/Methods.T-Sharpshooter.SDK.Indicators.RealTime.BollingerZScore.htm">
+        <HelpTOCNode Title="Calculate Method " Url="html/M-Sharpshooter.SDK.Indicators.RealTime.BollingerZScore.Calculate.htm" />
+        <HelpTOCNode Id="7df3c869-76a9-4706-a8ed-78de14561c06" Title="ForwardByBar Method " Url="html/Overload-Sharpshooter.SDK.Indicators.RealTime.BollingerZScore.ForwardByBar.htm">
+          <HelpTOCNode Title="ForwardByBar Method " Url="html/M-Sharpshooter.SDK.Indicators.RealTime.BollingerZScore.ForwardByBar.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="bd611074-8b54-4e57-8dca-69c7d9039da3" Title="InitializeWith Method " Url="html/Overload-Sharpshooter.SDK.Indicators.RealTime.BollingerZScore.InitializeWith.htm">
+          <HelpTOCNode Title="InitializeWith Method " Url="html/M-Sharpshooter.SDK.Indicators.RealTime.BollingerZScore.InitializeWith.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Title="BollingerZScore Properties" Url="html/Properties.T-Sharpshooter.SDK.Indicators.RealTime.BollingerZScore.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="92be0ec0-1617-48e9-ae44-f0f95180cfc3" Title="CachedEMA Class" Url="html/T-Sharpshooter.SDK.Indicators.RealTime.CachedEMA.htm">
+      <HelpTOCNode Title="CachedEMA Members" Url="html/AllMembers.T-Sharpshooter.SDK.Indicators.RealTime.CachedEMA.htm" />
+      <HelpTOCNode Id="6947c90e-3442-4fc6-a439-925b559cbc41" Title="CachedEMA Constructor " Url="html/Overload-Sharpshooter.SDK.Indicators.RealTime.CachedEMA.-ctor.htm">
+        <HelpTOCNode Title="CachedEMA Constructor (Int32)" Url="html/M-Sharpshooter.SDK.Indicators.RealTime.CachedEMA.-ctor.htm" />
+        <HelpTOCNode Title="CachedEMA Constructor (Int32, Double)" Url="html/M-Sharpshooter.SDK.Indicators.RealTime.CachedEMA.-ctor_1.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="291a889e-5db8-4270-b28f-d65f3bc287a1" Title="CachedEMA Methods" Url="html/Methods.T-Sharpshooter.SDK.Indicators.RealTime.CachedEMA.htm">
+        <HelpTOCNode Title="Calculate Method (ValueSeries)" Url="html/M-Sharpshooter.SDK.Indicators.RealTime.CachedEMA.Calculate.htm" />
+        <HelpTOCNode Id="ba65a195-f8ae-49fd-a8e2-07cc419a3c4f" Title="ForwardByBar Method " Url="html/Overload-Sharpshooter.SDK.Indicators.RealTime.CachedEMA.ForwardByBar.htm">
+          <HelpTOCNode Title="ForwardByBar Method " Url="html/M-Sharpshooter.SDK.Indicators.RealTime.CachedEMA.ForwardByBar.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="a680e39e-681f-4165-951a-70ea990da801" Title="InitializeWith Method " Url="html/Overload-Sharpshooter.SDK.Indicators.RealTime.CachedEMA.InitializeWith.htm">
+          <HelpTOCNode Title="InitializeWith Method " Url="html/M-Sharpshooter.SDK.Indicators.RealTime.CachedEMA.InitializeWith.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="93f6341a-4c1e-4c99-b34d-c0c5b91d2477" Title="CachedEMA Properties" Url="html/Properties.T-Sharpshooter.SDK.Indicators.RealTime.CachedEMA.htm">
+        <HelpTOCNode Title="Alpha Property " Url="html/P-Sharpshooter.SDK.Indicators.RealTime.CachedEMA.Alpha.htm" />
+        <HelpTOCNode Title="CalculatedValues Property " Url="html/P-Sharpshooter.SDK.Indicators.RealTime.CachedEMA.CalculatedValues.htm" />
+        <HelpTOCNode Title="Item Property " Url="html/P-Sharpshooter.SDK.Indicators.RealTime.CachedEMA.Item-System.Int32-.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="b13b2d84-e8d9-4f8a-aeb7-ba3ea1841d58" Title="SharpshooterLib.Indicators.RealTime Namespace" Url="html/N-SharpshooterLib.Indicators.RealTime.htm">
+    <HelpTOCNode Id="a83b7eab-4911-455d-919d-e76e6a6a88a7" Title="IndicatorHelper Class" Url="html/T-SharpshooterLib.Indicators.RealTime.IndicatorHelper.htm">
+      <HelpTOCNode Title="IndicatorHelper Members" Url="html/AllMembers.T-SharpshooterLib.Indicators.RealTime.IndicatorHelper.htm" />
+      <HelpTOCNode Id="112c49e8-7531-4ed9-be5d-de1307954e67" Title="IndicatorHelper Constructor " Url="html/Overload-SharpshooterLib.Indicators.RealTime.IndicatorHelper.-ctor.htm">
+        <HelpTOCNode Title="IndicatorHelper Constructor " Url="html/M-SharpshooterLib.Indicators.RealTime.IndicatorHelper.-ctor.htm" />
+        <HelpTOCNode Title="IndicatorHelper Constructor (Int32)" Url="html/M-SharpshooterLib.Indicators.RealTime.IndicatorHelper.-ctor_1.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="6d2ef43c-10a2-4bd1-b91d-aa2f512c714c" Title="IndicatorHelper Methods" Url="html/Methods.T-SharpshooterLib.Indicators.RealTime.IndicatorHelper.htm">
+        <HelpTOCNode Title="AddInputValue Method " Url="html/M-SharpshooterLib.Indicators.RealTime.IndicatorHelper.AddInputValue.htm" />
+        <HelpTOCNode Title="Calculate Method " Url="html/M-SharpshooterLib.Indicators.RealTime.IndicatorHelper.Calculate.htm" />
+        <HelpTOCNode Title="GetValue Method " Url="html/M-SharpshooterLib.Indicators.RealTime.IndicatorHelper.GetValue.htm" />
+        <HelpTOCNode Title="Initialize Method " Url="html/M-SharpshooterLib.Indicators.RealTime.IndicatorHelper.Initialize.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="f6c32653-8f63-4834-b05d-9eb5082e0a2d" Title="IndicatorHelper Properties" Url="html/Properties.T-SharpshooterLib.Indicators.RealTime.IndicatorHelper.htm">
+        <HelpTOCNode Title="CanCalculate Property " Url="html/P-SharpshooterLib.Indicators.RealTime.IndicatorHelper.CanCalculate.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="c2c6999f-fb9b-451b-a798-a2d72cd23601" Title="SharpTrader Namespace" Url="html/N-SharpTrader.htm">
+    <HelpTOCNode Id="621aa0d9-9895-4550-918e-bca8ef98d40a" Title="ApiValueAttribute Class" Url="html/T-SharpTrader.ApiValueAttribute.htm">
+      <HelpTOCNode Title="ApiValueAttribute Members" Url="html/AllMembers.T-SharpTrader.ApiValueAttribute.htm" />
+      <HelpTOCNode Title="ApiValueAttribute Constructor " Url="html/M-SharpTrader.ApiValueAttribute.-ctor.htm" />
+      <HelpTOCNode Title="ApiValueAttribute Methods" Url="html/Methods.T-SharpTrader.ApiValueAttribute.htm" />
+      <HelpTOCNode Id="e9c5209b-1a13-422d-98aa-0386f313a269" Title="ApiValueAttribute Properties" Url="html/Properties.T-SharpTrader.ApiValueAttribute.htm">
+        <HelpTOCNode Title="Brokerage Property " Url="html/P-SharpTrader.ApiValueAttribute.Brokerage.htm" />
+        <HelpTOCNode Title="Value Property " Url="html/P-SharpTrader.ApiValueAttribute.Value.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="BarWidths Enumeration" Url="html/T-SharpTrader.BarWidths.htm" />
+    <HelpTOCNode Id="2034e90d-439b-4e03-90df-ce94eb43fd79" Title="BrokerageClientAttribute Class" Url="html/T-SharpTrader.BrokerageClientAttribute.htm">
+      <HelpTOCNode Title="BrokerageClientAttribute Members" Url="html/AllMembers.T-SharpTrader.BrokerageClientAttribute.htm" />
+      <HelpTOCNode Title="BrokerageClientAttribute Constructor " Url="html/M-SharpTrader.BrokerageClientAttribute.-ctor.htm" />
+      <HelpTOCNode Title="BrokerageClientAttribute Methods" Url="html/Methods.T-SharpTrader.BrokerageClientAttribute.htm" />
+      <HelpTOCNode Id="d2809e64-2182-4512-b0f1-3cd6446fe251" Title="BrokerageClientAttribute Properties" Url="html/Properties.T-SharpTrader.BrokerageClientAttribute.htm">
+        <HelpTOCNode Title="BrokerageId Property " Url="html/P-SharpTrader.BrokerageClientAttribute.BrokerageId.htm" />
+        <HelpTOCNode Title="ContractManagerType Property " Url="html/P-SharpTrader.BrokerageClientAttribute.ContractManagerType.htm" />
+        <HelpTOCNode Title="InstrumentType Property " Url="html/P-SharpTrader.BrokerageClientAttribute.InstrumentType.htm" />
+        <HelpTOCNode Title="SubmissionType Property " Url="html/P-SharpTrader.BrokerageClientAttribute.SubmissionType.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="DataLatency Enumeration" Url="html/T-SharpTrader.DataLatency.htm" />
+    <HelpTOCNode Id="8c74ef66-7935-4655-8350-e8e1775c763a" Title="EnumHelper Class" Url="html/T-SharpTrader.EnumHelper.htm">
+      <HelpTOCNode Title="EnumHelper Members" Url="html/AllMembers.T-SharpTrader.EnumHelper.htm" />
+      <HelpTOCNode Id="1ee94cc6-1b8e-41f7-9fd6-e3b6940e06be" Title="EnumHelper Methods" Url="html/Methods.T-SharpTrader.EnumHelper.htm">
+        <HelpTOCNode Title="GetApiValue(TEnum) Method " Url="html/M-SharpTrader.EnumHelper.GetApiValue--1.htm" />
+        <HelpTOCNode Title="GetApiValueAttribute(TEnum) Method " Url="html/M-SharpTrader.EnumHelper.GetApiValueAttribute--1.htm" />
+        <HelpTOCNode Title="GetIBkrValue(TEnum) Method " Url="html/M-SharpTrader.EnumHelper.GetIBkrValue--1.htm" />
+        <HelpTOCNode Title="ToBarWidth Method " Url="html/M-SharpTrader.EnumHelper.ToBarWidth.htm" />
+        <HelpTOCNode Title="ToMic Method " Url="html/M-SharpTrader.EnumHelper.ToMic.htm" />
+        <HelpTOCNode Title="ToTimeSpan Method " Url="html/M-SharpTrader.EnumHelper.ToTimeSpan.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="Exchange Enumeration" Url="html/T-SharpTrader.Exchange.htm" />
+    <HelpTOCNode Id="2225cab1-3b85-4525-bc21-b367ed78aaf0" Title="FutureTicker Structure" Url="html/T-SharpTrader.FutureTicker.htm">
+      <HelpTOCNode Title="FutureTicker Members" Url="html/AllMembers.T-SharpTrader.FutureTicker.htm" />
+      <HelpTOCNode Title="FutureTicker Constructor " Url="html/M-SharpTrader.FutureTicker.-ctor.htm" />
+      <HelpTOCNode Id="15fe21af-2b0f-40ae-990b-00bea658f4ba" Title="FutureTicker Methods" Url="html/Methods.T-SharpTrader.FutureTicker.htm">
+        <HelpTOCNode Id="ef8b3860-2801-4fc3-ada5-73d0bfd209ed" Title="Equals Method " Url="html/Overload-SharpTrader.FutureTicker.Equals.htm">
+          <HelpTOCNode Title="Equals Method (FutureTicker)" Url="html/M-SharpTrader.FutureTicker.Equals.htm" />
+          <HelpTOCNode Title="Equals Method (Object)" Url="html/M-SharpTrader.FutureTicker.Equals_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="GetHashCode Method " Url="html/M-SharpTrader.FutureTicker.GetHashCode.htm" />
+        <HelpTOCNode Title="ToString Method " Url="html/M-SharpTrader.FutureTicker.ToString.htm" />
+        <HelpTOCNode Title="TryParse Method " Url="html/M-SharpTrader.FutureTicker.TryParse.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="43bb6653-dbe3-42ae-801d-948d8ab6534d" Title="FutureTicker Operators" Url="html/Operators.T-SharpTrader.FutureTicker.htm">
+        <HelpTOCNode Title="Equality Operator " Url="html/M-SharpTrader.FutureTicker.op_Equality.htm" />
+        <HelpTOCNode Title="Inequality Operator " Url="html/M-SharpTrader.FutureTicker.op_Inequality.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="569ec173-c8d7-4baa-818b-fe9d901eabc9" Title="FutureTicker Properties" Url="html/Properties.T-SharpTrader.FutureTicker.htm">
+        <HelpTOCNode Title="BrokerSymbol Property " Url="html/P-SharpTrader.FutureTicker.BrokerSymbol.htm" />
+        <HelpTOCNode Title="CommonSymbol Property " Url="html/P-SharpTrader.FutureTicker.CommonSymbol.htm" />
+        <HelpTOCNode Title="Continuous Property " Url="html/P-SharpTrader.FutureTicker.Continuous.htm" />
+        <HelpTOCNode Title="Currency Property " Url="html/P-SharpTrader.FutureTicker.Currency.htm" />
+        <HelpTOCNode Title="Exchange Property " Url="html/P-SharpTrader.FutureTicker.Exchange.htm" />
+        <HelpTOCNode Title="Multiplier Property " Url="html/P-SharpTrader.FutureTicker.Multiplier.htm" />
+        <HelpTOCNode Title="PriceTick Property " Url="html/P-SharpTrader.FutureTicker.PriceTick.htm" />
+        <HelpTOCNode Title="Type Property " Url="html/P-SharpTrader.FutureTicker.Type.htm" />
+        <HelpTOCNode Title="Underlying Property " Url="html/P-SharpTrader.FutureTicker.Underlying.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="4b209dd8-be04-455b-817c-3137c8b462dd" Title="FxTicker Structure" Url="html/T-SharpTrader.FxTicker.htm">
+      <HelpTOCNode Title="FxTicker Members" Url="html/AllMembers.T-SharpTrader.FxTicker.htm" />
+      <HelpTOCNode Id="bcd3a643-d53b-48ec-83b8-3c1821e565ed" Title="FxTicker Constructor " Url="html/Overload-SharpTrader.FxTicker.-ctor.htm">
+        <HelpTOCNode Title="FxTicker Constructor (FxPair, Decimal)" Url="html/M-SharpTrader.FxTicker.-ctor.htm" />
+        <HelpTOCNode Title="FxTicker Constructor (Currency, Currency, Decimal)" Url="html/M-SharpTrader.FxTicker.-ctor_1.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="676ff310-cb98-427e-bd46-c256f1cd651a" Title="FxTicker Methods" Url="html/Methods.T-SharpTrader.FxTicker.htm">
+        <HelpTOCNode Id="321ca660-3205-4ca9-a766-76b881220d02" Title="Equals Method " Url="html/Overload-SharpTrader.FxTicker.Equals.htm">
+          <HelpTOCNode Title="Equals Method (FxTicker)" Url="html/M-SharpTrader.FxTicker.Equals.htm" />
+          <HelpTOCNode Title="Equals Method (Object)" Url="html/M-SharpTrader.FxTicker.Equals_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="GetHashCode Method " Url="html/M-SharpTrader.FxTicker.GetHashCode.htm" />
+        <HelpTOCNode Title="Parse Method " Url="html/M-SharpTrader.FxTicker.Parse.htm" />
+        <HelpTOCNode Title="Reverse Method " Url="html/M-SharpTrader.FxTicker.Reverse.htm" />
+        <HelpTOCNode Title="ToString Method " Url="html/M-SharpTrader.FxTicker.ToString.htm" />
+        <HelpTOCNode Title="TryParse Method " Url="html/M-SharpTrader.FxTicker.TryParse.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="c1fde63f-dff1-4868-934e-d977f3d183fa" Title="FxTicker Operators" Url="html/Operators.T-SharpTrader.FxTicker.htm">
+        <HelpTOCNode Title="Equality Operator " Url="html/M-SharpTrader.FxTicker.op_Equality.htm" />
+        <HelpTOCNode Title="Inequality Operator " Url="html/M-SharpTrader.FxTicker.op_Inequality.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="271f07e9-a269-4137-89c8-e87d266320bc" Title="FxTicker Properties" Url="html/Properties.T-SharpTrader.FxTicker.htm">
+        <HelpTOCNode Title="BrokerSymbol Property " Url="html/P-SharpTrader.FxTicker.BrokerSymbol.htm" />
+        <HelpTOCNode Title="CommonSymbol Property " Url="html/P-SharpTrader.FxTicker.CommonSymbol.htm" />
+        <HelpTOCNode Title="Continuous Property " Url="html/P-SharpTrader.FxTicker.Continuous.htm" />
+        <HelpTOCNode Title="Currency Property " Url="html/P-SharpTrader.FxTicker.Currency.htm" />
+        <HelpTOCNode Title="Exchange Property " Url="html/P-SharpTrader.FxTicker.Exchange.htm" />
+        <HelpTOCNode Title="Pair Property " Url="html/P-SharpTrader.FxTicker.Pair.htm" />
+        <HelpTOCNode Title="PriceTick Property " Url="html/P-SharpTrader.FxTicker.PriceTick.htm" />
+        <HelpTOCNode Title="Type Property " Url="html/P-SharpTrader.FxTicker.Type.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="3e36df95-abed-41dd-84d4-9ec21a07963d" Title="IBkrValueAttribute Class" Url="html/T-SharpTrader.IBkrValueAttribute.htm">
+      <HelpTOCNode Title="IBkrValueAttribute Members" Url="html/AllMembers.T-SharpTrader.IBkrValueAttribute.htm" />
+      <HelpTOCNode Title="IBkrValueAttribute Constructor " Url="html/M-SharpTrader.IBkrValueAttribute.-ctor.htm" />
+      <HelpTOCNode Title="IBkrValueAttribute Methods" Url="html/Methods.T-SharpTrader.IBkrValueAttribute.htm" />
+      <HelpTOCNode Id="b49252d9-a804-41c3-835f-b555df771adf" Title="IBkrValueAttribute Properties" Url="html/Properties.T-SharpTrader.IBkrValueAttribute.htm">
+        <HelpTOCNode Title="IBkr Property " Url="html/P-SharpTrader.IBkrValueAttribute.IBkr.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="1dec6bba-75d3-4a3d-a367-f8eff2aef541" Title="IIndicatorCache Interface" Url="html/T-SharpTrader.IIndicatorCache.htm">
+      <HelpTOCNode Title="IIndicatorCache Members" Url="html/AllMembers.T-SharpTrader.IIndicatorCache.htm" />
+      <HelpTOCNode Id="20598e67-8cdd-472d-97b2-f01edc980f10" Title="IIndicatorCache Methods" Url="html/Methods.T-SharpTrader.IIndicatorCache.htm">
+        <HelpTOCNode Id="6fd429ef-107f-4818-9e42-3df41ebeddb4" Title="Get Method " Url="html/Overload-SharpTrader.IIndicatorCache.Get.htm">
+          <HelpTOCNode Title="Get Method (IndicatorId)" Url="html/M-SharpTrader.IIndicatorCache.Get.htm" />
+          <HelpTOCNode Title="Get Method (String)" Url="html/M-SharpTrader.IIndicatorCache.Get_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="GetMinBars Method " Url="html/M-SharpTrader.IIndicatorCache.GetMinBars.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="09089e1b-5f88-45a9-af59-60896a7c3ac3" Title="IIndicatorCache Properties" Url="html/Properties.T-SharpTrader.IIndicatorCache.htm">
+        <HelpTOCNode Title="IndicatorNames Property " Url="html/P-SharpTrader.IIndicatorCache.IndicatorNames.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="daed1de2-19a3-4df6-b864-a4a96e280fd1" Title="IIndicatorFactory Interface" Url="html/T-SharpTrader.IIndicatorFactory.htm">
+      <HelpTOCNode Title="IIndicatorFactory Members" Url="html/AllMembers.T-SharpTrader.IIndicatorFactory.htm" />
+      <HelpTOCNode Id="b8953c66-a6d7-4b93-b3cd-c4708852154f" Title="IIndicatorFactory Methods" Url="html/Methods.T-SharpTrader.IIndicatorFactory.htm">
+        <HelpTOCNode Title="Include Method " Url="html/M-SharpTrader.IIndicatorFactory.Include.htm" />
+        <HelpTOCNode Title="NewCollection Method " Url="html/M-SharpTrader.IIndicatorFactory.NewCollection.htm" />
+        <HelpTOCNode Id="d80c450e-71f3-422e-9c34-04cde2ba6f37" Title="NewInstance Method " Url="html/Overload-SharpTrader.IIndicatorFactory.NewInstance.htm">
+          <HelpTOCNode Title="NewInstance Method (String, Int32, String, BarWidths, IndicatorFlags)" Url="html/M-SharpTrader.IIndicatorFactory.NewInstance.htm" />
+          <HelpTOCNode Title="NewInstance Method (String, Int32, IInstrument, IndicatorFlags)" Url="html/M-SharpTrader.IIndicatorFactory.NewInstance_1.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="e52169cd-dccc-4c52-9528-9e0f94fbba4f" Title="IIndicatorFactory Properties" Url="html/Properties.T-SharpTrader.IIndicatorFactory.htm">
+        <HelpTOCNode Title="AllIndicators Property " Url="html/P-SharpTrader.IIndicatorFactory.AllIndicators.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="96fd343f-9c43-4fa6-8a12-bc4686bc0cca" Title="IInstrument Interface" Url="html/T-SharpTrader.IInstrument.htm">
+      <HelpTOCNode Title="IInstrument Members" Url="html/AllMembers.T-SharpTrader.IInstrument.htm" />
+      <HelpTOCNode Title="IInstrument Methods" Url="html/Methods.T-SharpTrader.IInstrument.htm" />
+      <HelpTOCNode Id="15590240-83a2-49e0-93b8-dd57e3b5011d" Title="IInstrument Properties" Url="html/Properties.T-SharpTrader.IInstrument.htm">
+        <HelpTOCNode Title="BarWidth Property " Url="html/P-SharpTrader.IInstrument.BarWidth.htm" />
+        <HelpTOCNode Title="BaseTicker Property " Url="html/P-SharpTrader.IInstrument.BaseTicker.htm" />
+        <HelpTOCNode Title="IsProxied Property " Url="html/P-SharpTrader.IInstrument.IsProxied.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="ea1ff4a3-f418-443e-8275-f89fa861bf38" Title="IInstrumentResolver Interface" Url="html/T-SharpTrader.IInstrumentResolver.htm">
+      <HelpTOCNode Title="IInstrumentResolver Members" Url="html/AllMembers.T-SharpTrader.IInstrumentResolver.htm" />
+      <HelpTOCNode Id="d7c9f390-8db6-4cdc-8f45-e64506e2552c" Title="IInstrumentResolver Methods" Url="html/Methods.T-SharpTrader.IInstrumentResolver.htm">
+        <HelpTOCNode Title="Resolve Method " Url="html/M-SharpTrader.IInstrumentResolver.Resolve.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="Indicators Enumeration" Url="html/T-SharpTrader.Indicators.htm" />
+    <HelpTOCNode Id="5dbad329-10db-4739-a768-218dc04256f9" Title="InstrumentComparer Class" Url="html/T-SharpTrader.InstrumentComparer.htm">
+      <HelpTOCNode Title="InstrumentComparer Members" Url="html/AllMembers.T-SharpTrader.InstrumentComparer.htm" />
+      <HelpTOCNode Id="260338fc-6e72-4826-bce9-c92452cdf027" Title="InstrumentComparer Methods" Url="html/Methods.T-SharpTrader.InstrumentComparer.htm">
+        <HelpTOCNode Id="9f3f5ff7-585b-40f1-b1b2-73b293dbb1cf" Title="Equals Method " Url="html/Overload-SharpTrader.InstrumentComparer.Equals.htm">
+          <HelpTOCNode Title="Equals Method " Url="html/M-SharpTrader.InstrumentComparer.Equals.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="89c2094b-cbb7-451e-ad0d-fed56b756ce5" Title="GetHashCode Method " Url="html/Overload-SharpTrader.InstrumentComparer.GetHashCode.htm">
+          <HelpTOCNode Title="GetHashCode Method " Url="html/M-SharpTrader.InstrumentComparer.GetHashCode.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="9dca1d1f-4479-4475-bc18-9a7431f22b69" Title="IRealTimeStrategy Interface" Url="html/T-SharpTrader.IRealTimeStrategy.htm">
+      <HelpTOCNode Title="IRealTimeStrategy Members" Url="html/AllMembers.T-SharpTrader.IRealTimeStrategy.htm" />
+      <HelpTOCNode Title="IRealTimeStrategy Methods" Url="html/Methods.T-SharpTrader.IRealTimeStrategy.htm" />
+      <HelpTOCNode Id="f0a178f3-319f-4533-952d-7a3202e2890b" Title="IRealTimeStrategy Properties" Url="html/Properties.T-SharpTrader.IRealTimeStrategy.htm">
+        <HelpTOCNode Title="Active Property " Url="html/P-SharpTrader.IRealTimeStrategy.Active.htm" />
+        <HelpTOCNode Title="Label Property " Url="html/P-SharpTrader.IRealTimeStrategy.Label.htm" />
+        <HelpTOCNode Title="LongThreshold Property " Url="html/P-SharpTrader.IRealTimeStrategy.LongThreshold.htm" />
+        <HelpTOCNode Title="ShortThreshold Property " Url="html/P-SharpTrader.IRealTimeStrategy.ShortThreshold.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="e91521aa-8a9c-419f-a708-5ff8f2390345" Title="IRealTimeStrategy Events" Url="html/Events.T-SharpTrader.IRealTimeStrategy.htm">
+        <HelpTOCNode Title="SignalUpdated Event" Url="html/E-SharpTrader.IRealTimeStrategy.SignalUpdated.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="60a053d9-1ce3-4888-940f-1cacdb826c88" Title="IRTIndicatorCollection Interface" Url="html/T-SharpTrader.IRTIndicatorCollection.htm">
+      <HelpTOCNode Title="IRTIndicatorCollection Members" Url="html/AllMembers.T-SharpTrader.IRTIndicatorCollection.htm" />
+      <HelpTOCNode Id="439b1645-8e04-4ef5-b341-493d7ac606b2" Title="IRTIndicatorCollection Methods" Url="html/Methods.T-SharpTrader.IRTIndicatorCollection.htm">
+        <HelpTOCNode Id="05c7b236-65e1-4362-8d25-a9ca7b875de1" Title="CreateSubCollection Method " Url="html/Overload-SharpTrader.IRTIndicatorCollection.CreateSubCollection.htm">
+          <HelpTOCNode Title="CreateSubCollection Method (BarWidths, Int32[])" Url="html/M-SharpTrader.IRTIndicatorCollection.CreateSubCollection.htm" />
+          <HelpTOCNode Title="CreateSubCollection Method (BarWidths, IRTIndicatorInstance[])" Url="html/M-SharpTrader.IRTIndicatorCollection.CreateSubCollection_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="Initialize Method " Url="html/M-SharpTrader.IRTIndicatorCollection.Initialize.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="4d43bc54-69b6-472c-b8ec-8fd113e121f9" Title="IRTIndicatorCollection Properties" Url="html/Properties.T-SharpTrader.IRTIndicatorCollection.htm">
+        <HelpTOCNode Title="LatestValues Property " Url="html/P-SharpTrader.IRTIndicatorCollection.LatestValues.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="7cc23d20-80ab-43f4-9f36-6f5cbb5be1e8" Title="IRTIndicatorCollection Events" Url="html/Events.T-SharpTrader.IRTIndicatorCollection.htm">
+        <HelpTOCNode Title="IndicatorUpdateCompleted Event" Url="html/E-SharpTrader.IRTIndicatorCollection.IndicatorUpdateCompleted.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="1109a808-b196-4e73-8975-4500a33b4867" Title="ITicker Interface" Url="html/T-SharpTrader.ITicker.htm">
+      <HelpTOCNode Title="ITicker Members" Url="html/AllMembers.T-SharpTrader.ITicker.htm" />
+      <HelpTOCNode Title="ITicker Methods" Url="html/Methods.T-SharpTrader.ITicker.htm" />
+      <HelpTOCNode Id="6a3bba01-81a9-47e0-aa29-e3eb01622ec5" Title="ITicker Properties" Url="html/Properties.T-SharpTrader.ITicker.htm">
+        <HelpTOCNode Title="BrokerSymbol Property " Url="html/P-SharpTrader.ITicker.BrokerSymbol.htm" />
+        <HelpTOCNode Title="CommonSymbol Property " Url="html/P-SharpTrader.ITicker.CommonSymbol.htm" />
+        <HelpTOCNode Title="Continuous Property " Url="html/P-SharpTrader.ITicker.Continuous.htm" />
+        <HelpTOCNode Title="Currency Property " Url="html/P-SharpTrader.ITicker.Currency.htm" />
+        <HelpTOCNode Title="Exchange Property " Url="html/P-SharpTrader.ITicker.Exchange.htm" />
+        <HelpTOCNode Title="PriceTick Property " Url="html/P-SharpTrader.ITicker.PriceTick.htm" />
+        <HelpTOCNode Title="Type Property " Url="html/P-SharpTrader.ITicker.Type.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="0f1e3f18-e787-432f-9335-0f80ba11bbc6" Title="ManagerTypeAttribute Class" Url="html/T-SharpTrader.ManagerTypeAttribute.htm">
+      <HelpTOCNode Title="ManagerTypeAttribute Members" Url="html/AllMembers.T-SharpTrader.ManagerTypeAttribute.htm" />
+      <HelpTOCNode Title="ManagerTypeAttribute Constructor " Url="html/M-SharpTrader.ManagerTypeAttribute.-ctor.htm" />
+      <HelpTOCNode Title="ManagerTypeAttribute Methods" Url="html/Methods.T-SharpTrader.ManagerTypeAttribute.htm" />
+      <HelpTOCNode Id="20d8ef56-2223-4c6f-9bde-d71124d64128" Title="ManagerTypeAttribute Properties" Url="html/Properties.T-SharpTrader.ManagerTypeAttribute.htm">
+        <HelpTOCNode Title="Type Property " Url="html/P-SharpTrader.ManagerTypeAttribute.Type.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="ProxyType Enumeration" Url="html/T-SharpTrader.ProxyType.htm" />
+    <HelpTOCNode Title="SecurityType Enumeration" Url="html/T-SharpTrader.SecurityType.htm" />
+    <HelpTOCNode Id="81bc6a13-4d41-482b-b80e-e100047a430b" Title="SharpTraderModuleAttribute Class" Url="html/T-SharpTrader.SharpTraderModuleAttribute.htm">
+      <HelpTOCNode Title="SharpTraderModuleAttribute Members" Url="html/AllMembers.T-SharpTrader.SharpTraderModuleAttribute.htm" />
+      <HelpTOCNode Id="0c5244a9-7f8b-418d-8b82-042de5dca991" Title="SharpTraderModuleAttribute Fields" Url="html/Fields.T-SharpTrader.SharpTraderModuleAttribute.htm">
+        <HelpTOCNode Title="SdkVersion Field" Url="html/F-SharpTrader.SharpTraderModuleAttribute.SdkVersion.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="SharpTraderModuleAttribute Methods" Url="html/Methods.T-SharpTrader.SharpTraderModuleAttribute.htm" />
+      <HelpTOCNode Title="SharpTraderModuleAttribute Properties" Url="html/Properties.T-SharpTrader.SharpTraderModuleAttribute.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Title="Signal Enumeration" Url="html/T-SharpTrader.Signal.htm" />
+    <HelpTOCNode Title="SignalChangedHandler Delegate" Url="html/T-SharpTrader.SignalChangedHandler.htm" />
+    <HelpTOCNode Id="16672c4c-0e39-49ff-bb8a-28e65d5b59ff" Title="SignalEventArgs Class" Url="html/T-SharpTrader.SignalEventArgs.htm">
+      <HelpTOCNode Title="SignalEventArgs Members" Url="html/AllMembers.T-SharpTrader.SignalEventArgs.htm" />
+      <HelpTOCNode Title="SignalEventArgs Constructor (Signal, Signal, DateTimeOffset)" Url="html/M-SharpTrader.SignalEventArgs.-ctor.htm" />
+      <HelpTOCNode Title="SignalEventArgs Methods" Url="html/Methods.T-SharpTrader.SignalEventArgs.htm" />
+      <HelpTOCNode Id="f4b0edf4-a1c2-4a0b-9ebf-ec56ae8c3c21" Title="SignalEventArgs Properties" Url="html/Properties.T-SharpTrader.SignalEventArgs.htm">
+        <HelpTOCNode Title="CurrentSignal Property " Url="html/P-SharpTrader.SignalEventArgs.CurrentSignal.htm" />
+        <HelpTOCNode Title="PreviousSignal Property " Url="html/P-SharpTrader.SignalEventArgs.PreviousSignal.htm" />
+        <HelpTOCNode Title="Timestamp Property " Url="html/P-SharpTrader.SignalEventArgs.Timestamp.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="81994561-7d5e-4b40-ab90-0c449f4ee0c2" Title="TickerGroup Structure" Url="html/T-SharpTrader.TickerGroup.htm">
+      <HelpTOCNode Title="TickerGroup Members" Url="html/AllMembers.T-SharpTrader.TickerGroup.htm" />
+      <HelpTOCNode Title="TickerGroup Constructor " Url="html/M-SharpTrader.TickerGroup.-ctor.htm" />
+      <HelpTOCNode Id="25290f07-70c5-44e9-a147-0ab1385ec104" Title="TickerGroup Methods" Url="html/Methods.T-SharpTrader.TickerGroup.htm">
+        <HelpTOCNode Id="896e2c21-ca52-4b16-b2e2-e3faad80f0c7" Title="Equals Method " Url="html/Overload-SharpTrader.TickerGroup.Equals.htm">
+          <HelpTOCNode Title="Equals Method (FutureTicker)" Url="html/M-SharpTrader.TickerGroup.Equals.htm" />
+          <HelpTOCNode Title="Equals Method (FxTicker)" Url="html/M-SharpTrader.TickerGroup.Equals_1.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="3e55386a-56fd-4748-a00b-f6b8d0ac7896" Title="TickerGroup Properties" Url="html/Properties.T-SharpTrader.TickerGroup.htm">
+        <HelpTOCNode Title="CommonSymbol Property " Url="html/P-SharpTrader.TickerGroup.CommonSymbol.htm" />
+        <HelpTOCNode Title="Types Property " Url="html/P-SharpTrader.TickerGroup.Types.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="TickerSignalChangedHandler Delegate" Url="html/T-SharpTrader.TickerSignalChangedHandler.htm" />
+    <HelpTOCNode Id="e6e465f0-62ea-46ec-b54a-cd7700f31130" Title="TickerSignalEventArgs Class" Url="html/T-SharpTrader.TickerSignalEventArgs.htm">
+      <HelpTOCNode Title="TickerSignalEventArgs Members" Url="html/AllMembers.T-SharpTrader.TickerSignalEventArgs.htm" />
+      <HelpTOCNode Title="TickerSignalEventArgs Constructor " Url="html/M-SharpTrader.TickerSignalEventArgs.-ctor.htm" />
+      <HelpTOCNode Title="TickerSignalEventArgs Methods" Url="html/Methods.T-SharpTrader.TickerSignalEventArgs.htm" />
+      <HelpTOCNode Title="TickerSignalEventArgs Properties" Url="html/Properties.T-SharpTrader.TickerSignalEventArgs.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="8d6c21f9-6d3d-4406-ba7c-6c11bdefdcdb" Title="UpdateCompletedEventArgs Class" Url="html/T-SharpTrader.UpdateCompletedEventArgs.htm">
+      <HelpTOCNode Title="UpdateCompletedEventArgs Members" Url="html/AllMembers.T-SharpTrader.UpdateCompletedEventArgs.htm" />
+      <HelpTOCNode Title="UpdateCompletedEventArgs Constructor " Url="html/M-SharpTrader.UpdateCompletedEventArgs.-ctor.htm" />
+      <HelpTOCNode Title="UpdateCompletedEventArgs Methods" Url="html/Methods.T-SharpTrader.UpdateCompletedEventArgs.htm" />
+      <HelpTOCNode Id="20a4f0e6-b364-4bc5-b9ef-ebfb0d59adda" Title="UpdateCompletedEventArgs Properties" Url="html/Properties.T-SharpTrader.UpdateCompletedEventArgs.htm">
+        <HelpTOCNode Title="BarWidth Property " Url="html/P-SharpTrader.UpdateCompletedEventArgs.BarWidth.htm" />
+        <HelpTOCNode Title="Timestamp Property " Url="html/P-SharpTrader.UpdateCompletedEventArgs.Timestamp.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="5557f6b7-c85c-4f7d-ad07-9f5cc4bf03ad" Title="WatchdogTimer Class" Url="html/T-SharpTrader.WatchdogTimer.htm">
+      <HelpTOCNode Title="WatchdogTimer Members" Url="html/AllMembers.T-SharpTrader.WatchdogTimer.htm" />
+      <HelpTOCNode Title="WatchdogTimer Constructor " Url="html/M-SharpTrader.WatchdogTimer.-ctor.htm" />
+      <HelpTOCNode Id="a141e784-5326-4136-8e3c-fb29d0051a9b" Title="WatchdogTimer Methods" Url="html/Methods.T-SharpTrader.WatchdogTimer.htm">
+        <HelpTOCNode Id="86e07bcd-aedd-4217-978b-96e9448a37a6" Title="Start Method " Url="html/Overload-SharpTrader.WatchdogTimer.Start.htm">
+          <HelpTOCNode Title="Start Method " Url="html/M-SharpTrader.WatchdogTimer.Start.htm" />
+          <HelpTOCNode Title="Start Method (Int32)" Url="html/M-SharpTrader.WatchdogTimer.Start_1.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="07787864-1746-4375-a550-bd8e2d15dc59" Title="WatchdogTimer Properties" Url="html/Properties.T-SharpTrader.WatchdogTimer.htm">
+        <HelpTOCNode Title="Interval Property " Url="html/P-SharpTrader.WatchdogTimer.Interval.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="ba8e11d3-28b1-40c3-8686-52220965de4e" Title="WatchdogTimer Events" Url="html/Events.T-SharpTrader.WatchdogTimer.htm">
+        <HelpTOCNode Title="Elapsed Event" Url="html/E-SharpTrader.WatchdogTimer.Elapsed.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="d7d4e0af-1b74-4302-ba64-91b6d468c6d4" Title="SharpTrader.Client Namespace" Url="html/N-SharpTrader.Client.htm">
+    <HelpTOCNode Id="d23190bf-1aa5-4f02-98d0-4fdfa0aacb2f" Title="OrderEvent Class" Url="html/T-SharpTrader.Client.OrderEvent.htm">
+      <HelpTOCNode Title="OrderEvent Members" Url="html/AllMembers.T-SharpTrader.Client.OrderEvent.htm" />
+      <HelpTOCNode Title="OrderEvent Constructor " Url="html/M-SharpTrader.Client.OrderEvent.-ctor.htm" />
+      <HelpTOCNode Title="OrderEvent Methods" Url="html/Methods.T-SharpTrader.Client.OrderEvent.htm" />
+      <HelpTOCNode Id="57154a88-f6dd-4915-a646-e8bb8f2bfcd4" Title="OrderEvent Properties" Url="html/Properties.T-SharpTrader.Client.OrderEvent.htm">
+        <HelpTOCNode Title="UpdateType Property " Url="html/P-SharpTrader.Client.OrderEvent.UpdateType.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="OrderUpdateType Enumeration" Url="html/T-SharpTrader.Client.OrderUpdateType.htm" />
+  </HelpTOCNode>
+  <HelpTOCNode Id="1f96f4aa-8217-433c-b49f-dc250082fcf5" Title="SharpTrader.Core Namespace" Url="html/N-SharpTrader.Core.htm">
+    <HelpTOCNode Id="55d2d824-d626-45c1-8f51-f97a06894830" Title="RealTimeIndicators Class" Url="html/T-SharpTrader.Core.RealTimeIndicators.htm">
+      <HelpTOCNode Title="RealTimeIndicators Members" Url="html/AllMembers.T-SharpTrader.Core.RealTimeIndicators.htm" />
+      <HelpTOCNode Id="d6baf95e-e7df-4feb-b33d-f757e491fa50" Title="RealTimeIndicators Methods" Url="html/Methods.T-SharpTrader.Core.RealTimeIndicators.htm">
+        <HelpTOCNode Id="c987edc4-ef37-4eea-bad0-37d2b3a15b1c" Title="Get Method " Url="html/Overload-SharpTrader.Core.RealTimeIndicators.Get.htm">
+          <HelpTOCNode Title="Get Method (String)" Url="html/M-SharpTrader.Core.RealTimeIndicators.Get.htm" />
+          <HelpTOCNode Title="Get Method (IndicatorId)" Url="html/M-SharpTrader.Core.RealTimeIndicators.Get_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="GetMinBars Method " Url="html/M-SharpTrader.Core.RealTimeIndicators.GetMinBars.htm" />
+        <HelpTOCNode Title="GetRTIndicator Method " Url="html/M-SharpTrader.Core.RealTimeIndicators.GetRTIndicator.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="02ce570d-92d2-4790-8788-3a02b65d87b7" Title="RealTimeIndicators Properties" Url="html/Properties.T-SharpTrader.Core.RealTimeIndicators.htm">
+        <HelpTOCNode Title="IndicatorNames Property " Url="html/P-SharpTrader.Core.RealTimeIndicators.IndicatorNames.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="bcf4494f-77f6-480f-b829-00ebdc2bd9b2" Title="RealTimeStrategy Class" Url="html/T-SharpTrader.Core.RealTimeStrategy.htm">
+      <HelpTOCNode Title="RealTimeStrategy Members" Url="html/AllMembers.T-SharpTrader.Core.RealTimeStrategy.htm" />
+      <HelpTOCNode Id="b9360811-e137-4cbd-ba66-085a5309b77a" Title="RealTimeStrategy Constructor " Url="html/Overload-SharpTrader.Core.RealTimeStrategy.-ctor.htm">
+        <HelpTOCNode Title="RealTimeStrategy Constructor " Url="html/M-SharpTrader.Core.RealTimeStrategy.-ctor.htm" />
+        <HelpTOCNode Title="RealTimeStrategy Constructor (String, ITicker, BarWidths, StrategyExpression, IRTIndicatorCollection)" Url="html/M-SharpTrader.Core.RealTimeStrategy.-ctor_1.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="bf2fef43-6a19-4cfd-a666-268d4bfda483" Title="RealTimeStrategy Methods" Url="html/Methods.T-SharpTrader.Core.RealTimeStrategy.htm">
+        <HelpTOCNode Id="20631ff8-d626-4d92-b4e2-3af7bae24d59" Title="Equals Method " Url="html/Overload-SharpTrader.Core.RealTimeStrategy.Equals.htm">
+          <HelpTOCNode Title="Equals Method " Url="html/M-SharpTrader.Core.RealTimeStrategy.Equals.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="From Method " Url="html/M-SharpTrader.Core.RealTimeStrategy.From.htm" />
+        <HelpTOCNode Title="ToString Method " Url="html/M-SharpTrader.Core.RealTimeStrategy.ToString.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="c579dd20-c248-48cb-a2f0-f9a6329417bc" Title="RealTimeStrategy Properties" Url="html/Properties.T-SharpTrader.Core.RealTimeStrategy.htm">
+        <HelpTOCNode Title="Active Property " Url="html/P-SharpTrader.Core.RealTimeStrategy.Active.htm" />
+        <HelpTOCNode Title="BarWidth Property " Url="html/P-SharpTrader.Core.RealTimeStrategy.BarWidth.htm" />
+        <HelpTOCNode Title="Indicators Property " Url="html/P-SharpTrader.Core.RealTimeStrategy.Indicators.htm" />
+        <HelpTOCNode Title="Label Property " Url="html/P-SharpTrader.Core.RealTimeStrategy.Label.htm" />
+        <HelpTOCNode Title="LatestSignal Property " Url="html/P-SharpTrader.Core.RealTimeStrategy.LatestSignal.htm" />
+        <HelpTOCNode Title="LongThreshold Property " Url="html/P-SharpTrader.Core.RealTimeStrategy.LongThreshold.htm" />
+        <HelpTOCNode Title="OriginalExpression Property " Url="html/P-SharpTrader.Core.RealTimeStrategy.OriginalExpression.htm" />
+        <HelpTOCNode Title="ShortThreshold Property " Url="html/P-SharpTrader.Core.RealTimeStrategy.ShortThreshold.htm" />
+        <HelpTOCNode Title="StopLoss Property " Url="html/P-SharpTrader.Core.RealTimeStrategy.StopLoss.htm" />
+        <HelpTOCNode Title="StopProfit Property " Url="html/P-SharpTrader.Core.RealTimeStrategy.StopProfit.htm" />
+        <HelpTOCNode Title="Ticker Property " Url="html/P-SharpTrader.Core.RealTimeStrategy.Ticker.htm" />
+        <HelpTOCNode Title="TickerType Property " Url="html/P-SharpTrader.Core.RealTimeStrategy.TickerType.htm" />
+        <HelpTOCNode Title="TimeToUpdate Property " Url="html/P-SharpTrader.Core.RealTimeStrategy.TimeToUpdate.htm" />
+        <HelpTOCNode Title="ToLog Property " Url="html/P-SharpTrader.Core.RealTimeStrategy.ToLog.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="255c0416-bd45-4f46-b652-f543bd240bb4" Title="RealTimeStrategy Events" Url="html/Events.T-SharpTrader.Core.RealTimeStrategy.htm">
+        <HelpTOCNode Title="PropertyChanged Event" Url="html/E-SharpTrader.Core.RealTimeStrategy.PropertyChanged.htm" />
+        <HelpTOCNode Title="SignalUpdated Event" Url="html/E-SharpTrader.Core.RealTimeStrategy.SignalUpdated.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="946731ad-b01c-4534-aa70-851bd256456b" Title="RealTimeStrategyCollection Class" Url="html/T-SharpTrader.Core.RealTimeStrategyCollection.htm">
+      <HelpTOCNode Title="RealTimeStrategyCollection Members" Url="html/AllMembers.T-SharpTrader.Core.RealTimeStrategyCollection.htm" />
+      <HelpTOCNode Title="RealTimeStrategyCollection Constructor " Url="html/M-SharpTrader.Core.RealTimeStrategyCollection.-ctor.htm" />
+      <HelpTOCNode Id="2f5ad7d5-5bde-4ec2-9be5-8d2f8aae6396" Title="RealTimeStrategyCollection Methods" Url="html/Methods.T-SharpTrader.Core.RealTimeStrategyCollection.htm">
+        <HelpTOCNode Title="GetEnumerator Method " Url="html/M-SharpTrader.Core.RealTimeStrategyCollection.GetEnumerator.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="758e70b6-a9d8-411f-ba52-15f3ebea1e01" Title="RealTimeStrategyCollection Properties" Url="html/Properties.T-SharpTrader.Core.RealTimeStrategyCollection.htm">
+        <HelpTOCNode Title="BarWidth Property " Url="html/P-SharpTrader.Core.RealTimeStrategyCollection.BarWidth.htm" />
+        <HelpTOCNode Title="Indicators Property " Url="html/P-SharpTrader.Core.RealTimeStrategyCollection.Indicators.htm" />
+        <HelpTOCNode Title="Label Property " Url="html/P-SharpTrader.Core.RealTimeStrategyCollection.Label.htm" />
+        <HelpTOCNode Title="Ticker Property " Url="html/P-SharpTrader.Core.RealTimeStrategyCollection.Ticker.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="c82d9358-b32f-4af9-ab2d-e20a431a5e2f" Title="StrategyExpression Class" Url="html/T-SharpTrader.Core.StrategyExpression.htm">
+      <HelpTOCNode Title="StrategyExpression Members" Url="html/AllMembers.T-SharpTrader.Core.StrategyExpression.htm" />
+      <HelpTOCNode Title="StrategyExpression Constructor (Expression(Func))" Url="html/M-SharpTrader.Core.StrategyExpression.-ctor.htm" />
+      <HelpTOCNode Id="ebf085b1-042f-4fe2-93d6-17bac4f5f01f" Title="StrategyExpression Methods" Url="html/Methods.T-SharpTrader.Core.StrategyExpression.htm">
+        <HelpTOCNode Title="Compile Method " Url="html/M-SharpTrader.Core.StrategyExpression.Compile.htm" />
+        <HelpTOCNode Title="GetInputs Method " Url="html/M-SharpTrader.Core.StrategyExpression.GetInputs.htm" />
+        <HelpTOCNode Title="ToString Method " Url="html/M-SharpTrader.Core.StrategyExpression.ToString.htm" />
+        <HelpTOCNode Title="Update Method " Url="html/M-SharpTrader.Core.StrategyExpression.Update.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="16482bf0-1741-40f9-9106-0109e44de48f" Title="StrategyExpression Properties" Url="html/Properties.T-SharpTrader.Core.StrategyExpression.htm">
+        <HelpTOCNode Title="Indicators Property " Url="html/P-SharpTrader.Core.StrategyExpression.Indicators.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="8e83847d-46bc-4170-b117-8ef6af357e01" Title="SharpTrader.Core.Indicators Namespace" Url="html/N-SharpTrader.Core.Indicators.htm">
+    <HelpTOCNode Id="c356703b-ffce-4f1a-8514-2470d70e8b13" Title="IndicatorFactory Class" Url="html/T-SharpTrader.Core.Indicators.IndicatorFactory.htm">
+      <HelpTOCNode Title="IndicatorFactory Members" Url="html/AllMembers.T-SharpTrader.Core.Indicators.IndicatorFactory.htm" />
+      <HelpTOCNode Title="IndicatorFactory Constructor " Url="html/M-SharpTrader.Core.Indicators.IndicatorFactory.-ctor.htm" />
+      <HelpTOCNode Id="7be93e20-ccc6-4370-a8bc-650f6fc3bfab" Title="IndicatorFactory Methods" Url="html/Methods.T-SharpTrader.Core.Indicators.IndicatorFactory.htm">
+        <HelpTOCNode Title="Include Method " Url="html/M-SharpTrader.Core.Indicators.IndicatorFactory.Include.htm" />
+        <HelpTOCNode Id="d6d06536-c7a8-4dfc-bdde-33c0032c8133" Title="NewCollection Method " Url="html/Overload-SharpTrader.Core.Indicators.IndicatorFactory.NewCollection.htm">
+          <HelpTOCNode Title="NewCollection Method (BarWidths, Int32[])" Url="html/M-SharpTrader.Core.Indicators.IndicatorFactory.NewCollection.htm" />
+          <HelpTOCNode Title="NewCollection Method (BarWidths, IDictionary(Int32, IRTIndicatorInstance))" Url="html/M-SharpTrader.Core.Indicators.IndicatorFactory.NewCollection_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="ba6cdc55-f3a6-4fa8-aa32-809946340894" Title="NewInstance Method " Url="html/Overload-SharpTrader.Core.Indicators.IndicatorFactory.NewInstance.htm">
+          <HelpTOCNode Title="NewInstance Method (String, Int32, IInstrument, IndicatorFlags)" Url="html/M-SharpTrader.Core.Indicators.IndicatorFactory.NewInstance.htm" />
+          <HelpTOCNode Title="NewInstance Method (String, Int32, String, BarWidths, IndicatorFlags)" Url="html/M-SharpTrader.Core.Indicators.IndicatorFactory.NewInstance_1.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="9c73b23f-0425-43b3-8c3b-621e73cb2c25" Title="IndicatorFactory Properties" Url="html/Properties.T-SharpTrader.Core.Indicators.IndicatorFactory.htm">
+        <HelpTOCNode Title="AllIndicators Property " Url="html/P-SharpTrader.Core.Indicators.IndicatorFactory.AllIndicators.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="b1079aa2-37ec-4dd1-830c-d90f779e6fd7" Title="RTIndicatorCollection Class" Url="html/T-SharpTrader.Core.Indicators.RTIndicatorCollection.htm">
+      <HelpTOCNode Title="RTIndicatorCollection Members" Url="html/AllMembers.T-SharpTrader.Core.Indicators.RTIndicatorCollection.htm" />
+      <HelpTOCNode Id="a2910889-9435-40c7-84fe-577f2770a1b4" Title="RTIndicatorCollection Constructor " Url="html/Overload-SharpTrader.Core.Indicators.RTIndicatorCollection.-ctor.htm">
+        <HelpTOCNode Title="RTIndicatorCollection Constructor " Url="html/M-SharpTrader.Core.Indicators.RTIndicatorCollection.-ctor.htm" />
+        <HelpTOCNode Title="RTIndicatorCollection Constructor (IReadOnlyDictionary(Int32, IRTIndicatorInstance))" Url="html/M-SharpTrader.Core.Indicators.RTIndicatorCollection.-ctor_1.htm" />
+        <HelpTOCNode Title="RTIndicatorCollection Constructor (RTIndicatorCollection, IDictionary(Int32, IRTIndicatorInstance))" Url="html/M-SharpTrader.Core.Indicators.RTIndicatorCollection.-ctor_2.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="6baf22ce-5f71-4795-9a3f-80fd8282e2c6" Title="RTIndicatorCollection Methods" Url="html/Methods.T-SharpTrader.Core.Indicators.RTIndicatorCollection.htm">
+        <HelpTOCNode Title="AddRange Method " Url="html/M-SharpTrader.Core.Indicators.RTIndicatorCollection.AddRange.htm" />
+        <HelpTOCNode Title="ContainsKey Method " Url="html/M-SharpTrader.Core.Indicators.RTIndicatorCollection.ContainsKey.htm" />
+        <HelpTOCNode Id="df2756d3-8956-4a76-919c-3ab374487923" Title="CreateSubCollection Method " Url="html/Overload-SharpTrader.Core.Indicators.RTIndicatorCollection.CreateSubCollection.htm">
+          <HelpTOCNode Title="CreateSubCollection Method (BarWidths, Int32[])" Url="html/M-SharpTrader.Core.Indicators.RTIndicatorCollection.CreateSubCollection.htm" />
+          <HelpTOCNode Title="CreateSubCollection Method (BarWidths, IRTIndicatorInstance[])" Url="html/M-SharpTrader.Core.Indicators.RTIndicatorCollection.CreateSubCollection_1.htm" />
+          <HelpTOCNode Title="CreateSubCollection Method (BarWidths, IDictionary(Int32, IRTIndicatorInstance))" Url="html/M-SharpTrader.Core.Indicators.RTIndicatorCollection.CreateSubCollection_2.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="GetEnumerator Method " Url="html/M-SharpTrader.Core.Indicators.RTIndicatorCollection.GetEnumerator.htm" />
+        <HelpTOCNode Title="Initialize Method " Url="html/M-SharpTrader.Core.Indicators.RTIndicatorCollection.Initialize.htm" />
+        <HelpTOCNode Title="TryGetValue Method " Url="html/M-SharpTrader.Core.Indicators.RTIndicatorCollection.TryGetValue.htm" />
+        <HelpTOCNode Title="Update Method " Url="html/M-SharpTrader.Core.Indicators.RTIndicatorCollection.Update.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="16a50692-0703-46a5-ab87-292901eeb503" Title="RTIndicatorCollection Properties" Url="html/Properties.T-SharpTrader.Core.Indicators.RTIndicatorCollection.htm">
+        <HelpTOCNode Title="Count Property " Url="html/P-SharpTrader.Core.Indicators.RTIndicatorCollection.Count.htm" />
+        <HelpTOCNode Title="Item Property " Url="html/P-SharpTrader.Core.Indicators.RTIndicatorCollection.Item-System.Int32-.htm" />
+        <HelpTOCNode Title="Keys Property " Url="html/P-SharpTrader.Core.Indicators.RTIndicatorCollection.Keys.htm" />
+        <HelpTOCNode Title="LatestValues Property " Url="html/P-SharpTrader.Core.Indicators.RTIndicatorCollection.LatestValues.htm" />
+        <HelpTOCNode Title="Timestamp Property " Url="html/P-SharpTrader.Core.Indicators.RTIndicatorCollection.Timestamp.htm" />
+        <HelpTOCNode Title="Values Property " Url="html/P-SharpTrader.Core.Indicators.RTIndicatorCollection.Values.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="bf35fdec-89c1-46e1-a156-dd684d15d453" Title="RTIndicatorCollection Events" Url="html/Events.T-SharpTrader.Core.Indicators.RTIndicatorCollection.htm">
+        <HelpTOCNode Title="IndicatorUpdateCompleted Event" Url="html/E-SharpTrader.Core.Indicators.RTIndicatorCollection.IndicatorUpdateCompleted.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="ad037c5a-3e59-4280-ab3b-79838ab5a4fe" Title="RTIndicatorSubCollection Class" Url="html/T-SharpTrader.Core.Indicators.RTIndicatorSubCollection.htm">
+      <HelpTOCNode Title="RTIndicatorSubCollection Members" Url="html/AllMembers.T-SharpTrader.Core.Indicators.RTIndicatorSubCollection.htm" />
+      <HelpTOCNode Title="RTIndicatorSubCollection Constructor " Url="html/M-SharpTrader.Core.Indicators.RTIndicatorSubCollection.-ctor.htm" />
+      <HelpTOCNode Title="RTIndicatorSubCollection Methods" Url="html/Methods.T-SharpTrader.Core.Indicators.RTIndicatorSubCollection.htm" />
+      <HelpTOCNode Id="1b990143-6772-4659-8cb4-bfb1db49ec98" Title="RTIndicatorSubCollection Properties" Url="html/Properties.T-SharpTrader.Core.Indicators.RTIndicatorSubCollection.htm">
+        <HelpTOCNode Title="BarWidth Property " Url="html/P-SharpTrader.Core.Indicators.RTIndicatorSubCollection.BarWidth.htm" />
+        <HelpTOCNode Title="Timestamp Property " Url="html/P-SharpTrader.Core.Indicators.RTIndicatorSubCollection.Timestamp.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="RTIndicatorSubCollection Events" Url="html/Events.T-SharpTrader.Core.Indicators.RTIndicatorSubCollection.htm" />
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>

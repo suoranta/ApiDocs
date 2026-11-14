@@ -1,0 +1,795 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+
+  <HelpKINode Title="A4_1280 enumeration member" Url="html/T-Suoranta.NaturalLanguage.Imaging.TDImageSegmenter.ModelResolutions.htm" />
+  <HelpKINode Title="A4_1280 field" Url="html/F-Suoranta.NaturalLanguage.Imaging.TDImageSegmenter.ModelResolutions.A4_1280.htm" />
+  <HelpKINode Title="A4_1920 enumeration member" Url="html/T-Suoranta.NaturalLanguage.Imaging.TDImageSegmenter.ModelResolutions.htm" />
+  <HelpKINode Title="A4_1920 field" Url="html/F-Suoranta.NaturalLanguage.Imaging.TDImageSegmenter.ModelResolutions.A4_1920.htm" />
+  <HelpKINode Title="A4_640 enumeration member" Url="html/T-Suoranta.NaturalLanguage.Imaging.TDImageSegmenter.ModelResolutions.htm" />
+  <HelpKINode Title="A4_640 field" Url="html/F-Suoranta.NaturalLanguage.Imaging.TDImageSegmenter.ModelResolutions.A4_640.htm" />
+  <HelpKINode Title="A4_800 enumeration member" Url="html/T-Suoranta.NaturalLanguage.Imaging.TDImageSegmenter.ModelResolutions.htm" />
+  <HelpKINode Title="A4_800 field" Url="html/F-Suoranta.NaturalLanguage.Imaging.TDImageSegmenter.ModelResolutions.A4_800.htm" />
+  <HelpKINode Title="A4_960 enumeration member" Url="html/T-Suoranta.NaturalLanguage.Imaging.TDImageSegmenter.ModelResolutions.htm" />
+  <HelpKINode Title="A4_960 field" Url="html/F-Suoranta.NaturalLanguage.Imaging.TDImageSegmenter.ModelResolutions.A4_960.htm" />
+  <HelpKINode Title="AddressPattern class" Url="html/AllMembers.T-Suoranta.NaturalLanguage.AddressPattern.htm" />
+  <HelpKINode Title="AddressPattern class" Url="html/T-Suoranta.NaturalLanguage.AddressPattern.htm" />
+  <HelpKINode Title="AddressPattern class">
+    <HelpKINode Title="about AddressPattern class" Url="html/T-Suoranta.NaturalLanguage.AddressPattern.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Suoranta.NaturalLanguage.AddressPattern.htm" />
+    <HelpKINode Title="constructor" Url="html/M-Suoranta.NaturalLanguage.AddressPattern.-ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Suoranta.NaturalLanguage.AddressPattern.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-Suoranta.NaturalLanguage.AddressPattern.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AddressPattern.AddressPattern constructor" Url="html/M-Suoranta.NaturalLanguage.AddressPattern.-ctor.htm" />
+  <HelpKINode Title="AddressPattern.Expression property" Url="html/P-Suoranta.NaturalLanguage.AddressPattern.Expression.htm" />
+  <HelpKINode Title="AddressPattern.HouseNumber property" Url="html/P-Suoranta.NaturalLanguage.AddressPattern.HouseNumber.htm" />
+  <HelpKINode Title="AddressPattern.PatternId property" Url="html/P-Suoranta.NaturalLanguage.AddressPattern.PatternId.htm" />
+  <HelpKINode Title="AddressPattern.StreetName property" Url="html/P-Suoranta.NaturalLanguage.AddressPattern.StreetName.htm" />
+  <HelpKINode Title="AllMatches property" Url="html/P-Suoranta.NaturalLanguage.DocumentProcessing.PatternSearchResults.AllMatches.htm" />
+  <HelpKINode Title="Arabic enumeration member" Url="html/T-Suoranta.NaturalLanguage.ScriptSystem.htm" />
+  <HelpKINode Title="Arabic field" Url="html/F-Suoranta.NaturalLanguage.ScriptSystem.Arabic.htm" />
+  <HelpKINode Title="Baseline enumeration member" Url="html/T-Suoranta.NaturalLanguage.Imaging.YoloV10ImageSegmenter.ModelVariant.htm" />
+  <HelpKINode Title="Baseline field" Url="html/F-Suoranta.NaturalLanguage.Imaging.YoloV10ImageSegmenter.ModelVariant.Baseline.htm" />
+  <HelpKINode Title="Bidirectional property" Url="html/P-Suoranta.NaturalLanguage.Transliteration.CyrillicEnglishTransliterator.Bidirectional.htm" />
+  <HelpKINode Title="Bidirectional property" Url="html/P-Suoranta.NaturalLanguage.Transliteration.CyrillicIsoTransliterator.Bidirectional.htm" />
+  <HelpKINode Title="Bidirectional property" Url="html/P-Suoranta.NaturalLanguage.Transliteration.Transliterator.Bidirectional.htm" />
+  <HelpKINode Title="Bounds property" Url="html/P-Suoranta.NaturalLanguage.OcrRecognizerResult.Line.Bounds.htm" />
+  <HelpKINode Title="Chinese enumeration member" Url="html/T-Suoranta.NaturalLanguage.ScriptSystem.htm" />
+  <HelpKINode Title="Chinese field" Url="html/F-Suoranta.NaturalLanguage.ScriptSystem.Chinese.htm" />
+  <HelpKINode Title="context field" Url="html/F-Suoranta.NaturalLanguage.Imaging.ImageSegmenter.context.htm" />
+  <HelpKINode Title="Create method" Url="html/Overload-Suoranta.NaturalLanguage.PatternMatchFactory.Create.htm" />
+  <HelpKINode Title="Crop method" Url="html/Overload-Suoranta.NaturalLanguage.ImageExtensions.Crop.htm" />
+  <HelpKINode Title="Cyrillic enumeration member" Url="html/T-Suoranta.NaturalLanguage.ScriptSystem.htm" />
+  <HelpKINode Title="Cyrillic field" Url="html/F-Suoranta.NaturalLanguage.ScriptSystem.Cyrillic.htm" />
+  <HelpKINode Title="CyrillicEnglishTransliterator class" Url="html/AllMembers.T-Suoranta.NaturalLanguage.Transliteration.CyrillicEnglishTransliterator.htm" />
+  <HelpKINode Title="CyrillicEnglishTransliterator class" Url="html/T-Suoranta.NaturalLanguage.Transliteration.CyrillicEnglishTransliterator.htm" />
+  <HelpKINode Title="CyrillicEnglishTransliterator class">
+    <HelpKINode Title="about CyrillicEnglishTransliterator class" Url="html/T-Suoranta.NaturalLanguage.Transliteration.CyrillicEnglishTransliterator.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Suoranta.NaturalLanguage.Transliteration.CyrillicEnglishTransliterator.htm" />
+    <HelpKINode Title="constructor" Url="html/M-Suoranta.NaturalLanguage.Transliteration.CyrillicEnglishTransliterator.-ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Suoranta.NaturalLanguage.Transliteration.CyrillicEnglishTransliterator.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-Suoranta.NaturalLanguage.Transliteration.CyrillicEnglishTransliterator.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CyrillicEnglishTransliterator.Bidirectional property" Url="html/P-Suoranta.NaturalLanguage.Transliteration.CyrillicEnglishTransliterator.Bidirectional.htm" />
+  <HelpKINode Title="CyrillicEnglishTransliterator.CyrillicEnglishTransliterator constructor" Url="html/M-Suoranta.NaturalLanguage.Transliteration.CyrillicEnglishTransliterator.-ctor.htm" />
+  <HelpKINode Title="CyrillicEnglishTransliterator.Script property" Url="html/P-Suoranta.NaturalLanguage.Transliteration.CyrillicEnglishTransliterator.Script.htm" />
+  <HelpKINode Title="CyrillicEnglishTransliterator.ToLatin method" Url="html/M-Suoranta.NaturalLanguage.Transliteration.CyrillicEnglishTransliterator.ToLatin.htm" />
+  <HelpKINode Title="CyrillicIsoTransliterator class" Url="html/AllMembers.T-Suoranta.NaturalLanguage.Transliteration.CyrillicIsoTransliterator.htm" />
+  <HelpKINode Title="CyrillicIsoTransliterator class" Url="html/T-Suoranta.NaturalLanguage.Transliteration.CyrillicIsoTransliterator.htm" />
+  <HelpKINode Title="CyrillicIsoTransliterator class">
+    <HelpKINode Title="about CyrillicIsoTransliterator class" Url="html/T-Suoranta.NaturalLanguage.Transliteration.CyrillicIsoTransliterator.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Suoranta.NaturalLanguage.Transliteration.CyrillicIsoTransliterator.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Suoranta.NaturalLanguage.Transliteration.CyrillicIsoTransliterator.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-Suoranta.NaturalLanguage.Transliteration.CyrillicIsoTransliterator.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CyrillicIsoTransliterator.Bidirectional property" Url="html/P-Suoranta.NaturalLanguage.Transliteration.CyrillicIsoTransliterator.Bidirectional.htm" />
+  <HelpKINode Title="CyrillicIsoTransliterator.Script property" Url="html/P-Suoranta.NaturalLanguage.Transliteration.CyrillicIsoTransliterator.Script.htm" />
+  <HelpKINode Title="DefaultPage property" Url="html/P-Suoranta.NaturalLanguage.PatternMatchFactory.DefaultPage.htm" />
+  <HelpKINode Title="Devanagari enumeration member" Url="html/T-Suoranta.NaturalLanguage.ScriptSystem.htm" />
+  <HelpKINode Title="Devanagari field" Url="html/F-Suoranta.NaturalLanguage.ScriptSystem.Devanagari.htm" />
+  <HelpKINode Title="Direction.FromLatin field" Url="html/F-Suoranta.NaturalLanguage.Transliteration.Transliterator.Direction.FromLatin.htm" />
+  <HelpKINode Title="Direction.ToLatin field" Url="html/F-Suoranta.NaturalLanguage.Transliteration.Transliterator.Direction.ToLatin.htm" />
+  <HelpKINode Title="DocumentException class" Url="html/AllMembers.T-Suoranta.NaturalLanguage.DocumentProcessing.DocumentException.htm" />
+  <HelpKINode Title="DocumentException class" Url="html/T-Suoranta.NaturalLanguage.DocumentProcessing.DocumentException.htm" />
+  <HelpKINode Title="DocumentException class">
+    <HelpKINode Title="about DocumentException class" Url="html/T-Suoranta.NaturalLanguage.DocumentProcessing.DocumentException.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Suoranta.NaturalLanguage.DocumentProcessing.DocumentException.htm" />
+    <HelpKINode Title="events" Url="html/Events.T-Suoranta.NaturalLanguage.DocumentProcessing.DocumentException.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Suoranta.NaturalLanguage.DocumentProcessing.DocumentException.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-Suoranta.NaturalLanguage.DocumentProcessing.DocumentException.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DocumentException.SourceFilePath property" Url="html/P-Suoranta.NaturalLanguage.DocumentProcessing.DocumentException.SourceFilePath.htm" />
+  <HelpKINode Title="DocumentHyperlink class" Url="html/AllMembers.T-Suoranta.NaturalLanguage.DocumentProcessing.DocumentHyperlink.htm" />
+  <HelpKINode Title="DocumentHyperlink class" Url="html/T-Suoranta.NaturalLanguage.DocumentProcessing.DocumentHyperlink.htm" />
+  <HelpKINode Title="DocumentHyperlink class">
+    <HelpKINode Title="about DocumentHyperlink class" Url="html/T-Suoranta.NaturalLanguage.DocumentProcessing.DocumentHyperlink.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Suoranta.NaturalLanguage.DocumentProcessing.DocumentHyperlink.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Suoranta.NaturalLanguage.DocumentProcessing.DocumentHyperlink.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-Suoranta.NaturalLanguage.DocumentProcessing.DocumentHyperlink.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DocumentHyperlink.Text property" Url="html/P-Suoranta.NaturalLanguage.DocumentProcessing.DocumentHyperlink.Text.htm" />
+  <HelpKINode Title="DocumentHyperlink.Url property" Url="html/P-Suoranta.NaturalLanguage.DocumentProcessing.DocumentHyperlink.Url.htm" />
+  <HelpKINode Title="DocumentImageProcessor class" Url="html/AllMembers.T-Suoranta.NaturalLanguage.DocumentProcessing.DocumentImageProcessor.htm" />
+  <HelpKINode Title="DocumentImageProcessor class" Url="html/T-Suoranta.NaturalLanguage.DocumentProcessing.DocumentImageProcessor.htm" />
+  <HelpKINode Title="DocumentImageProcessor class">
+    <HelpKINode Title="about DocumentImageProcessor class" Url="html/T-Suoranta.NaturalLanguage.DocumentProcessing.DocumentImageProcessor.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Suoranta.NaturalLanguage.DocumentProcessing.DocumentImageProcessor.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload-Suoranta.NaturalLanguage.DocumentProcessing.DocumentImageProcessor.-ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Suoranta.NaturalLanguage.DocumentProcessing.DocumentImageProcessor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DocumentImageProcessor.DocumentImageProcessor constructor" Url="html/Overload-Suoranta.NaturalLanguage.DocumentProcessing.DocumentImageProcessor.-ctor.htm" />
+  <HelpKINode Title="DocumentImageProcessor.GetPatternMatches method" Url="html/Overload-Suoranta.NaturalLanguage.DocumentProcessing.DocumentImageProcessor.GetPatternMatches.htm" />
+  <HelpKINode Title="DocX enumeration member" Url="html/T-Suoranta.NaturalLanguage.DocumentProcessing.ScanFileTypes.htm" />
+  <HelpKINode Title="DocX field" Url="html/F-Suoranta.NaturalLanguage.DocumentProcessing.ScanFileTypes.DocX.htm" />
+  <HelpKINode Title="DocXProcessor class" Url="html/AllMembers.T-Suoranta.NaturalLanguage.DocumentProcessing.DocXProcessor.htm" />
+  <HelpKINode Title="DocXProcessor class" Url="html/T-Suoranta.NaturalLanguage.DocumentProcessing.DocXProcessor.htm" />
+  <HelpKINode Title="DocXProcessor class">
+    <HelpKINode Title="about DocXProcessor class" Url="html/T-Suoranta.NaturalLanguage.DocumentProcessing.DocXProcessor.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Suoranta.NaturalLanguage.DocumentProcessing.DocXProcessor.htm" />
+    <HelpKINode Title="constructor" Url="html/M-Suoranta.NaturalLanguage.DocumentProcessing.DocXProcessor.-ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Suoranta.NaturalLanguage.DocumentProcessing.DocXProcessor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DocXProcessor.DocXProcessor constructor" Url="html/M-Suoranta.NaturalLanguage.DocumentProcessing.DocXProcessor.-ctor.htm" />
+  <HelpKINode Title="DocXProcessor.GetAllText method" Url="html/Overload-Suoranta.NaturalLanguage.DocumentProcessing.DocXProcessor.GetAllText.htm" />
+  <HelpKINode Title="DocXProcessor.GetPatternMatches method" Url="html/Overload-Suoranta.NaturalLanguage.DocumentProcessing.DocXProcessor.GetPatternMatches.htm" />
+  <HelpKINode Title="EnlargeByFactor method" Url="html/M-Suoranta.NaturalLanguage.ImageExtensions.EnlargeByFactor.htm" />
+  <HelpKINode Title="Expression property" Url="html/P-Suoranta.NaturalLanguage.AddressPattern.Expression.htm" />
+  <HelpKINode Title="Expression property" Url="html/P-Suoranta.NaturalLanguage.GenericNamePattern.Expression.htm" />
+  <HelpKINode Title="Expression property" Url="html/P-Suoranta.NaturalLanguage.IPattern.Expression.htm" />
+  <HelpKINode Title="Expression property" Url="html/P-Suoranta.NaturalLanguage.PersonNamePattern.Expression.htm" />
+  <HelpKINode Title="Expression property" Url="html/P-Suoranta.NaturalLanguage.PhoneNumberPattern.Expression.htm" />
+  <HelpKINode Title="Extensions class" Url="html/AllMembers.T-Suoranta.NaturalLanguage.DocumentProcessing.Extensions.htm" />
+  <HelpKINode Title="Extensions class" Url="html/AllMembers.T-Suoranta.NaturalLanguage.Extensions.htm" />
+  <HelpKINode Title="Extensions class" Url="html/T-Suoranta.NaturalLanguage.DocumentProcessing.Extensions.htm" />
+  <HelpKINode Title="Extensions class" Url="html/T-Suoranta.NaturalLanguage.Extensions.htm" />
+  <HelpKINode Title="Extensions class">
+    <HelpKINode Title="about Extensions class" Url="html/T-Suoranta.NaturalLanguage.DocumentProcessing.Extensions.htm" />
+    <HelpKINode Title="about Extensions class" Url="html/T-Suoranta.NaturalLanguage.Extensions.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Suoranta.NaturalLanguage.DocumentProcessing.Extensions.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Suoranta.NaturalLanguage.Extensions.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Suoranta.NaturalLanguage.DocumentProcessing.Extensions.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Suoranta.NaturalLanguage.Extensions.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Extensions.FindPattern method" Url="html/M-Suoranta.NaturalLanguage.DocumentProcessing.Extensions.FindPattern.htm" />
+  <HelpKINode Title="Extensions.IdentifyScriptSystem method" Url="html/M-Suoranta.NaturalLanguage.Extensions.IdentifyScriptSystem.htm" />
+  <HelpKINode Title="ExtractText method" Url="html/M-Suoranta.NaturalLanguage.DocumentProcessing.HtmlProcessor.ExtractText.htm" />
+  <HelpKINode Title="FeatureRegion structure" Url="html/AllMembers.T-Suoranta.NaturalLanguage.Imaging.FeatureRegion.htm" />
+  <HelpKINode Title="FeatureRegion structure" Url="html/T-Suoranta.NaturalLanguage.Imaging.FeatureRegion.htm" />
+  <HelpKINode Title="FeatureRegion structure">
+    <HelpKINode Title="about FeatureRegion structure" Url="html/T-Suoranta.NaturalLanguage.Imaging.FeatureRegion.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Suoranta.NaturalLanguage.Imaging.FeatureRegion.htm" />
+    <HelpKINode Title="constructor" Url="html/M-Suoranta.NaturalLanguage.Imaging.FeatureRegion.-ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Suoranta.NaturalLanguage.Imaging.FeatureRegion.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-Suoranta.NaturalLanguage.Imaging.FeatureRegion.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FeatureRegion.FeatureRegion constructor" Url="html/M-Suoranta.NaturalLanguage.Imaging.FeatureRegion.-ctor.htm" />
+  <HelpKINode Title="FeatureRegion.Height property" Url="html/P-Suoranta.NaturalLanguage.Imaging.FeatureRegion.Height.htm" />
+  <HelpKINode Title="FeatureRegion.MaxX property" Url="html/P-Suoranta.NaturalLanguage.Imaging.FeatureRegion.MaxX.htm" />
+  <HelpKINode Title="FeatureRegion.MaxY property" Url="html/P-Suoranta.NaturalLanguage.Imaging.FeatureRegion.MaxY.htm" />
+  <HelpKINode Title="FeatureRegion.MinX property" Url="html/P-Suoranta.NaturalLanguage.Imaging.FeatureRegion.MinX.htm" />
+  <HelpKINode Title="FeatureRegion.MinY property" Url="html/P-Suoranta.NaturalLanguage.Imaging.FeatureRegion.MinY.htm" />
+  <HelpKINode Title="FeatureRegion.ToRectangle method" Url="html/M-Suoranta.NaturalLanguage.Imaging.FeatureRegion.ToRectangle.htm" />
+  <HelpKINode Title="FeatureRegion.Width property" Url="html/P-Suoranta.NaturalLanguage.Imaging.FeatureRegion.Width.htm" />
+  <HelpKINode Title="FilePath property" Url="html/P-Suoranta.NaturalLanguage.DocumentProcessing.PatternSearchResults.FileResults.FilePath.htm" />
+  <HelpKINode Title="FileResults class">
+    <HelpKINode Title="constructor" Url="html/M-Suoranta.NaturalLanguage.DocumentProcessing.PatternSearchResults.FileResults.-ctor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FileResults.FilePath property" Url="html/P-Suoranta.NaturalLanguage.DocumentProcessing.PatternSearchResults.FileResults.FilePath.htm" />
+  <HelpKINode Title="FileResults.FileResults constructor" Url="html/M-Suoranta.NaturalLanguage.DocumentProcessing.PatternSearchResults.FileResults.-ctor.htm" />
+  <HelpKINode Title="FileResults.Matches property" Url="html/P-Suoranta.NaturalLanguage.DocumentProcessing.PatternSearchResults.FileResults.Matches.htm" />
+  <HelpKINode Title="FindPattern method" Url="html/M-Suoranta.NaturalLanguage.DocumentProcessing.Extensions.FindPattern.htm" />
+  <HelpKINode Title="FirstName property" Url="html/P-Suoranta.NaturalLanguage.PersonNamePattern.FirstName.htm" />
+  <HelpKINode Title="FromLatin enumeration member" Url="html/T-Suoranta.NaturalLanguage.Transliteration.Transliterator.Direction.htm" />
+  <HelpKINode Title="FromLatin field" Url="html/F-Suoranta.NaturalLanguage.Transliteration.Transliterator.Direction.FromLatin.htm" />
+  <HelpKINode Title="FromLatin method" Url="html/M-Suoranta.NaturalLanguage.Transliteration.StringSubstitution.FromLatin.htm" />
+  <HelpKINode Title="FromLatin method" Url="html/M-Suoranta.NaturalLanguage.Transliteration.Transliterator.FromLatin.htm" />
+  <HelpKINode Title="fromLatinCharSubstitutions field" Url="html/F-Suoranta.NaturalLanguage.Transliteration.Transliterator.fromLatinCharSubstitutions.htm" />
+  <HelpKINode Title="GenericNamePattern class" Url="html/AllMembers.T-Suoranta.NaturalLanguage.GenericNamePattern.htm" />
+  <HelpKINode Title="GenericNamePattern class" Url="html/T-Suoranta.NaturalLanguage.GenericNamePattern.htm" />
+  <HelpKINode Title="GenericNamePattern class">
+    <HelpKINode Title="about GenericNamePattern class" Url="html/T-Suoranta.NaturalLanguage.GenericNamePattern.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Suoranta.NaturalLanguage.GenericNamePattern.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload-Suoranta.NaturalLanguage.GenericNamePattern.-ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Suoranta.NaturalLanguage.GenericNamePattern.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-Suoranta.NaturalLanguage.GenericNamePattern.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GenericNamePattern.Expression property" Url="html/P-Suoranta.NaturalLanguage.GenericNamePattern.Expression.htm" />
+  <HelpKINode Title="GenericNamePattern.GenericNamePattern constructor" Url="html/Overload-Suoranta.NaturalLanguage.GenericNamePattern.-ctor.htm" />
+  <HelpKINode Title="GenericNamePattern.PatternId property" Url="html/P-Suoranta.NaturalLanguage.GenericNamePattern.PatternId.htm" />
+  <HelpKINode Title="GenericNamePattern.Text property" Url="html/P-Suoranta.NaturalLanguage.GenericNamePattern.Text.htm" />
+  <HelpKINode Title="GetAllText method" Url="html/Overload-Suoranta.NaturalLanguage.DocumentProcessing.DocXProcessor.GetAllText.htm" />
+  <HelpKINode Title="GetBoundingBox method" Url="html/M-Suoranta.NaturalLanguage.Imaging.SegmentedImage.GetBoundingBox.htm" />
+  <HelpKINode Title="GetImageObjects method" Url="html/M-Suoranta.NaturalLanguage.Imaging.ImageSegmenter.GetImageObjects.htm" />
+  <HelpKINode Title="GetImageObjects method" Url="html/M-Suoranta.NaturalLanguage.Imaging.TDImageSegmenter.GetImageObjects.htm" />
+  <HelpKINode Title="GetImageObjects method" Url="html/M-Suoranta.NaturalLanguage.Imaging.YoloV10ImageSegmenter.GetImageObjects.htm" />
+  <HelpKINode Title="GetImageRegionOf method" Url="html/M-Suoranta.NaturalLanguage.OcrRecognizerResult.GetImageRegionOf.htm" />
+  <HelpKINode Title="GetInstalledLanguages method" Url="html/M-Suoranta.NaturalLanguage.OcrHelper.GetInstalledLanguages.htm" />
+  <HelpKINode Title="GetLanguageValueAttribute method" Url="html/M-Suoranta.NaturalLanguage.DocumentProcessing.TextProcessor.GetLanguageValueAttribute.htm" />
+  <HelpKINode Title="GetObjectData method" Url="html/M-Suoranta.NaturalLanguage.Transliteration.StringSubstitution.GetObjectData.htm" />
+  <HelpKINode Title="GetPatternMatches method" Url="html/M-Suoranta.NaturalLanguage.DocumentProcessing.HtmlProcessor.GetPatternMatches.htm" />
+  <HelpKINode Title="GetPatternMatches method" Url="html/M-Suoranta.NaturalLanguage.DocumentProcessing.IDocumentProcessor.GetPatternMatches.htm" />
+  <HelpKINode Title="GetPatternMatches method" Url="html/M-Suoranta.NaturalLanguage.DocumentProcessing.MsgProcessor.GetPatternMatches.htm" />
+  <HelpKINode Title="GetPatternMatches method" Url="html/M-Suoranta.NaturalLanguage.DocumentProcessing.PlainTextProcessor.GetPatternMatches.htm" />
+  <HelpKINode Title="GetPatternMatches method" Url="html/Overload-Suoranta.NaturalLanguage.DocumentProcessing.DocumentImageProcessor.GetPatternMatches.htm" />
+  <HelpKINode Title="GetPatternMatches method" Url="html/Overload-Suoranta.NaturalLanguage.DocumentProcessing.DocXProcessor.GetPatternMatches.htm" />
+  <HelpKINode Title="GetPatternMatches method" Url="html/Overload-Suoranta.NaturalLanguage.DocumentProcessing.PdfProcessor.GetPatternMatches.htm" />
+  <HelpKINode Title="Greek enumeration member" Url="html/T-Suoranta.NaturalLanguage.ScriptSystem.htm" />
+  <HelpKINode Title="Greek field" Url="html/F-Suoranta.NaturalLanguage.ScriptSystem.Greek.htm" />
+  <HelpKINode Title="Grow method" Url="html/M-Suoranta.NaturalLanguage.ImageExtensions.Grow.htm" />
+  <HelpKINode Title="Height property" Url="html/P-Suoranta.NaturalLanguage.Imaging.FeatureRegion.Height.htm" />
+  <HelpKINode Title="Hiragana enumeration member" Url="html/T-Suoranta.NaturalLanguage.ScriptSystem.htm" />
+  <HelpKINode Title="Hiragana field" Url="html/F-Suoranta.NaturalLanguage.ScriptSystem.Hiragana.htm" />
+  <HelpKINode Title="HouseNumber property" Url="html/P-Suoranta.NaturalLanguage.AddressPattern.HouseNumber.htm" />
+  <HelpKINode Title="Html enumeration member" Url="html/T-Suoranta.NaturalLanguage.DocumentProcessing.ScanFileTypes.htm" />
+  <HelpKINode Title="Html field" Url="html/F-Suoranta.NaturalLanguage.DocumentProcessing.ScanFileTypes.Html.htm" />
+  <HelpKINode Title="HtmlProcessor class" Url="html/AllMembers.T-Suoranta.NaturalLanguage.DocumentProcessing.HtmlProcessor.htm" />
+  <HelpKINode Title="HtmlProcessor class" Url="html/T-Suoranta.NaturalLanguage.DocumentProcessing.HtmlProcessor.htm" />
+  <HelpKINode Title="HtmlProcessor class">
+    <HelpKINode Title="about HtmlProcessor class" Url="html/T-Suoranta.NaturalLanguage.DocumentProcessing.HtmlProcessor.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Suoranta.NaturalLanguage.DocumentProcessing.HtmlProcessor.htm" />
+    <HelpKINode Title="constructor" Url="html/M-Suoranta.NaturalLanguage.DocumentProcessing.HtmlProcessor.-ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Suoranta.NaturalLanguage.DocumentProcessing.HtmlProcessor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="HtmlProcessor.ExtractText method" Url="html/M-Suoranta.NaturalLanguage.DocumentProcessing.HtmlProcessor.ExtractText.htm" />
+  <HelpKINode Title="HtmlProcessor.GetPatternMatches method" Url="html/M-Suoranta.NaturalLanguage.DocumentProcessing.HtmlProcessor.GetPatternMatches.htm" />
+  <HelpKINode Title="HtmlProcessor.HtmlProcessor constructor" Url="html/M-Suoranta.NaturalLanguage.DocumentProcessing.HtmlProcessor.-ctor.htm" />
+  <HelpKINode Title="Identify method" Url="html/M-Suoranta.NaturalLanguage.IdentifyLanguage.Identify.htm" />
+  <HelpKINode Title="IdentifyLanguage class" Url="html/AllMembers.T-Suoranta.NaturalLanguage.IdentifyLanguage.htm" />
+  <HelpKINode Title="IdentifyLanguage class" Url="html/T-Suoranta.NaturalLanguage.IdentifyLanguage.htm" />
+  <HelpKINode Title="IdentifyLanguage class">
+    <HelpKINode Title="about IdentifyLanguage class" Url="html/T-Suoranta.NaturalLanguage.IdentifyLanguage.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Suoranta.NaturalLanguage.IdentifyLanguage.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Suoranta.NaturalLanguage.IdentifyLanguage.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IdentifyLanguage.Identify method" Url="html/M-Suoranta.NaturalLanguage.IdentifyLanguage.Identify.htm" />
+  <HelpKINode Title="IdentifyScriptSystem method" Url="html/M-Suoranta.NaturalLanguage.Extensions.IdentifyScriptSystem.htm" />
+  <HelpKINode Title="IDocumentProcessor interface" Url="html/AllMembers.T-Suoranta.NaturalLanguage.DocumentProcessing.IDocumentProcessor.htm" />
+  <HelpKINode Title="IDocumentProcessor interface" Url="html/T-Suoranta.NaturalLanguage.DocumentProcessing.IDocumentProcessor.htm" />
+  <HelpKINode Title="IDocumentProcessor interface">
+    <HelpKINode Title="about IDocumentProcessor interface" Url="html/T-Suoranta.NaturalLanguage.DocumentProcessing.IDocumentProcessor.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Suoranta.NaturalLanguage.DocumentProcessing.IDocumentProcessor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Suoranta.NaturalLanguage.DocumentProcessing.IDocumentProcessor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IDocumentProcessor.GetPatternMatches method" Url="html/M-Suoranta.NaturalLanguage.DocumentProcessing.IDocumentProcessor.GetPatternMatches.htm" />
+  <HelpKINode Title="IImageObject interface" Url="html/AllMembers.T-Suoranta.NaturalLanguage.Imaging.IImageObject.htm" />
+  <HelpKINode Title="IImageObject interface" Url="html/T-Suoranta.NaturalLanguage.Imaging.IImageObject.htm" />
+  <HelpKINode Title="IImageObject interface">
+    <HelpKINode Title="about IImageObject interface" Url="html/T-Suoranta.NaturalLanguage.Imaging.IImageObject.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Suoranta.NaturalLanguage.Imaging.IImageObject.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Suoranta.NaturalLanguage.Imaging.IImageObject.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-Suoranta.NaturalLanguage.Imaging.IImageObject.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IImageObject.Score property" Url="html/P-Suoranta.NaturalLanguage.Imaging.IImageObject.Score.htm" />
+  <HelpKINode Title="IImageObject.XMax property" Url="html/P-Suoranta.NaturalLanguage.Imaging.IImageObject.XMax.htm" />
+  <HelpKINode Title="IImageObject.XMin property" Url="html/P-Suoranta.NaturalLanguage.Imaging.IImageObject.XMin.htm" />
+  <HelpKINode Title="IImageObject.YMax property" Url="html/P-Suoranta.NaturalLanguage.Imaging.IImageObject.YMax.htm" />
+  <HelpKINode Title="IImageObject.YMin property" Url="html/P-Suoranta.NaturalLanguage.Imaging.IImageObject.YMin.htm" />
+  <HelpKINode Title="ImageExtensions class" Url="html/AllMembers.T-Suoranta.NaturalLanguage.ImageExtensions.htm" />
+  <HelpKINode Title="ImageExtensions class" Url="html/T-Suoranta.NaturalLanguage.ImageExtensions.htm" />
+  <HelpKINode Title="ImageExtensions class">
+    <HelpKINode Title="about ImageExtensions class" Url="html/T-Suoranta.NaturalLanguage.ImageExtensions.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Suoranta.NaturalLanguage.ImageExtensions.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Suoranta.NaturalLanguage.ImageExtensions.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ImageExtensions.Crop method" Url="html/Overload-Suoranta.NaturalLanguage.ImageExtensions.Crop.htm" />
+  <HelpKINode Title="ImageExtensions.EnlargeByFactor method" Url="html/M-Suoranta.NaturalLanguage.ImageExtensions.EnlargeByFactor.htm" />
+  <HelpKINode Title="ImageExtensions.Grow method" Url="html/M-Suoranta.NaturalLanguage.ImageExtensions.Grow.htm" />
+  <HelpKINode Title="ImageExtensions.ToGrayscale method" Url="html/Overload-Suoranta.NaturalLanguage.ImageExtensions.ToGrayscale.htm" />
+  <HelpKINode Title="ImageExtensions.ToJpeg method" Url="html/M-Suoranta.NaturalLanguage.ImageExtensions.ToJpeg.htm" />
+  <HelpKINode Title="Images enumeration member" Url="html/T-Suoranta.NaturalLanguage.DocumentProcessing.ScanFileTypes.htm" />
+  <HelpKINode Title="Images field" Url="html/F-Suoranta.NaturalLanguage.DocumentProcessing.ScanFileTypes.Images.htm" />
+  <HelpKINode Title="ImageSegmenter class" Url="html/AllMembers.T-Suoranta.NaturalLanguage.Imaging.ImageSegmenter.htm" />
+  <HelpKINode Title="ImageSegmenter class" Url="html/T-Suoranta.NaturalLanguage.Imaging.ImageSegmenter.htm" />
+  <HelpKINode Title="ImageSegmenter class">
+    <HelpKINode Title="about ImageSegmenter class" Url="html/T-Suoranta.NaturalLanguage.Imaging.ImageSegmenter.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Suoranta.NaturalLanguage.Imaging.ImageSegmenter.htm" />
+    <HelpKINode Title="constructor" Url="html/M-Suoranta.NaturalLanguage.Imaging.ImageSegmenter.-ctor.htm" />
+    <HelpKINode Title="fields" Url="html/Fields.T-Suoranta.NaturalLanguage.Imaging.ImageSegmenter.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Suoranta.NaturalLanguage.Imaging.ImageSegmenter.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-Suoranta.NaturalLanguage.Imaging.ImageSegmenter.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ImageSegmenter.context field" Url="html/F-Suoranta.NaturalLanguage.Imaging.ImageSegmenter.context.htm" />
+  <HelpKINode Title="ImageSegmenter.GetImageObjects method" Url="html/M-Suoranta.NaturalLanguage.Imaging.ImageSegmenter.GetImageObjects.htm" />
+  <HelpKINode Title="ImageSegmenter.ImageSegmenter constructor" Url="html/M-Suoranta.NaturalLanguage.Imaging.ImageSegmenter.-ctor.htm" />
+  <HelpKINode Title="ImageSegmenter.InitializeModel method" Url="html/M-Suoranta.NaturalLanguage.Imaging.ImageSegmenter.InitializeModel.htm" />
+  <HelpKINode Title="ImageSegmenter.model field" Url="html/F-Suoranta.NaturalLanguage.Imaging.ImageSegmenter.model.htm" />
+  <HelpKINode Title="ImageSegmenter.modelResolution field" Url="html/F-Suoranta.NaturalLanguage.Imaging.ImageSegmenter.modelResolution.htm" />
+  <HelpKINode Title="ImageSegmenter.ModelsPath property" Url="html/P-Suoranta.NaturalLanguage.Imaging.ImageSegmenter.ModelsPath.htm" />
+  <HelpKINode Title="ImageSegmenter.OnnxInputColumn property" Url="html/P-Suoranta.NaturalLanguage.Imaging.ImageSegmenter.OnnxInputColumn.htm" />
+  <HelpKINode Title="ImageSegmenter.OnnxModelFile property" Url="html/P-Suoranta.NaturalLanguage.Imaging.ImageSegmenter.OnnxModelFile.htm" />
+  <HelpKINode Title="ImageSegmenter.OnnxOutputColumn property" Url="html/P-Suoranta.NaturalLanguage.Imaging.ImageSegmenter.OnnxOutputColumn.htm" />
+  <HelpKINode Title="ImageSegmenter.Segment method" Url="html/M-Suoranta.NaturalLanguage.Imaging.ImageSegmenter.Segment.htm" />
+  <HelpKINode Title="ImageSegmenter.ToDataView method" Url="html/M-Suoranta.NaturalLanguage.Imaging.ImageSegmenter.ToDataView.htm" />
+  <HelpKINode Title="InitializeModel method" Url="html/M-Suoranta.NaturalLanguage.Imaging.ImageSegmenter.InitializeModel.htm" />
+  <HelpKINode Title="InitializeModel method" Url="html/M-Suoranta.NaturalLanguage.Imaging.TDImageSegmenter.InitializeModel.htm" />
+  <HelpKINode Title="IPattern interface" Url="html/AllMembers.T-Suoranta.NaturalLanguage.IPattern.htm" />
+  <HelpKINode Title="IPattern interface" Url="html/T-Suoranta.NaturalLanguage.IPattern.htm" />
+  <HelpKINode Title="IPattern interface">
+    <HelpKINode Title="about IPattern interface" Url="html/T-Suoranta.NaturalLanguage.IPattern.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Suoranta.NaturalLanguage.IPattern.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Suoranta.NaturalLanguage.IPattern.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-Suoranta.NaturalLanguage.IPattern.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IPattern.Expression property" Url="html/P-Suoranta.NaturalLanguage.IPattern.Expression.htm" />
+  <HelpKINode Title="IPattern.Match method" Url="html/M-Suoranta.NaturalLanguage.IPattern.Match.htm" />
+  <HelpKINode Title="IPattern.PatternId property" Url="html/P-Suoranta.NaturalLanguage.IPattern.PatternId.htm" />
+  <HelpKINode Title="Korean enumeration member" Url="html/T-Suoranta.NaturalLanguage.ScriptSystem.htm" />
+  <HelpKINode Title="Korean field" Url="html/F-Suoranta.NaturalLanguage.ScriptSystem.Korean.htm" />
+  <HelpKINode Title="Large enumeration member" Url="html/T-Suoranta.NaturalLanguage.Imaging.YoloV10ImageSegmenter.ModelVariant.htm" />
+  <HelpKINode Title="Large field" Url="html/F-Suoranta.NaturalLanguage.Imaging.YoloV10ImageSegmenter.ModelVariant.Large.htm" />
+  <HelpKINode Title="LastName property" Url="html/P-Suoranta.NaturalLanguage.PersonNamePattern.LastName.htm" />
+  <HelpKINode Title="Latin enumeration member" Url="html/T-Suoranta.NaturalLanguage.ScriptSystem.htm" />
+  <HelpKINode Title="Latin field" Url="html/F-Suoranta.NaturalLanguage.ScriptSystem.Latin.htm" />
+  <HelpKINode Title="Latin property" Url="html/P-Suoranta.NaturalLanguage.Transliteration.StringSubstitution.Latin.htm" />
+  <HelpKINode Title="Line.Bounds property" Url="html/P-Suoranta.NaturalLanguage.OcrRecognizerResult.Line.Bounds.htm" />
+  <HelpKINode Title="Line.LineNumber property" Url="html/P-Suoranta.NaturalLanguage.OcrRecognizerResult.Line.LineNumber.htm" />
+  <HelpKINode Title="Line.Text property" Url="html/P-Suoranta.NaturalLanguage.OcrRecognizerResult.Line.Text.htm" />
+  <HelpKINode Title="LineNumber property" Url="html/P-Suoranta.NaturalLanguage.OcrRecognizerResult.Line.LineNumber.htm" />
+  <HelpKINode Title="Lines property" Url="html/P-Suoranta.NaturalLanguage.OcrRecognizerResult.Lines.htm" />
+  <HelpKINode Title="Map property" Url="html/P-Suoranta.NaturalLanguage.Imaging.SegmentedImage.Map.htm" />
+  <HelpKINode Title="Match method" Url="html/M-Suoranta.NaturalLanguage.IPattern.Match.htm" />
+  <HelpKINode Title="MatchEach method" Url="html/M-Suoranta.NaturalLanguage.DocumentProcessing.TextProcessor.MatchEach.htm" />
+  <HelpKINode Title="Matches property" Url="html/P-Suoranta.NaturalLanguage.DocumentProcessing.PatternSearchResults.FileResults.Matches.htm" />
+  <HelpKINode Title="matchFactory field" Url="html/F-Suoranta.NaturalLanguage.DocumentProcessing.TextProcessor.matchFactory.htm" />
+  <HelpKINode Title="MaxX property" Url="html/P-Suoranta.NaturalLanguage.Imaging.FeatureRegion.MaxX.htm" />
+  <HelpKINode Title="MaxY property" Url="html/P-Suoranta.NaturalLanguage.Imaging.FeatureRegion.MaxY.htm" />
+  <HelpKINode Title="MinX property" Url="html/P-Suoranta.NaturalLanguage.Imaging.FeatureRegion.MinX.htm" />
+  <HelpKINode Title="MinY property" Url="html/P-Suoranta.NaturalLanguage.Imaging.FeatureRegion.MinY.htm" />
+  <HelpKINode Title="model field" Url="html/F-Suoranta.NaturalLanguage.Imaging.ImageSegmenter.model.htm" />
+  <HelpKINode Title="modelResolution field" Url="html/F-Suoranta.NaturalLanguage.Imaging.ImageSegmenter.modelResolution.htm" />
+  <HelpKINode Title="ModelResolution property" Url="html/P-Suoranta.NaturalLanguage.Imaging.SegmentedImage.ModelResolution.htm" />
+  <HelpKINode Title="ModelResolutions.A4_1280 field" Url="html/F-Suoranta.NaturalLanguage.Imaging.TDImageSegmenter.ModelResolutions.A4_1280.htm" />
+  <HelpKINode Title="ModelResolutions.A4_1920 field" Url="html/F-Suoranta.NaturalLanguage.Imaging.TDImageSegmenter.ModelResolutions.A4_1920.htm" />
+  <HelpKINode Title="ModelResolutions.A4_640 field" Url="html/F-Suoranta.NaturalLanguage.Imaging.TDImageSegmenter.ModelResolutions.A4_640.htm" />
+  <HelpKINode Title="ModelResolutions.A4_800 field" Url="html/F-Suoranta.NaturalLanguage.Imaging.TDImageSegmenter.ModelResolutions.A4_800.htm" />
+  <HelpKINode Title="ModelResolutions.A4_960 field" Url="html/F-Suoranta.NaturalLanguage.Imaging.TDImageSegmenter.ModelResolutions.A4_960.htm" />
+  <HelpKINode Title="ModelResolutions.Square_1024 field" Url="html/F-Suoranta.NaturalLanguage.Imaging.TDImageSegmenter.ModelResolutions.Square_1024.htm" />
+  <HelpKINode Title="ModelResolutions.Square_1280 field" Url="html/F-Suoranta.NaturalLanguage.Imaging.TDImageSegmenter.ModelResolutions.Square_1280.htm" />
+  <HelpKINode Title="ModelResolutions.Square_640 field" Url="html/F-Suoranta.NaturalLanguage.Imaging.TDImageSegmenter.ModelResolutions.Square_640.htm" />
+  <HelpKINode Title="ModelResolutions.Square_800 field" Url="html/F-Suoranta.NaturalLanguage.Imaging.TDImageSegmenter.ModelResolutions.Square_800.htm" />
+  <HelpKINode Title="ModelResolutions.Square_960 field" Url="html/F-Suoranta.NaturalLanguage.Imaging.TDImageSegmenter.ModelResolutions.Square_960.htm" />
+  <HelpKINode Title="ModelsPath property" Url="html/P-Suoranta.NaturalLanguage.Imaging.ImageSegmenter.ModelsPath.htm" />
+  <HelpKINode Title="ModelVariant.Baseline field" Url="html/F-Suoranta.NaturalLanguage.Imaging.YoloV10ImageSegmenter.ModelVariant.Baseline.htm" />
+  <HelpKINode Title="ModelVariant.Large field" Url="html/F-Suoranta.NaturalLanguage.Imaging.YoloV10ImageSegmenter.ModelVariant.Large.htm" />
+  <HelpKINode Title="ModelVariant.ResNet_18 field" Url="html/F-Suoranta.NaturalLanguage.Imaging.TDImageSegmenter.ModelVariant.ResNet_18.htm" />
+  <HelpKINode Title="ModelVariant.ResNet_50 field" Url="html/F-Suoranta.NaturalLanguage.Imaging.TDImageSegmenter.ModelVariant.ResNet_50.htm" />
+  <HelpKINode Title="Msg enumeration member" Url="html/T-Suoranta.NaturalLanguage.DocumentProcessing.ScanFileTypes.htm" />
+  <HelpKINode Title="Msg field" Url="html/F-Suoranta.NaturalLanguage.DocumentProcessing.ScanFileTypes.Msg.htm" />
+  <HelpKINode Title="MsgProcessor class" Url="html/AllMembers.T-Suoranta.NaturalLanguage.DocumentProcessing.MsgProcessor.htm" />
+  <HelpKINode Title="MsgProcessor class" Url="html/T-Suoranta.NaturalLanguage.DocumentProcessing.MsgProcessor.htm" />
+  <HelpKINode Title="MsgProcessor class">
+    <HelpKINode Title="about MsgProcessor class" Url="html/T-Suoranta.NaturalLanguage.DocumentProcessing.MsgProcessor.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Suoranta.NaturalLanguage.DocumentProcessing.MsgProcessor.htm" />
+    <HelpKINode Title="constructor" Url="html/M-Suoranta.NaturalLanguage.DocumentProcessing.MsgProcessor.-ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Suoranta.NaturalLanguage.DocumentProcessing.MsgProcessor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MsgProcessor.GetPatternMatches method" Url="html/M-Suoranta.NaturalLanguage.DocumentProcessing.MsgProcessor.GetPatternMatches.htm" />
+  <HelpKINode Title="MsgProcessor.MsgProcessor constructor" Url="html/M-Suoranta.NaturalLanguage.DocumentProcessing.MsgProcessor.-ctor.htm" />
+  <HelpKINode Title="NaturalLanguageException class" Url="html/AllMembers.T-Suoranta.NaturalLanguage.NaturalLanguageException.htm" />
+  <HelpKINode Title="NaturalLanguageException class" Url="html/T-Suoranta.NaturalLanguage.NaturalLanguageException.htm" />
+  <HelpKINode Title="NaturalLanguageException class">
+    <HelpKINode Title="about NaturalLanguageException class" Url="html/T-Suoranta.NaturalLanguage.NaturalLanguageException.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Suoranta.NaturalLanguage.NaturalLanguageException.htm" />
+    <HelpKINode Title="events" Url="html/Events.T-Suoranta.NaturalLanguage.NaturalLanguageException.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Suoranta.NaturalLanguage.NaturalLanguageException.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-Suoranta.NaturalLanguage.NaturalLanguageException.htm" />
+  </HelpKINode>
+  <HelpKINode Title="None enumeration member" Url="html/T-Suoranta.NaturalLanguage.DocumentProcessing.ScanFileTypes.htm" />
+  <HelpKINode Title="None enumeration member" Url="html/T-Suoranta.NaturalLanguage.PersonNamePattern.PersonNameOptions.htm" />
+  <HelpKINode Title="None field" Url="html/F-Suoranta.NaturalLanguage.DocumentProcessing.ScanFileTypes.None.htm" />
+  <HelpKINode Title="None field" Url="html/F-Suoranta.NaturalLanguage.PersonNamePattern.PersonNameOptions.None.htm" />
+  <HelpKINode Title="NonLatin property" Url="html/P-Suoranta.NaturalLanguage.Transliteration.StringSubstitution.NonLatin.htm" />
+  <HelpKINode Title="Objects property" Url="html/P-Suoranta.NaturalLanguage.Imaging.SegmentedImage.Objects.htm" />
+  <HelpKINode Title="OcrHelper class" Url="html/AllMembers.T-Suoranta.NaturalLanguage.OcrHelper.htm" />
+  <HelpKINode Title="OcrHelper class" Url="html/T-Suoranta.NaturalLanguage.OcrHelper.htm" />
+  <HelpKINode Title="OcrHelper class">
+    <HelpKINode Title="about OcrHelper class" Url="html/T-Suoranta.NaturalLanguage.OcrHelper.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Suoranta.NaturalLanguage.OcrHelper.htm" />
+    <HelpKINode Title="constructor" Url="html/M-Suoranta.NaturalLanguage.OcrHelper.-ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Suoranta.NaturalLanguage.OcrHelper.htm" />
+  </HelpKINode>
+  <HelpKINode Title="OcrHelper.GetInstalledLanguages method" Url="html/M-Suoranta.NaturalLanguage.OcrHelper.GetInstalledLanguages.htm" />
+  <HelpKINode Title="OcrHelper.OcrHelper constructor" Url="html/M-Suoranta.NaturalLanguage.OcrHelper.-ctor.htm" />
+  <HelpKINode Title="OcrHelper.RecognizeAsync method" Url="html/M-Suoranta.NaturalLanguage.OcrHelper.RecognizeAsync.htm" />
+  <HelpKINode Title="OcrPatternMatch class" Url="html/AllMembers.T-Suoranta.NaturalLanguage.OcrPatternMatch.htm" />
+  <HelpKINode Title="OcrPatternMatch class" Url="html/T-Suoranta.NaturalLanguage.OcrPatternMatch.htm" />
+  <HelpKINode Title="OcrPatternMatch class">
+    <HelpKINode Title="about OcrPatternMatch class" Url="html/T-Suoranta.NaturalLanguage.OcrPatternMatch.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Suoranta.NaturalLanguage.OcrPatternMatch.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload-Suoranta.NaturalLanguage.OcrPatternMatch.-ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Suoranta.NaturalLanguage.OcrPatternMatch.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-Suoranta.NaturalLanguage.OcrPatternMatch.htm" />
+  </HelpKINode>
+  <HelpKINode Title="OcrPatternMatch.OcrPatternMatch constructor" Url="html/Overload-Suoranta.NaturalLanguage.OcrPatternMatch.-ctor.htm" />
+  <HelpKINode Title="OcrPatternMatch.SourceImageRegion property" Url="html/P-Suoranta.NaturalLanguage.OcrPatternMatch.SourceImageRegion.htm" />
+  <HelpKINode Title="OcrRecognizerResult class" Url="html/AllMembers.T-Suoranta.NaturalLanguage.OcrRecognizerResult.htm" />
+  <HelpKINode Title="OcrRecognizerResult class" Url="html/T-Suoranta.NaturalLanguage.OcrRecognizerResult.htm" />
+  <HelpKINode Title="OcrRecognizerResult class">
+    <HelpKINode Title="about OcrRecognizerResult class" Url="html/T-Suoranta.NaturalLanguage.OcrRecognizerResult.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Suoranta.NaturalLanguage.OcrRecognizerResult.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Suoranta.NaturalLanguage.OcrRecognizerResult.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-Suoranta.NaturalLanguage.OcrRecognizerResult.htm" />
+  </HelpKINode>
+  <HelpKINode Title="OcrRecognizerResult.GetImageRegionOf method" Url="html/M-Suoranta.NaturalLanguage.OcrRecognizerResult.GetImageRegionOf.htm" />
+  <HelpKINode Title="OcrRecognizerResult.Line class" Url="html/AllMembers.T-Suoranta.NaturalLanguage.OcrRecognizerResult.Line.htm" />
+  <HelpKINode Title="OcrRecognizerResult.Line class" Url="html/T-Suoranta.NaturalLanguage.OcrRecognizerResult.Line.htm" />
+  <HelpKINode Title="OcrRecognizerResult.Line class">
+    <HelpKINode Title="about OcrRecognizerResult.Line class" Url="html/T-Suoranta.NaturalLanguage.OcrRecognizerResult.Line.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Suoranta.NaturalLanguage.OcrRecognizerResult.Line.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Suoranta.NaturalLanguage.OcrRecognizerResult.Line.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-Suoranta.NaturalLanguage.OcrRecognizerResult.Line.htm" />
+  </HelpKINode>
+  <HelpKINode Title="OcrRecognizerResult.Lines property" Url="html/P-Suoranta.NaturalLanguage.OcrRecognizerResult.Lines.htm" />
+  <HelpKINode Title="OcrRecognizerResult.SourceBitmap property" Url="html/P-Suoranta.NaturalLanguage.OcrRecognizerResult.SourceBitmap.htm" />
+  <HelpKINode Title="OcrRecognizerResult.SourceId property" Url="html/P-Suoranta.NaturalLanguage.OcrRecognizerResult.SourceId.htm" />
+  <HelpKINode Title="OcrRecognizerResult.Text property" Url="html/P-Suoranta.NaturalLanguage.OcrRecognizerResult.Text.htm" />
+  <HelpKINode Title="OnnxInputColumn property" Url="html/P-Suoranta.NaturalLanguage.Imaging.ImageSegmenter.OnnxInputColumn.htm" />
+  <HelpKINode Title="OnnxInputColumn property" Url="html/P-Suoranta.NaturalLanguage.Imaging.TDImageSegmenter.OnnxInputColumn.htm" />
+  <HelpKINode Title="OnnxInputColumn property" Url="html/P-Suoranta.NaturalLanguage.Imaging.YoloV10ImageSegmenter.OnnxInputColumn.htm" />
+  <HelpKINode Title="OnnxModelFile property" Url="html/P-Suoranta.NaturalLanguage.Imaging.ImageSegmenter.OnnxModelFile.htm" />
+  <HelpKINode Title="OnnxOutputColumn property" Url="html/P-Suoranta.NaturalLanguage.Imaging.ImageSegmenter.OnnxOutputColumn.htm" />
+  <HelpKINode Title="OnnxOutputColumn property" Url="html/P-Suoranta.NaturalLanguage.Imaging.TDImageSegmenter.OnnxOutputColumn.htm" />
+  <HelpKINode Title="OnnxOutputColumn property" Url="html/P-Suoranta.NaturalLanguage.Imaging.YoloV10ImageSegmenter.OnnxOutputColumn.htm" />
+  <HelpKINode Title="Page property" Url="html/P-Suoranta.NaturalLanguage.PatternMatch.Page.htm" />
+  <HelpKINode Title="PartialFirstName enumeration member" Url="html/T-Suoranta.NaturalLanguage.PersonNamePattern.PersonNameOptions.htm" />
+  <HelpKINode Title="PartialFirstName field" Url="html/F-Suoranta.NaturalLanguage.PersonNamePattern.PersonNameOptions.PartialFirstName.htm" />
+  <HelpKINode Title="PartialLastName enumeration member" Url="html/T-Suoranta.NaturalLanguage.PersonNamePattern.PersonNameOptions.htm" />
+  <HelpKINode Title="PartialLastName field" Url="html/F-Suoranta.NaturalLanguage.PersonNamePattern.PersonNameOptions.PartialLastName.htm" />
+  <HelpKINode Title="pattern field" Url="html/F-Suoranta.NaturalLanguage.DocumentProcessing.TextProcessor.pattern.htm" />
+  <HelpKINode Title="Pattern property" Url="html/P-Suoranta.NaturalLanguage.PatternMatch.Pattern.htm" />
+  <HelpKINode Title="Pattern property" Url="html/P-Suoranta.NaturalLanguage.PatternMatchFactory.Pattern.htm" />
+  <HelpKINode Title="PatternId property" Url="html/P-Suoranta.NaturalLanguage.AddressPattern.PatternId.htm" />
+  <HelpKINode Title="PatternId property" Url="html/P-Suoranta.NaturalLanguage.GenericNamePattern.PatternId.htm" />
+  <HelpKINode Title="PatternId property" Url="html/P-Suoranta.NaturalLanguage.IPattern.PatternId.htm" />
+  <HelpKINode Title="PatternId property" Url="html/P-Suoranta.NaturalLanguage.PersonNamePattern.PatternId.htm" />
+  <HelpKINode Title="PatternId property" Url="html/P-Suoranta.NaturalLanguage.PhoneNumberPattern.PatternId.htm" />
+  <HelpKINode Title="PatternMatch class" Url="html/AllMembers.T-Suoranta.NaturalLanguage.PatternMatch.htm" />
+  <HelpKINode Title="PatternMatch class" Url="html/T-Suoranta.NaturalLanguage.PatternMatch.htm" />
+  <HelpKINode Title="PatternMatch class">
+    <HelpKINode Title="about PatternMatch class" Url="html/T-Suoranta.NaturalLanguage.PatternMatch.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Suoranta.NaturalLanguage.PatternMatch.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload-Suoranta.NaturalLanguage.PatternMatch.-ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Suoranta.NaturalLanguage.PatternMatch.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-Suoranta.NaturalLanguage.PatternMatch.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PatternMatch.Page property" Url="html/P-Suoranta.NaturalLanguage.PatternMatch.Page.htm" />
+  <HelpKINode Title="PatternMatch.Pattern property" Url="html/P-Suoranta.NaturalLanguage.PatternMatch.Pattern.htm" />
+  <HelpKINode Title="PatternMatch.PatternMatch constructor" Url="html/Overload-Suoranta.NaturalLanguage.PatternMatch.-ctor.htm" />
+  <HelpKINode Title="PatternMatch.Text property" Url="html/P-Suoranta.NaturalLanguage.PatternMatch.Text.htm" />
+  <HelpKINode Title="PatternMatchFactory class" Url="html/AllMembers.T-Suoranta.NaturalLanguage.PatternMatchFactory.htm" />
+  <HelpKINode Title="PatternMatchFactory class" Url="html/T-Suoranta.NaturalLanguage.PatternMatchFactory.htm" />
+  <HelpKINode Title="PatternMatchFactory class">
+    <HelpKINode Title="about PatternMatchFactory class" Url="html/T-Suoranta.NaturalLanguage.PatternMatchFactory.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Suoranta.NaturalLanguage.PatternMatchFactory.htm" />
+    <HelpKINode Title="constructor" Url="html/M-Suoranta.NaturalLanguage.PatternMatchFactory.-ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Suoranta.NaturalLanguage.PatternMatchFactory.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-Suoranta.NaturalLanguage.PatternMatchFactory.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PatternMatchFactory.Create method" Url="html/Overload-Suoranta.NaturalLanguage.PatternMatchFactory.Create.htm" />
+  <HelpKINode Title="PatternMatchFactory.DefaultPage property" Url="html/P-Suoranta.NaturalLanguage.PatternMatchFactory.DefaultPage.htm" />
+  <HelpKINode Title="PatternMatchFactory.Pattern property" Url="html/P-Suoranta.NaturalLanguage.PatternMatchFactory.Pattern.htm" />
+  <HelpKINode Title="PatternMatchFactory.PatternMatchFactory constructor" Url="html/M-Suoranta.NaturalLanguage.PatternMatchFactory.-ctor.htm" />
+  <HelpKINode Title="PatternSearchResults class" Url="html/AllMembers.T-Suoranta.NaturalLanguage.DocumentProcessing.PatternSearchResults.htm" />
+  <HelpKINode Title="PatternSearchResults class" Url="html/T-Suoranta.NaturalLanguage.DocumentProcessing.PatternSearchResults.htm" />
+  <HelpKINode Title="PatternSearchResults class">
+    <HelpKINode Title="about PatternSearchResults class" Url="html/T-Suoranta.NaturalLanguage.DocumentProcessing.PatternSearchResults.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Suoranta.NaturalLanguage.DocumentProcessing.PatternSearchResults.htm" />
+    <HelpKINode Title="constructor" Url="html/M-Suoranta.NaturalLanguage.DocumentProcessing.PatternSearchResults.-ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Suoranta.NaturalLanguage.DocumentProcessing.PatternSearchResults.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-Suoranta.NaturalLanguage.DocumentProcessing.PatternSearchResults.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PatternSearchResults.AllMatches property" Url="html/P-Suoranta.NaturalLanguage.DocumentProcessing.PatternSearchResults.AllMatches.htm" />
+  <HelpKINode Title="PatternSearchResults.FileResults class" Url="html/AllMembers.T-Suoranta.NaturalLanguage.DocumentProcessing.PatternSearchResults.FileResults.htm" />
+  <HelpKINode Title="PatternSearchResults.FileResults class" Url="html/T-Suoranta.NaturalLanguage.DocumentProcessing.PatternSearchResults.FileResults.htm" />
+  <HelpKINode Title="PatternSearchResults.FileResults class">
+    <HelpKINode Title="about PatternSearchResults.FileResults class" Url="html/T-Suoranta.NaturalLanguage.DocumentProcessing.PatternSearchResults.FileResults.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Suoranta.NaturalLanguage.DocumentProcessing.PatternSearchResults.FileResults.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Suoranta.NaturalLanguage.DocumentProcessing.PatternSearchResults.FileResults.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-Suoranta.NaturalLanguage.DocumentProcessing.PatternSearchResults.FileResults.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PatternSearchResults.PatternSearchResults constructor" Url="html/M-Suoranta.NaturalLanguage.DocumentProcessing.PatternSearchResults.-ctor.htm" />
+  <HelpKINode Title="PatternSearchResults.SearchRoot property" Url="html/P-Suoranta.NaturalLanguage.DocumentProcessing.PatternSearchResults.SearchRoot.htm" />
+  <HelpKINode Title="Pdf enumeration member" Url="html/T-Suoranta.NaturalLanguage.DocumentProcessing.ScanFileTypes.htm" />
+  <HelpKINode Title="Pdf field" Url="html/F-Suoranta.NaturalLanguage.DocumentProcessing.ScanFileTypes.Pdf.htm" />
+  <HelpKINode Title="PdfProcessor class" Url="html/AllMembers.T-Suoranta.NaturalLanguage.DocumentProcessing.PdfProcessor.htm" />
+  <HelpKINode Title="PdfProcessor class" Url="html/T-Suoranta.NaturalLanguage.DocumentProcessing.PdfProcessor.htm" />
+  <HelpKINode Title="PdfProcessor class">
+    <HelpKINode Title="about PdfProcessor class" Url="html/T-Suoranta.NaturalLanguage.DocumentProcessing.PdfProcessor.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Suoranta.NaturalLanguage.DocumentProcessing.PdfProcessor.htm" />
+    <HelpKINode Title="constructor" Url="html/M-Suoranta.NaturalLanguage.DocumentProcessing.PdfProcessor.-ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Suoranta.NaturalLanguage.DocumentProcessing.PdfProcessor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PdfProcessor.GetPatternMatches method" Url="html/Overload-Suoranta.NaturalLanguage.DocumentProcessing.PdfProcessor.GetPatternMatches.htm" />
+  <HelpKINode Title="PdfProcessor.PdfProcessor constructor" Url="html/M-Suoranta.NaturalLanguage.DocumentProcessing.PdfProcessor.-ctor.htm" />
+  <HelpKINode Title="PersonNameOptions.None field" Url="html/F-Suoranta.NaturalLanguage.PersonNamePattern.PersonNameOptions.None.htm" />
+  <HelpKINode Title="PersonNameOptions.PartialFirstName field" Url="html/F-Suoranta.NaturalLanguage.PersonNamePattern.PersonNameOptions.PartialFirstName.htm" />
+  <HelpKINode Title="PersonNameOptions.PartialLastName field" Url="html/F-Suoranta.NaturalLanguage.PersonNamePattern.PersonNameOptions.PartialLastName.htm" />
+  <HelpKINode Title="PersonNamePattern class" Url="html/AllMembers.T-Suoranta.NaturalLanguage.PersonNamePattern.htm" />
+  <HelpKINode Title="PersonNamePattern class" Url="html/T-Suoranta.NaturalLanguage.PersonNamePattern.htm" />
+  <HelpKINode Title="PersonNamePattern class">
+    <HelpKINode Title="about PersonNamePattern class" Url="html/T-Suoranta.NaturalLanguage.PersonNamePattern.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Suoranta.NaturalLanguage.PersonNamePattern.htm" />
+    <HelpKINode Title="constructor" Url="html/M-Suoranta.NaturalLanguage.PersonNamePattern.-ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Suoranta.NaturalLanguage.PersonNamePattern.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-Suoranta.NaturalLanguage.PersonNamePattern.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PersonNamePattern.Expression property" Url="html/P-Suoranta.NaturalLanguage.PersonNamePattern.Expression.htm" />
+  <HelpKINode Title="PersonNamePattern.FirstName property" Url="html/P-Suoranta.NaturalLanguage.PersonNamePattern.FirstName.htm" />
+  <HelpKINode Title="PersonNamePattern.LastName property" Url="html/P-Suoranta.NaturalLanguage.PersonNamePattern.LastName.htm" />
+  <HelpKINode Title="PersonNamePattern.PatternId property" Url="html/P-Suoranta.NaturalLanguage.PersonNamePattern.PatternId.htm" />
+  <HelpKINode Title="PersonNamePattern.PersonNameOptions enumeration" Url="html/T-Suoranta.NaturalLanguage.PersonNamePattern.PersonNameOptions.htm" />
+  <HelpKINode Title="PersonNamePattern.PersonNamePattern constructor" Url="html/M-Suoranta.NaturalLanguage.PersonNamePattern.-ctor.htm" />
+  <HelpKINode Title="PersonNamePattern.SourceScript property" Url="html/P-Suoranta.NaturalLanguage.PersonNamePattern.SourceScript.htm" />
+  <HelpKINode Title="PhoneNumber property" Url="html/P-Suoranta.NaturalLanguage.PhoneNumberPattern.PhoneNumber.htm" />
+  <HelpKINode Title="PhoneNumberPattern class" Url="html/AllMembers.T-Suoranta.NaturalLanguage.PhoneNumberPattern.htm" />
+  <HelpKINode Title="PhoneNumberPattern class" Url="html/T-Suoranta.NaturalLanguage.PhoneNumberPattern.htm" />
+  <HelpKINode Title="PhoneNumberPattern class">
+    <HelpKINode Title="about PhoneNumberPattern class" Url="html/T-Suoranta.NaturalLanguage.PhoneNumberPattern.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Suoranta.NaturalLanguage.PhoneNumberPattern.htm" />
+    <HelpKINode Title="constructor" Url="html/M-Suoranta.NaturalLanguage.PhoneNumberPattern.-ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Suoranta.NaturalLanguage.PhoneNumberPattern.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-Suoranta.NaturalLanguage.PhoneNumberPattern.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PhoneNumberPattern.Expression property" Url="html/P-Suoranta.NaturalLanguage.PhoneNumberPattern.Expression.htm" />
+  <HelpKINode Title="PhoneNumberPattern.PatternId property" Url="html/P-Suoranta.NaturalLanguage.PhoneNumberPattern.PatternId.htm" />
+  <HelpKINode Title="PhoneNumberPattern.PhoneNumber property" Url="html/P-Suoranta.NaturalLanguage.PhoneNumberPattern.PhoneNumber.htm" />
+  <HelpKINode Title="PhoneNumberPattern.PhoneNumberPattern constructor" Url="html/M-Suoranta.NaturalLanguage.PhoneNumberPattern.-ctor.htm" />
+  <HelpKINode Title="PlainTextProcessor class" Url="html/AllMembers.T-Suoranta.NaturalLanguage.DocumentProcessing.PlainTextProcessor.htm" />
+  <HelpKINode Title="PlainTextProcessor class" Url="html/T-Suoranta.NaturalLanguage.DocumentProcessing.PlainTextProcessor.htm" />
+  <HelpKINode Title="PlainTextProcessor class">
+    <HelpKINode Title="about PlainTextProcessor class" Url="html/T-Suoranta.NaturalLanguage.DocumentProcessing.PlainTextProcessor.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Suoranta.NaturalLanguage.DocumentProcessing.PlainTextProcessor.htm" />
+    <HelpKINode Title="constructor" Url="html/M-Suoranta.NaturalLanguage.DocumentProcessing.PlainTextProcessor.-ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Suoranta.NaturalLanguage.DocumentProcessing.PlainTextProcessor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PlainTextProcessor.GetPatternMatches method" Url="html/M-Suoranta.NaturalLanguage.DocumentProcessing.PlainTextProcessor.GetPatternMatches.htm" />
+  <HelpKINode Title="PlainTextProcessor.PlainTextProcessor constructor" Url="html/M-Suoranta.NaturalLanguage.DocumentProcessing.PlainTextProcessor.-ctor.htm" />
+  <HelpKINode Title="RecognizeAsync method" Url="html/M-Suoranta.NaturalLanguage.OcrHelper.RecognizeAsync.htm" />
+  <HelpKINode Title="ResNet_18 enumeration member" Url="html/T-Suoranta.NaturalLanguage.Imaging.TDImageSegmenter.ModelVariant.htm" />
+  <HelpKINode Title="ResNet_18 field" Url="html/F-Suoranta.NaturalLanguage.Imaging.TDImageSegmenter.ModelVariant.ResNet_18.htm" />
+  <HelpKINode Title="ResNet_50 enumeration member" Url="html/T-Suoranta.NaturalLanguage.Imaging.TDImageSegmenter.ModelVariant.htm" />
+  <HelpKINode Title="ResNet_50 field" Url="html/F-Suoranta.NaturalLanguage.Imaging.TDImageSegmenter.ModelVariant.ResNet_50.htm" />
+  <HelpKINode Title="ScanFileTypes enumeration" Url="html/T-Suoranta.NaturalLanguage.DocumentProcessing.ScanFileTypes.htm" />
+  <HelpKINode Title="ScanFileTypes.DocX field" Url="html/F-Suoranta.NaturalLanguage.DocumentProcessing.ScanFileTypes.DocX.htm" />
+  <HelpKINode Title="ScanFileTypes.Html field" Url="html/F-Suoranta.NaturalLanguage.DocumentProcessing.ScanFileTypes.Html.htm" />
+  <HelpKINode Title="ScanFileTypes.Images field" Url="html/F-Suoranta.NaturalLanguage.DocumentProcessing.ScanFileTypes.Images.htm" />
+  <HelpKINode Title="ScanFileTypes.Msg field" Url="html/F-Suoranta.NaturalLanguage.DocumentProcessing.ScanFileTypes.Msg.htm" />
+  <HelpKINode Title="ScanFileTypes.None field" Url="html/F-Suoranta.NaturalLanguage.DocumentProcessing.ScanFileTypes.None.htm" />
+  <HelpKINode Title="ScanFileTypes.Pdf field" Url="html/F-Suoranta.NaturalLanguage.DocumentProcessing.ScanFileTypes.Pdf.htm" />
+  <HelpKINode Title="Score property" Url="html/P-Suoranta.NaturalLanguage.Imaging.IImageObject.Score.htm" />
+  <HelpKINode Title="Script property" Url="html/P-Suoranta.NaturalLanguage.Transliteration.CyrillicEnglishTransliterator.Script.htm" />
+  <HelpKINode Title="Script property" Url="html/P-Suoranta.NaturalLanguage.Transliteration.CyrillicIsoTransliterator.Script.htm" />
+  <HelpKINode Title="Script property" Url="html/P-Suoranta.NaturalLanguage.Transliteration.TransliterationException.Script.htm" />
+  <HelpKINode Title="Script property" Url="html/P-Suoranta.NaturalLanguage.Transliteration.Transliterator.Script.htm" />
+  <HelpKINode Title="ScriptSystem enumeration" Url="html/T-Suoranta.NaturalLanguage.ScriptSystem.htm" />
+  <HelpKINode Title="ScriptSystem.Arabic field" Url="html/F-Suoranta.NaturalLanguage.ScriptSystem.Arabic.htm" />
+  <HelpKINode Title="ScriptSystem.Chinese field" Url="html/F-Suoranta.NaturalLanguage.ScriptSystem.Chinese.htm" />
+  <HelpKINode Title="ScriptSystem.Cyrillic field" Url="html/F-Suoranta.NaturalLanguage.ScriptSystem.Cyrillic.htm" />
+  <HelpKINode Title="ScriptSystem.Devanagari field" Url="html/F-Suoranta.NaturalLanguage.ScriptSystem.Devanagari.htm" />
+  <HelpKINode Title="ScriptSystem.Greek field" Url="html/F-Suoranta.NaturalLanguage.ScriptSystem.Greek.htm" />
+  <HelpKINode Title="ScriptSystem.Hiragana field" Url="html/F-Suoranta.NaturalLanguage.ScriptSystem.Hiragana.htm" />
+  <HelpKINode Title="ScriptSystem.Korean field" Url="html/F-Suoranta.NaturalLanguage.ScriptSystem.Korean.htm" />
+  <HelpKINode Title="ScriptSystem.Latin field" Url="html/F-Suoranta.NaturalLanguage.ScriptSystem.Latin.htm" />
+  <HelpKINode Title="SearchRoot property" Url="html/P-Suoranta.NaturalLanguage.DocumentProcessing.PatternSearchResults.SearchRoot.htm" />
+  <HelpKINode Title="Segment method" Url="html/M-Suoranta.NaturalLanguage.Imaging.ImageSegmenter.Segment.htm" />
+  <HelpKINode Title="Segment method" Url="html/M-Suoranta.NaturalLanguage.Imaging.TDImageSegmenter.Segment.htm" />
+  <HelpKINode Title="SegmentedImage class" Url="html/AllMembers.T-Suoranta.NaturalLanguage.Imaging.SegmentedImage.htm" />
+  <HelpKINode Title="SegmentedImage class" Url="html/T-Suoranta.NaturalLanguage.Imaging.SegmentedImage.htm" />
+  <HelpKINode Title="SegmentedImage class">
+    <HelpKINode Title="about SegmentedImage class" Url="html/T-Suoranta.NaturalLanguage.Imaging.SegmentedImage.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Suoranta.NaturalLanguage.Imaging.SegmentedImage.htm" />
+    <HelpKINode Title="constructor" Url="html/M-Suoranta.NaturalLanguage.Imaging.SegmentedImage.-ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Suoranta.NaturalLanguage.Imaging.SegmentedImage.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-Suoranta.NaturalLanguage.Imaging.SegmentedImage.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SegmentedImage.GetBoundingBox method" Url="html/M-Suoranta.NaturalLanguage.Imaging.SegmentedImage.GetBoundingBox.htm" />
+  <HelpKINode Title="SegmentedImage.Map property" Url="html/P-Suoranta.NaturalLanguage.Imaging.SegmentedImage.Map.htm" />
+  <HelpKINode Title="SegmentedImage.ModelResolution property" Url="html/P-Suoranta.NaturalLanguage.Imaging.SegmentedImage.ModelResolution.htm" />
+  <HelpKINode Title="SegmentedImage.Objects property" Url="html/P-Suoranta.NaturalLanguage.Imaging.SegmentedImage.Objects.htm" />
+  <HelpKINode Title="SegmentedImage.SegmentedImage constructor" Url="html/M-Suoranta.NaturalLanguage.Imaging.SegmentedImage.-ctor.htm" />
+  <HelpKINode Title="SegmentedImage.ToImageX method" Url="html/M-Suoranta.NaturalLanguage.Imaging.SegmentedImage.ToImageX.htm" />
+  <HelpKINode Title="SegmentedImage.ToImageY method" Url="html/M-Suoranta.NaturalLanguage.Imaging.SegmentedImage.ToImageY.htm" />
+  <HelpKINode Title="Services property" Url="html/P-Suoranta.NaturalLanguage.DocumentProcessing.TextProcessor.Services.htm" />
+  <HelpKINode Title="SourceBitmap property" Url="html/P-Suoranta.NaturalLanguage.OcrRecognizerResult.SourceBitmap.htm" />
+  <HelpKINode Title="SourceFilePath property" Url="html/P-Suoranta.NaturalLanguage.DocumentProcessing.DocumentException.SourceFilePath.htm" />
+  <HelpKINode Title="SourceId property" Url="html/P-Suoranta.NaturalLanguage.OcrRecognizerResult.SourceId.htm" />
+  <HelpKINode Title="SourceImageRegion property" Url="html/P-Suoranta.NaturalLanguage.OcrPatternMatch.SourceImageRegion.htm" />
+  <HelpKINode Title="SourceScript property" Url="html/P-Suoranta.NaturalLanguage.PersonNamePattern.SourceScript.htm" />
+  <HelpKINode Title="Square_1024 enumeration member" Url="html/T-Suoranta.NaturalLanguage.Imaging.TDImageSegmenter.ModelResolutions.htm" />
+  <HelpKINode Title="Square_1024 field" Url="html/F-Suoranta.NaturalLanguage.Imaging.TDImageSegmenter.ModelResolutions.Square_1024.htm" />
+  <HelpKINode Title="Square_1280 enumeration member" Url="html/T-Suoranta.NaturalLanguage.Imaging.TDImageSegmenter.ModelResolutions.htm" />
+  <HelpKINode Title="Square_1280 field" Url="html/F-Suoranta.NaturalLanguage.Imaging.TDImageSegmenter.ModelResolutions.Square_1280.htm" />
+  <HelpKINode Title="Square_640 enumeration member" Url="html/T-Suoranta.NaturalLanguage.Imaging.TDImageSegmenter.ModelResolutions.htm" />
+  <HelpKINode Title="Square_640 field" Url="html/F-Suoranta.NaturalLanguage.Imaging.TDImageSegmenter.ModelResolutions.Square_640.htm" />
+  <HelpKINode Title="Square_800 enumeration member" Url="html/T-Suoranta.NaturalLanguage.Imaging.TDImageSegmenter.ModelResolutions.htm" />
+  <HelpKINode Title="Square_800 field" Url="html/F-Suoranta.NaturalLanguage.Imaging.TDImageSegmenter.ModelResolutions.Square_800.htm" />
+  <HelpKINode Title="Square_960 enumeration member" Url="html/T-Suoranta.NaturalLanguage.Imaging.TDImageSegmenter.ModelResolutions.htm" />
+  <HelpKINode Title="Square_960 field" Url="html/F-Suoranta.NaturalLanguage.Imaging.TDImageSegmenter.ModelResolutions.Square_960.htm" />
+  <HelpKINode Title="StreetName property" Url="html/P-Suoranta.NaturalLanguage.AddressPattern.StreetName.htm" />
+  <HelpKINode Title="StringSubstitution class" Url="html/AllMembers.T-Suoranta.NaturalLanguage.Transliteration.StringSubstitution.htm" />
+  <HelpKINode Title="StringSubstitution class" Url="html/T-Suoranta.NaturalLanguage.Transliteration.StringSubstitution.htm" />
+  <HelpKINode Title="StringSubstitution class">
+    <HelpKINode Title="about StringSubstitution class" Url="html/T-Suoranta.NaturalLanguage.Transliteration.StringSubstitution.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Suoranta.NaturalLanguage.Transliteration.StringSubstitution.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload-Suoranta.NaturalLanguage.Transliteration.StringSubstitution.-ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Suoranta.NaturalLanguage.Transliteration.StringSubstitution.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-Suoranta.NaturalLanguage.Transliteration.StringSubstitution.htm" />
+  </HelpKINode>
+  <HelpKINode Title="StringSubstitution.FromLatin method" Url="html/M-Suoranta.NaturalLanguage.Transliteration.StringSubstitution.FromLatin.htm" />
+  <HelpKINode Title="StringSubstitution.GetObjectData method" Url="html/M-Suoranta.NaturalLanguage.Transliteration.StringSubstitution.GetObjectData.htm" />
+  <HelpKINode Title="StringSubstitution.Latin property" Url="html/P-Suoranta.NaturalLanguage.Transliteration.StringSubstitution.Latin.htm" />
+  <HelpKINode Title="StringSubstitution.NonLatin property" Url="html/P-Suoranta.NaturalLanguage.Transliteration.StringSubstitution.NonLatin.htm" />
+  <HelpKINode Title="StringSubstitution.StringSubstitution constructor" Url="html/Overload-Suoranta.NaturalLanguage.Transliteration.StringSubstitution.-ctor.htm" />
+  <HelpKINode Title="StringSubstitution.ToLatin method" Url="html/M-Suoranta.NaturalLanguage.Transliteration.StringSubstitution.ToLatin.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage namespace" Url="html/N-Suoranta.NaturalLanguage.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.AddressPattern class" Url="html/AllMembers.T-Suoranta.NaturalLanguage.AddressPattern.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.AddressPattern class" Url="html/T-Suoranta.NaturalLanguage.AddressPattern.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.DocumentProcessing namespace" Url="html/N-Suoranta.NaturalLanguage.DocumentProcessing.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.DocumentProcessing.DocumentException class" Url="html/AllMembers.T-Suoranta.NaturalLanguage.DocumentProcessing.DocumentException.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.DocumentProcessing.DocumentException class" Url="html/T-Suoranta.NaturalLanguage.DocumentProcessing.DocumentException.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.DocumentProcessing.DocumentHyperlink class" Url="html/AllMembers.T-Suoranta.NaturalLanguage.DocumentProcessing.DocumentHyperlink.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.DocumentProcessing.DocumentHyperlink class" Url="html/T-Suoranta.NaturalLanguage.DocumentProcessing.DocumentHyperlink.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.DocumentProcessing.DocumentImageProcessor class" Url="html/AllMembers.T-Suoranta.NaturalLanguage.DocumentProcessing.DocumentImageProcessor.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.DocumentProcessing.DocumentImageProcessor class" Url="html/T-Suoranta.NaturalLanguage.DocumentProcessing.DocumentImageProcessor.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.DocumentProcessing.DocXProcessor class" Url="html/AllMembers.T-Suoranta.NaturalLanguage.DocumentProcessing.DocXProcessor.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.DocumentProcessing.DocXProcessor class" Url="html/T-Suoranta.NaturalLanguage.DocumentProcessing.DocXProcessor.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.DocumentProcessing.Extensions class" Url="html/AllMembers.T-Suoranta.NaturalLanguage.DocumentProcessing.Extensions.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.DocumentProcessing.Extensions class" Url="html/T-Suoranta.NaturalLanguage.DocumentProcessing.Extensions.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.DocumentProcessing.HtmlProcessor class" Url="html/AllMembers.T-Suoranta.NaturalLanguage.DocumentProcessing.HtmlProcessor.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.DocumentProcessing.HtmlProcessor class" Url="html/T-Suoranta.NaturalLanguage.DocumentProcessing.HtmlProcessor.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.DocumentProcessing.IDocumentProcessor interface" Url="html/AllMembers.T-Suoranta.NaturalLanguage.DocumentProcessing.IDocumentProcessor.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.DocumentProcessing.IDocumentProcessor interface" Url="html/T-Suoranta.NaturalLanguage.DocumentProcessing.IDocumentProcessor.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.DocumentProcessing.MsgProcessor class" Url="html/AllMembers.T-Suoranta.NaturalLanguage.DocumentProcessing.MsgProcessor.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.DocumentProcessing.MsgProcessor class" Url="html/T-Suoranta.NaturalLanguage.DocumentProcessing.MsgProcessor.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.DocumentProcessing.PatternSearchResults class" Url="html/AllMembers.T-Suoranta.NaturalLanguage.DocumentProcessing.PatternSearchResults.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.DocumentProcessing.PatternSearchResults class" Url="html/T-Suoranta.NaturalLanguage.DocumentProcessing.PatternSearchResults.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.DocumentProcessing.PatternSearchResults.FileResults class" Url="html/AllMembers.T-Suoranta.NaturalLanguage.DocumentProcessing.PatternSearchResults.FileResults.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.DocumentProcessing.PatternSearchResults.FileResults class" Url="html/T-Suoranta.NaturalLanguage.DocumentProcessing.PatternSearchResults.FileResults.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.DocumentProcessing.PdfProcessor class" Url="html/AllMembers.T-Suoranta.NaturalLanguage.DocumentProcessing.PdfProcessor.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.DocumentProcessing.PdfProcessor class" Url="html/T-Suoranta.NaturalLanguage.DocumentProcessing.PdfProcessor.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.DocumentProcessing.PlainTextProcessor class" Url="html/AllMembers.T-Suoranta.NaturalLanguage.DocumentProcessing.PlainTextProcessor.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.DocumentProcessing.PlainTextProcessor class" Url="html/T-Suoranta.NaturalLanguage.DocumentProcessing.PlainTextProcessor.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.DocumentProcessing.ScanFileTypes enumeration" Url="html/T-Suoranta.NaturalLanguage.DocumentProcessing.ScanFileTypes.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.DocumentProcessing.TextProcessor class" Url="html/AllMembers.T-Suoranta.NaturalLanguage.DocumentProcessing.TextProcessor.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.DocumentProcessing.TextProcessor class" Url="html/T-Suoranta.NaturalLanguage.DocumentProcessing.TextProcessor.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.Extensions class" Url="html/AllMembers.T-Suoranta.NaturalLanguage.Extensions.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.Extensions class" Url="html/T-Suoranta.NaturalLanguage.Extensions.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.GenericNamePattern class" Url="html/AllMembers.T-Suoranta.NaturalLanguage.GenericNamePattern.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.GenericNamePattern class" Url="html/T-Suoranta.NaturalLanguage.GenericNamePattern.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.IdentifyLanguage class" Url="html/AllMembers.T-Suoranta.NaturalLanguage.IdentifyLanguage.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.IdentifyLanguage class" Url="html/T-Suoranta.NaturalLanguage.IdentifyLanguage.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.ImageExtensions class" Url="html/AllMembers.T-Suoranta.NaturalLanguage.ImageExtensions.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.ImageExtensions class" Url="html/T-Suoranta.NaturalLanguage.ImageExtensions.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.Imaging namespace" Url="html/N-Suoranta.NaturalLanguage.Imaging.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.Imaging.FeatureRegion structure" Url="html/AllMembers.T-Suoranta.NaturalLanguage.Imaging.FeatureRegion.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.Imaging.FeatureRegion structure" Url="html/T-Suoranta.NaturalLanguage.Imaging.FeatureRegion.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.Imaging.IImageObject interface" Url="html/AllMembers.T-Suoranta.NaturalLanguage.Imaging.IImageObject.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.Imaging.IImageObject interface" Url="html/T-Suoranta.NaturalLanguage.Imaging.IImageObject.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.Imaging.ImageSegmenter class" Url="html/AllMembers.T-Suoranta.NaturalLanguage.Imaging.ImageSegmenter.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.Imaging.ImageSegmenter class" Url="html/T-Suoranta.NaturalLanguage.Imaging.ImageSegmenter.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.Imaging.SegmentedImage class" Url="html/AllMembers.T-Suoranta.NaturalLanguage.Imaging.SegmentedImage.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.Imaging.SegmentedImage class" Url="html/T-Suoranta.NaturalLanguage.Imaging.SegmentedImage.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.Imaging.TDImageSegmenter class" Url="html/AllMembers.T-Suoranta.NaturalLanguage.Imaging.TDImageSegmenter.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.Imaging.TDImageSegmenter class" Url="html/T-Suoranta.NaturalLanguage.Imaging.TDImageSegmenter.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.Imaging.TDImageSegmenter.ModelResolutions enumeration" Url="html/T-Suoranta.NaturalLanguage.Imaging.TDImageSegmenter.ModelResolutions.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.Imaging.TDImageSegmenter.ModelVariant enumeration" Url="html/T-Suoranta.NaturalLanguage.Imaging.TDImageSegmenter.ModelVariant.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.Imaging.YoloV10ImageSegmenter class" Url="html/AllMembers.T-Suoranta.NaturalLanguage.Imaging.YoloV10ImageSegmenter.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.Imaging.YoloV10ImageSegmenter class" Url="html/T-Suoranta.NaturalLanguage.Imaging.YoloV10ImageSegmenter.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.Imaging.YoloV10ImageSegmenter.ModelVariant enumeration" Url="html/T-Suoranta.NaturalLanguage.Imaging.YoloV10ImageSegmenter.ModelVariant.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.IPattern interface" Url="html/AllMembers.T-Suoranta.NaturalLanguage.IPattern.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.IPattern interface" Url="html/T-Suoranta.NaturalLanguage.IPattern.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.NaturalLanguageException class" Url="html/AllMembers.T-Suoranta.NaturalLanguage.NaturalLanguageException.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.NaturalLanguageException class" Url="html/T-Suoranta.NaturalLanguage.NaturalLanguageException.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.OcrHelper class" Url="html/AllMembers.T-Suoranta.NaturalLanguage.OcrHelper.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.OcrHelper class" Url="html/T-Suoranta.NaturalLanguage.OcrHelper.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.OcrPatternMatch class" Url="html/AllMembers.T-Suoranta.NaturalLanguage.OcrPatternMatch.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.OcrPatternMatch class" Url="html/T-Suoranta.NaturalLanguage.OcrPatternMatch.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.OcrRecognizerResult class" Url="html/AllMembers.T-Suoranta.NaturalLanguage.OcrRecognizerResult.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.OcrRecognizerResult class" Url="html/T-Suoranta.NaturalLanguage.OcrRecognizerResult.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.OcrRecognizerResult.Line class" Url="html/AllMembers.T-Suoranta.NaturalLanguage.OcrRecognizerResult.Line.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.OcrRecognizerResult.Line class" Url="html/T-Suoranta.NaturalLanguage.OcrRecognizerResult.Line.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.PatternMatch class" Url="html/AllMembers.T-Suoranta.NaturalLanguage.PatternMatch.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.PatternMatch class" Url="html/T-Suoranta.NaturalLanguage.PatternMatch.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.PatternMatchFactory class" Url="html/AllMembers.T-Suoranta.NaturalLanguage.PatternMatchFactory.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.PatternMatchFactory class" Url="html/T-Suoranta.NaturalLanguage.PatternMatchFactory.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.PersonNamePattern class" Url="html/AllMembers.T-Suoranta.NaturalLanguage.PersonNamePattern.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.PersonNamePattern class" Url="html/T-Suoranta.NaturalLanguage.PersonNamePattern.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.PersonNamePattern.PersonNameOptions enumeration" Url="html/T-Suoranta.NaturalLanguage.PersonNamePattern.PersonNameOptions.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.PhoneNumberPattern class" Url="html/AllMembers.T-Suoranta.NaturalLanguage.PhoneNumberPattern.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.PhoneNumberPattern class" Url="html/T-Suoranta.NaturalLanguage.PhoneNumberPattern.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.ScriptSystem enumeration" Url="html/T-Suoranta.NaturalLanguage.ScriptSystem.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.Transliteration namespace" Url="html/N-Suoranta.NaturalLanguage.Transliteration.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.Transliteration.CyrillicEnglishTransliterator class" Url="html/AllMembers.T-Suoranta.NaturalLanguage.Transliteration.CyrillicEnglishTransliterator.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.Transliteration.CyrillicEnglishTransliterator class" Url="html/T-Suoranta.NaturalLanguage.Transliteration.CyrillicEnglishTransliterator.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.Transliteration.CyrillicIsoTransliterator class" Url="html/AllMembers.T-Suoranta.NaturalLanguage.Transliteration.CyrillicIsoTransliterator.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.Transliteration.CyrillicIsoTransliterator class" Url="html/T-Suoranta.NaturalLanguage.Transliteration.CyrillicIsoTransliterator.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.Transliteration.StringSubstitution class" Url="html/AllMembers.T-Suoranta.NaturalLanguage.Transliteration.StringSubstitution.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.Transliteration.StringSubstitution class" Url="html/T-Suoranta.NaturalLanguage.Transliteration.StringSubstitution.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.Transliteration.TransliterationException class" Url="html/AllMembers.T-Suoranta.NaturalLanguage.Transliteration.TransliterationException.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.Transliteration.TransliterationException class" Url="html/T-Suoranta.NaturalLanguage.Transliteration.TransliterationException.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.Transliteration.Transliterator class" Url="html/AllMembers.T-Suoranta.NaturalLanguage.Transliteration.Transliterator.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.Transliteration.Transliterator class" Url="html/T-Suoranta.NaturalLanguage.Transliteration.Transliterator.htm" />
+  <HelpKINode Title="Suoranta.NaturalLanguage.Transliteration.Transliterator.Direction enumeration" Url="html/T-Suoranta.NaturalLanguage.Transliteration.Transliterator.Direction.htm" />
+  <HelpKINode Title="TDImageSegmenter class" Url="html/AllMembers.T-Suoranta.NaturalLanguage.Imaging.TDImageSegmenter.htm" />
+  <HelpKINode Title="TDImageSegmenter class" Url="html/T-Suoranta.NaturalLanguage.Imaging.TDImageSegmenter.htm" />
+  <HelpKINode Title="TDImageSegmenter class">
+    <HelpKINode Title="about TDImageSegmenter class" Url="html/T-Suoranta.NaturalLanguage.Imaging.TDImageSegmenter.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Suoranta.NaturalLanguage.Imaging.TDImageSegmenter.htm" />
+    <HelpKINode Title="constructor" Url="html/M-Suoranta.NaturalLanguage.Imaging.TDImageSegmenter.-ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Suoranta.NaturalLanguage.Imaging.TDImageSegmenter.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-Suoranta.NaturalLanguage.Imaging.TDImageSegmenter.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TDImageSegmenter.GetImageObjects method" Url="html/M-Suoranta.NaturalLanguage.Imaging.TDImageSegmenter.GetImageObjects.htm" />
+  <HelpKINode Title="TDImageSegmenter.InitializeModel method" Url="html/M-Suoranta.NaturalLanguage.Imaging.TDImageSegmenter.InitializeModel.htm" />
+  <HelpKINode Title="TDImageSegmenter.ModelResolutions enumeration" Url="html/T-Suoranta.NaturalLanguage.Imaging.TDImageSegmenter.ModelResolutions.htm" />
+  <HelpKINode Title="TDImageSegmenter.ModelVariant enumeration" Url="html/T-Suoranta.NaturalLanguage.Imaging.TDImageSegmenter.ModelVariant.htm" />
+  <HelpKINode Title="TDImageSegmenter.OnnxInputColumn property" Url="html/P-Suoranta.NaturalLanguage.Imaging.TDImageSegmenter.OnnxInputColumn.htm" />
+  <HelpKINode Title="TDImageSegmenter.OnnxOutputColumn property" Url="html/P-Suoranta.NaturalLanguage.Imaging.TDImageSegmenter.OnnxOutputColumn.htm" />
+  <HelpKINode Title="TDImageSegmenter.Segment method" Url="html/M-Suoranta.NaturalLanguage.Imaging.TDImageSegmenter.Segment.htm" />
+  <HelpKINode Title="TDImageSegmenter.TDImageSegmenter constructor" Url="html/M-Suoranta.NaturalLanguage.Imaging.TDImageSegmenter.-ctor.htm" />
+  <HelpKINode Title="Text property" Url="html/P-Suoranta.NaturalLanguage.DocumentProcessing.DocumentHyperlink.Text.htm" />
+  <HelpKINode Title="Text property" Url="html/P-Suoranta.NaturalLanguage.GenericNamePattern.Text.htm" />
+  <HelpKINode Title="Text property" Url="html/P-Suoranta.NaturalLanguage.OcrRecognizerResult.Line.Text.htm" />
+  <HelpKINode Title="Text property" Url="html/P-Suoranta.NaturalLanguage.OcrRecognizerResult.Text.htm" />
+  <HelpKINode Title="Text property" Url="html/P-Suoranta.NaturalLanguage.PatternMatch.Text.htm" />
+  <HelpKINode Title="TextProcessor class" Url="html/AllMembers.T-Suoranta.NaturalLanguage.DocumentProcessing.TextProcessor.htm" />
+  <HelpKINode Title="TextProcessor class" Url="html/T-Suoranta.NaturalLanguage.DocumentProcessing.TextProcessor.htm" />
+  <HelpKINode Title="TextProcessor class">
+    <HelpKINode Title="about TextProcessor class" Url="html/T-Suoranta.NaturalLanguage.DocumentProcessing.TextProcessor.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Suoranta.NaturalLanguage.DocumentProcessing.TextProcessor.htm" />
+    <HelpKINode Title="constructor" Url="html/M-Suoranta.NaturalLanguage.DocumentProcessing.TextProcessor.-ctor.htm" />
+    <HelpKINode Title="fields" Url="html/Fields.T-Suoranta.NaturalLanguage.DocumentProcessing.TextProcessor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Suoranta.NaturalLanguage.DocumentProcessing.TextProcessor.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-Suoranta.NaturalLanguage.DocumentProcessing.TextProcessor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TextProcessor.GetLanguageValueAttribute method" Url="html/M-Suoranta.NaturalLanguage.DocumentProcessing.TextProcessor.GetLanguageValueAttribute.htm" />
+  <HelpKINode Title="TextProcessor.MatchEach method" Url="html/M-Suoranta.NaturalLanguage.DocumentProcessing.TextProcessor.MatchEach.htm" />
+  <HelpKINode Title="TextProcessor.matchFactory field" Url="html/F-Suoranta.NaturalLanguage.DocumentProcessing.TextProcessor.matchFactory.htm" />
+  <HelpKINode Title="TextProcessor.pattern field" Url="html/F-Suoranta.NaturalLanguage.DocumentProcessing.TextProcessor.pattern.htm" />
+  <HelpKINode Title="TextProcessor.Services property" Url="html/P-Suoranta.NaturalLanguage.DocumentProcessing.TextProcessor.Services.htm" />
+  <HelpKINode Title="TextProcessor.TextProcessor constructor" Url="html/M-Suoranta.NaturalLanguage.DocumentProcessing.TextProcessor.-ctor.htm" />
+  <HelpKINode Title="TextProcessor.textWriter field" Url="html/F-Suoranta.NaturalLanguage.DocumentProcessing.TextProcessor.textWriter.htm" />
+  <HelpKINode Title="TextProcessor.ValidatePath method" Url="html/Overload-Suoranta.NaturalLanguage.DocumentProcessing.TextProcessor.ValidatePath.htm" />
+  <HelpKINode Title="textWriter field" Url="html/F-Suoranta.NaturalLanguage.DocumentProcessing.TextProcessor.textWriter.htm" />
+  <HelpKINode Title="ToDataView method" Url="html/M-Suoranta.NaturalLanguage.Imaging.ImageSegmenter.ToDataView.htm" />
+  <HelpKINode Title="ToGrayscale method" Url="html/Overload-Suoranta.NaturalLanguage.ImageExtensions.ToGrayscale.htm" />
+  <HelpKINode Title="ToImageX method" Url="html/M-Suoranta.NaturalLanguage.Imaging.SegmentedImage.ToImageX.htm" />
+  <HelpKINode Title="ToImageY method" Url="html/M-Suoranta.NaturalLanguage.Imaging.SegmentedImage.ToImageY.htm" />
+  <HelpKINode Title="ToJpeg method" Url="html/M-Suoranta.NaturalLanguage.ImageExtensions.ToJpeg.htm" />
+  <HelpKINode Title="ToLatin enumeration member" Url="html/T-Suoranta.NaturalLanguage.Transliteration.Transliterator.Direction.htm" />
+  <HelpKINode Title="ToLatin field" Url="html/F-Suoranta.NaturalLanguage.Transliteration.Transliterator.Direction.ToLatin.htm" />
+  <HelpKINode Title="ToLatin method" Url="html/M-Suoranta.NaturalLanguage.Transliteration.CyrillicEnglishTransliterator.ToLatin.htm" />
+  <HelpKINode Title="ToLatin method" Url="html/M-Suoranta.NaturalLanguage.Transliteration.StringSubstitution.ToLatin.htm" />
+  <HelpKINode Title="ToLatin method" Url="html/M-Suoranta.NaturalLanguage.Transliteration.Transliterator.ToLatin.htm" />
+  <HelpKINode Title="toLatinCharSubstitutions field" Url="html/F-Suoranta.NaturalLanguage.Transliteration.Transliterator.toLatinCharSubstitutions.htm" />
+  <HelpKINode Title="ToRectangle method" Url="html/M-Suoranta.NaturalLanguage.Imaging.FeatureRegion.ToRectangle.htm" />
+  <HelpKINode Title="Transliterate method" Url="html/M-Suoranta.NaturalLanguage.Transliteration.Transliterator.Transliterate.htm" />
+  <HelpKINode Title="TransliterationException class" Url="html/AllMembers.T-Suoranta.NaturalLanguage.Transliteration.TransliterationException.htm" />
+  <HelpKINode Title="TransliterationException class" Url="html/T-Suoranta.NaturalLanguage.Transliteration.TransliterationException.htm" />
+  <HelpKINode Title="TransliterationException class">
+    <HelpKINode Title="about TransliterationException class" Url="html/T-Suoranta.NaturalLanguage.Transliteration.TransliterationException.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Suoranta.NaturalLanguage.Transliteration.TransliterationException.htm" />
+    <HelpKINode Title="events" Url="html/Events.T-Suoranta.NaturalLanguage.Transliteration.TransliterationException.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Suoranta.NaturalLanguage.Transliteration.TransliterationException.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-Suoranta.NaturalLanguage.Transliteration.TransliterationException.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TransliterationException.Script property" Url="html/P-Suoranta.NaturalLanguage.Transliteration.TransliterationException.Script.htm" />
+  <HelpKINode Title="Transliterator class" Url="html/AllMembers.T-Suoranta.NaturalLanguage.Transliteration.Transliterator.htm" />
+  <HelpKINode Title="Transliterator class" Url="html/T-Suoranta.NaturalLanguage.Transliteration.Transliterator.htm" />
+  <HelpKINode Title="Transliterator class">
+    <HelpKINode Title="about Transliterator class" Url="html/T-Suoranta.NaturalLanguage.Transliteration.Transliterator.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Suoranta.NaturalLanguage.Transliteration.Transliterator.htm" />
+    <HelpKINode Title="fields" Url="html/Fields.T-Suoranta.NaturalLanguage.Transliteration.Transliterator.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Suoranta.NaturalLanguage.Transliteration.Transliterator.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-Suoranta.NaturalLanguage.Transliteration.Transliterator.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Transliterator.Bidirectional property" Url="html/P-Suoranta.NaturalLanguage.Transliteration.Transliterator.Bidirectional.htm" />
+  <HelpKINode Title="Transliterator.Direction enumeration" Url="html/T-Suoranta.NaturalLanguage.Transliteration.Transliterator.Direction.htm" />
+  <HelpKINode Title="Transliterator.FromLatin method" Url="html/M-Suoranta.NaturalLanguage.Transliteration.Transliterator.FromLatin.htm" />
+  <HelpKINode Title="Transliterator.fromLatinCharSubstitutions field" Url="html/F-Suoranta.NaturalLanguage.Transliteration.Transliterator.fromLatinCharSubstitutions.htm" />
+  <HelpKINode Title="Transliterator.Script property" Url="html/P-Suoranta.NaturalLanguage.Transliteration.Transliterator.Script.htm" />
+  <HelpKINode Title="Transliterator.ToLatin method" Url="html/M-Suoranta.NaturalLanguage.Transliteration.Transliterator.ToLatin.htm" />
+  <HelpKINode Title="Transliterator.toLatinCharSubstitutions field" Url="html/F-Suoranta.NaturalLanguage.Transliteration.Transliterator.toLatinCharSubstitutions.htm" />
+  <HelpKINode Title="Transliterator.Transliterate method" Url="html/M-Suoranta.NaturalLanguage.Transliteration.Transliterator.Transliterate.htm" />
+  <HelpKINode Title="Url property" Url="html/P-Suoranta.NaturalLanguage.DocumentProcessing.DocumentHyperlink.Url.htm" />
+  <HelpKINode Title="ValidatePath method" Url="html/Overload-Suoranta.NaturalLanguage.DocumentProcessing.TextProcessor.ValidatePath.htm" />
+  <HelpKINode Title="Width property" Url="html/P-Suoranta.NaturalLanguage.Imaging.FeatureRegion.Width.htm" />
+  <HelpKINode Title="XMax property" Url="html/P-Suoranta.NaturalLanguage.Imaging.IImageObject.XMax.htm" />
+  <HelpKINode Title="XMin property" Url="html/P-Suoranta.NaturalLanguage.Imaging.IImageObject.XMin.htm" />
+  <HelpKINode Title="YMax property" Url="html/P-Suoranta.NaturalLanguage.Imaging.IImageObject.YMax.htm" />
+  <HelpKINode Title="YMin property" Url="html/P-Suoranta.NaturalLanguage.Imaging.IImageObject.YMin.htm" />
+  <HelpKINode Title="YoloV10ImageSegmenter class" Url="html/AllMembers.T-Suoranta.NaturalLanguage.Imaging.YoloV10ImageSegmenter.htm" />
+  <HelpKINode Title="YoloV10ImageSegmenter class" Url="html/T-Suoranta.NaturalLanguage.Imaging.YoloV10ImageSegmenter.htm" />
+  <HelpKINode Title="YoloV10ImageSegmenter class">
+    <HelpKINode Title="about YoloV10ImageSegmenter class" Url="html/T-Suoranta.NaturalLanguage.Imaging.YoloV10ImageSegmenter.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Suoranta.NaturalLanguage.Imaging.YoloV10ImageSegmenter.htm" />
+    <HelpKINode Title="constructor" Url="html/M-Suoranta.NaturalLanguage.Imaging.YoloV10ImageSegmenter.-ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Suoranta.NaturalLanguage.Imaging.YoloV10ImageSegmenter.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-Suoranta.NaturalLanguage.Imaging.YoloV10ImageSegmenter.htm" />
+  </HelpKINode>
+  <HelpKINode Title="YoloV10ImageSegmenter.GetImageObjects method" Url="html/M-Suoranta.NaturalLanguage.Imaging.YoloV10ImageSegmenter.GetImageObjects.htm" />
+  <HelpKINode Title="YoloV10ImageSegmenter.ModelVariant enumeration" Url="html/T-Suoranta.NaturalLanguage.Imaging.YoloV10ImageSegmenter.ModelVariant.htm" />
+  <HelpKINode Title="YoloV10ImageSegmenter.OnnxInputColumn property" Url="html/P-Suoranta.NaturalLanguage.Imaging.YoloV10ImageSegmenter.OnnxInputColumn.htm" />
+  <HelpKINode Title="YoloV10ImageSegmenter.OnnxOutputColumn property" Url="html/P-Suoranta.NaturalLanguage.Imaging.YoloV10ImageSegmenter.OnnxOutputColumn.htm" />
+  <HelpKINode Title="YoloV10ImageSegmenter.YoloV10ImageSegmenter constructor" Url="html/M-Suoranta.NaturalLanguage.Imaging.YoloV10ImageSegmenter.-ctor.htm" />
+</HelpKI>

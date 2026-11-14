@@ -1,0 +1,2209 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+
+  <HelpKINode Title="Action enumeration member" Url="html/868495505.htm" />
+  <HelpKINode Title="Action field" Url="html/959916551.htm" />
+  <HelpKINode Title="Action property" Url="html/1135912010.htm" />
+  <HelpKINode Title="ActionKind property" Url="html/1386750992.htm" />
+  <HelpKINode Title="ActionKind property" Url="html/849674279.htm" />
+  <HelpKINode Title="Add method" Url="html/1849078621.htm" />
+  <HelpKINode Title="Add method" Url="html/1880024045.htm" />
+  <HelpKINode Title="AddCustomObject method" Url="html/181448383.htm" />
+  <HelpKINode Title="AddCustomObject method" Url="html/619062391.htm" />
+  <HelpKINode Title="AddDirectory method" Url="html/1543416578.htm" />
+  <HelpKINode Title="Added enumeration member" Url="html/464116494.htm" />
+  <HelpKINode Title="Added field" Url="html/36974980.htm" />
+  <HelpKINode Title="AddFile enumeration member" Url="html/2109941548.htm" />
+  <HelpKINode Title="AddFile field" Url="html/1563246327.htm" />
+  <HelpKINode Title="AddFileAction structure">
+    <HelpKINode Title="constructor" Url="html/284749282.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AddFileAction.AddFileAction constructor" Url="html/284749282.htm" />
+  <HelpKINode Title="AddFileAction.Attributes property" Url="html/1929022047.htm" />
+  <HelpKINode Title="AddFileAction.CompareTo method" Url="html/629127541.htm" />
+  <HelpKINode Title="AddFileAction.Kind property" Url="html/1567044352.htm" />
+  <HelpKINode Title="AddFileAction.Path property" Url="html/1083206859.htm" />
+  <HelpKINode Title="AddFileAction.StorageRef property" Url="html/1586840704.htm" />
+  <HelpKINode Title="AddFileAction.ToString method" Url="html/417408903.htm" />
+  <HelpKINode Title="AddFileAction.UtcTimestamp property" Url="html/1667845140.htm" />
+  <HelpKINode Title="AddItemResult.Added field" Url="html/36974980.htm" />
+  <HelpKINode Title="AddItemResult.Replaced field" Url="html/857362470.htm" />
+  <HelpKINode Title="AddRevision method" Url="html/1137642554.htm" />
+  <HelpKINode Title="AdobeXmpData field" Url="html/1835759440.htm" />
+  <HelpKINode Title="All enumeration member" Url="html/145630568.htm" />
+  <HelpKINode Title="All field" Url="html/55094231.htm" />
+  <HelpKINode Title="AllActionAttributes field" Url="html/1009408816.htm" />
+  <HelpKINode Title="AllItemAttributes field" Url="html/162063061.htm" />
+  <HelpKINode Title="Allocate method" Url="html/1189171918.htm" />
+  <HelpKINode Title="Allocate method" Url="html/1274531092.htm" />
+  <HelpKINode Title="AllocatedTotal property" Url="html/625263460.htm" />
+  <HelpKINode Title="Alpha property" Url="html/446214631.htm" />
+  <HelpKINode Title="Aperture field" Url="html/51869882.htm" />
+  <HelpKINode Title="ApeturePriority enumeration member" Url="html/868495505.htm" />
+  <HelpKINode Title="ApeturePriority field" Url="html/1687466315.htm" />
+  <HelpKINode Title="AppMarker class">
+    <HelpKINode Title="constructor" Url="html/1354731928.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AppMarker.AppMarker constructor" Url="html/1354731928.htm" />
+  <HelpKINode Title="AppMarker.Index property" Url="html/420315380.htm" />
+  <HelpKINode Title="AppMarker.IsDynamic property" Url="html/38063301.htm" />
+  <HelpKINode Title="AppMarker.MagicBytes property" Url="html/1891978058.htm" />
+  <HelpKINode Title="AppMarker.ReadOne method" Url="html/942389674.htm" />
+  <HelpKINode Title="AppMarker.Serialize method" Url="html/20084927.htm" />
+  <HelpKINode Title="AppMarker.Serialize method" Url="html/483900464.htm" />
+  <HelpKINode Title="AppMarkers property" Url="html/779060082.htm" />
+  <HelpKINode Title="Archive enumeration member" Url="html/1671819529.htm" />
+  <HelpKINode Title="Archive field" Url="html/1405871553.htm" />
+  <HelpKINode Title="Artist field" Url="html/1053904955.htm" />
+  <HelpKINode Title="Attributes property" Url="html/149497907.htm" />
+  <HelpKINode Title="Attributes property" Url="html/1929022047.htm" />
+  <HelpKINode Title="Attributes property" Url="html/81720499.htm" />
+  <HelpKINode Title="AztecData12 property" Url="html/869306530.htm" />
+  <HelpKINode Title="BaseRevision class">
+    <HelpKINode Title="constructor" Url="html/736439207.htm" />
+  </HelpKINode>
+  <HelpKINode Title="BaseRevision.BaseRevision constructor" Url="html/736439207.htm" />
+  <HelpKINode Title="BaseRevision.Data property" Url="html/384908004.htm" />
+  <HelpKINode Title="BaseRevision.GetBaseStream method" Url="html/1418069206.htm" />
+  <HelpKINode Title="BaseRevision.Load method" Url="html/2044911687.htm" />
+  <HelpKINode Title="BaseTimestamp property" Url="html/1623470723.htm" />
+  <HelpKINode Title="BaseTimestamp property" Url="html/599561324.htm" />
+  <HelpKINode Title="BigEndian enumeration member" Url="html/14400588.htm" />
+  <HelpKINode Title="BigEndian field" Url="html/1207433323.htm" />
+  <HelpKINode Title="BinaryDataProperty class" Url="html/1784222997.htm" />
+  <HelpKINode Title="BinaryDataProperty class" Url="html/330750891.htm" />
+  <HelpKINode Title="BinaryDataProperty class">
+    <HelpKINode Title="about BinaryDataProperty class" Url="html/1784222997.htm" />
+    <HelpKINode Title="all members" Url="html/330750891.htm" />
+    <HelpKINode Title="constructor" Url="html/554571523.htm" />
+    <HelpKINode Title="methods" Url="html/1956483811.htm" />
+    <HelpKINode Title="properties" Url="html/2054245778.htm" />
+  </HelpKINode>
+  <HelpKINode Title="BinaryDataProperty.BinaryDataProperty constructor" Url="html/554571523.htm" />
+  <HelpKINode Title="BinaryDataProperty.LengthFieldFormat property" Url="html/2002972426.htm" />
+  <HelpKINode Title="BinaryDataProperty.ReadOne method" Url="html/390104777.htm" />
+  <HelpKINode Title="BinaryDataProperty.Serialize method" Url="html/1514526796.htm" />
+  <HelpKINode Title="BinaryDataProperty.Serialize method" Url="html/357905199.htm" />
+  <HelpKINode Title="BinaryFormatter(Of T) class" Url="html/1475422367.htm" />
+  <HelpKINode Title="BinaryFormatter(Of T) class" Url="html/1554954805.htm" />
+  <HelpKINode Title="BinaryFormatter(Of T) class">
+    <HelpKINode Title="about BinaryFormatter(Of T) class" Url="html/1554954805.htm" />
+    <HelpKINode Title="all members" Url="html/1475422367.htm" />
+    <HelpKINode Title="methods" Url="html/965205843.htm" />
+    <HelpKINode Title="properties" Url="html/909963712.htm" />
+  </HelpKINode>
+  <HelpKINode Title="BinaryFormatter(Of T).CanReadFrom method" Url="html/470460709.htm" />
+  <HelpKINode Title="BinaryFormatter(Of T).DateTimeProperty class" Url="html/1314270461.htm" />
+  <HelpKINode Title="BinaryFormatter(Of T).DateTimeProperty class" Url="html/1777371199.htm" />
+  <HelpKINode Title="BinaryFormatter(Of T).DateTimeProperty class">
+    <HelpKINode Title="about BinaryFormatter(Of T).DateTimeProperty class" Url="html/1314270461.htm" />
+    <HelpKINode Title="all members" Url="html/1777371199.htm" />
+    <HelpKINode Title="methods" Url="html/2073209343.htm" />
+    <HelpKINode Title="properties" Url="html/1420853758.htm" />
+  </HelpKINode>
+  <HelpKINode Title="BinaryFormatter(Of T).Descriptors property" Url="html/112302501.htm" />
+  <HelpKINode Title="BinaryFormatter(Of T).EndBytes property" Url="html/142434139.htm" />
+  <HelpKINode Title="BinaryFormatter(Of T).LongProperty class" Url="html/1092537028.htm" />
+  <HelpKINode Title="BinaryFormatter(Of T).LongProperty class" Url="html/56348984.htm" />
+  <HelpKINode Title="BinaryFormatter(Of T).LongProperty class">
+    <HelpKINode Title="about BinaryFormatter(Of T).LongProperty class" Url="html/1092537028.htm" />
+    <HelpKINode Title="all members" Url="html/56348984.htm" />
+    <HelpKINode Title="methods" Url="html/1938773116.htm" />
+    <HelpKINode Title="properties" Url="html/1545419593.htm" />
+  </HelpKINode>
+  <HelpKINode Title="BinaryFormatter(Of T).MagicBytes property" Url="html/1124598189.htm" />
+  <HelpKINode Title="BinaryFormatter(Of T).ReadMany method" Url="html/1975192030.htm" />
+  <HelpKINode Title="BinaryFormatter(Of T).ReadOne method" Url="html/585907815.htm" />
+  <HelpKINode Title="BinaryFormatter(Of T).Serialize method" Url="html/1736493819.htm" />
+  <HelpKINode Title="BinaryFormatter(Of T).SerializeTo method" Url="html/1287239012.htm" />
+  <HelpKINode Title="BinaryFormatter(Of T).StringProperty class" Url="html/1117631547.htm" />
+  <HelpKINode Title="BinaryFormatter(Of T).StringProperty class" Url="html/75752495.htm" />
+  <HelpKINode Title="BinaryFormatter(Of T).StringProperty class">
+    <HelpKINode Title="about BinaryFormatter(Of T).StringProperty class" Url="html/1117631547.htm" />
+    <HelpKINode Title="all members" Url="html/75752495.htm" />
+    <HelpKINode Title="methods" Url="html/1515333523.htm" />
+    <HelpKINode Title="properties" Url="html/2120283058.htm" />
+  </HelpKINode>
+  <HelpKINode Title="BinaryFormatter&lt;T&gt; class" Url="html/1475422367.htm" />
+  <HelpKINode Title="BinaryFormatter&lt;T&gt; class" Url="html/1554954805.htm" />
+  <HelpKINode Title="BinaryFormatter&lt;T&gt; class">
+    <HelpKINode Title="about BinaryFormatter&lt;T&gt; class" Url="html/1554954805.htm" />
+    <HelpKINode Title="all members" Url="html/1475422367.htm" />
+    <HelpKINode Title="methods" Url="html/965205843.htm" />
+    <HelpKINode Title="properties" Url="html/909963712.htm" />
+  </HelpKINode>
+  <HelpKINode Title="BinaryFormatter&lt;T&gt;.CanReadFrom method" Url="html/470460709.htm" />
+  <HelpKINode Title="BinaryFormatter&lt;T&gt;.DateTimeProperty class" Url="html/1314270461.htm" />
+  <HelpKINode Title="BinaryFormatter&lt;T&gt;.DateTimeProperty class" Url="html/1777371199.htm" />
+  <HelpKINode Title="BinaryFormatter&lt;T&gt;.DateTimeProperty class">
+    <HelpKINode Title="about BinaryFormatter&lt;T&gt;.DateTimeProperty class" Url="html/1314270461.htm" />
+    <HelpKINode Title="all members" Url="html/1777371199.htm" />
+    <HelpKINode Title="methods" Url="html/2073209343.htm" />
+    <HelpKINode Title="properties" Url="html/1420853758.htm" />
+  </HelpKINode>
+  <HelpKINode Title="BinaryFormatter&lt;T&gt;.Descriptors property" Url="html/112302501.htm" />
+  <HelpKINode Title="BinaryFormatter&lt;T&gt;.EndBytes property" Url="html/142434139.htm" />
+  <HelpKINode Title="BinaryFormatter&lt;T&gt;.LongProperty class" Url="html/1092537028.htm" />
+  <HelpKINode Title="BinaryFormatter&lt;T&gt;.LongProperty class" Url="html/56348984.htm" />
+  <HelpKINode Title="BinaryFormatter&lt;T&gt;.LongProperty class">
+    <HelpKINode Title="about BinaryFormatter&lt;T&gt;.LongProperty class" Url="html/1092537028.htm" />
+    <HelpKINode Title="all members" Url="html/56348984.htm" />
+    <HelpKINode Title="methods" Url="html/1938773116.htm" />
+    <HelpKINode Title="properties" Url="html/1545419593.htm" />
+  </HelpKINode>
+  <HelpKINode Title="BinaryFormatter&lt;T&gt;.MagicBytes property" Url="html/1124598189.htm" />
+  <HelpKINode Title="BinaryFormatter&lt;T&gt;.ReadMany method" Url="html/1975192030.htm" />
+  <HelpKINode Title="BinaryFormatter&lt;T&gt;.ReadOne method" Url="html/585907815.htm" />
+  <HelpKINode Title="BinaryFormatter&lt;T&gt;.Serialize method" Url="html/1736493819.htm" />
+  <HelpKINode Title="BinaryFormatter&lt;T&gt;.SerializeTo method" Url="html/1287239012.htm" />
+  <HelpKINode Title="BinaryFormatter&lt;T&gt;.StringProperty class" Url="html/1117631547.htm" />
+  <HelpKINode Title="BinaryFormatter&lt;T&gt;.StringProperty class" Url="html/75752495.htm" />
+  <HelpKINode Title="BinaryFormatter&lt;T&gt;.StringProperty class">
+    <HelpKINode Title="about BinaryFormatter&lt;T&gt;.StringProperty class" Url="html/1117631547.htm" />
+    <HelpKINode Title="all members" Url="html/75752495.htm" />
+    <HelpKINode Title="methods" Url="html/1515333523.htm" />
+    <HelpKINode Title="properties" Url="html/2120283058.htm" />
+  </HelpKINode>
+  <HelpKINode Title="BitPerSample field" Url="html/2046614380.htm" />
+  <HelpKINode Title="BitsPerSample field" Url="html/1254388043.htm" />
+  <HelpKINode Title="Byte enumeration member" Url="html/367997264.htm" />
+  <HelpKINode Title="Byte field" Url="html/1230636546.htm" />
+  <HelpKINode Title="ByteFlag enumeration member" Url="html/14400588.htm" />
+  <HelpKINode Title="ByteFlag field" Url="html/1083597240.htm" />
+  <HelpKINode Title="CacheManager property" Url="html/341051184.htm" />
+  <HelpKINode Title="CameraMake field" Url="html/341648195.htm" />
+  <HelpKINode Title="CameraModel field" Url="html/549314586.htm" />
+  <HelpKINode Title="Cancel property" Url="html/1202394717.htm" />
+  <HelpKINode Title="CanReadFrom method" Url="html/2082387050.htm" />
+  <HelpKINode Title="CanReadFrom method" Url="html/452082814.htm" />
+  <HelpKINode Title="CanReadFrom method" Url="html/470460709.htm" />
+  <HelpKINode Title="CanReadFrom method" Url="html/995166314.htm" />
+  <HelpKINode Title="CertificateNotFound enumeration member" Url="html/696307698.htm" />
+  <HelpKINode Title="CertificateNotFound field" Url="html/1933345094.htm" />
+  <HelpKINode Title="CertificateNotValid enumeration member" Url="html/696307698.htm" />
+  <HelpKINode Title="CertificateNotValid field" Url="html/1239160292.htm" />
+  <HelpKINode Title="Close method" Url="html/1086469769.htm" />
+  <HelpKINode Title="ColorComponents field" Url="html/1964257507.htm" />
+  <HelpKINode Title="ColorComponents field" Url="html/605802801.htm" />
+  <HelpKINode Title="Comment property" Url="html/342324267.htm" />
+  <HelpKINode Title="CompareTo method" Url="html/352284244.htm" />
+  <HelpKINode Title="CompareTo method" Url="html/481751930.htm" />
+  <HelpKINode Title="CompareTo method" Url="html/629127541.htm" />
+  <HelpKINode Title="ComplexProperty(Of T) class" Url="html/1101329895.htm" />
+  <HelpKINode Title="ComplexProperty(Of T) class" Url="html/766907051.htm" />
+  <HelpKINode Title="ComplexProperty(Of T) class">
+    <HelpKINode Title="about ComplexProperty(Of T) class" Url="html/1101329895.htm" />
+    <HelpKINode Title="all members" Url="html/766907051.htm" />
+    <HelpKINode Title="constructor" Url="html/2081348680.htm" />
+    <HelpKINode Title="methods" Url="html/1383441667.htm" />
+    <HelpKINode Title="properties" Url="html/480366664.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ComplexProperty(Of T).ComplexProperty constructor" Url="html/2081348680.htm" />
+  <HelpKINode Title="ComplexProperty(Of T).ReadOne method" Url="html/545565745.htm" />
+  <HelpKINode Title="ComplexProperty(Of T).Serialize method" Url="html/408369625.htm" />
+  <HelpKINode Title="ComplexProperty&lt;T&gt; class" Url="html/1101329895.htm" />
+  <HelpKINode Title="ComplexProperty&lt;T&gt; class" Url="html/766907051.htm" />
+  <HelpKINode Title="ComplexProperty&lt;T&gt; class">
+    <HelpKINode Title="about ComplexProperty&lt;T&gt; class" Url="html/1101329895.htm" />
+    <HelpKINode Title="all members" Url="html/766907051.htm" />
+    <HelpKINode Title="constructor" Url="html/2081348680.htm" />
+    <HelpKINode Title="methods" Url="html/1383441667.htm" />
+    <HelpKINode Title="properties" Url="html/480366664.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ComplexProperty&lt;T&gt;.ComplexProperty constructor" Url="html/2081348680.htm" />
+  <HelpKINode Title="ComplexProperty&lt;T&gt;.ReadOne method" Url="html/545565745.htm" />
+  <HelpKINode Title="ComplexProperty&lt;T&gt;.Serialize method" Url="html/408369625.htm" />
+  <HelpKINode Title="Compressed enumeration member" Url="html/755254341.htm" />
+  <HelpKINode Title="Compressed field" Url="html/1514985326.htm" />
+  <HelpKINode Title="Contains method" Url="html/105784280.htm" />
+  <HelpKINode Title="Contains method" Url="html/967677897.htm" />
+  <HelpKINode Title="Copy enumeration member" Url="html/2109941548.htm" />
+  <HelpKINode Title="Copy field" Url="html/97652933.htm" />
+  <HelpKINode Title="CopyAction structure">
+    <HelpKINode Title="constructor" Url="html/2056964090.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CopyAction.CopyAction constructor" Url="html/2056964090.htm" />
+  <HelpKINode Title="CopyAction.Kind property" Url="html/1391164354.htm" />
+  <HelpKINode Title="CopyAction.Path property" Url="html/1088377785.htm" />
+  <HelpKINode Title="CopyAction.ToString method" Url="html/2120073225.htm" />
+  <HelpKINode Title="CopyAction.UtcTimestamp property" Url="html/1376909378.htm" />
+  <HelpKINode Title="CopyAction.Value property" Url="html/1907138857.htm" />
+  <HelpKINode Title="CopyFile method" Url="html/1579074447.htm" />
+  <HelpKINode Title="CopyFile method" Url="html/1825014002.htm" />
+  <HelpKINode Title="CopyFile method" Url="html/455962432.htm" />
+  <HelpKINode Title="Copyright field" Url="html/1195295271.htm" />
+  <HelpKINode Title="CopyTo method" Url="html/1330325781.htm" />
+  <HelpKINode Title="CopyTo method" Url="html/1902573112.htm" />
+  <HelpKINode Title="CopyTo method" Url="html/423455401.htm" />
+  <HelpKINode Title="Count property" Url="html/747219233.htm" />
+  <HelpKINode Title="CreatedDate field" Url="html/527084014.htm" />
+  <HelpKINode Title="CreateDir enumeration member" Url="html/2109941548.htm" />
+  <HelpKINode Title="CreateDir field" Url="html/1711721879.htm" />
+  <HelpKINode Title="CreateDirectory method" Url="html/2146041130.htm" />
+  <HelpKINode Title="CreateDirectory method" Url="html/528047300.htm" />
+  <HelpKINode Title="CreateDirectory method" Url="html/813686411.htm" />
+  <HelpKINode Title="CreateDirectoryAction structure">
+    <HelpKINode Title="constructor" Url="html/799402591.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CreateDirectoryAction.Attributes property" Url="html/149497907.htm" />
+  <HelpKINode Title="CreateDirectoryAction.CreateDirectoryAction constructor" Url="html/799402591.htm" />
+  <HelpKINode Title="CreateDirectoryAction.Kind property" Url="html/1338152018.htm" />
+  <HelpKINode Title="CreateDirectoryAction.Path property" Url="html/1821990791.htm" />
+  <HelpKINode Title="CreateDirectoryAction.ToString method" Url="html/811420615.htm" />
+  <HelpKINode Title="CreateDirectoryAction.UtcTimestamp property" Url="html/50886294.htm" />
+  <HelpKINode Title="CreateFile method" Url="html/1029605201.htm" />
+  <HelpKINode Title="CreateFile method" Url="html/1146947201.htm" />
+  <HelpKINode Title="CreateFile method" Url="html/226681630.htm" />
+  <HelpKINode Title="CreateInMemory method" Url="html/1300476001.htm" />
+  <HelpKINode Title="Creative enumeration member" Url="html/868495505.htm" />
+  <HelpKINode Title="Creative field" Url="html/1263122138.htm" />
+  <HelpKINode Title="CustomObject class">
+    <HelpKINode Title="constructor" Url="html/550410622.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CustomObject.CustomObject constructor" Url="html/550410622.htm" />
+  <HelpKINode Title="CustomObject.GetObjectData method" Url="html/397042623.htm" />
+  <HelpKINode Title="CustomObject.StorageRef property" Url="html/77885233.htm" />
+  <HelpKINode Title="Data property" Url="html/161074069.htm" />
+  <HelpKINode Title="Data property" Url="html/384908004.htm" />
+  <HelpKINode Title="Data property" Url="html/514985949.htm" />
+  <HelpKINode Title="DataAltered enumeration member" Url="html/1816439120.htm" />
+  <HelpKINode Title="DataAltered field" Url="html/1380943317.htm" />
+  <HelpKINode Title="DataLength property" Url="html/805631484.htm" />
+  <HelpKINode Title="DataMatrixField256 property" Url="html/1191293048.htm" />
+  <HelpKINode Title="DataStore(Of T, THeader, THeaderFormat) class" Url="html/1763032034.htm" />
+  <HelpKINode Title="DataStore(Of T, THeader, THeaderFormat) class" Url="html/1882781030.htm" />
+  <HelpKINode Title="DataStore(Of T, THeader, THeaderFormat) class">
+    <HelpKINode Title="about DataStore(Of T, THeader, THeaderFormat) class" Url="html/1763032034.htm" />
+    <HelpKINode Title="all members" Url="html/1882781030.htm" />
+    <HelpKINode Title="methods" Url="html/1223490490.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DataStore&lt;T, THeader, THeaderFormat&gt; class" Url="html/1763032034.htm" />
+  <HelpKINode Title="DataStore&lt;T, THeader, THeaderFormat&gt; class" Url="html/1882781030.htm" />
+  <HelpKINode Title="DataStore&lt;T, THeader, THeaderFormat&gt; class">
+    <HelpKINode Title="about DataStore&lt;T, THeader, THeaderFormat&gt; class" Url="html/1763032034.htm" />
+    <HelpKINode Title="all members" Url="html/1882781030.htm" />
+    <HelpKINode Title="methods" Url="html/1223490490.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DateTimeProperty class">
+    <HelpKINode Title="constructor" Url="html/2062134830.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DateTimeProperty(Of T) class" Url="html/789325960.htm" />
+  <HelpKINode Title="DateTimeProperty(Of T) class" Url="html/830785864.htm" />
+  <HelpKINode Title="DateTimeProperty(Of T) class">
+    <HelpKINode Title="about DateTimeProperty(Of T) class" Url="html/830785864.htm" />
+    <HelpKINode Title="all members" Url="html/789325960.htm" />
+    <HelpKINode Title="constructor" Url="html/1953874201.htm" />
+    <HelpKINode Title="methods" Url="html/1875934348.htm" />
+    <HelpKINode Title="properties" Url="html/1838828555.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DateTimeProperty(Of T).DateTimeProperty constructor" Url="html/1953874201.htm" />
+  <HelpKINode Title="DateTimeProperty(Of T).ReadOne method" Url="html/997067340.htm" />
+  <HelpKINode Title="DateTimeProperty(Of T).Serialize method" Url="html/1697652642.htm" />
+  <HelpKINode Title="DateTimeProperty(Of T).Serialize method" Url="html/2116016551.htm" />
+  <HelpKINode Title="DateTimeProperty.DateTimeProperty constructor" Url="html/2062134830.htm" />
+  <HelpKINode Title="DateTimeProperty&lt;T&gt; class" Url="html/789325960.htm" />
+  <HelpKINode Title="DateTimeProperty&lt;T&gt; class" Url="html/830785864.htm" />
+  <HelpKINode Title="DateTimeProperty&lt;T&gt; class">
+    <HelpKINode Title="about DateTimeProperty&lt;T&gt; class" Url="html/830785864.htm" />
+    <HelpKINode Title="all members" Url="html/789325960.htm" />
+    <HelpKINode Title="constructor" Url="html/1953874201.htm" />
+    <HelpKINode Title="methods" Url="html/1875934348.htm" />
+    <HelpKINode Title="properties" Url="html/1838828555.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DateTimeProperty&lt;T&gt;.DateTimeProperty constructor" Url="html/1953874201.htm" />
+  <HelpKINode Title="DateTimeProperty&lt;T&gt;.ReadOne method" Url="html/997067340.htm" />
+  <HelpKINode Title="DateTimeProperty&lt;T&gt;.Serialize method" Url="html/1697652642.htm" />
+  <HelpKINode Title="DateTimeProperty&lt;T&gt;.Serialize method" Url="html/2116016551.htm" />
+  <HelpKINode Title="Decode method" Url="html/1402009777.htm" />
+  <HelpKINode Title="DeflateStorageStream class">
+    <HelpKINode Title="constructor" Url="html/715809586.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DeflateStorageStream.DeflateStorageStream constructor" Url="html/715809586.htm" />
+  <HelpKINode Title="DeflateStorageStream.GetSourceDataHash method" Url="html/1152422307.htm" />
+  <HelpKINode Title="DeflateStorageStream.Read method" Url="html/545493782.htm" />
+  <HelpKINode Title="DeflateStorageStream.Read method" Url="html/776137079.htm" />
+  <HelpKINode Title="DeflateStorageStream.Seek method" Url="html/1596296219.htm" />
+  <HelpKINode Title="DeflateStorageStream.Seek method" Url="html/789946899.htm" />
+  <HelpKINode Title="DeflateStorageStream.Stored event" Url="html/1806899925.htm" />
+  <HelpKINode Title="DeflateStorageStream.Write method" Url="html/1356356047.htm" />
+  <HelpKINode Title="DeflateStorageStream.WriteAsync method" Url="html/226948990.htm" />
+  <HelpKINode Title="DeflateStorageStream.WriteAsync method" Url="html/89277433.htm" />
+  <HelpKINode Title="DeflateStorageStream.WriteByte method" Url="html/1248824355.htm" />
+  <HelpKINode Title="Delink method" Url="html/1140471573.htm" />
+  <HelpKINode Title="Delink method" Url="html/1189162248.htm" />
+  <HelpKINode Title="DeltaRevision class">
+    <HelpKINode Title="constructor" Url="html/1114581882.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DeltaRevision.BaseTimestamp property" Url="html/599561324.htm" />
+  <HelpKINode Title="DeltaRevision.Data property" Url="html/161074069.htm" />
+  <HelpKINode Title="DeltaRevision.DeltaRevision constructor" Url="html/1114581882.htm" />
+  <HelpKINode Title="DeltaRevision.GetDeltaStream method" Url="html/1931561608.htm" />
+  <HelpKINode Title="DeltaRevision.Load method" Url="html/1732139846.htm" />
+  <HelpKINode Title="Description property" Url="html/2097807718.htm" />
+  <HelpKINode Title="Description property" Url="html/421684485.htm" />
+  <HelpKINode Title="Descriptors property" Url="html/112302501.htm" />
+  <HelpKINode Title="Descriptors property" Url="html/1294846689.htm" />
+  <HelpKINode Title="Device enumeration member" Url="html/1671819529.htm" />
+  <HelpKINode Title="Device field" Url="html/799942337.htm" />
+  <HelpKINode Title="Directory class">
+    <HelpKINode Title="constructor" Url="html/873443995.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Directory enumeration member" Url="html/145630568.htm" />
+  <HelpKINode Title="Directory enumeration member" Url="html/1671819529.htm" />
+  <HelpKINode Title="Directory field" Url="html/1233574460.htm" />
+  <HelpKINode Title="Directory field" Url="html/745958283.htm" />
+  <HelpKINode Title="Directory.Add method" Url="html/1880024045.htm" />
+  <HelpKINode Title="Directory.Directory constructor" Url="html/873443995.htm" />
+  <HelpKINode Title="Directory.GetObjectData method" Url="html/515099440.htm" />
+  <HelpKINode Title="Directory.ItemCount property" Url="html/1456999916.htm" />
+  <HelpKINode Title="Directory.RemoveChild method" Url="html/895407599.htm" />
+  <HelpKINode Title="Dispose method" Url="html/1218562105.htm" />
+  <HelpKINode Title="Double enumeration member" Url="html/367997264.htm" />
+  <HelpKINode Title="Double field" Url="html/350815741.htm" />
+  <HelpKINode Title="Duplicate method" Url="html/147714198.htm" />
+  <HelpKINode Title="Duplicate method" Url="html/2088471.htm" />
+  <HelpKINode Title="Empty field" Url="html/1412300683.htm" />
+  <HelpKINode Title="Encode method" Url="html/600157775.htm" />
+  <HelpKINode Title="Encoding field" Url="html/614804315.htm" />
+  <HelpKINode Title="EncodingProcess field" Url="html/1046229990.htm" />
+  <HelpKINode Title="Encrypted enumeration member" Url="html/755254341.htm" />
+  <HelpKINode Title="Encrypted field" Url="html/1599794673.htm" />
+  <HelpKINode Title="EndBytes property" Url="html/1150316706.htm" />
+  <HelpKINode Title="EndBytes property" Url="html/142434139.htm" />
+  <HelpKINode Title="EntityType property" Url="html/1561013681.htm" />
+  <HelpKINode Title="EntityType property" Url="html/2092587641.htm" />
+  <HelpKINode Title="EnumMasks class" Url="html/1394069088.htm" />
+  <HelpKINode Title="EnumMasks class" Url="html/158024720.htm" />
+  <HelpKINode Title="EnumMasks class">
+    <HelpKINode Title="about EnumMasks class" Url="html/158024720.htm" />
+    <HelpKINode Title="all members" Url="html/1394069088.htm" />
+    <HelpKINode Title="fields" Url="html/614717551.htm" />
+    <HelpKINode Title="methods" Url="html/492364136.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EnumMasks.AllActionAttributes field" Url="html/1009408816.htm" />
+  <HelpKINode Title="EnumMasks.AllItemAttributes field" Url="html/162063061.htm" />
+  <HelpKINode Title="Equals method" Url="html/1017159855.htm" />
+  <HelpKINode Title="Equals method" Url="html/1230210812.htm" />
+  <HelpKINode Title="Equals method" Url="html/14908911.htm" />
+  <HelpKINode Title="Equals method" Url="html/1602485705.htm" />
+  <HelpKINode Title="Equals method" Url="html/1830483233.htm" />
+  <HelpKINode Title="Equals method" Url="html/194383569.htm" />
+  <HelpKINode Title="Equals method" Url="html/47943038.htm" />
+  <HelpKINode Title="Equals method" Url="html/940084040.htm" />
+  <HelpKINode Title="ErrorOption enumeration" Url="html/1538588285.htm" />
+  <HelpKINode Title="ErrorOption.ThrowOnAll field" Url="html/521091453.htm" />
+  <HelpKINode Title="ErrorOption.ThrowOnDirectoryAlreadyExists field" Url="html/946301391.htm" />
+  <HelpKINode Title="ErrorOption.ThrowOnDirectoryNotFound field" Url="html/25015516.htm" />
+  <HelpKINode Title="ErrorOption.ThrowOnFileAlreadyExists field" Url="html/2088692306.htm" />
+  <HelpKINode Title="ErrorOption.ThrowOnFileNotFound field" Url="html/1029260263.htm" />
+  <HelpKINode Title="ErrorOptions property" Url="html/1224369816.htm" />
+  <HelpKINode Title="ErrorOptions property" Url="html/1855533120.htm" />
+  <HelpKINode Title="Execute method" Url="html/257107532.htm" />
+  <HelpKINode Title="Execute method" Url="html/868620719.htm" />
+  <HelpKINode Title="ExifEntry structure" Url="html/1560225116.htm" />
+  <HelpKINode Title="ExifEntry structure" Url="html/1677362356.htm" />
+  <HelpKINode Title="ExifEntry structure">
+    <HelpKINode Title="about ExifEntry structure" Url="html/1677362356.htm" />
+    <HelpKINode Title="all members" Url="html/1560225116.htm" />
+    <HelpKINode Title="fields" Url="html/1212671319.htm" />
+    <HelpKINode Title="methods" Url="html/1798511440.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ExifEntry.Empty field" Url="html/1412300683.htm" />
+  <HelpKINode Title="ExifEntry.GetValueAsByte method" Url="html/131966568.htm" />
+  <HelpKINode Title="ExifEntry.GetValueAsDouble method" Url="html/1177865207.htm" />
+  <HelpKINode Title="ExifEntry.GetValueAsFloat method" Url="html/590311544.htm" />
+  <HelpKINode Title="ExifEntry.GetValueAsLong method" Url="html/1207047872.htm" />
+  <HelpKINode Title="ExifEntry.GetValueAsSByte method" Url="html/1237372399.htm" />
+  <HelpKINode Title="ExifEntry.GetValueAsShort method" Url="html/1141412848.htm" />
+  <HelpKINode Title="ExifEntry.GetValueAsString method" Url="html/697596021.htm" />
+  <HelpKINode Title="ExifEntry.GetValueAsULong method" Url="html/1069351717.htm" />
+  <HelpKINode Title="ExifEntry.GetValueAsUShort method" Url="html/1351407653.htm" />
+  <HelpKINode Title="ExifEntry.Tag field" Url="html/595324428.htm" />
+  <HelpKINode Title="ExifEntry.Type field" Url="html/1986492604.htm" />
+  <HelpKINode Title="ExifEntry.Value field" Url="html/733581425.htm" />
+  <HelpKINode Title="ExifImageEntries field" Url="html/1913272749.htm" />
+  <HelpKINode Title="ExifThumbnailEntries field" Url="html/963812566.htm" />
+  <HelpKINode Title="ExifType enumeration" Url="html/367997264.htm" />
+  <HelpKINode Title="ExifType.Byte field" Url="html/1230636546.htm" />
+  <HelpKINode Title="ExifType.Double field" Url="html/350815741.htm" />
+  <HelpKINode Title="ExifType.Float field" Url="html/1570112666.htm" />
+  <HelpKINode Title="ExifType.Long field" Url="html/1847829798.htm" />
+  <HelpKINode Title="ExifType.Rational field" Url="html/661517530.htm" />
+  <HelpKINode Title="ExifType.SByte field" Url="html/889085381.htm" />
+  <HelpKINode Title="ExifType.Short field" Url="html/1396366358.htm" />
+  <HelpKINode Title="ExifType.String field" Url="html/117452911.htm" />
+  <HelpKINode Title="ExifType.ULong field" Url="html/975461325.htm" />
+  <HelpKINode Title="ExifType.Undefined field" Url="html/1447119120.htm" />
+  <HelpKINode Title="ExifType.URational field" Url="html/1930926509.htm" />
+  <HelpKINode Title="ExifType.UShort field" Url="html/1612435101.htm" />
+  <HelpKINode Title="Exists method" Url="html/1658875252.htm" />
+  <HelpKINode Title="Exists method" Url="html/466271446.htm" />
+  <HelpKINode Title="Exp method" Url="html/443366843.htm" />
+  <HelpKINode Title="ExposureProgram enumeration" Url="html/868495505.htm" />
+  <HelpKINode Title="ExposureProgram field" Url="html/1977052185.htm" />
+  <HelpKINode Title="ExposureProgram.Action field" Url="html/959916551.htm" />
+  <HelpKINode Title="ExposureProgram.ApeturePriority field" Url="html/1687466315.htm" />
+  <HelpKINode Title="ExposureProgram.Creative field" Url="html/1263122138.htm" />
+  <HelpKINode Title="ExposureProgram.Landscape field" Url="html/850587668.htm" />
+  <HelpKINode Title="ExposureProgram.Manual field" Url="html/480879821.htm" />
+  <HelpKINode Title="ExposureProgram.NotDefined field" Url="html/1013160837.htm" />
+  <HelpKINode Title="ExposureProgram.Portrait field" Url="html/1027953800.htm" />
+  <HelpKINode Title="ExposureProgram.Program field" Url="html/2047578173.htm" />
+  <HelpKINode Title="ExposureProgram.ShutterSpeedPriority field" Url="html/396014239.htm" />
+  <HelpKINode Title="File class">
+    <HelpKINode Title="constructor" Url="html/1618624456.htm" />
+  </HelpKINode>
+  <HelpKINode Title="File.File constructor" Url="html/1618624456.htm" />
+  <HelpKINode Title="File.GetObjectData method" Url="html/1751303319.htm" />
+  <HelpKINode Title="File.StorageRef property" Url="html/1775563735.htm" />
+  <HelpKINode Title="FileActionKind enumeration" Url="html/2109941548.htm" />
+  <HelpKINode Title="FileActionKind.AddFile field" Url="html/1563246327.htm" />
+  <HelpKINode Title="FileActionKind.Copy field" Url="html/97652933.htm" />
+  <HelpKINode Title="FileActionKind.CreateDir field" Url="html/1711721879.htm" />
+  <HelpKINode Title="FileActionKind.RemoveFile field" Url="html/1781649098.htm" />
+  <HelpKINode Title="FileActionKind.RemoveTree field" Url="html/2138138132.htm" />
+  <HelpKINode Title="FileActionKind.ReplaceFile field" Url="html/1714832814.htm" />
+  <HelpKINode Title="FileActionKind.SetAttributes field" Url="html/215621475.htm" />
+  <HelpKINode Title="FileActionKind.SetName field" Url="html/1408277029.htm" />
+  <HelpKINode Title="FileSystem class" Url="html/1562130401.htm" />
+  <HelpKINode Title="FileSystem class" Url="html/420407079.htm" />
+  <HelpKINode Title="FileSystem class">
+    <HelpKINode Title="about FileSystem class" Url="html/420407079.htm" />
+    <HelpKINode Title="all members" Url="html/1562130401.htm" />
+    <HelpKINode Title="fields" Url="html/1080794118.htm" />
+    <HelpKINode Title="methods" Url="html/2013732945.htm" />
+    <HelpKINode Title="properties" Url="html/1306660638.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FileSystem property" Url="html/1602437064.htm" />
+  <HelpKINode Title="FileSystem(Of TStorageRef) class" Url="html/2005726922.htm" />
+  <HelpKINode Title="FileSystem(Of TStorageRef) class" Url="html/968328726.htm" />
+  <HelpKINode Title="FileSystem(Of TStorageRef) class">
+    <HelpKINode Title="about FileSystem(Of TStorageRef) class" Url="html/968328726.htm" />
+    <HelpKINode Title="all members" Url="html/2005726922.htm" />
+    <HelpKINode Title="constructor" Url="html/1567370289.htm" />
+    <HelpKINode Title="fields" Url="html/735169211.htm" />
+    <HelpKINode Title="methods" Url="html/2048880706.htm" />
+    <HelpKINode Title="properties" Url="html/421373069.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FileSystem(Of TStorageRef).AddCustomObject method" Url="html/619062391.htm" />
+  <HelpKINode Title="FileSystem(Of TStorageRef).CopyFile method" Url="html/455962432.htm" />
+  <HelpKINode Title="FileSystem(Of TStorageRef).CopyTo method" Url="html/1902573112.htm" />
+  <HelpKINode Title="FileSystem(Of TStorageRef).CreateDirectory method" Url="html/528047300.htm" />
+  <HelpKINode Title="FileSystem(Of TStorageRef).CreateFile method" Url="html/1029605201.htm" />
+  <HelpKINode Title="FileSystem(Of TStorageRef).ErrorOptions property" Url="html/1224369816.htm" />
+  <HelpKINode Title="FileSystem(Of TStorageRef).Execute method" Url="html/868620719.htm" />
+  <HelpKINode Title="FileSystem(Of TStorageRef).Exists method" Url="html/1658875252.htm" />
+  <HelpKINode Title="FileSystem(Of TStorageRef).FileSystem constructor" Url="html/1567370289.htm" />
+  <HelpKINode Title="FileSystem(Of TStorageRef).GetCustomObject(Of T) method" Url="html/1965704809.htm" />
+  <HelpKINode Title="FileSystem(Of TStorageRef).GetItemNames method" Url="html/1992814223.htm" />
+  <HelpKINode Title="FileSystem(Of TStorageRef).GetNameString method" Url="html/1266937137.htm" />
+  <HelpKINode Title="FileSystem(Of TStorageRef).GetPathString method" Url="html/664526464.htm" />
+  <HelpKINode Title="FileSystem(Of TStorageRef).ItemRef structure" Url="html/156040236.htm" />
+  <HelpKINode Title="FileSystem(Of TStorageRef).ItemRef structure" Url="html/963875548.htm" />
+  <HelpKINode Title="FileSystem(Of TStorageRef).ItemRef structure">
+    <HelpKINode Title="about FileSystem(Of TStorageRef).ItemRef structure" Url="html/156040236.htm" />
+    <HelpKINode Title="all members" Url="html/963875548.htm" />
+    <HelpKINode Title="methods" Url="html/2108564628.htm" />
+    <HelpKINode Title="properties" Url="html/346637533.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FileSystem(Of TStorageRef).Journal property" Url="html/1948421365.htm" />
+  <HelpKINode Title="FileSystem(Of TStorageRef).Junction class" Url="html/1157687216.htm" />
+  <HelpKINode Title="FileSystem(Of TStorageRef).Junction class" Url="html/1884944452.htm" />
+  <HelpKINode Title="FileSystem(Of TStorageRef).Junction class">
+    <HelpKINode Title="about FileSystem(Of TStorageRef).Junction class" Url="html/1884944452.htm" />
+    <HelpKINode Title="all members" Url="html/1157687216.htm" />
+    <HelpKINode Title="methods" Url="html/143673464.htm" />
+    <HelpKINode Title="properties" Url="html/358459219.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FileSystem(Of TStorageRef).RemoveItem method" Url="html/795263515.htm" />
+  <HelpKINode Title="FileSystem(Of TStorageRef).SetStorageManager method" Url="html/1107589253.htm" />
+  <HelpKINode Title="FileSystem.AddFileAction structure" Url="html/1746392080.htm" />
+  <HelpKINode Title="FileSystem.AddFileAction structure" Url="html/1789966640.htm" />
+  <HelpKINode Title="FileSystem.AddFileAction structure">
+    <HelpKINode Title="about FileSystem.AddFileAction structure" Url="html/1789966640.htm" />
+    <HelpKINode Title="all members" Url="html/1746392080.htm" />
+    <HelpKINode Title="methods" Url="html/1376526328.htm" />
+    <HelpKINode Title="properties" Url="html/1934018127.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FileSystem.AddItemResult enumeration" Url="html/464116494.htm" />
+  <HelpKINode Title="FileSystem.CopyAction structure" Url="html/1540561406.htm" />
+  <HelpKINode Title="FileSystem.CopyAction structure" Url="html/793056446.htm" />
+  <HelpKINode Title="FileSystem.CopyAction structure">
+    <HelpKINode Title="about FileSystem.CopyAction structure" Url="html/793056446.htm" />
+    <HelpKINode Title="all members" Url="html/1540561406.htm" />
+    <HelpKINode Title="methods" Url="html/1481412618.htm" />
+    <HelpKINode Title="properties" Url="html/1654740449.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FileSystem.CopyFile method" Url="html/1579074447.htm" />
+  <HelpKINode Title="FileSystem.CopyTo method" Url="html/423455401.htm" />
+  <HelpKINode Title="FileSystem.CreateDirectory method" Url="html/813686411.htm" />
+  <HelpKINode Title="FileSystem.CreateDirectoryAction structure" Url="html/1085706450.htm" />
+  <HelpKINode Title="FileSystem.CreateDirectoryAction structure" Url="html/1177169930.htm" />
+  <HelpKINode Title="FileSystem.CreateDirectoryAction structure">
+    <HelpKINode Title="about FileSystem.CreateDirectoryAction structure" Url="html/1085706450.htm" />
+    <HelpKINode Title="all members" Url="html/1177169930.htm" />
+    <HelpKINode Title="methods" Url="html/774539254.htm" />
+    <HelpKINode Title="properties" Url="html/267852999.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FileSystem.CreateFile method" Url="html/226681630.htm" />
+  <HelpKINode Title="FileSystem.CustomObject class" Url="html/521965453.htm" />
+  <HelpKINode Title="FileSystem.CustomObject class" Url="html/52360781.htm" />
+  <HelpKINode Title="FileSystem.CustomObject class">
+    <HelpKINode Title="about FileSystem.CustomObject class" Url="html/52360781.htm" />
+    <HelpKINode Title="all members" Url="html/521965453.htm" />
+    <HelpKINode Title="methods" Url="html/646409781.htm" />
+    <HelpKINode Title="properties" Url="html/1586464876.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FileSystem.Description property" Url="html/421684485.htm" />
+  <HelpKINode Title="FileSystem.Directory class" Url="html/1150388524.htm" />
+  <HelpKINode Title="FileSystem.Directory class" Url="html/2028350988.htm" />
+  <HelpKINode Title="FileSystem.Directory class">
+    <HelpKINode Title="about FileSystem.Directory class" Url="html/1150388524.htm" />
+    <HelpKINode Title="all members" Url="html/2028350988.htm" />
+    <HelpKINode Title="methods" Url="html/27371352.htm" />
+    <HelpKINode Title="properties" Url="html/309155497.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FileSystem.File class" Url="html/530787983.htm" />
+  <HelpKINode Title="FileSystem.File class" Url="html/619038201.htm" />
+  <HelpKINode Title="FileSystem.File class">
+    <HelpKINode Title="about FileSystem.File class" Url="html/619038201.htm" />
+    <HelpKINode Title="all members" Url="html/530787983.htm" />
+    <HelpKINode Title="methods" Url="html/609641179.htm" />
+    <HelpKINode Title="properties" Url="html/926595858.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FileSystem.GetNameString method" Url="html/2095595552.htm" />
+  <HelpKINode Title="FileSystem.GetPathString method" Url="html/352489813.htm" />
+  <HelpKINode Title="FileSystem.Hash method" Url="html/2134270651.htm" />
+  <HelpKINode Title="FileSystem.Item class" Url="html/1216074282.htm" />
+  <HelpKINode Title="FileSystem.Item class" Url="html/127971230.htm" />
+  <HelpKINode Title="FileSystem.Item class">
+    <HelpKINode Title="about FileSystem.Item class" Url="html/1216074282.htm" />
+    <HelpKINode Title="all members" Url="html/127971230.htm" />
+    <HelpKINode Title="methods" Url="html/898613986.htm" />
+    <HelpKINode Title="properties" Url="html/1585353825.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FileSystem.Normalize method" Url="html/1171765347.htm" />
+  <HelpKINode Title="FileSystem.NullItem class" Url="html/958957937.htm" />
+  <HelpKINode Title="FileSystem.NullItem class" Url="html/968089119.htm" />
+  <HelpKINode Title="FileSystem.NullItem class">
+    <HelpKINode Title="about FileSystem.NullItem class" Url="html/958957937.htm" />
+    <HelpKINode Title="all members" Url="html/968089119.htm" />
+    <HelpKINode Title="methods" Url="html/284310387.htm" />
+    <HelpKINode Title="properties" Url="html/1278832770.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FileSystem.PathOptions enumeration" Url="html/145630568.htm" />
+  <HelpKINode Title="FileSystem.pathSeparator field" Url="html/1487842543.htm" />
+  <HelpKINode Title="FileSystem.pathSeparators field" Url="html/1249991088.htm" />
+  <HelpKINode Title="FileSystem.PostActionEvents field" Url="html/1017375426.htm" />
+  <HelpKINode Title="FileSystem.PreActionEvents field" Url="html/207076053.htm" />
+  <HelpKINode Title="FileSystem.RemoveAction structure" Url="html/1388341339.htm" />
+  <HelpKINode Title="FileSystem.RemoveAction structure" Url="html/1969335031.htm" />
+  <HelpKINode Title="FileSystem.RemoveAction structure">
+    <HelpKINode Title="about FileSystem.RemoveAction structure" Url="html/1969335031.htm" />
+    <HelpKINode Title="all members" Url="html/1388341339.htm" />
+    <HelpKINode Title="methods" Url="html/359713715.htm" />
+    <HelpKINode Title="properties" Url="html/10723110.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FileSystem.RemoveItem method" Url="html/1738086102.htm" />
+  <HelpKINode Title="FileSystem.ReplaceFileAction structure" Url="html/1433983919.htm" />
+  <HelpKINode Title="FileSystem.ReplaceFileAction structure" Url="html/1683060181.htm" />
+  <HelpKINode Title="FileSystem.ReplaceFileAction structure">
+    <HelpKINode Title="about FileSystem.ReplaceFileAction structure" Url="html/1433983919.htm" />
+    <HelpKINode Title="all members" Url="html/1683060181.htm" />
+    <HelpKINode Title="methods" Url="html/427754533.htm" />
+    <HelpKINode Title="properties" Url="html/405368216.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FileSystem.SetNameAction structure" Url="html/507558322.htm" />
+  <HelpKINode Title="FileSystem.SetNameAction structure" Url="html/628264886.htm" />
+  <HelpKINode Title="FileSystem.SetNameAction structure">
+    <HelpKINode Title="about FileSystem.SetNameAction structure" Url="html/507558322.htm" />
+    <HelpKINode Title="all members" Url="html/628264886.htm" />
+    <HelpKINode Title="methods" Url="html/1571714922.htm" />
+    <HelpKINode Title="properties" Url="html/606714869.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FileSystem.SplitPath method" Url="html/1617763114.htm" />
+  <HelpKINode Title="FileSystem&lt;TStorageRef&gt; class" Url="html/2005726922.htm" />
+  <HelpKINode Title="FileSystem&lt;TStorageRef&gt; class" Url="html/968328726.htm" />
+  <HelpKINode Title="FileSystem&lt;TStorageRef&gt; class">
+    <HelpKINode Title="about FileSystem&lt;TStorageRef&gt; class" Url="html/968328726.htm" />
+    <HelpKINode Title="all members" Url="html/2005726922.htm" />
+    <HelpKINode Title="constructor" Url="html/1567370289.htm" />
+    <HelpKINode Title="fields" Url="html/735169211.htm" />
+    <HelpKINode Title="methods" Url="html/2048880706.htm" />
+    <HelpKINode Title="properties" Url="html/421373069.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FileSystem&lt;TStorageRef&gt;.AddCustomObject method" Url="html/619062391.htm" />
+  <HelpKINode Title="FileSystem&lt;TStorageRef&gt;.CopyFile method" Url="html/455962432.htm" />
+  <HelpKINode Title="FileSystem&lt;TStorageRef&gt;.CopyTo method" Url="html/1902573112.htm" />
+  <HelpKINode Title="FileSystem&lt;TStorageRef&gt;.CreateDirectory method" Url="html/528047300.htm" />
+  <HelpKINode Title="FileSystem&lt;TStorageRef&gt;.CreateFile method" Url="html/1029605201.htm" />
+  <HelpKINode Title="FileSystem&lt;TStorageRef&gt;.ErrorOptions property" Url="html/1224369816.htm" />
+  <HelpKINode Title="FileSystem&lt;TStorageRef&gt;.Execute method" Url="html/868620719.htm" />
+  <HelpKINode Title="FileSystem&lt;TStorageRef&gt;.Exists method" Url="html/1658875252.htm" />
+  <HelpKINode Title="FileSystem&lt;TStorageRef&gt;.FileSystem constructor" Url="html/1567370289.htm" />
+  <HelpKINode Title="FileSystem&lt;TStorageRef&gt;.GetCustomObject&lt;T&gt; method" Url="html/1965704809.htm" />
+  <HelpKINode Title="FileSystem&lt;TStorageRef&gt;.GetItemNames method" Url="html/1992814223.htm" />
+  <HelpKINode Title="FileSystem&lt;TStorageRef&gt;.GetNameString method" Url="html/1266937137.htm" />
+  <HelpKINode Title="FileSystem&lt;TStorageRef&gt;.GetPathString method" Url="html/664526464.htm" />
+  <HelpKINode Title="FileSystem&lt;TStorageRef&gt;.ItemRef structure" Url="html/156040236.htm" />
+  <HelpKINode Title="FileSystem&lt;TStorageRef&gt;.ItemRef structure" Url="html/963875548.htm" />
+  <HelpKINode Title="FileSystem&lt;TStorageRef&gt;.ItemRef structure">
+    <HelpKINode Title="about FileSystem&lt;TStorageRef&gt;.ItemRef structure" Url="html/156040236.htm" />
+    <HelpKINode Title="all members" Url="html/963875548.htm" />
+    <HelpKINode Title="methods" Url="html/2108564628.htm" />
+    <HelpKINode Title="properties" Url="html/346637533.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FileSystem&lt;TStorageRef&gt;.Journal property" Url="html/1948421365.htm" />
+  <HelpKINode Title="FileSystem&lt;TStorageRef&gt;.Junction class" Url="html/1157687216.htm" />
+  <HelpKINode Title="FileSystem&lt;TStorageRef&gt;.Junction class" Url="html/1884944452.htm" />
+  <HelpKINode Title="FileSystem&lt;TStorageRef&gt;.Junction class">
+    <HelpKINode Title="about FileSystem&lt;TStorageRef&gt;.Junction class" Url="html/1884944452.htm" />
+    <HelpKINode Title="all members" Url="html/1157687216.htm" />
+    <HelpKINode Title="methods" Url="html/143673464.htm" />
+    <HelpKINode Title="properties" Url="html/358459219.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FileSystem&lt;TStorageRef&gt;.RemoveItem method" Url="html/795263515.htm" />
+  <HelpKINode Title="FileSystem&lt;TStorageRef&gt;.SetStorageManager method" Url="html/1107589253.htm" />
+  <HelpKINode Title="FileSystemEventArgs class" Url="html/1747583878.htm" />
+  <HelpKINode Title="FileSystemEventArgs class" Url="html/277663098.htm" />
+  <HelpKINode Title="FileSystemEventArgs class">
+    <HelpKINode Title="about FileSystemEventArgs class" Url="html/1747583878.htm" />
+    <HelpKINode Title="all members" Url="html/277663098.htm" />
+    <HelpKINode Title="constructor" Url="html/1421858160.htm" />
+    <HelpKINode Title="methods" Url="html/208068198.htm" />
+    <HelpKINode Title="properties" Url="html/1034229081.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FileSystemEventArgs.Action property" Url="html/1135912010.htm" />
+  <HelpKINode Title="FileSystemEventArgs.ActionKind property" Url="html/1386750992.htm" />
+  <HelpKINode Title="FileSystemEventArgs.FileSystemEventArgs constructor" Url="html/1421858160.htm" />
+  <HelpKINode Title="FileSystemEventArgs.ItemPath property" Url="html/1703004220.htm" />
+  <HelpKINode Title="FileSystemEventFilter structure" Url="html/1485915007.htm" />
+  <HelpKINode Title="FileSystemEventFilter structure" Url="html/1922947873.htm" />
+  <HelpKINode Title="FileSystemEventFilter structure">
+    <HelpKINode Title="about FileSystemEventFilter structure" Url="html/1922947873.htm" />
+    <HelpKINode Title="all members" Url="html/1485915007.htm" />
+    <HelpKINode Title="constructor" Url="html/2083333348.htm" />
+    <HelpKINode Title="methods" Url="html/1164912595.htm" />
+    <HelpKINode Title="properties" Url="html/2005886916.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FileSystemEventFilter.ActionKind property" Url="html/849674279.htm" />
+  <HelpKINode Title="FileSystemEventFilter.FileSystemEventFilter constructor" Url="html/2083333348.htm" />
+  <HelpKINode Title="FileSystemEventFilter.ItemPathBeginsWith property" Url="html/193180965.htm" />
+  <HelpKINode Title="FileSystemEventFilter.Matches method" Url="html/1194285307.htm" />
+  <HelpKINode Title="FileSystemPostEventArgs class" Url="html/624694620.htm" />
+  <HelpKINode Title="FileSystemPostEventArgs class" Url="html/678485564.htm" />
+  <HelpKINode Title="FileSystemPostEventArgs class">
+    <HelpKINode Title="about FileSystemPostEventArgs class" Url="html/624694620.htm" />
+    <HelpKINode Title="all members" Url="html/678485564.htm" />
+    <HelpKINode Title="constructor" Url="html/2062490342.htm" />
+    <HelpKINode Title="methods" Url="html/94323748.htm" />
+    <HelpKINode Title="properties" Url="html/851141507.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FileSystemPostEventArgs.FileSystemPostEventArgs constructor" Url="html/2062490342.htm" />
+  <HelpKINode Title="FileSystemPostEventHandler delegate" Url="html/85054967.htm" />
+  <HelpKINode Title="FileSystemPreEventArgs class" Url="html/1955984703.htm" />
+  <HelpKINode Title="FileSystemPreEventArgs class" Url="html/772107169.htm" />
+  <HelpKINode Title="FileSystemPreEventArgs class">
+    <HelpKINode Title="about FileSystemPreEventArgs class" Url="html/1955984703.htm" />
+    <HelpKINode Title="all members" Url="html/772107169.htm" />
+    <HelpKINode Title="constructor" Url="html/258547977.htm" />
+    <HelpKINode Title="methods" Url="html/1776850451.htm" />
+    <HelpKINode Title="properties" Url="html/713136476.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FileSystemPreEventArgs.Cancel property" Url="html/1202394717.htm" />
+  <HelpKINode Title="FileSystemPreEventArgs.FileSystemPreEventArgs constructor" Url="html/258547977.htm" />
+  <HelpKINode Title="FileSystemPreEventHandler delegate" Url="html/1707701006.htm" />
+  <HelpKINode Title="FileSystems class" Url="html/653376782.htm" />
+  <HelpKINode Title="FileSystems class" Url="html/969326350.htm" />
+  <HelpKINode Title="FileSystems class">
+    <HelpKINode Title="about FileSystems class" Url="html/969326350.htm" />
+    <HelpKINode Title="all members" Url="html/653376782.htm" />
+    <HelpKINode Title="methods" Url="html/505137786.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FileSystems.CreateInMemory method" Url="html/1300476001.htm" />
+  <HelpKINode Title="FirstBytes property" Url="html/803087139.htm" />
+  <HelpKINode Title="Flags property" Url="html/113725046.htm" />
+  <HelpKINode Title="Flags property" Url="html/324412194.htm" />
+  <HelpKINode Title="Float enumeration member" Url="html/367997264.htm" />
+  <HelpKINode Title="Float field" Url="html/1570112666.htm" />
+  <HelpKINode Title="FocalLength field" Url="html/2017638601.htm" />
+  <HelpKINode Title="Form enumeration member" Url="html/145630568.htm" />
+  <HelpKINode Title="Form field" Url="html/148962942.htm" />
+  <HelpKINode Title="FormattableType property" Url="html/1588863045.htm" />
+  <HelpKINode Title="FormatterType property" Url="html/2026323680.htm" />
+  <HelpKINode Title="FrameData field" Url="html/481767051.htm" />
+  <HelpKINode Title="FromFile method" Url="html/103042628.htm" />
+  <HelpKINode Title="FromPath method" Url="html/448142105.htm" />
+  <HelpKINode Title="FromString method" Url="html/649618884.htm" />
+  <HelpKINode Title="GeneratorBase property" Url="html/1646069373.htm" />
+  <HelpKINode Title="GetBaseStream method" Url="html/1418069206.htm" />
+  <HelpKINode Title="GetByteCount method" Url="html/1691880773.htm" />
+  <HelpKINode Title="GetBytes method" Url="html/1993742211.htm" />
+  <HelpKINode Title="GetCachedReadStream method" Url="html/1864723829.htm" />
+  <HelpKINode Title="GetCustomObject(Of T) method" Url="html/1718994855.htm" />
+  <HelpKINode Title="GetCustomObject(Of T) method" Url="html/1965704809.htm" />
+  <HelpKINode Title="GetCustomObject&lt;T&gt; method" Url="html/1718994855.htm" />
+  <HelpKINode Title="GetCustomObject&lt;T&gt; method" Url="html/1965704809.htm" />
+  <HelpKINode Title="GetDeltaStream method" Url="html/1931561608.htm" />
+  <HelpKINode Title="GetExactMatch method" Url="html/146491712.htm" />
+  <HelpKINode Title="GetExactMatch method" Url="html/1802395529.htm" />
+  <HelpKINode Title="GetExpressionMatches method" Url="html/1327686307.htm" />
+  <HelpKINode Title="GetExpressionMatches method" Url="html/684199232.htm" />
+  <HelpKINode Title="GetFile method" Url="html/271740646.htm" />
+  <HelpKINode Title="GetHashCode method" Url="html/1348205591.htm" />
+  <HelpKINode Title="GetHashCode method" Url="html/173701168.htm" />
+  <HelpKINode Title="GetHashCode method" Url="html/1739704776.htm" />
+  <HelpKINode Title="GetHashCode method" Url="html/204884622.htm" />
+  <HelpKINode Title="GetHashCode method" Url="html/554310983.htm" />
+  <HelpKINode Title="GetHashCode method" Url="html/739318283.htm" />
+  <HelpKINode Title="GetImageMetadata method" Url="html/1664907139.htm" />
+  <HelpKINode Title="GetInverse method" Url="html/1822380636.htm" />
+  <HelpKINode Title="GetItemNames method" Url="html/1763379407.htm" />
+  <HelpKINode Title="GetItemNames method" Url="html/1992814223.htm" />
+  <HelpKINode Title="GetMatches method" Url="html/100847058.htm" />
+  <HelpKINode Title="GetNameString method" Url="html/1266937137.htm" />
+  <HelpKINode Title="GetNameString method" Url="html/2095595552.htm" />
+  <HelpKINode Title="GetObject method" Url="html/1277793768.htm" />
+  <HelpKINode Title="GetObject method" Url="html/563543463.htm" />
+  <HelpKINode Title="GetObjectData method" Url="html/1382530156.htm" />
+  <HelpKINode Title="GetObjectData method" Url="html/1654483500.htm" />
+  <HelpKINode Title="GetObjectData method" Url="html/1751303319.htm" />
+  <HelpKINode Title="GetObjectData method" Url="html/397042623.htm" />
+  <HelpKINode Title="GetObjectData method" Url="html/515099440.htm" />
+  <HelpKINode Title="GetPathString method" Url="html/352489813.htm" />
+  <HelpKINode Title="GetPathString method" Url="html/664526464.htm" />
+  <HelpKINode Title="GetReadStream method" Url="html/1899955794.htm" />
+  <HelpKINode Title="GetReadStream method" Url="html/686345633.htm" />
+  <HelpKINode Title="GetRevisionContent method" Url="html/1306216001.htm" />
+  <HelpKINode Title="GetSignatureReader method" Url="html/2092709961.htm" />
+  <HelpKINode Title="GetSignerInfo method" Url="html/2095914531.htm" />
+  <HelpKINode Title="GetSourceDataHash method" Url="html/1152422307.htm" />
+  <HelpKINode Title="GetSourceDataHash method" Url="html/1224204430.htm" />
+  <HelpKINode Title="GetSourceDataHash method" Url="html/293812642.htm" />
+  <HelpKINode Title="GetValue method" Url="html/1087251623.htm" />
+  <HelpKINode Title="GetValue method" Url="html/1212185097.htm" />
+  <HelpKINode Title="GetValue method" Url="html/549125016.htm" />
+  <HelpKINode Title="GetValueAsByte method" Url="html/131966568.htm" />
+  <HelpKINode Title="GetValueAsDouble method" Url="html/1177865207.htm" />
+  <HelpKINode Title="GetValueAsFloat method" Url="html/590311544.htm" />
+  <HelpKINode Title="GetValueAsLong method" Url="html/1207047872.htm" />
+  <HelpKINode Title="GetValueAsSByte method" Url="html/1237372399.htm" />
+  <HelpKINode Title="GetValueAsShort method" Url="html/1141412848.htm" />
+  <HelpKINode Title="GetValueAsString method" Url="html/697596021.htm" />
+  <HelpKINode Title="GetValueAsULong method" Url="html/1069351717.htm" />
+  <HelpKINode Title="GetValueAsUShort method" Url="html/1351407653.htm" />
+  <HelpKINode Title="GetWriteStream method" Url="html/1483442449.htm" />
+  <HelpKINode Title="GetWriteStream method" Url="html/1742910352.htm" />
+  <HelpKINode Title="GField class" Url="html/109025845.htm" />
+  <HelpKINode Title="GField class" Url="html/1462403663.htm" />
+  <HelpKINode Title="GField class">
+    <HelpKINode Title="about GField class" Url="html/109025845.htm" />
+    <HelpKINode Title="all members" Url="html/1462403663.htm" />
+    <HelpKINode Title="constructor" Url="html/575204592.htm" />
+    <HelpKINode Title="methods" Url="html/578211703.htm" />
+    <HelpKINode Title="properties" Url="html/70209836.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GField.Alpha property" Url="html/446214631.htm" />
+  <HelpKINode Title="GField.Equals method" Url="html/47943038.htm" />
+  <HelpKINode Title="GField.Exp method" Url="html/443366843.htm" />
+  <HelpKINode Title="GField.GeneratorBase property" Url="html/1646069373.htm" />
+  <HelpKINode Title="GField.GetHashCode method" Url="html/554310983.htm" />
+  <HelpKINode Title="GField.GetInverse method" Url="html/1822380636.htm" />
+  <HelpKINode Title="GField.GField constructor" Url="html/575204592.htm" />
+  <HelpKINode Title="GField.Log method" Url="html/1901016514.htm" />
+  <HelpKINode Title="GField.Multiply method" Url="html/35514463.htm" />
+  <HelpKINode Title="GField.Primitive property" Url="html/552285186.htm" />
+  <HelpKINode Title="GField.Size property" Url="html/981746596.htm" />
+  <HelpKINode Title="GField.ToString method" Url="html/759514874.htm" />
+  <HelpKINode Title="Hash method" Url="html/2134270651.htm" />
+  <HelpKINode Title="Hash property" Url="html/1134792637.htm" />
+  <HelpKINode Title="Hash property" Url="html/1144849250.htm" />
+  <HelpKINode Title="Hash property" Url="html/1835133391.htm" />
+  <HelpKINode Title="Header property" Url="html/1032973282.htm" />
+  <HelpKINode Title="HeaderTypeAttribute class" Url="html/1340793193.htm" />
+  <HelpKINode Title="HeaderTypeAttribute class" Url="html/658722549.htm" />
+  <HelpKINode Title="HeaderTypeAttribute class">
+    <HelpKINode Title="about HeaderTypeAttribute class" Url="html/658722549.htm" />
+    <HelpKINode Title="all members" Url="html/1340793193.htm" />
+    <HelpKINode Title="constructor" Url="html/357482776.htm" />
+    <HelpKINode Title="methods" Url="html/549191063.htm" />
+    <HelpKINode Title="properties" Url="html/252525270.htm" />
+  </HelpKINode>
+  <HelpKINode Title="HeaderTypeAttribute.HeaderTypeAttribute constructor" Url="html/357482776.htm" />
+  <HelpKINode Title="HeaderTypeAttribute.RecordType property" Url="html/1651606424.htm" />
+  <HelpKINode Title="Height field" Url="html/268984429.htm" />
+  <HelpKINode Title="Height field" Url="html/679992643.htm" />
+  <HelpKINode Title="Hidden enumeration member" Url="html/1671819529.htm" />
+  <HelpKINode Title="Hidden field" Url="html/885563581.htm" />
+  <HelpKINode Title="Horizontal enumeration member" Url="html/789301504.htm" />
+  <HelpKINode Title="Horizontal field" Url="html/147950776.htm" />
+  <HelpKINode Title="IBinaryFormattable interface" Url="html/1590523156.htm" />
+  <HelpKINode Title="IBinaryFormattable interface" Url="html/1806374532.htm" />
+  <HelpKINode Title="IBinaryFormattable interface">
+    <HelpKINode Title="about IBinaryFormattable interface" Url="html/1590523156.htm" />
+    <HelpKINode Title="all members" Url="html/1806374532.htm" />
+    <HelpKINode Title="methods" Url="html/1799645408.htm" />
+    <HelpKINode Title="properties" Url="html/1629788095.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IBinaryFormattable.FormatterType property" Url="html/2026323680.htm" />
+  <HelpKINode Title="IBinaryRecordHeader interface" Url="html/18712493.htm" />
+  <HelpKINode Title="IBinaryRecordHeader interface" Url="html/310782229.htm" />
+  <HelpKINode Title="IBinaryRecordHeader interface">
+    <HelpKINode Title="about IBinaryRecordHeader interface" Url="html/310782229.htm" />
+    <HelpKINode Title="all members" Url="html/18712493.htm" />
+    <HelpKINode Title="methods" Url="html/310279405.htm" />
+    <HelpKINode Title="properties" Url="html/258895636.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IBinaryRecordHeader.Id property" Url="html/2051411074.htm" />
+  <HelpKINode Title="IBinaryRecordHeader.TotalPayloadLength property" Url="html/1933375461.htm" />
+  <HelpKINode Title="Id property" Url="html/2051411074.htm" />
+  <HelpKINode Title="IDirectory interface" Url="html/1169448600.htm" />
+  <HelpKINode Title="IDirectory interface" Url="html/1912758728.htm" />
+  <HelpKINode Title="IDirectory interface">
+    <HelpKINode Title="about IDirectory interface" Url="html/1912758728.htm" />
+    <HelpKINode Title="all members" Url="html/1169448600.htm" />
+    <HelpKINode Title="methods" Url="html/1792515516.htm" />
+    <HelpKINode Title="properties" Url="html/1528689947.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IDirectory.ItemCount property" Url="html/221293032.htm" />
+  <HelpKINode Title="IFileAction interface" Url="html/1832447623.htm" />
+  <HelpKINode Title="IFileAction interface" Url="html/1988901059.htm" />
+  <HelpKINode Title="IFileAction interface">
+    <HelpKINode Title="about IFileAction interface" Url="html/1988901059.htm" />
+    <HelpKINode Title="all members" Url="html/1832447623.htm" />
+    <HelpKINode Title="methods" Url="html/2117800507.htm" />
+    <HelpKINode Title="properties" Url="html/1232100280.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IFileAction.Kind property" Url="html/150111955.htm" />
+  <HelpKINode Title="IFileAction.Path property" Url="html/1395769262.htm" />
+  <HelpKINode Title="IFileAction.UtcTimestamp property" Url="html/516099161.htm" />
+  <HelpKINode Title="IFileStorageAction interface" Url="html/253356502.htm" />
+  <HelpKINode Title="IFileStorageAction interface" Url="html/512676526.htm" />
+  <HelpKINode Title="IFileStorageAction interface">
+    <HelpKINode Title="about IFileStorageAction interface" Url="html/253356502.htm" />
+    <HelpKINode Title="all members" Url="html/512676526.htm" />
+    <HelpKINode Title="methods" Url="html/1481239818.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IFileSystem interface" Url="html/1614608470.htm" />
+  <HelpKINode Title="IFileSystem interface" Url="html/38648502.htm" />
+  <HelpKINode Title="IFileSystem interface">
+    <HelpKINode Title="about IFileSystem interface" Url="html/38648502.htm" />
+    <HelpKINode Title="all members" Url="html/1614608470.htm" />
+    <HelpKINode Title="methods" Url="html/1135941142.htm" />
+    <HelpKINode Title="properties" Url="html/250751095.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IFileSystem.AddCustomObject method" Url="html/181448383.htm" />
+  <HelpKINode Title="IFileSystem.CopyFile method" Url="html/1825014002.htm" />
+  <HelpKINode Title="IFileSystem.CreateDirectory method" Url="html/2146041130.htm" />
+  <HelpKINode Title="IFileSystem.CreateFile method" Url="html/1146947201.htm" />
+  <HelpKINode Title="IFileSystem.ErrorOptions property" Url="html/1855533120.htm" />
+  <HelpKINode Title="IFileSystem.Execute method" Url="html/257107532.htm" />
+  <HelpKINode Title="IFileSystem.Exists method" Url="html/466271446.htm" />
+  <HelpKINode Title="IFileSystem.GetCustomObject(Of T) method" Url="html/1718994855.htm" />
+  <HelpKINode Title="IFileSystem.GetCustomObject&lt;T&gt; method" Url="html/1718994855.htm" />
+  <HelpKINode Title="IFileSystem.GetFile method" Url="html/271740646.htm" />
+  <HelpKINode Title="IFileSystem.GetItemNames method" Url="html/1763379407.htm" />
+  <HelpKINode Title="IFileSystem.Journal property" Url="html/162939825.htm" />
+  <HelpKINode Title="IFileSystem.RemoveItem method" Url="html/1440892195.htm" />
+  <HelpKINode Title="IFileSystem.Root property" Url="html/400287312.htm" />
+  <HelpKINode Title="IFileSystem.SetStorageManager method" Url="html/521409277.htm" />
+  <HelpKINode Title="IHeaderCollection interface" Url="html/2119711992.htm" />
+  <HelpKINode Title="IHeaderCollection interface" Url="html/412506284.htm" />
+  <HelpKINode Title="IHeaderCollection interface">
+    <HelpKINode Title="about IHeaderCollection interface" Url="html/412506284.htm" />
+    <HelpKINode Title="all members" Url="html/2119711992.htm" />
+    <HelpKINode Title="methods" Url="html/1960538616.htm" />
+    <HelpKINode Title="properties" Url="html/179691077.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IHeaderCollection.Add method" Url="html/1849078621.htm" />
+  <HelpKINode Title="IHeaderCollection.Count property" Url="html/747219233.htm" />
+  <HelpKINode Title="IHeaderCollection.Item property" Url="html/914170310.htm" />
+  <HelpKINode Title="IHeaderCollection.Title property" Url="html/1181752272.htm" />
+  <HelpKINode Title="IItem interface" Url="html/1969959826.htm" />
+  <HelpKINode Title="IItem interface" Url="html/2086534986.htm" />
+  <HelpKINode Title="IItem interface">
+    <HelpKINode Title="about IItem interface" Url="html/2086534986.htm" />
+    <HelpKINode Title="all members" Url="html/1969959826.htm" />
+    <HelpKINode Title="methods" Url="html/503410510.htm" />
+    <HelpKINode Title="properties" Url="html/1926256949.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IItem.NameRef property" Url="html/818225160.htm" />
+  <HelpKINode Title="IJournal interface" Url="html/2025375820.htm" />
+  <HelpKINode Title="IJournal interface" Url="html/347301748.htm" />
+  <HelpKINode Title="IJournal interface">
+    <HelpKINode Title="about IJournal interface" Url="html/2025375820.htm" />
+    <HelpKINode Title="all members" Url="html/347301748.htm" />
+    <HelpKINode Title="methods" Url="html/267813708.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ImageData property" Url="html/765439207.htm" />
+  <HelpKINode Title="ImageMetadata class" Url="html/1682676406.htm" />
+  <HelpKINode Title="ImageMetadata class" Url="html/294106034.htm" />
+  <HelpKINode Title="ImageMetadata class">
+    <HelpKINode Title="about ImageMetadata class" Url="html/1682676406.htm" />
+    <HelpKINode Title="all members" Url="html/294106034.htm" />
+    <HelpKINode Title="fields" Url="html/1702422025.htm" />
+    <HelpKINode Title="methods" Url="html/1372848854.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ImageMetadata.Aperture field" Url="html/51869882.htm" />
+  <HelpKINode Title="ImageMetadata.Artist field" Url="html/1053904955.htm" />
+  <HelpKINode Title="ImageMetadata.BitsPerSample field" Url="html/1254388043.htm" />
+  <HelpKINode Title="ImageMetadata.CameraMake field" Url="html/341648195.htm" />
+  <HelpKINode Title="ImageMetadata.CameraModel field" Url="html/549314586.htm" />
+  <HelpKINode Title="ImageMetadata.ColorComponents field" Url="html/1964257507.htm" />
+  <HelpKINode Title="ImageMetadata.Copyright field" Url="html/1195295271.htm" />
+  <HelpKINode Title="ImageMetadata.CreatedDate field" Url="html/527084014.htm" />
+  <HelpKINode Title="ImageMetadata.Encoding field" Url="html/614804315.htm" />
+  <HelpKINode Title="ImageMetadata.ExposureProgram field" Url="html/1977052185.htm" />
+  <HelpKINode Title="ImageMetadata.FocalLength field" Url="html/2017638601.htm" />
+  <HelpKINode Title="ImageMetadata.Height field" Url="html/679992643.htm" />
+  <HelpKINode Title="ImageMetadata.IsColor field" Url="html/570275705.htm" />
+  <HelpKINode Title="ImageMetadata.ISO field" Url="html/1832771271.htm" />
+  <HelpKINode Title="ImageMetadata.Lens field" Url="html/2021071826.htm" />
+  <HelpKINode Title="ImageMetadata.MaxAperture field" Url="html/1856440536.htm" />
+  <HelpKINode Title="ImageMetadata.ModifiedDate field" Url="html/1373771831.htm" />
+  <HelpKINode Title="ImageMetadata.Name field" Url="html/166014477.htm" />
+  <HelpKINode Title="ImageMetadata.Orientation field" Url="html/968747532.htm" />
+  <HelpKINode Title="ImageMetadata.Software field" Url="html/561731999.htm" />
+  <HelpKINode Title="ImageMetadata.Width field" Url="html/62134866.htm" />
+  <HelpKINode Title="INameStore interface" Url="html/2091200669.htm" />
+  <HelpKINode Title="INameStore interface" Url="html/477746839.htm" />
+  <HelpKINode Title="INameStore interface">
+    <HelpKINode Title="about INameStore interface" Url="html/477746839.htm" />
+    <HelpKINode Title="all members" Url="html/2091200669.htm" />
+    <HelpKINode Title="methods" Url="html/348318221.htm" />
+    <HelpKINode Title="properties" Url="html/1724014656.htm" />
+  </HelpKINode>
+  <HelpKINode Title="INameStore.GetExactMatch method" Url="html/1802395529.htm" />
+  <HelpKINode Title="INameStore.GetExpressionMatches method" Url="html/684199232.htm" />
+  <HelpKINode Title="INameStore.GetMatches method" Url="html/100847058.htm" />
+  <HelpKINode Title="INameStore.Item property" Url="html/336635946.htm" />
+  <HelpKINode Title="INameStore.Translate method" Url="html/152231661.htm" />
+  <HelpKINode Title="Index property" Url="html/1442791500.htm" />
+  <HelpKINode Title="Index property" Url="html/420315380.htm" />
+  <HelpKINode Title="IndexedPropertyDescriptor(Of TKey, TProp) class" Url="html/1090204158.htm" />
+  <HelpKINode Title="IndexedPropertyDescriptor(Of TKey, TProp) class" Url="html/707328802.htm" />
+  <HelpKINode Title="IndexedPropertyDescriptor(Of TKey, TProp) class">
+    <HelpKINode Title="about IndexedPropertyDescriptor(Of TKey, TProp) class" Url="html/1090204158.htm" />
+    <HelpKINode Title="all members" Url="html/707328802.htm" />
+    <HelpKINode Title="constructor" Url="html/1630961653.htm" />
+    <HelpKINode Title="methods" Url="html/552124950.htm" />
+    <HelpKINode Title="properties" Url="html/809714781.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IndexedPropertyDescriptor(Of TKey, TProp).GetValue method" Url="html/1212185097.htm" />
+  <HelpKINode Title="IndexedPropertyDescriptor(Of TKey, TProp).Index property" Url="html/1442791500.htm" />
+  <HelpKINode Title="IndexedPropertyDescriptor(Of TKey, TProp).IndexedPropertyDescriptor constructor" Url="html/1630961653.htm" />
+  <HelpKINode Title="IndexedPropertyDescriptor(Of TKey, TProp).IsDynamic property" Url="html/1859181191.htm" />
+  <HelpKINode Title="IndexedPropertyDescriptor(Of TKey, TProp).SetValue method" Url="html/1073144924.htm" />
+  <HelpKINode Title="IndexedPropertyDescriptor(Of TKey, TProp).SetValue method" Url="html/704227563.htm" />
+  <HelpKINode Title="IndexedPropertyDescriptor&lt;TKey, TProp&gt; class" Url="html/1090204158.htm" />
+  <HelpKINode Title="IndexedPropertyDescriptor&lt;TKey, TProp&gt; class" Url="html/707328802.htm" />
+  <HelpKINode Title="IndexedPropertyDescriptor&lt;TKey, TProp&gt; class">
+    <HelpKINode Title="about IndexedPropertyDescriptor&lt;TKey, TProp&gt; class" Url="html/1090204158.htm" />
+    <HelpKINode Title="all members" Url="html/707328802.htm" />
+    <HelpKINode Title="constructor" Url="html/1630961653.htm" />
+    <HelpKINode Title="methods" Url="html/552124950.htm" />
+    <HelpKINode Title="properties" Url="html/809714781.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IndexedPropertyDescriptor&lt;TKey, TProp&gt;.GetValue method" Url="html/1212185097.htm" />
+  <HelpKINode Title="IndexedPropertyDescriptor&lt;TKey, TProp&gt;.Index property" Url="html/1442791500.htm" />
+  <HelpKINode Title="IndexedPropertyDescriptor&lt;TKey, TProp&gt;.IndexedPropertyDescriptor constructor" Url="html/1630961653.htm" />
+  <HelpKINode Title="IndexedPropertyDescriptor&lt;TKey, TProp&gt;.IsDynamic property" Url="html/1859181191.htm" />
+  <HelpKINode Title="IndexedPropertyDescriptor&lt;TKey, TProp&gt;.SetValue method" Url="html/1073144924.htm" />
+  <HelpKINode Title="IndexedPropertyDescriptor&lt;TKey, TProp&gt;.SetValue method" Url="html/704227563.htm" />
+  <HelpKINode Title="IntFlag enumeration member" Url="html/14400588.htm" />
+  <HelpKINode Title="IntFlag field" Url="html/1902172263.htm" />
+  <HelpKINode Title="IPropertyDescriptor interface" Url="html/1648761842.htm" />
+  <HelpKINode Title="IPropertyDescriptor interface" Url="html/733947358.htm" />
+  <HelpKINode Title="IPropertyDescriptor interface">
+    <HelpKINode Title="about IPropertyDescriptor interface" Url="html/1648761842.htm" />
+    <HelpKINode Title="all members" Url="html/733947358.htm" />
+    <HelpKINode Title="methods" Url="html/152755206.htm" />
+    <HelpKINode Title="properties" Url="html/1094412261.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IPropertyDescriptor.CanReadFrom method" Url="html/995166314.htm" />
+  <HelpKINode Title="IPropertyDescriptor.EntityType property" Url="html/2092587641.htm" />
+  <HelpKINode Title="IPropertyDescriptor.Name property" Url="html/374300077.htm" />
+  <HelpKINode Title="IPropertyDescriptor.PropertyType property" Url="html/1793542991.htm" />
+  <HelpKINode Title="IPropertyDescriptor.Serialize method" Url="html/790510778.htm" />
+  <HelpKINode Title="IPropertyDescriptor.SetValue method" Url="html/132342061.htm" />
+  <HelpKINode Title="IsColor field" Url="html/319321823.htm" />
+  <HelpKINode Title="IsColor field" Url="html/570275705.htm" />
+  <HelpKINode Title="IsDynamic property" Url="html/1859181191.htm" />
+  <HelpKINode Title="IsDynamic property" Url="html/38063301.htm" />
+  <HelpKINode Title="ISO field" Url="html/1832771271.htm" />
+  <HelpKINode Title="IStorageManager interface" Url="html/1760660171.htm" />
+  <HelpKINode Title="IStorageManager interface" Url="html/968310405.htm" />
+  <HelpKINode Title="IStorageManager interface">
+    <HelpKINode Title="about IStorageManager interface" Url="html/1760660171.htm" />
+    <HelpKINode Title="all members" Url="html/968310405.htm" />
+    <HelpKINode Title="events" Url="html/1210945428.htm" />
+    <HelpKINode Title="methods" Url="html/1930970419.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IStorageManager.Allocate method" Url="html/1189171918.htm" />
+  <HelpKINode Title="IStorageManager.Delink method" Url="html/1140471573.htm" />
+  <HelpKINode Title="IStorageManager.Duplicate method" Url="html/2088471.htm" />
+  <HelpKINode Title="IStorageManager.GetObject method" Url="html/563543463.htm" />
+  <HelpKINode Title="IStorageManager.GetReadStream method" Url="html/1899955794.htm" />
+  <HelpKINode Title="IStorageManager.GetWriteStream method" Url="html/1742910352.htm" />
+  <HelpKINode Title="IStorageManager.ReferenceUpdated event" Url="html/1580265318.htm" />
+  <HelpKINode Title="IStorageManager.StoreObject method" Url="html/853203487.htm" />
+  <HelpKINode Title="IStorageRef interface" Url="html/1340010657.htm" />
+  <HelpKINode Title="IStorageRef interface" Url="html/573820259.htm" />
+  <HelpKINode Title="IStorageRef interface">
+    <HelpKINode Title="about IStorageRef interface" Url="html/1340010657.htm" />
+    <HelpKINode Title="all members" Url="html/573820259.htm" />
+    <HelpKINode Title="methods" Url="html/1865123081.htm" />
+    <HelpKINode Title="properties" Url="html/51130682.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IStorageRef.Flags property" Url="html/324412194.htm" />
+  <HelpKINode Title="IStorageRef.FromString method" Url="html/649618884.htm" />
+  <HelpKINode Title="IStorageRef.Hash property" Url="html/1835133391.htm" />
+  <HelpKINode Title="IStorageRef.Location property" Url="html/1741364480.htm" />
+  <HelpKINode Title="IStorageRef.Size property" Url="html/1445403878.htm" />
+  <HelpKINode Title="IStorageRef.WithSize method" Url="html/2095266370.htm" />
+  <HelpKINode Title="IStorageStream interface" Url="html/1467081302.htm" />
+  <HelpKINode Title="IStorageStream interface" Url="html/1892550238.htm" />
+  <HelpKINode Title="IStorageStream interface">
+    <HelpKINode Title="about IStorageStream interface" Url="html/1467081302.htm" />
+    <HelpKINode Title="all members" Url="html/1892550238.htm" />
+    <HelpKINode Title="events" Url="html/2120316061.htm" />
+    <HelpKINode Title="methods" Url="html/1900312882.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IStorageStream.GetSourceDataHash method" Url="html/1224204430.htm" />
+  <HelpKINode Title="IStorageStream.Stored event" Url="html/617509306.htm" />
+  <HelpKINode Title="Item class">
+    <HelpKINode Title="constructor" Url="html/1272915199.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Item property" Url="html/336635946.htm" />
+  <HelpKINode Title="Item property" Url="html/914170310.htm" />
+  <HelpKINode Title="Item.Attributes property" Url="html/81720499.htm" />
+  <HelpKINode Title="Item.Equals method" Url="html/1602485705.htm" />
+  <HelpKINode Title="Item.Equals method" Url="html/194383569.htm" />
+  <HelpKINode Title="Item.GetHashCode method" Url="html/173701168.htm" />
+  <HelpKINode Title="Item.GetObjectData method" Url="html/1654483500.htm" />
+  <HelpKINode Title="Item.Item constructor" Url="html/1272915199.htm" />
+  <HelpKINode Title="Item.NameRef property" Url="html/1948197780.htm" />
+  <HelpKINode Title="Item.ToString method" Url="html/2061138855.htm" />
+  <HelpKINode Title="ItemAttribute enumeration" Url="html/1671819529.htm" />
+  <HelpKINode Title="ItemAttribute.Archive field" Url="html/1405871553.htm" />
+  <HelpKINode Title="ItemAttribute.Device field" Url="html/799942337.htm" />
+  <HelpKINode Title="ItemAttribute.Directory field" Url="html/1233574460.htm" />
+  <HelpKINode Title="ItemAttribute.Hidden field" Url="html/885563581.htm" />
+  <HelpKINode Title="ItemAttribute.Normal field" Url="html/134951422.htm" />
+  <HelpKINode Title="ItemAttribute.ReadOnly field" Url="html/711723965.htm" />
+  <HelpKINode Title="ItemAttribute.SparseFile field" Url="html/816441051.htm" />
+  <HelpKINode Title="ItemAttribute.System field" Url="html/64992716.htm" />
+  <HelpKINode Title="ItemAttribute.Temporary field" Url="html/372099720.htm" />
+  <HelpKINode Title="ItemCount property" Url="html/1456999916.htm" />
+  <HelpKINode Title="ItemCount property" Url="html/221293032.htm" />
+  <HelpKINode Title="ItemPath property" Url="html/1703004220.htm" />
+  <HelpKINode Title="ItemPathBeginsWith property" Url="html/193180965.htm" />
+  <HelpKINode Title="ItemRef structure">
+    <HelpKINode Title="constructor" Url="html/1993539943.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ItemRef.Equals method" Url="html/1830483233.htm" />
+  <HelpKINode Title="ItemRef.FromPath method" Url="html/448142105.htm" />
+  <HelpKINode Title="ItemRef.GetHashCode method" Url="html/1739704776.htm" />
+  <HelpKINode Title="ItemRef.GetObjectData method" Url="html/1382530156.htm" />
+  <HelpKINode Title="ItemRef.Hash property" Url="html/1144849250.htm" />
+  <HelpKINode Title="ItemRef.ItemRef constructor" Url="html/1993539943.htm" />
+  <HelpKINode Title="ItemRef.NameRef property" Url="html/524091974.htm" />
+  <HelpKINode Title="ItemRef.ParentRef property" Url="html/1814915081.htm" />
+  <HelpKINode Title="ItemRef.Rename method" Url="html/439992431.htm" />
+  <HelpKINode Title="ItemRef.ToString method" Url="html/1392834221.htm" />
+  <HelpKINode Title="ItemSet class" Url="html/1043569395.htm" />
+  <HelpKINode Title="ItemSet class" Url="html/1161120963.htm" />
+  <HelpKINode Title="ItemSet class">
+    <HelpKINode Title="about ItemSet class" Url="html/1161120963.htm" />
+    <HelpKINode Title="all members" Url="html/1043569395.htm" />
+    <HelpKINode Title="constructor" Url="html/570068880.htm" />
+    <HelpKINode Title="methods" Url="html/581573557.htm" />
+    <HelpKINode Title="properties" Url="html/1229472182.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ItemSet.Contains method" Url="html/105784280.htm" />
+  <HelpKINode Title="ItemSet.Contains method" Url="html/967677897.htm" />
+  <HelpKINode Title="ItemSet.ItemSet constructor" Url="html/570068880.htm" />
+  <HelpKINode Title="ItemSet.Remove method" Url="html/1323642986.htm" />
+  <HelpKINode Title="ItemSet.Remove method" Url="html/790114341.htm" />
+  <HelpKINode Title="ItemSet.TryGetValue method" Url="html/1479029272.htm" />
+  <HelpKINode Title="ItemSet.TryGetValue method" Url="html/461215343.htm" />
+  <HelpKINode Title="ITypeFormatter interface" Url="html/161814824.htm" />
+  <HelpKINode Title="ITypeFormatter interface" Url="html/2000227508.htm" />
+  <HelpKINode Title="ITypeFormatter interface">
+    <HelpKINode Title="about ITypeFormatter interface" Url="html/161814824.htm" />
+    <HelpKINode Title="all members" Url="html/2000227508.htm" />
+    <HelpKINode Title="methods" Url="html/2082794012.htm" />
+    <HelpKINode Title="properties" Url="html/673423113.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ITypeFormatter.CanReadFrom method" Url="html/452082814.htm" />
+  <HelpKINode Title="ITypeFormatter.FormattableType property" Url="html/1588863045.htm" />
+  <HelpKINode Title="ITypeFormatter.MagicBytes property" Url="html/2018369272.htm" />
+  <HelpKINode Title="ITypeFormatter.ReadOne method" Url="html/2051126180.htm" />
+  <HelpKINode Title="ITypeFormatter.SerializeTo method" Url="html/709700259.htm" />
+  <HelpKINode Title="JfifData field" Url="html/1017817717.htm" />
+  <HelpKINode Title="JfifFormatter class" Url="html/1959052987.htm" />
+  <HelpKINode Title="JfifFormatter class" Url="html/2140812017.htm" />
+  <HelpKINode Title="JfifFormatter class">
+    <HelpKINode Title="about JfifFormatter class" Url="html/1959052987.htm" />
+    <HelpKINode Title="all members" Url="html/2140812017.htm" />
+    <HelpKINode Title="methods" Url="html/2031920071.htm" />
+    <HelpKINode Title="properties" Url="html/1557464820.htm" />
+  </HelpKINode>
+  <HelpKINode Title="JfifFormatter.AppMarker class" Url="html/1200693910.htm" />
+  <HelpKINode Title="JfifFormatter.AppMarker class" Url="html/1959154622.htm" />
+  <HelpKINode Title="JfifFormatter.AppMarker class">
+    <HelpKINode Title="about JfifFormatter.AppMarker class" Url="html/1959154622.htm" />
+    <HelpKINode Title="all members" Url="html/1200693910.htm" />
+    <HelpKINode Title="methods" Url="html/1035535486.htm" />
+    <HelpKINode Title="properties" Url="html/1172182089.htm" />
+  </HelpKINode>
+  <HelpKINode Title="JfifFormatter.Descriptors property" Url="html/1294846689.htm" />
+  <HelpKINode Title="JfifImage class" Url="html/1000752850.htm" />
+  <HelpKINode Title="JfifImage class" Url="html/1656719018.htm" />
+  <HelpKINode Title="JfifImage class">
+    <HelpKINode Title="about JfifImage class" Url="html/1656719018.htm" />
+    <HelpKINode Title="all members" Url="html/1000752850.htm" />
+    <HelpKINode Title="constructor" Url="html/1014113779.htm" />
+    <HelpKINode Title="methods" Url="html/634502826.htm" />
+    <HelpKINode Title="properties" Url="html/842249489.htm" />
+  </HelpKINode>
+  <HelpKINode Title="JfifImage.AppMarkers property" Url="html/779060082.htm" />
+  <HelpKINode Title="JfifImage.Comment property" Url="html/342324267.htm" />
+  <HelpKINode Title="JfifImage.Dispose method" Url="html/1218562105.htm" />
+  <HelpKINode Title="JfifImage.FromFile method" Url="html/103042628.htm" />
+  <HelpKINode Title="JfifImage.GetSignerInfo method" Url="html/2095914531.htm" />
+  <HelpKINode Title="JfifImage.ImageData property" Url="html/765439207.htm" />
+  <HelpKINode Title="JfifImage.JfifImage constructor" Url="html/1014113779.htm" />
+  <HelpKINode Title="JfifImage.Sign method" Url="html/1634202471.htm" />
+  <HelpKINode Title="JfifImage.Verify method" Url="html/202644368.htm" />
+  <HelpKINode Title="JfifImageExtensions class" Url="html/183765464.htm" />
+  <HelpKINode Title="JfifImageExtensions class" Url="html/1978071320.htm" />
+  <HelpKINode Title="JfifImageExtensions class">
+    <HelpKINode Title="about JfifImageExtensions class" Url="html/1978071320.htm" />
+    <HelpKINode Title="all members" Url="html/183765464.htm" />
+    <HelpKINode Title="methods" Url="html/590262420.htm" />
+  </HelpKINode>
+  <HelpKINode Title="JfifImageExtensions.Save method" Url="html/570981533.htm" />
+  <HelpKINode Title="Journal property" Url="html/162939825.htm" />
+  <HelpKINode Title="Journal property" Url="html/1948421365.htm" />
+  <HelpKINode Title="JpegParser class" Url="html/1726949795.htm" />
+  <HelpKINode Title="JpegParser class" Url="html/1987677903.htm" />
+  <HelpKINode Title="JpegParser class">
+    <HelpKINode Title="about JpegParser class" Url="html/1987677903.htm" />
+    <HelpKINode Title="all members" Url="html/1726949795.htm" />
+    <HelpKINode Title="fields" Url="html/204298238.htm" />
+    <HelpKINode Title="methods" Url="html/416670117.htm" />
+  </HelpKINode>
+  <HelpKINode Title="JpegParser.Parse method" Url="html/1154419012.htm" />
+  <HelpKINode Title="JpegParser.ParseImageData field" Url="html/144942311.htm" />
+  <HelpKINode Title="Junction class">
+    <HelpKINode Title="constructor" Url="html/1672496244.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Junction.Junction constructor" Url="html/1672496244.htm" />
+  <HelpKINode Title="Junction.Target property" Url="html/2140008561.htm" />
+  <HelpKINode Title="Kind property" Url="html/1338152018.htm" />
+  <HelpKINode Title="Kind property" Url="html/1391164354.htm" />
+  <HelpKINode Title="Kind property" Url="html/150111955.htm" />
+  <HelpKINode Title="Kind property" Url="html/1567044352.htm" />
+  <HelpKINode Title="Kind property" Url="html/538950805.htm" />
+  <HelpKINode Title="Kind property" Url="html/807917573.htm" />
+  <HelpKINode Title="Kind property" Url="html/819828066.htm" />
+  <HelpKINode Title="Landscape enumeration member" Url="html/868495505.htm" />
+  <HelpKINode Title="Landscape field" Url="html/850587668.htm" />
+  <HelpKINode Title="LastBytes property" Url="html/1596783267.htm" />
+  <HelpKINode Title="LengthFieldFormat property" Url="html/2002972426.htm" />
+  <HelpKINode Title="Lens field" Url="html/2021071826.htm" />
+  <HelpKINode Title="LittleEndian enumeration member" Url="html/14400588.htm" />
+  <HelpKINode Title="LittleEndian field" Url="html/593445451.htm" />
+  <HelpKINode Title="Load method" Url="html/1616606794.htm" />
+  <HelpKINode Title="Load method" Url="html/1732139846.htm" />
+  <HelpKINode Title="Load method" Url="html/2044911687.htm" />
+  <HelpKINode Title="Location property" Url="html/1741364480.htm" />
+  <HelpKINode Title="Location property" Url="html/759579872.htm" />
+  <HelpKINode Title="Log method" Url="html/1901016514.htm" />
+  <HelpKINode Title="Long enumeration member" Url="html/367997264.htm" />
+  <HelpKINode Title="Long field" Url="html/1847829798.htm" />
+  <HelpKINode Title="LongFlag enumeration member" Url="html/14400588.htm" />
+  <HelpKINode Title="LongFlag field" Url="html/812653416.htm" />
+  <HelpKINode Title="LongProperty class">
+    <HelpKINode Title="constructor" Url="html/1214799763.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LongProperty(Of T) class" Url="html/1280223455.htm" />
+  <HelpKINode Title="LongProperty(Of T) class" Url="html/2129339329.htm" />
+  <HelpKINode Title="LongProperty(Of T) class">
+    <HelpKINode Title="about LongProperty(Of T) class" Url="html/1280223455.htm" />
+    <HelpKINode Title="all members" Url="html/2129339329.htm" />
+    <HelpKINode Title="constructor" Url="html/1707507762.htm" />
+    <HelpKINode Title="methods" Url="html/383679817.htm" />
+    <HelpKINode Title="properties" Url="html/1187565310.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LongProperty(Of T).LongProperty constructor" Url="html/1707507762.htm" />
+  <HelpKINode Title="LongProperty(Of T).ReadOne method" Url="html/331825395.htm" />
+  <HelpKINode Title="LongProperty(Of T).Serialize method" Url="html/1174905109.htm" />
+  <HelpKINode Title="LongProperty(Of T).Serialize method" Url="html/324137187.htm" />
+  <HelpKINode Title="LongProperty.LongProperty constructor" Url="html/1214799763.htm" />
+  <HelpKINode Title="LongProperty&lt;T&gt; class" Url="html/1280223455.htm" />
+  <HelpKINode Title="LongProperty&lt;T&gt; class" Url="html/2129339329.htm" />
+  <HelpKINode Title="LongProperty&lt;T&gt; class">
+    <HelpKINode Title="about LongProperty&lt;T&gt; class" Url="html/1280223455.htm" />
+    <HelpKINode Title="all members" Url="html/2129339329.htm" />
+    <HelpKINode Title="constructor" Url="html/1707507762.htm" />
+    <HelpKINode Title="methods" Url="html/383679817.htm" />
+    <HelpKINode Title="properties" Url="html/1187565310.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LongProperty&lt;T&gt;.LongProperty constructor" Url="html/1707507762.htm" />
+  <HelpKINode Title="LongProperty&lt;T&gt;.ReadOne method" Url="html/331825395.htm" />
+  <HelpKINode Title="LongProperty&lt;T&gt;.Serialize method" Url="html/1174905109.htm" />
+  <HelpKINode Title="LongProperty&lt;T&gt;.Serialize method" Url="html/324137187.htm" />
+  <HelpKINode Title="MagicBytes property" Url="html/1124598189.htm" />
+  <HelpKINode Title="MagicBytes property" Url="html/1891978058.htm" />
+  <HelpKINode Title="MagicBytes property" Url="html/2018369272.htm" />
+  <HelpKINode Title="MagicBytes property" Url="html/749688928.htm" />
+  <HelpKINode Title="MagicBytesAttribute class" Url="html/599496746.htm" />
+  <HelpKINode Title="MagicBytesAttribute class" Url="html/738024050.htm" />
+  <HelpKINode Title="MagicBytesAttribute class">
+    <HelpKINode Title="about MagicBytesAttribute class" Url="html/738024050.htm" />
+    <HelpKINode Title="all members" Url="html/599496746.htm" />
+    <HelpKINode Title="constructor" Url="html/933179003.htm" />
+    <HelpKINode Title="methods" Url="html/558583754.htm" />
+    <HelpKINode Title="properties" Url="html/1557049913.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MagicBytesAttribute.FirstBytes property" Url="html/803087139.htm" />
+  <HelpKINode Title="MagicBytesAttribute.LastBytes property" Url="html/1596783267.htm" />
+  <HelpKINode Title="MagicBytesAttribute.MagicBytesAttribute constructor" Url="html/933179003.htm" />
+  <HelpKINode Title="Manual enumeration member" Url="html/868495505.htm" />
+  <HelpKINode Title="Manual field" Url="html/480879821.htm" />
+  <HelpKINode Title="Matches method" Url="html/1194285307.htm" />
+  <HelpKINode Title="MaxAperture field" Url="html/1856440536.htm" />
+  <HelpKINode Title="MirroredHorizontal enumeration member" Url="html/789301504.htm" />
+  <HelpKINode Title="MirroredHorizontal field" Url="html/873749054.htm" />
+  <HelpKINode Title="MirroredHorizontalAndRotated270Clockwise enumeration member" Url="html/789301504.htm" />
+  <HelpKINode Title="MirroredHorizontalAndRotated270Clockwise field" Url="html/40484579.htm" />
+  <HelpKINode Title="MirroredHorizontalAndRotated90Clockwise enumeration member" Url="html/789301504.htm" />
+  <HelpKINode Title="MirroredHorizontalAndRotated90Clockwise field" Url="html/546104183.htm" />
+  <HelpKINode Title="MirroredVertical enumeration member" Url="html/789301504.htm" />
+  <HelpKINode Title="MirroredVertical field" Url="html/1905561052.htm" />
+  <HelpKINode Title="ModifiedDate field" Url="html/1373771831.htm" />
+  <HelpKINode Title="Multiply method" Url="html/35514463.htm" />
+  <HelpKINode Title="Name field" Url="html/166014477.htm" />
+  <HelpKINode Title="Name property" Url="html/2030685309.htm" />
+  <HelpKINode Title="Name property" Url="html/374300077.htm" />
+  <HelpKINode Title="NameRef property" Url="html/1948197780.htm" />
+  <HelpKINode Title="NameRef property" Url="html/524091974.htm" />
+  <HelpKINode Title="NameRef property" Url="html/818225160.htm" />
+  <HelpKINode Title="NameStore class" Url="html/140225738.htm" />
+  <HelpKINode Title="NameStore class" Url="html/409197546.htm" />
+  <HelpKINode Title="NameStore class">
+    <HelpKINode Title="about NameStore class" Url="html/140225738.htm" />
+    <HelpKINode Title="all members" Url="html/409197546.htm" />
+    <HelpKINode Title="methods" Url="html/1449695786.htm" />
+    <HelpKINode Title="properties" Url="html/1582408375.htm" />
+  </HelpKINode>
+  <HelpKINode Title="NameStore.GetExactMatch method" Url="html/146491712.htm" />
+  <HelpKINode Title="NameStore.GetExpressionMatches method" Url="html/1327686307.htm" />
+  <HelpKINode Title="NameStore.Translate method" Url="html/802629068.htm" />
+  <HelpKINode Title="None enumeration member" Url="html/14400588.htm" />
+  <HelpKINode Title="None field" Url="html/1221395638.htm" />
+  <HelpKINode Title="Normal enumeration member" Url="html/1671819529.htm" />
+  <HelpKINode Title="Normal field" Url="html/134951422.htm" />
+  <HelpKINode Title="Normalize method" Url="html/1171765347.htm" />
+  <HelpKINode Title="NotDefined enumeration member" Url="html/868495505.htm" />
+  <HelpKINode Title="NotDefined field" Url="html/1013160837.htm" />
+  <HelpKINode Title="NotSigned enumeration member" Url="html/1816439120.htm" />
+  <HelpKINode Title="NotSigned field" Url="html/1641935951.htm" />
+  <HelpKINode Title="NullItem class">
+    <HelpKINode Title="constructor" Url="html/151298675.htm" />
+  </HelpKINode>
+  <HelpKINode Title="NullItem.NullItem constructor" Url="html/151298675.htm" />
+  <HelpKINode Title="OnReferenceUpdated method" Url="html/2123860997.htm" />
+  <HelpKINode Title="Orientation field" Url="html/968747532.htm" />
+  <HelpKINode Title="OrientationType enumeration" Url="html/789301504.htm" />
+  <HelpKINode Title="OrientationType.Horizontal field" Url="html/147950776.htm" />
+  <HelpKINode Title="OrientationType.MirroredHorizontal field" Url="html/873749054.htm" />
+  <HelpKINode Title="OrientationType.MirroredHorizontalAndRotated270Clockwise field" Url="html/40484579.htm" />
+  <HelpKINode Title="OrientationType.MirroredHorizontalAndRotated90Clockwise field" Url="html/546104183.htm" />
+  <HelpKINode Title="OrientationType.MirroredVertical field" Url="html/1905561052.htm" />
+  <HelpKINode Title="OrientationType.Rotated180 field" Url="html/590144528.htm" />
+  <HelpKINode Title="OrientationType.Rotated270Clockwise field" Url="html/205352052.htm" />
+  <HelpKINode Title="OrientationType.Rotated90Clockwise field" Url="html/449894514.htm" />
+  <HelpKINode Title="ParentRef property" Url="html/1814915081.htm" />
+  <HelpKINode Title="Parse method" Url="html/1154419012.htm" />
+  <HelpKINode Title="ParseImageData field" Url="html/144942311.htm" />
+  <HelpKINode Title="Path property" Url="html/1083206859.htm" />
+  <HelpKINode Title="Path property" Url="html/1088377785.htm" />
+  <HelpKINode Title="Path property" Url="html/1395769262.htm" />
+  <HelpKINode Title="Path property" Url="html/1659896749.htm" />
+  <HelpKINode Title="Path property" Url="html/1821990791.htm" />
+  <HelpKINode Title="Path property" Url="html/55111776.htm" />
+  <HelpKINode Title="Path property" Url="html/899587452.htm" />
+  <HelpKINode Title="PathOptions.All field" Url="html/55094231.htm" />
+  <HelpKINode Title="PathOptions.Directory field" Url="html/745958283.htm" />
+  <HelpKINode Title="PathOptions.Form field" Url="html/148962942.htm" />
+  <HelpKINode Title="pathSeparator field" Url="html/1487842543.htm" />
+  <HelpKINode Title="pathSeparators field" Url="html/1249991088.htm" />
+  <HelpKINode Title="Portrait enumeration member" Url="html/868495505.htm" />
+  <HelpKINode Title="Portrait field" Url="html/1027953800.htm" />
+  <HelpKINode Title="PostActionEvents field" Url="html/1017375426.htm" />
+  <HelpKINode Title="PreActionEvents field" Url="html/207076053.htm" />
+  <HelpKINode Title="Primitive property" Url="html/552285186.htm" />
+  <HelpKINode Title="Program enumeration member" Url="html/868495505.htm" />
+  <HelpKINode Title="Program field" Url="html/2047578173.htm" />
+  <HelpKINode Title="PropertyDescriptor(Of TProp) class" Url="html/1843437400.htm" />
+  <HelpKINode Title="PropertyDescriptor(Of TProp) class" Url="html/598356100.htm" />
+  <HelpKINode Title="PropertyDescriptor(Of TProp) class">
+    <HelpKINode Title="about PropertyDescriptor(Of TProp) class" Url="html/598356100.htm" />
+    <HelpKINode Title="all members" Url="html/1843437400.htm" />
+    <HelpKINode Title="constructor" Url="html/1583817533.htm" />
+    <HelpKINode Title="methods" Url="html/2017707548.htm" />
+    <HelpKINode Title="properties" Url="html/1369082263.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PropertyDescriptor(Of TProp).EntityType property" Url="html/1561013681.htm" />
+  <HelpKINode Title="PropertyDescriptor(Of TProp).GetValue method" Url="html/1087251623.htm" />
+  <HelpKINode Title="PropertyDescriptor(Of TProp).Name property" Url="html/2030685309.htm" />
+  <HelpKINode Title="PropertyDescriptor(Of TProp).PropertyDescriptor constructor" Url="html/1583817533.htm" />
+  <HelpKINode Title="PropertyDescriptor(Of TProp).PropertyType property" Url="html/2137070625.htm" />
+  <HelpKINode Title="PropertyDescriptor(Of TProp).SetValue method" Url="html/780869695.htm" />
+  <HelpKINode Title="PropertyDescriptor&lt;TProp&gt; class" Url="html/1843437400.htm" />
+  <HelpKINode Title="PropertyDescriptor&lt;TProp&gt; class" Url="html/598356100.htm" />
+  <HelpKINode Title="PropertyDescriptor&lt;TProp&gt; class">
+    <HelpKINode Title="about PropertyDescriptor&lt;TProp&gt; class" Url="html/598356100.htm" />
+    <HelpKINode Title="all members" Url="html/1843437400.htm" />
+    <HelpKINode Title="constructor" Url="html/1583817533.htm" />
+    <HelpKINode Title="methods" Url="html/2017707548.htm" />
+    <HelpKINode Title="properties" Url="html/1369082263.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PropertyDescriptor&lt;TProp&gt;.EntityType property" Url="html/1561013681.htm" />
+  <HelpKINode Title="PropertyDescriptor&lt;TProp&gt;.GetValue method" Url="html/1087251623.htm" />
+  <HelpKINode Title="PropertyDescriptor&lt;TProp&gt;.Name property" Url="html/2030685309.htm" />
+  <HelpKINode Title="PropertyDescriptor&lt;TProp&gt;.PropertyDescriptor constructor" Url="html/1583817533.htm" />
+  <HelpKINode Title="PropertyDescriptor&lt;TProp&gt;.PropertyType property" Url="html/2137070625.htm" />
+  <HelpKINode Title="PropertyDescriptor&lt;TProp&gt;.SetValue method" Url="html/780869695.htm" />
+  <HelpKINode Title="PropertyType property" Url="html/1793542991.htm" />
+  <HelpKINode Title="PropertyType property" Url="html/2137070625.htm" />
+  <HelpKINode Title="QRCodeField256 property" Url="html/417947935.htm" />
+  <HelpKINode Title="Rational enumeration member" Url="html/367997264.htm" />
+  <HelpKINode Title="Rational field" Url="html/661517530.htm" />
+  <HelpKINode Title="RawImageMetadata class" Url="html/1401030984.htm" />
+  <HelpKINode Title="RawImageMetadata class" Url="html/1493879048.htm" />
+  <HelpKINode Title="RawImageMetadata class">
+    <HelpKINode Title="about RawImageMetadata class" Url="html/1401030984.htm" />
+    <HelpKINode Title="all members" Url="html/1493879048.htm" />
+    <HelpKINode Title="fields" Url="html/1997650809.htm" />
+    <HelpKINode Title="methods" Url="html/1674290928.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RawImageMetadata.AdobeXmpData field" Url="html/1835759440.htm" />
+  <HelpKINode Title="RawImageMetadata.ExifImageEntries field" Url="html/1913272749.htm" />
+  <HelpKINode Title="RawImageMetadata.ExifThumbnailEntries field" Url="html/963812566.htm" />
+  <HelpKINode Title="RawImageMetadata.FrameData field" Url="html/481767051.htm" />
+  <HelpKINode Title="RawImageMetadata.GetImageMetadata method" Url="html/1664907139.htm" />
+  <HelpKINode Title="RawImageMetadata.JfifData field" Url="html/1017817717.htm" />
+  <HelpKINode Title="RawImageMetadata.ThumbnailData field" Url="html/838929156.htm" />
+  <HelpKINode Title="RawImageMetadata.TryGetExifTag method" Url="html/373315497.htm" />
+  <HelpKINode Title="Read method" Url="html/545493782.htm" />
+  <HelpKINode Title="Read method" Url="html/776137079.htm" />
+  <HelpKINode Title="ReadMany method" Url="html/1975192030.htm" />
+  <HelpKINode Title="ReadOne method" Url="html/156609780.htm" />
+  <HelpKINode Title="ReadOne method" Url="html/2051126180.htm" />
+  <HelpKINode Title="ReadOne method" Url="html/331825395.htm" />
+  <HelpKINode Title="ReadOne method" Url="html/390104777.htm" />
+  <HelpKINode Title="ReadOne method" Url="html/49308512.htm" />
+  <HelpKINode Title="ReadOne method" Url="html/545565745.htm" />
+  <HelpKINode Title="ReadOne method" Url="html/585907815.htm" />
+  <HelpKINode Title="ReadOne method" Url="html/942389674.htm" />
+  <HelpKINode Title="ReadOne method" Url="html/997067340.htm" />
+  <HelpKINode Title="ReadOnly enumeration member" Url="html/1671819529.htm" />
+  <HelpKINode Title="ReadOnly field" Url="html/711723965.htm" />
+  <HelpKINode Title="ReadValue method" Url="html/140328874.htm" />
+  <HelpKINode Title="RecordType property" Url="html/1651606424.htm" />
+  <HelpKINode Title="ReedSolomonDecoder class" Url="html/1437959615.htm" />
+  <HelpKINode Title="ReedSolomonDecoder class" Url="html/259237625.htm" />
+  <HelpKINode Title="ReedSolomonDecoder class">
+    <HelpKINode Title="about ReedSolomonDecoder class" Url="html/259237625.htm" />
+    <HelpKINode Title="all members" Url="html/1437959615.htm" />
+    <HelpKINode Title="constructor" Url="html/1227467701.htm" />
+    <HelpKINode Title="methods" Url="html/632330415.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ReedSolomonDecoder.Decode method" Url="html/1402009777.htm" />
+  <HelpKINode Title="ReedSolomonDecoder.ReedSolomonDecoder constructor" Url="html/1227467701.htm" />
+  <HelpKINode Title="ReedSolomonDecoder.Verify method" Url="html/1133394406.htm" />
+  <HelpKINode Title="ReedSolomonEncoder class" Url="html/4291383.htm" />
+  <HelpKINode Title="ReedSolomonEncoder class" Url="html/595908267.htm" />
+  <HelpKINode Title="ReedSolomonEncoder class">
+    <HelpKINode Title="about ReedSolomonEncoder class" Url="html/595908267.htm" />
+    <HelpKINode Title="all members" Url="html/4291383.htm" />
+    <HelpKINode Title="constructor" Url="html/1781486973.htm" />
+    <HelpKINode Title="methods" Url="html/295680489.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ReedSolomonEncoder.Encode method" Url="html/600157775.htm" />
+  <HelpKINode Title="ReedSolomonEncoder.ReedSolomonEncoder constructor" Url="html/1781486973.htm" />
+  <HelpKINode Title="ReferenceUpdated event" Url="html/1580265318.htm" />
+  <HelpKINode Title="ReferenceUpdated event" Url="html/2137866932.htm" />
+  <HelpKINode Title="ReferenceUpdatedHandler delegate" Url="html/1048299530.htm" />
+  <HelpKINode Title="Remove method" Url="html/1323642986.htm" />
+  <HelpKINode Title="Remove method" Url="html/790114341.htm" />
+  <HelpKINode Title="RemoveAction structure">
+    <HelpKINode Title="constructor" Url="html/1740339141.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RemoveAction.Kind property" Url="html/807917573.htm" />
+  <HelpKINode Title="RemoveAction.Path property" Url="html/899587452.htm" />
+  <HelpKINode Title="RemoveAction.RemoveAction constructor" Url="html/1740339141.htm" />
+  <HelpKINode Title="RemoveAction.ToString method" Url="html/163292768.htm" />
+  <HelpKINode Title="RemoveAction.UtcTimestamp property" Url="html/1603361471.htm" />
+  <HelpKINode Title="RemoveChild method" Url="html/895407599.htm" />
+  <HelpKINode Title="RemoveFile enumeration member" Url="html/2109941548.htm" />
+  <HelpKINode Title="RemoveFile field" Url="html/1781649098.htm" />
+  <HelpKINode Title="RemoveItem method" Url="html/1440892195.htm" />
+  <HelpKINode Title="RemoveItem method" Url="html/1738086102.htm" />
+  <HelpKINode Title="RemoveItem method" Url="html/795263515.htm" />
+  <HelpKINode Title="RemoveTree enumeration member" Url="html/2109941548.htm" />
+  <HelpKINode Title="RemoveTree field" Url="html/2138138132.htm" />
+  <HelpKINode Title="Rename method" Url="html/439992431.htm" />
+  <HelpKINode Title="Replaced enumeration member" Url="html/464116494.htm" />
+  <HelpKINode Title="Replaced field" Url="html/857362470.htm" />
+  <HelpKINode Title="ReplaceFile enumeration member" Url="html/2109941548.htm" />
+  <HelpKINode Title="ReplaceFile field" Url="html/1714832814.htm" />
+  <HelpKINode Title="ReplaceFileAction structure">
+    <HelpKINode Title="constructor" Url="html/637305846.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ReplaceFileAction.Kind property" Url="html/538950805.htm" />
+  <HelpKINode Title="ReplaceFileAction.Path property" Url="html/55111776.htm" />
+  <HelpKINode Title="ReplaceFileAction.ReplaceFileAction constructor" Url="html/637305846.htm" />
+  <HelpKINode Title="ReplaceFileAction.StorageRef property" Url="html/1026622853.htm" />
+  <HelpKINode Title="ReplaceFileAction.ToString method" Url="html/122977746.htm" />
+  <HelpKINode Title="ReplaceFileAction.UtcTimestamp property" Url="html/851067087.htm" />
+  <HelpKINode Title="ReplicateTo method" Url="html/1083629673.htm" />
+  <HelpKINode Title="Replicator class" Url="html/1292729013.htm" />
+  <HelpKINode Title="Replicator class" Url="html/192521689.htm" />
+  <HelpKINode Title="Replicator class">
+    <HelpKINode Title="about Replicator class" Url="html/1292729013.htm" />
+    <HelpKINode Title="all members" Url="html/192521689.htm" />
+    <HelpKINode Title="constructor" Url="html/123904928.htm" />
+    <HelpKINode Title="methods" Url="html/519573427.htm" />
+    <HelpKINode Title="properties" Url="html/684499368.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Replicator.AddDirectory method" Url="html/1543416578.htm" />
+  <HelpKINode Title="Replicator.FileSystem property" Url="html/1602437064.htm" />
+  <HelpKINode Title="Replicator.ReplicateTo method" Url="html/1083629673.htm" />
+  <HelpKINode Title="Replicator.Replicator constructor" Url="html/123904928.htm" />
+  <HelpKINode Title="RequiredAttribute class" Url="html/1870985710.htm" />
+  <HelpKINode Title="RequiredAttribute class" Url="html/603443950.htm" />
+  <HelpKINode Title="RequiredAttribute class">
+    <HelpKINode Title="about RequiredAttribute class" Url="html/1870985710.htm" />
+    <HelpKINode Title="all members" Url="html/603443950.htm" />
+    <HelpKINode Title="constructor" Url="html/999250052.htm" />
+    <HelpKINode Title="methods" Url="html/791133714.htm" />
+    <HelpKINode Title="properties" Url="html/1960837327.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RequiredAttribute.RequiredAttribute constructor" Url="html/999250052.htm" />
+  <HelpKINode Title="Revision class">
+    <HelpKINode Title="constructor" Url="html/53386436.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Revision.CompareTo method" Url="html/352284244.htm" />
+  <HelpKINode Title="Revision.Data property" Url="html/514985949.htm" />
+  <HelpKINode Title="Revision.Equals method" Url="html/940084040.htm" />
+  <HelpKINode Title="Revision.GetHashCode method" Url="html/739318283.htm" />
+  <HelpKINode Title="Revision.GetSignatureReader method" Url="html/2092709961.htm" />
+  <HelpKINode Title="Revision.Header property" Url="html/1032973282.htm" />
+  <HelpKINode Title="Revision.Load method" Url="html/1616606794.htm" />
+  <HelpKINode Title="Revision.Revision constructor" Url="html/53386436.htm" />
+  <HelpKINode Title="Revision.Signature property" Url="html/331191909.htm" />
+  <HelpKINode Title="Revision.Timestamp property" Url="html/1691243635.htm" />
+  <HelpKINode Title="Revision._header field" Url="html/536047151.htm" />
+  <HelpKINode Title="Revision._parentStore field" Url="html/2129367249.htm" />
+  <HelpKINode Title="RevisionHeader class">
+    <HelpKINode Title="constructor" Url="html/1659629380.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RevisionHeader.BaseTimestamp property" Url="html/1623470723.htm" />
+  <HelpKINode Title="RevisionHeader.CompareTo method" Url="html/481751930.htm" />
+  <HelpKINode Title="RevisionHeader.DataLength property" Url="html/805631484.htm" />
+  <HelpKINode Title="RevisionHeader.Description property" Url="html/2097807718.htm" />
+  <HelpKINode Title="RevisionHeader.Equals method" Url="html/14908911.htm" />
+  <HelpKINode Title="RevisionHeader.GetHashCode method" Url="html/204884622.htm" />
+  <HelpKINode Title="RevisionHeader.RevisionHeader constructor" Url="html/1659629380.htm" />
+  <HelpKINode Title="RevisionHeader.SignatureLength property" Url="html/1175836934.htm" />
+  <HelpKINode Title="RevisionHeader.Timestamp property" Url="html/1098525288.htm" />
+  <HelpKINode Title="RevisionHeader.TotalPayloadLength property" Url="html/107015576.htm" />
+  <HelpKINode Title="Root property" Url="html/400287312.htm" />
+  <HelpKINode Title="Rotated180 enumeration member" Url="html/789301504.htm" />
+  <HelpKINode Title="Rotated180 field" Url="html/590144528.htm" />
+  <HelpKINode Title="Rotated270Clockwise enumeration member" Url="html/789301504.htm" />
+  <HelpKINode Title="Rotated270Clockwise field" Url="html/205352052.htm" />
+  <HelpKINode Title="Rotated90Clockwise enumeration member" Url="html/789301504.htm" />
+  <HelpKINode Title="Rotated90Clockwise field" Url="html/449894514.htm" />
+  <HelpKINode Title="Save method" Url="html/509922823.htm" />
+  <HelpKINode Title="Save method" Url="html/570981533.htm" />
+  <HelpKINode Title="SByte enumeration member" Url="html/367997264.htm" />
+  <HelpKINode Title="SByte field" Url="html/889085381.htm" />
+  <HelpKINode Title="Seek method" Url="html/1596296219.htm" />
+  <HelpKINode Title="Seek method" Url="html/789946899.htm" />
+  <HelpKINode Title="Serialize method" Url="html/1057429508.htm" />
+  <HelpKINode Title="Serialize method" Url="html/1174905109.htm" />
+  <HelpKINode Title="Serialize method" Url="html/1391905282.htm" />
+  <HelpKINode Title="Serialize method" Url="html/1514526796.htm" />
+  <HelpKINode Title="Serialize method" Url="html/1697652642.htm" />
+  <HelpKINode Title="Serialize method" Url="html/1736493819.htm" />
+  <HelpKINode Title="Serialize method" Url="html/20084927.htm" />
+  <HelpKINode Title="Serialize method" Url="html/2116016551.htm" />
+  <HelpKINode Title="Serialize method" Url="html/324137187.htm" />
+  <HelpKINode Title="Serialize method" Url="html/357905199.htm" />
+  <HelpKINode Title="Serialize method" Url="html/373184302.htm" />
+  <HelpKINode Title="Serialize method" Url="html/408369625.htm" />
+  <HelpKINode Title="Serialize method" Url="html/483900464.htm" />
+  <HelpKINode Title="Serialize method" Url="html/790510778.htm" />
+  <HelpKINode Title="SerializeTo method" Url="html/1287239012.htm" />
+  <HelpKINode Title="SerializeTo method" Url="html/606244995.htm" />
+  <HelpKINode Title="SerializeTo method" Url="html/709700259.htm" />
+  <HelpKINode Title="SetAttributes enumeration member" Url="html/2109941548.htm" />
+  <HelpKINode Title="SetAttributes field" Url="html/215621475.htm" />
+  <HelpKINode Title="SetName enumeration member" Url="html/2109941548.htm" />
+  <HelpKINode Title="SetName field" Url="html/1408277029.htm" />
+  <HelpKINode Title="SetNameAction structure">
+    <HelpKINode Title="constructor" Url="html/1967724484.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SetNameAction.Kind property" Url="html/819828066.htm" />
+  <HelpKINode Title="SetNameAction.Path property" Url="html/1659896749.htm" />
+  <HelpKINode Title="SetNameAction.SetNameAction constructor" Url="html/1967724484.htm" />
+  <HelpKINode Title="SetNameAction.ToString method" Url="html/529246585.htm" />
+  <HelpKINode Title="SetNameAction.UtcTimestamp property" Url="html/1631814414.htm" />
+  <HelpKINode Title="SetNameAction.Value property" Url="html/1639657445.htm" />
+  <HelpKINode Title="SetStorageManager method" Url="html/1107589253.htm" />
+  <HelpKINode Title="SetStorageManager method" Url="html/521409277.htm" />
+  <HelpKINode Title="SetValue method" Url="html/1073144924.htm" />
+  <HelpKINode Title="SetValue method" Url="html/132342061.htm" />
+  <HelpKINode Title="SetValue method" Url="html/704227563.htm" />
+  <HelpKINode Title="SetValue method" Url="html/780869695.htm" />
+  <HelpKINode Title="Short enumeration member" Url="html/367997264.htm" />
+  <HelpKINode Title="Short field" Url="html/1396366358.htm" />
+  <HelpKINode Title="ShortFlag enumeration member" Url="html/14400588.htm" />
+  <HelpKINode Title="ShortFlag field" Url="html/1682421276.htm" />
+  <HelpKINode Title="ShutterSpeedPriority enumeration member" Url="html/868495505.htm" />
+  <HelpKINode Title="ShutterSpeedPriority field" Url="html/396014239.htm" />
+  <HelpKINode Title="Sign method" Url="html/1634202471.htm" />
+  <HelpKINode Title="Signature property" Url="html/331191909.htm" />
+  <HelpKINode Title="SignatureAdded enumeration member" Url="html/696307698.htm" />
+  <HelpKINode Title="SignatureAdded field" Url="html/463390486.htm" />
+  <HelpKINode Title="SignatureAlreadyExists enumeration member" Url="html/696307698.htm" />
+  <HelpKINode Title="SignatureAlreadyExists field" Url="html/983688408.htm" />
+  <HelpKINode Title="SignatureLength property" Url="html/1175836934.htm" />
+  <HelpKINode Title="SignatureMaxLengthExceeded enumeration member" Url="html/696307698.htm" />
+  <HelpKINode Title="SignatureMaxLengthExceeded field" Url="html/926450011.htm" />
+  <HelpKINode Title="SignatureNotAdded enumeration member" Url="html/696307698.htm" />
+  <HelpKINode Title="SignatureNotAdded field" Url="html/2140430371.htm" />
+  <HelpKINode Title="SignatureVerificationResult enumeration" Url="html/1816439120.htm" />
+  <HelpKINode Title="SignatureVerificationResult.DataAltered field" Url="html/1380943317.htm" />
+  <HelpKINode Title="SignatureVerificationResult.NotSigned field" Url="html/1641935951.htm" />
+  <HelpKINode Title="SignatureVerificationResult.UntrustedSignature field" Url="html/240807804.htm" />
+  <HelpKINode Title="SignatureVerificationResult.VerifiedContentIntegrity field" Url="html/689213012.htm" />
+  <HelpKINode Title="SignatureVerificationResult.VerifiedSignerIdentity field" Url="html/142313680.htm" />
+  <HelpKINode Title="Signed enumeration member" Url="html/14400588.htm" />
+  <HelpKINode Title="Signed field" Url="html/797598700.htm" />
+  <HelpKINode Title="SigningResult enumeration" Url="html/696307698.htm" />
+  <HelpKINode Title="SigningResult.CertificateNotFound field" Url="html/1933345094.htm" />
+  <HelpKINode Title="SigningResult.CertificateNotValid field" Url="html/1239160292.htm" />
+  <HelpKINode Title="SigningResult.SignatureAdded field" Url="html/463390486.htm" />
+  <HelpKINode Title="SigningResult.SignatureAlreadyExists field" Url="html/983688408.htm" />
+  <HelpKINode Title="SigningResult.SignatureMaxLengthExceeded field" Url="html/926450011.htm" />
+  <HelpKINode Title="SigningResult.SignatureNotAdded field" Url="html/2140430371.htm" />
+  <HelpKINode Title="SigningResult.UnspecifiedError field" Url="html/144037617.htm" />
+  <HelpKINode Title="Size property" Url="html/1271359046.htm" />
+  <HelpKINode Title="Size property" Url="html/1445403878.htm" />
+  <HelpKINode Title="Size property" Url="html/981746596.htm" />
+  <HelpKINode Title="Software field" Url="html/561731999.htm" />
+  <HelpKINode Title="SparseFile enumeration member" Url="html/1671819529.htm" />
+  <HelpKINode Title="SparseFile field" Url="html/816441051.htm" />
+  <HelpKINode Title="SplitPath method" Url="html/1617763114.htm" />
+  <HelpKINode Title="StandardFields class" Url="html/220219778.htm" />
+  <HelpKINode Title="StandardFields class" Url="html/477484582.htm" />
+  <HelpKINode Title="StandardFields class">
+    <HelpKINode Title="about StandardFields class" Url="html/220219778.htm" />
+    <HelpKINode Title="all members" Url="html/477484582.htm" />
+    <HelpKINode Title="methods" Url="html/1491239166.htm" />
+    <HelpKINode Title="properties" Url="html/1736154887.htm" />
+  </HelpKINode>
+  <HelpKINode Title="StandardFields.AztecData12 property" Url="html/869306530.htm" />
+  <HelpKINode Title="StandardFields.DataMatrixField256 property" Url="html/1191293048.htm" />
+  <HelpKINode Title="StandardFields.QRCodeField256 property" Url="html/417947935.htm" />
+  <HelpKINode Title="StartOfFrameData structure" Url="html/1026261284.htm" />
+  <HelpKINode Title="StartOfFrameData structure" Url="html/1842369264.htm" />
+  <HelpKINode Title="StartOfFrameData structure">
+    <HelpKINode Title="about StartOfFrameData structure" Url="html/1842369264.htm" />
+    <HelpKINode Title="all members" Url="html/1026261284.htm" />
+    <HelpKINode Title="fields" Url="html/1150221195.htm" />
+    <HelpKINode Title="methods" Url="html/1718851976.htm" />
+  </HelpKINode>
+  <HelpKINode Title="StartOfFrameData.BitPerSample field" Url="html/2046614380.htm" />
+  <HelpKINode Title="StartOfFrameData.ColorComponents field" Url="html/605802801.htm" />
+  <HelpKINode Title="StartOfFrameData.EncodingProcess field" Url="html/1046229990.htm" />
+  <HelpKINode Title="StartOfFrameData.Height field" Url="html/268984429.htm" />
+  <HelpKINode Title="StartOfFrameData.IsColor field" Url="html/319321823.htm" />
+  <HelpKINode Title="StartOfFrameData.Width field" Url="html/750143096.htm" />
+  <HelpKINode Title="StorageFlag enumeration" Url="html/755254341.htm" />
+  <HelpKINode Title="StorageFlag.Compressed field" Url="html/1514985326.htm" />
+  <HelpKINode Title="StorageFlag.Encrypted field" Url="html/1599794673.htm" />
+  <HelpKINode Title="StorageManager(Of TStorageRef) class" Url="html/1682464959.htm" />
+  <HelpKINode Title="StorageManager(Of TStorageRef) class" Url="html/864870441.htm" />
+  <HelpKINode Title="StorageManager(Of TStorageRef) class">
+    <HelpKINode Title="about StorageManager(Of TStorageRef) class" Url="html/864870441.htm" />
+    <HelpKINode Title="all members" Url="html/1682464959.htm" />
+    <HelpKINode Title="events" Url="html/982907226.htm" />
+    <HelpKINode Title="methods" Url="html/1731243883.htm" />
+    <HelpKINode Title="properties" Url="html/1453439042.htm" />
+  </HelpKINode>
+  <HelpKINode Title="StorageManager(Of TStorageRef).Allocate method" Url="html/1274531092.htm" />
+  <HelpKINode Title="StorageManager(Of TStorageRef).AllocatedTotal property" Url="html/625263460.htm" />
+  <HelpKINode Title="StorageManager(Of TStorageRef).CacheManager property" Url="html/341051184.htm" />
+  <HelpKINode Title="StorageManager(Of TStorageRef).DeflateStorageStream class" Url="html/1208074979.htm" />
+  <HelpKINode Title="StorageManager(Of TStorageRef).DeflateStorageStream class" Url="html/329138123.htm" />
+  <HelpKINode Title="StorageManager(Of TStorageRef).DeflateStorageStream class">
+    <HelpKINode Title="about StorageManager(Of TStorageRef).DeflateStorageStream class" Url="html/1208074979.htm" />
+    <HelpKINode Title="all members" Url="html/329138123.htm" />
+    <HelpKINode Title="events" Url="html/46187212.htm" />
+    <HelpKINode Title="methods" Url="html/1950718971.htm" />
+    <HelpKINode Title="properties" Url="html/571227636.htm" />
+  </HelpKINode>
+  <HelpKINode Title="StorageManager(Of TStorageRef).Delink method" Url="html/1189162248.htm" />
+  <HelpKINode Title="StorageManager(Of TStorageRef).Duplicate method" Url="html/147714198.htm" />
+  <HelpKINode Title="StorageManager(Of TStorageRef).GetCachedReadStream method" Url="html/1864723829.htm" />
+  <HelpKINode Title="StorageManager(Of TStorageRef).GetObject method" Url="html/1277793768.htm" />
+  <HelpKINode Title="StorageManager(Of TStorageRef).GetReadStream method" Url="html/686345633.htm" />
+  <HelpKINode Title="StorageManager(Of TStorageRef).GetWriteStream method" Url="html/1483442449.htm" />
+  <HelpKINode Title="StorageManager(Of TStorageRef).OnReferenceUpdated method" Url="html/2123860997.htm" />
+  <HelpKINode Title="StorageManager(Of TStorageRef).ReferenceUpdated event" Url="html/2137866932.htm" />
+  <HelpKINode Title="StorageManager(Of TStorageRef).StorageStream class" Url="html/1435609518.htm" />
+  <HelpKINode Title="StorageManager(Of TStorageRef).StorageStream class" Url="html/402681682.htm" />
+  <HelpKINode Title="StorageManager(Of TStorageRef).StorageStream class">
+    <HelpKINode Title="about StorageManager(Of TStorageRef).StorageStream class" Url="html/1435609518.htm" />
+    <HelpKINode Title="all members" Url="html/402681682.htm" />
+    <HelpKINode Title="events" Url="html/1097749693.htm" />
+    <HelpKINode Title="methods" Url="html/1089542510.htm" />
+    <HelpKINode Title="properties" Url="html/388060337.htm" />
+  </HelpKINode>
+  <HelpKINode Title="StorageManager(Of TStorageRef).Store method" Url="html/1800028.htm" />
+  <HelpKINode Title="StorageManager(Of TStorageRef).StoreObject method" Url="html/2075423113.htm" />
+  <HelpKINode Title="StorageManager(Of TStorageRef).TryGetReference method" Url="html/1174240541.htm" />
+  <HelpKINode Title="StorageManager&lt;TStorageRef&gt; class" Url="html/1682464959.htm" />
+  <HelpKINode Title="StorageManager&lt;TStorageRef&gt; class" Url="html/864870441.htm" />
+  <HelpKINode Title="StorageManager&lt;TStorageRef&gt; class">
+    <HelpKINode Title="about StorageManager&lt;TStorageRef&gt; class" Url="html/864870441.htm" />
+    <HelpKINode Title="all members" Url="html/1682464959.htm" />
+    <HelpKINode Title="events" Url="html/982907226.htm" />
+    <HelpKINode Title="methods" Url="html/1731243883.htm" />
+    <HelpKINode Title="properties" Url="html/1453439042.htm" />
+  </HelpKINode>
+  <HelpKINode Title="StorageManager&lt;TStorageRef&gt;.Allocate method" Url="html/1274531092.htm" />
+  <HelpKINode Title="StorageManager&lt;TStorageRef&gt;.AllocatedTotal property" Url="html/625263460.htm" />
+  <HelpKINode Title="StorageManager&lt;TStorageRef&gt;.CacheManager property" Url="html/341051184.htm" />
+  <HelpKINode Title="StorageManager&lt;TStorageRef&gt;.DeflateStorageStream class" Url="html/1208074979.htm" />
+  <HelpKINode Title="StorageManager&lt;TStorageRef&gt;.DeflateStorageStream class" Url="html/329138123.htm" />
+  <HelpKINode Title="StorageManager&lt;TStorageRef&gt;.DeflateStorageStream class">
+    <HelpKINode Title="about StorageManager&lt;TStorageRef&gt;.DeflateStorageStream class" Url="html/1208074979.htm" />
+    <HelpKINode Title="all members" Url="html/329138123.htm" />
+    <HelpKINode Title="events" Url="html/46187212.htm" />
+    <HelpKINode Title="methods" Url="html/1950718971.htm" />
+    <HelpKINode Title="properties" Url="html/571227636.htm" />
+  </HelpKINode>
+  <HelpKINode Title="StorageManager&lt;TStorageRef&gt;.Delink method" Url="html/1189162248.htm" />
+  <HelpKINode Title="StorageManager&lt;TStorageRef&gt;.Duplicate method" Url="html/147714198.htm" />
+  <HelpKINode Title="StorageManager&lt;TStorageRef&gt;.GetCachedReadStream method" Url="html/1864723829.htm" />
+  <HelpKINode Title="StorageManager&lt;TStorageRef&gt;.GetObject method" Url="html/1277793768.htm" />
+  <HelpKINode Title="StorageManager&lt;TStorageRef&gt;.GetReadStream method" Url="html/686345633.htm" />
+  <HelpKINode Title="StorageManager&lt;TStorageRef&gt;.GetWriteStream method" Url="html/1483442449.htm" />
+  <HelpKINode Title="StorageManager&lt;TStorageRef&gt;.OnReferenceUpdated method" Url="html/2123860997.htm" />
+  <HelpKINode Title="StorageManager&lt;TStorageRef&gt;.ReferenceUpdated event" Url="html/2137866932.htm" />
+  <HelpKINode Title="StorageManager&lt;TStorageRef&gt;.StorageStream class" Url="html/1435609518.htm" />
+  <HelpKINode Title="StorageManager&lt;TStorageRef&gt;.StorageStream class" Url="html/402681682.htm" />
+  <HelpKINode Title="StorageManager&lt;TStorageRef&gt;.StorageStream class">
+    <HelpKINode Title="about StorageManager&lt;TStorageRef&gt;.StorageStream class" Url="html/1435609518.htm" />
+    <HelpKINode Title="all members" Url="html/402681682.htm" />
+    <HelpKINode Title="events" Url="html/1097749693.htm" />
+    <HelpKINode Title="methods" Url="html/1089542510.htm" />
+    <HelpKINode Title="properties" Url="html/388060337.htm" />
+  </HelpKINode>
+  <HelpKINode Title="StorageManager&lt;TStorageRef&gt;.Store method" Url="html/1800028.htm" />
+  <HelpKINode Title="StorageManager&lt;TStorageRef&gt;.StoreObject method" Url="html/2075423113.htm" />
+  <HelpKINode Title="StorageManager&lt;TStorageRef&gt;.TryGetReference method" Url="html/1174240541.htm" />
+  <HelpKINode Title="StorageRef property" Url="html/1026622853.htm" />
+  <HelpKINode Title="StorageRef property" Url="html/1586840704.htm" />
+  <HelpKINode Title="StorageRef property" Url="html/1775563735.htm" />
+  <HelpKINode Title="StorageRef property" Url="html/77885233.htm" />
+  <HelpKINode Title="StorageRef(Of TRef) structure" Url="html/327578251.htm" />
+  <HelpKINode Title="StorageRef(Of TRef) structure" Url="html/711434455.htm" />
+  <HelpKINode Title="StorageRef(Of TRef) structure">
+    <HelpKINode Title="about StorageRef(Of TRef) structure" Url="html/327578251.htm" />
+    <HelpKINode Title="all members" Url="html/711434455.htm" />
+    <HelpKINode Title="constructor" Url="html/1025729473.htm" />
+    <HelpKINode Title="methods" Url="html/1132315277.htm" />
+    <HelpKINode Title="properties" Url="html/1328062616.htm" />
+  </HelpKINode>
+  <HelpKINode Title="StorageRef(Of TRef).Equals method" Url="html/1017159855.htm" />
+  <HelpKINode Title="StorageRef(Of TRef).Equals method" Url="html/1230210812.htm" />
+  <HelpKINode Title="StorageRef(Of TRef).Flags property" Url="html/113725046.htm" />
+  <HelpKINode Title="StorageRef(Of TRef).GetHashCode method" Url="html/1348205591.htm" />
+  <HelpKINode Title="StorageRef(Of TRef).Hash property" Url="html/1134792637.htm" />
+  <HelpKINode Title="StorageRef(Of TRef).Location property" Url="html/759579872.htm" />
+  <HelpKINode Title="StorageRef(Of TRef).Size property" Url="html/1271359046.htm" />
+  <HelpKINode Title="StorageRef(Of TRef).StorageRef constructor" Url="html/1025729473.htm" />
+  <HelpKINode Title="StorageRef(Of TRef).WithSize method" Url="html/1587692844.htm" />
+  <HelpKINode Title="StorageRef&lt;TRef&gt; structure" Url="html/327578251.htm" />
+  <HelpKINode Title="StorageRef&lt;TRef&gt; structure" Url="html/711434455.htm" />
+  <HelpKINode Title="StorageRef&lt;TRef&gt; structure">
+    <HelpKINode Title="about StorageRef&lt;TRef&gt; structure" Url="html/327578251.htm" />
+    <HelpKINode Title="all members" Url="html/711434455.htm" />
+    <HelpKINode Title="constructor" Url="html/1025729473.htm" />
+    <HelpKINode Title="methods" Url="html/1132315277.htm" />
+    <HelpKINode Title="properties" Url="html/1328062616.htm" />
+  </HelpKINode>
+  <HelpKINode Title="StorageRef&lt;TRef&gt;.Equals method" Url="html/1017159855.htm" />
+  <HelpKINode Title="StorageRef&lt;TRef&gt;.Equals method" Url="html/1230210812.htm" />
+  <HelpKINode Title="StorageRef&lt;TRef&gt;.Flags property" Url="html/113725046.htm" />
+  <HelpKINode Title="StorageRef&lt;TRef&gt;.GetHashCode method" Url="html/1348205591.htm" />
+  <HelpKINode Title="StorageRef&lt;TRef&gt;.Hash property" Url="html/1134792637.htm" />
+  <HelpKINode Title="StorageRef&lt;TRef&gt;.Location property" Url="html/759579872.htm" />
+  <HelpKINode Title="StorageRef&lt;TRef&gt;.Size property" Url="html/1271359046.htm" />
+  <HelpKINode Title="StorageRef&lt;TRef&gt;.StorageRef constructor" Url="html/1025729473.htm" />
+  <HelpKINode Title="StorageRef&lt;TRef&gt;.WithSize method" Url="html/1587692844.htm" />
+  <HelpKINode Title="StorageStream class">
+    <HelpKINode Title="constructor" Url="html/1268994329.htm" />
+  </HelpKINode>
+  <HelpKINode Title="StorageStream.Close method" Url="html/1086469769.htm" />
+  <HelpKINode Title="StorageStream.GetSourceDataHash method" Url="html/293812642.htm" />
+  <HelpKINode Title="StorageStream.StorageStream constructor" Url="html/1268994329.htm" />
+  <HelpKINode Title="StorageStream.Stored event" Url="html/804745058.htm" />
+  <HelpKINode Title="Store method" Url="html/1800028.htm" />
+  <HelpKINode Title="Stored event" Url="html/1806899925.htm" />
+  <HelpKINode Title="Stored event" Url="html/617509306.htm" />
+  <HelpKINode Title="Stored event" Url="html/804745058.htm" />
+  <HelpKINode Title="StoredHandler delegate" Url="html/1986344177.htm" />
+  <HelpKINode Title="StoreObject method" Url="html/2075423113.htm" />
+  <HelpKINode Title="StoreObject method" Url="html/853203487.htm" />
+  <HelpKINode Title="String enumeration member" Url="html/367997264.htm" />
+  <HelpKINode Title="String field" Url="html/117452911.htm" />
+  <HelpKINode Title="StringProperty class">
+    <HelpKINode Title="constructor" Url="html/1986363922.htm" />
+  </HelpKINode>
+  <HelpKINode Title="StringProperty(Of T) class" Url="html/1930296528.htm" />
+  <HelpKINode Title="StringProperty(Of T) class" Url="html/391498792.htm" />
+  <HelpKINode Title="StringProperty(Of T) class">
+    <HelpKINode Title="about StringProperty(Of T) class" Url="html/391498792.htm" />
+    <HelpKINode Title="all members" Url="html/1930296528.htm" />
+    <HelpKINode Title="constructor" Url="html/812864769.htm" />
+    <HelpKINode Title="methods" Url="html/123210992.htm" />
+    <HelpKINode Title="properties" Url="html/1494232783.htm" />
+  </HelpKINode>
+  <HelpKINode Title="StringProperty(Of T).ReadOne method" Url="html/156609780.htm" />
+  <HelpKINode Title="StringProperty(Of T).Serialize method" Url="html/1057429508.htm" />
+  <HelpKINode Title="StringProperty(Of T).Serialize method" Url="html/373184302.htm" />
+  <HelpKINode Title="StringProperty(Of T).StringProperty constructor" Url="html/812864769.htm" />
+  <HelpKINode Title="StringProperty.StringProperty constructor" Url="html/1986363922.htm" />
+  <HelpKINode Title="StringProperty&lt;T&gt; class" Url="html/1930296528.htm" />
+  <HelpKINode Title="StringProperty&lt;T&gt; class" Url="html/391498792.htm" />
+  <HelpKINode Title="StringProperty&lt;T&gt; class">
+    <HelpKINode Title="about StringProperty&lt;T&gt; class" Url="html/391498792.htm" />
+    <HelpKINode Title="all members" Url="html/1930296528.htm" />
+    <HelpKINode Title="constructor" Url="html/812864769.htm" />
+    <HelpKINode Title="methods" Url="html/123210992.htm" />
+    <HelpKINode Title="properties" Url="html/1494232783.htm" />
+  </HelpKINode>
+  <HelpKINode Title="StringProperty&lt;T&gt;.ReadOne method" Url="html/156609780.htm" />
+  <HelpKINode Title="StringProperty&lt;T&gt;.Serialize method" Url="html/1057429508.htm" />
+  <HelpKINode Title="StringProperty&lt;T&gt;.Serialize method" Url="html/373184302.htm" />
+  <HelpKINode Title="StringProperty&lt;T&gt;.StringProperty constructor" Url="html/812864769.htm" />
+  <HelpKINode Title="Suoranta.Storage namespace" Url="html/1391584584.htm" />
+  <HelpKINode Title="Suoranta.Storage.Encoders.ReedSolomon namespace" Url="html/472176730.htm" />
+  <HelpKINode Title="Suoranta.Storage.Encoders.ReedSolomon.GField class" Url="html/109025845.htm" />
+  <HelpKINode Title="Suoranta.Storage.Encoders.ReedSolomon.GField class" Url="html/1462403663.htm" />
+  <HelpKINode Title="Suoranta.Storage.Encoders.ReedSolomon.ReedSolomonDecoder class" Url="html/1437959615.htm" />
+  <HelpKINode Title="Suoranta.Storage.Encoders.ReedSolomon.ReedSolomonDecoder class" Url="html/259237625.htm" />
+  <HelpKINode Title="Suoranta.Storage.Encoders.ReedSolomon.ReedSolomonEncoder class" Url="html/4291383.htm" />
+  <HelpKINode Title="Suoranta.Storage.Encoders.ReedSolomon.ReedSolomonEncoder class" Url="html/595908267.htm" />
+  <HelpKINode Title="Suoranta.Storage.Encoders.ReedSolomon.StandardFields class" Url="html/220219778.htm" />
+  <HelpKINode Title="Suoranta.Storage.Encoders.ReedSolomon.StandardFields class" Url="html/477484582.htm" />
+  <HelpKINode Title="Suoranta.Storage.Formatters namespace" Url="html/1901439441.htm" />
+  <HelpKINode Title="Suoranta.Storage.Formatters.BinaryDataProperty class" Url="html/1784222997.htm" />
+  <HelpKINode Title="Suoranta.Storage.Formatters.BinaryDataProperty class" Url="html/330750891.htm" />
+  <HelpKINode Title="Suoranta.Storage.Formatters.BinaryFormatter(Of T) class" Url="html/1475422367.htm" />
+  <HelpKINode Title="Suoranta.Storage.Formatters.BinaryFormatter(Of T) class" Url="html/1554954805.htm" />
+  <HelpKINode Title="Suoranta.Storage.Formatters.BinaryFormatter(Of T).DateTimeProperty class" Url="html/1314270461.htm" />
+  <HelpKINode Title="Suoranta.Storage.Formatters.BinaryFormatter(Of T).DateTimeProperty class" Url="html/1777371199.htm" />
+  <HelpKINode Title="Suoranta.Storage.Formatters.BinaryFormatter(Of T).LongProperty class" Url="html/1092537028.htm" />
+  <HelpKINode Title="Suoranta.Storage.Formatters.BinaryFormatter(Of T).LongProperty class" Url="html/56348984.htm" />
+  <HelpKINode Title="Suoranta.Storage.Formatters.BinaryFormatter(Of T).StringProperty class" Url="html/1117631547.htm" />
+  <HelpKINode Title="Suoranta.Storage.Formatters.BinaryFormatter(Of T).StringProperty class" Url="html/75752495.htm" />
+  <HelpKINode Title="Suoranta.Storage.Formatters.BinaryFormatter&lt;T&gt; class" Url="html/1475422367.htm" />
+  <HelpKINode Title="Suoranta.Storage.Formatters.BinaryFormatter&lt;T&gt; class" Url="html/1554954805.htm" />
+  <HelpKINode Title="Suoranta.Storage.Formatters.BinaryFormatter&lt;T&gt;.DateTimeProperty class" Url="html/1314270461.htm" />
+  <HelpKINode Title="Suoranta.Storage.Formatters.BinaryFormatter&lt;T&gt;.DateTimeProperty class" Url="html/1777371199.htm" />
+  <HelpKINode Title="Suoranta.Storage.Formatters.BinaryFormatter&lt;T&gt;.LongProperty class" Url="html/1092537028.htm" />
+  <HelpKINode Title="Suoranta.Storage.Formatters.BinaryFormatter&lt;T&gt;.LongProperty class" Url="html/56348984.htm" />
+  <HelpKINode Title="Suoranta.Storage.Formatters.BinaryFormatter&lt;T&gt;.StringProperty class" Url="html/1117631547.htm" />
+  <HelpKINode Title="Suoranta.Storage.Formatters.BinaryFormatter&lt;T&gt;.StringProperty class" Url="html/75752495.htm" />
+  <HelpKINode Title="Suoranta.Storage.Formatters.ComplexProperty(Of T) class" Url="html/1101329895.htm" />
+  <HelpKINode Title="Suoranta.Storage.Formatters.ComplexProperty(Of T) class" Url="html/766907051.htm" />
+  <HelpKINode Title="Suoranta.Storage.Formatters.ComplexProperty&lt;T&gt; class" Url="html/1101329895.htm" />
+  <HelpKINode Title="Suoranta.Storage.Formatters.ComplexProperty&lt;T&gt; class" Url="html/766907051.htm" />
+  <HelpKINode Title="Suoranta.Storage.Formatters.DateTimeProperty(Of T) class" Url="html/789325960.htm" />
+  <HelpKINode Title="Suoranta.Storage.Formatters.DateTimeProperty(Of T) class" Url="html/830785864.htm" />
+  <HelpKINode Title="Suoranta.Storage.Formatters.DateTimeProperty&lt;T&gt; class" Url="html/789325960.htm" />
+  <HelpKINode Title="Suoranta.Storage.Formatters.DateTimeProperty&lt;T&gt; class" Url="html/830785864.htm" />
+  <HelpKINode Title="Suoranta.Storage.Formatters.IBinaryFormattable interface" Url="html/1590523156.htm" />
+  <HelpKINode Title="Suoranta.Storage.Formatters.IBinaryFormattable interface" Url="html/1806374532.htm" />
+  <HelpKINode Title="Suoranta.Storage.Formatters.IBinaryRecordHeader interface" Url="html/18712493.htm" />
+  <HelpKINode Title="Suoranta.Storage.Formatters.IBinaryRecordHeader interface" Url="html/310782229.htm" />
+  <HelpKINode Title="Suoranta.Storage.Formatters.ImageFormats namespace" Url="html/432555790.htm" />
+  <HelpKINode Title="Suoranta.Storage.Formatters.ImageFormats.Exif namespace" Url="html/1809976738.htm" />
+  <HelpKINode Title="Suoranta.Storage.Formatters.ImageFormats.Exif.ExifEntry structure" Url="html/1560225116.htm" />
+  <HelpKINode Title="Suoranta.Storage.Formatters.ImageFormats.Exif.ExifEntry structure" Url="html/1677362356.htm" />
+  <HelpKINode Title="Suoranta.Storage.Formatters.ImageFormats.Exif.ExifType enumeration" Url="html/367997264.htm" />
+  <HelpKINode Title="Suoranta.Storage.Formatters.ImageFormats.Exif.ExposureProgram enumeration" Url="html/868495505.htm" />
+  <HelpKINode Title="Suoranta.Storage.Formatters.ImageFormats.Exif.ImageMetadata class" Url="html/1682676406.htm" />
+  <HelpKINode Title="Suoranta.Storage.Formatters.ImageFormats.Exif.ImageMetadata class" Url="html/294106034.htm" />
+  <HelpKINode Title="Suoranta.Storage.Formatters.ImageFormats.Exif.JpegParser class" Url="html/1726949795.htm" />
+  <HelpKINode Title="Suoranta.Storage.Formatters.ImageFormats.Exif.JpegParser class" Url="html/1987677903.htm" />
+  <HelpKINode Title="Suoranta.Storage.Formatters.ImageFormats.Exif.OrientationType enumeration" Url="html/789301504.htm" />
+  <HelpKINode Title="Suoranta.Storage.Formatters.ImageFormats.Exif.RawImageMetadata class" Url="html/1401030984.htm" />
+  <HelpKINode Title="Suoranta.Storage.Formatters.ImageFormats.Exif.RawImageMetadata class" Url="html/1493879048.htm" />
+  <HelpKINode Title="Suoranta.Storage.Formatters.ImageFormats.Exif.StartOfFrameData structure" Url="html/1026261284.htm" />
+  <HelpKINode Title="Suoranta.Storage.Formatters.ImageFormats.Exif.StartOfFrameData structure" Url="html/1842369264.htm" />
+  <HelpKINode Title="Suoranta.Storage.Formatters.ImageFormats.JfifFormatter class" Url="html/1959052987.htm" />
+  <HelpKINode Title="Suoranta.Storage.Formatters.ImageFormats.JfifFormatter class" Url="html/2140812017.htm" />
+  <HelpKINode Title="Suoranta.Storage.Formatters.ImageFormats.JfifFormatter.AppMarker class" Url="html/1200693910.htm" />
+  <HelpKINode Title="Suoranta.Storage.Formatters.ImageFormats.JfifFormatter.AppMarker class" Url="html/1959154622.htm" />
+  <HelpKINode Title="Suoranta.Storage.Formatters.ImageFormats.JfifImage class" Url="html/1000752850.htm" />
+  <HelpKINode Title="Suoranta.Storage.Formatters.ImageFormats.JfifImage class" Url="html/1656719018.htm" />
+  <HelpKINode Title="Suoranta.Storage.Formatters.ImageFormats.JfifImageExtensions class" Url="html/183765464.htm" />
+  <HelpKINode Title="Suoranta.Storage.Formatters.ImageFormats.JfifImageExtensions class" Url="html/1978071320.htm" />
+  <HelpKINode Title="Suoranta.Storage.Formatters.IndexedPropertyDescriptor(Of TKey, TProp) class" Url="html/1090204158.htm" />
+  <HelpKINode Title="Suoranta.Storage.Formatters.IndexedPropertyDescriptor(Of TKey, TProp) class" Url="html/707328802.htm" />
+  <HelpKINode Title="Suoranta.Storage.Formatters.IndexedPropertyDescriptor&lt;TKey, TProp&gt; class" Url="html/1090204158.htm" />
+  <HelpKINode Title="Suoranta.Storage.Formatters.IndexedPropertyDescriptor&lt;TKey, TProp&gt; class" Url="html/707328802.htm" />
+  <HelpKINode Title="Suoranta.Storage.Formatters.IPropertyDescriptor interface" Url="html/1648761842.htm" />
+  <HelpKINode Title="Suoranta.Storage.Formatters.IPropertyDescriptor interface" Url="html/733947358.htm" />
+  <HelpKINode Title="Suoranta.Storage.Formatters.ITypeFormatter interface" Url="html/161814824.htm" />
+  <HelpKINode Title="Suoranta.Storage.Formatters.ITypeFormatter interface" Url="html/2000227508.htm" />
+  <HelpKINode Title="Suoranta.Storage.Formatters.LongProperty(Of T) class" Url="html/1280223455.htm" />
+  <HelpKINode Title="Suoranta.Storage.Formatters.LongProperty(Of T) class" Url="html/2129339329.htm" />
+  <HelpKINode Title="Suoranta.Storage.Formatters.LongProperty&lt;T&gt; class" Url="html/1280223455.htm" />
+  <HelpKINode Title="Suoranta.Storage.Formatters.LongProperty&lt;T&gt; class" Url="html/2129339329.htm" />
+  <HelpKINode Title="Suoranta.Storage.Formatters.PropertyDescriptor(Of TProp) class" Url="html/1843437400.htm" />
+  <HelpKINode Title="Suoranta.Storage.Formatters.PropertyDescriptor(Of TProp) class" Url="html/598356100.htm" />
+  <HelpKINode Title="Suoranta.Storage.Formatters.PropertyDescriptor&lt;TProp&gt; class" Url="html/1843437400.htm" />
+  <HelpKINode Title="Suoranta.Storage.Formatters.PropertyDescriptor&lt;TProp&gt; class" Url="html/598356100.htm" />
+  <HelpKINode Title="Suoranta.Storage.Formatters.RequiredAttribute class" Url="html/1870985710.htm" />
+  <HelpKINode Title="Suoranta.Storage.Formatters.RequiredAttribute class" Url="html/603443950.htm" />
+  <HelpKINode Title="Suoranta.Storage.Formatters.StringProperty(Of T) class" Url="html/1930296528.htm" />
+  <HelpKINode Title="Suoranta.Storage.Formatters.StringProperty(Of T) class" Url="html/391498792.htm" />
+  <HelpKINode Title="Suoranta.Storage.Formatters.StringProperty&lt;T&gt; class" Url="html/1930296528.htm" />
+  <HelpKINode Title="Suoranta.Storage.Formatters.StringProperty&lt;T&gt; class" Url="html/391498792.htm" />
+  <HelpKINode Title="Suoranta.Storage.Formatters.TypeSerializer(Of TValue) class" Url="html/381824508.htm" />
+  <HelpKINode Title="Suoranta.Storage.Formatters.TypeSerializer(Of TValue) class" Url="html/78095368.htm" />
+  <HelpKINode Title="Suoranta.Storage.Formatters.TypeSerializer&lt;TValue&gt; class" Url="html/381824508.htm" />
+  <HelpKINode Title="Suoranta.Storage.Formatters.TypeSerializer&lt;TValue&gt; class" Url="html/78095368.htm" />
+  <HelpKINode Title="Suoranta.Storage.Formatters.Versioned namespace" Url="html/882284330.htm" />
+  <HelpKINode Title="Suoranta.Storage.Formatters.Versioned.DataStore(Of T, THeader, THeaderFormat) class" Url="html/1763032034.htm" />
+  <HelpKINode Title="Suoranta.Storage.Formatters.Versioned.DataStore(Of T, THeader, THeaderFormat) class" Url="html/1882781030.htm" />
+  <HelpKINode Title="Suoranta.Storage.Formatters.Versioned.DataStore&lt;T, THeader, THeaderFormat&gt; class" Url="html/1763032034.htm" />
+  <HelpKINode Title="Suoranta.Storage.Formatters.Versioned.DataStore&lt;T, THeader, THeaderFormat&gt; class" Url="html/1882781030.htm" />
+  <HelpKINode Title="Suoranta.Storage.Formatters.Versioned.HeaderTypeAttribute class" Url="html/1340793193.htm" />
+  <HelpKINode Title="Suoranta.Storage.Formatters.Versioned.HeaderTypeAttribute class" Url="html/658722549.htm" />
+  <HelpKINode Title="Suoranta.Storage.Formatters.Versioned.IHeaderCollection interface" Url="html/2119711992.htm" />
+  <HelpKINode Title="Suoranta.Storage.Formatters.Versioned.IHeaderCollection interface" Url="html/412506284.htm" />
+  <HelpKINode Title="Suoranta.Storage.Formatters.Versioned.VersionedDataStore class" Url="html/2138520420.htm" />
+  <HelpKINode Title="Suoranta.Storage.Formatters.Versioned.VersionedDataStore class" Url="html/35098808.htm" />
+  <HelpKINode Title="Suoranta.Storage.Formatters.Versioned.VersionedDataStore.BaseRevision class" Url="html/1476493450.htm" />
+  <HelpKINode Title="Suoranta.Storage.Formatters.Versioned.VersionedDataStore.BaseRevision class" Url="html/219383230.htm" />
+  <HelpKINode Title="Suoranta.Storage.Formatters.Versioned.VersionedDataStore.DeltaRevision class" Url="html/269985099.htm" />
+  <HelpKINode Title="Suoranta.Storage.Formatters.Versioned.VersionedDataStore.DeltaRevision class" Url="html/575881557.htm" />
+  <HelpKINode Title="Suoranta.Storage.Formatters.Versioned.VersionedDataStore.Revision class" Url="html/1154864293.htm" />
+  <HelpKINode Title="Suoranta.Storage.Formatters.Versioned.VersionedDataStore.Revision class" Url="html/1774834875.htm" />
+  <HelpKINode Title="Suoranta.Storage.Formatters.Versioned.VersionedDataStore.RevisionHeader class" Url="html/1890314414.htm" />
+  <HelpKINode Title="Suoranta.Storage.Formatters.Versioned.VersionedDataStore.RevisionHeader class" Url="html/1994325866.htm" />
+  <HelpKINode Title="Suoranta.Storage.Formatters.WordConverter class" Url="html/1813524955.htm" />
+  <HelpKINode Title="Suoranta.Storage.Formatters.WordConverter class" Url="html/372081001.htm" />
+  <HelpKINode Title="Suoranta.Storage.Formatters.WordFormat enumeration" Url="html/14400588.htm" />
+  <HelpKINode Title="Suoranta.Storage.MagicBytesAttribute class" Url="html/599496746.htm" />
+  <HelpKINode Title="Suoranta.Storage.MagicBytesAttribute class" Url="html/738024050.htm" />
+  <HelpKINode Title="Suoranta.Storage.SignatureVerificationResult enumeration" Url="html/1816439120.htm" />
+  <HelpKINode Title="Suoranta.Storage.SigningResult enumeration" Url="html/696307698.htm" />
+  <HelpKINode Title="Suoranta.Storage.VirtualFS namespace" Url="html/533412194.htm" />
+  <HelpKINode Title="Suoranta.Storage.VirtualFS.EnumMasks class" Url="html/1394069088.htm" />
+  <HelpKINode Title="Suoranta.Storage.VirtualFS.EnumMasks class" Url="html/158024720.htm" />
+  <HelpKINode Title="Suoranta.Storage.VirtualFS.ErrorOption enumeration" Url="html/1538588285.htm" />
+  <HelpKINode Title="Suoranta.Storage.VirtualFS.FileActionKind enumeration" Url="html/2109941548.htm" />
+  <HelpKINode Title="Suoranta.Storage.VirtualFS.FileSystem class" Url="html/1562130401.htm" />
+  <HelpKINode Title="Suoranta.Storage.VirtualFS.FileSystem class" Url="html/420407079.htm" />
+  <HelpKINode Title="Suoranta.Storage.VirtualFS.FileSystem(Of TStorageRef) class" Url="html/2005726922.htm" />
+  <HelpKINode Title="Suoranta.Storage.VirtualFS.FileSystem(Of TStorageRef) class" Url="html/968328726.htm" />
+  <HelpKINode Title="Suoranta.Storage.VirtualFS.FileSystem(Of TStorageRef).ItemRef structure" Url="html/156040236.htm" />
+  <HelpKINode Title="Suoranta.Storage.VirtualFS.FileSystem(Of TStorageRef).ItemRef structure" Url="html/963875548.htm" />
+  <HelpKINode Title="Suoranta.Storage.VirtualFS.FileSystem(Of TStorageRef).Junction class" Url="html/1157687216.htm" />
+  <HelpKINode Title="Suoranta.Storage.VirtualFS.FileSystem(Of TStorageRef).Junction class" Url="html/1884944452.htm" />
+  <HelpKINode Title="Suoranta.Storage.VirtualFS.FileSystem.AddFileAction structure" Url="html/1746392080.htm" />
+  <HelpKINode Title="Suoranta.Storage.VirtualFS.FileSystem.AddFileAction structure" Url="html/1789966640.htm" />
+  <HelpKINode Title="Suoranta.Storage.VirtualFS.FileSystem.AddItemResult enumeration" Url="html/464116494.htm" />
+  <HelpKINode Title="Suoranta.Storage.VirtualFS.FileSystem.CopyAction structure" Url="html/1540561406.htm" />
+  <HelpKINode Title="Suoranta.Storage.VirtualFS.FileSystem.CopyAction structure" Url="html/793056446.htm" />
+  <HelpKINode Title="Suoranta.Storage.VirtualFS.FileSystem.CreateDirectoryAction structure" Url="html/1085706450.htm" />
+  <HelpKINode Title="Suoranta.Storage.VirtualFS.FileSystem.CreateDirectoryAction structure" Url="html/1177169930.htm" />
+  <HelpKINode Title="Suoranta.Storage.VirtualFS.FileSystem.CustomObject class" Url="html/521965453.htm" />
+  <HelpKINode Title="Suoranta.Storage.VirtualFS.FileSystem.CustomObject class" Url="html/52360781.htm" />
+  <HelpKINode Title="Suoranta.Storage.VirtualFS.FileSystem.Directory class" Url="html/1150388524.htm" />
+  <HelpKINode Title="Suoranta.Storage.VirtualFS.FileSystem.Directory class" Url="html/2028350988.htm" />
+  <HelpKINode Title="Suoranta.Storage.VirtualFS.FileSystem.File class" Url="html/530787983.htm" />
+  <HelpKINode Title="Suoranta.Storage.VirtualFS.FileSystem.File class" Url="html/619038201.htm" />
+  <HelpKINode Title="Suoranta.Storage.VirtualFS.FileSystem.Item class" Url="html/1216074282.htm" />
+  <HelpKINode Title="Suoranta.Storage.VirtualFS.FileSystem.Item class" Url="html/127971230.htm" />
+  <HelpKINode Title="Suoranta.Storage.VirtualFS.FileSystem.NullItem class" Url="html/958957937.htm" />
+  <HelpKINode Title="Suoranta.Storage.VirtualFS.FileSystem.NullItem class" Url="html/968089119.htm" />
+  <HelpKINode Title="Suoranta.Storage.VirtualFS.FileSystem.PathOptions enumeration" Url="html/145630568.htm" />
+  <HelpKINode Title="Suoranta.Storage.VirtualFS.FileSystem.RemoveAction structure" Url="html/1388341339.htm" />
+  <HelpKINode Title="Suoranta.Storage.VirtualFS.FileSystem.RemoveAction structure" Url="html/1969335031.htm" />
+  <HelpKINode Title="Suoranta.Storage.VirtualFS.FileSystem.ReplaceFileAction structure" Url="html/1433983919.htm" />
+  <HelpKINode Title="Suoranta.Storage.VirtualFS.FileSystem.ReplaceFileAction structure" Url="html/1683060181.htm" />
+  <HelpKINode Title="Suoranta.Storage.VirtualFS.FileSystem.SetNameAction structure" Url="html/507558322.htm" />
+  <HelpKINode Title="Suoranta.Storage.VirtualFS.FileSystem.SetNameAction structure" Url="html/628264886.htm" />
+  <HelpKINode Title="Suoranta.Storage.VirtualFS.FileSystem&lt;TStorageRef&gt; class" Url="html/2005726922.htm" />
+  <HelpKINode Title="Suoranta.Storage.VirtualFS.FileSystem&lt;TStorageRef&gt; class" Url="html/968328726.htm" />
+  <HelpKINode Title="Suoranta.Storage.VirtualFS.FileSystem&lt;TStorageRef&gt;.ItemRef structure" Url="html/156040236.htm" />
+  <HelpKINode Title="Suoranta.Storage.VirtualFS.FileSystem&lt;TStorageRef&gt;.ItemRef structure" Url="html/963875548.htm" />
+  <HelpKINode Title="Suoranta.Storage.VirtualFS.FileSystem&lt;TStorageRef&gt;.Junction class" Url="html/1157687216.htm" />
+  <HelpKINode Title="Suoranta.Storage.VirtualFS.FileSystem&lt;TStorageRef&gt;.Junction class" Url="html/1884944452.htm" />
+  <HelpKINode Title="Suoranta.Storage.VirtualFS.FileSystemEventArgs class" Url="html/1747583878.htm" />
+  <HelpKINode Title="Suoranta.Storage.VirtualFS.FileSystemEventArgs class" Url="html/277663098.htm" />
+  <HelpKINode Title="Suoranta.Storage.VirtualFS.FileSystemEventFilter structure" Url="html/1485915007.htm" />
+  <HelpKINode Title="Suoranta.Storage.VirtualFS.FileSystemEventFilter structure" Url="html/1922947873.htm" />
+  <HelpKINode Title="Suoranta.Storage.VirtualFS.FileSystemPostEventArgs class" Url="html/624694620.htm" />
+  <HelpKINode Title="Suoranta.Storage.VirtualFS.FileSystemPostEventArgs class" Url="html/678485564.htm" />
+  <HelpKINode Title="Suoranta.Storage.VirtualFS.FileSystemPostEventHandler delegate" Url="html/85054967.htm" />
+  <HelpKINode Title="Suoranta.Storage.VirtualFS.FileSystemPreEventArgs class" Url="html/1955984703.htm" />
+  <HelpKINode Title="Suoranta.Storage.VirtualFS.FileSystemPreEventArgs class" Url="html/772107169.htm" />
+  <HelpKINode Title="Suoranta.Storage.VirtualFS.FileSystemPreEventHandler delegate" Url="html/1707701006.htm" />
+  <HelpKINode Title="Suoranta.Storage.VirtualFS.FileSystems class" Url="html/653376782.htm" />
+  <HelpKINode Title="Suoranta.Storage.VirtualFS.FileSystems class" Url="html/969326350.htm" />
+  <HelpKINode Title="Suoranta.Storage.VirtualFS.IDirectory interface" Url="html/1169448600.htm" />
+  <HelpKINode Title="Suoranta.Storage.VirtualFS.IDirectory interface" Url="html/1912758728.htm" />
+  <HelpKINode Title="Suoranta.Storage.VirtualFS.IFileAction interface" Url="html/1832447623.htm" />
+  <HelpKINode Title="Suoranta.Storage.VirtualFS.IFileAction interface" Url="html/1988901059.htm" />
+  <HelpKINode Title="Suoranta.Storage.VirtualFS.IFileStorageAction interface" Url="html/253356502.htm" />
+  <HelpKINode Title="Suoranta.Storage.VirtualFS.IFileStorageAction interface" Url="html/512676526.htm" />
+  <HelpKINode Title="Suoranta.Storage.VirtualFS.IFileSystem interface" Url="html/1614608470.htm" />
+  <HelpKINode Title="Suoranta.Storage.VirtualFS.IFileSystem interface" Url="html/38648502.htm" />
+  <HelpKINode Title="Suoranta.Storage.VirtualFS.IItem interface" Url="html/1969959826.htm" />
+  <HelpKINode Title="Suoranta.Storage.VirtualFS.IItem interface" Url="html/2086534986.htm" />
+  <HelpKINode Title="Suoranta.Storage.VirtualFS.IJournal interface" Url="html/2025375820.htm" />
+  <HelpKINode Title="Suoranta.Storage.VirtualFS.IJournal interface" Url="html/347301748.htm" />
+  <HelpKINode Title="Suoranta.Storage.VirtualFS.INameStore interface" Url="html/2091200669.htm" />
+  <HelpKINode Title="Suoranta.Storage.VirtualFS.INameStore interface" Url="html/477746839.htm" />
+  <HelpKINode Title="Suoranta.Storage.VirtualFS.IStorageManager interface" Url="html/1760660171.htm" />
+  <HelpKINode Title="Suoranta.Storage.VirtualFS.IStorageManager interface" Url="html/968310405.htm" />
+  <HelpKINode Title="Suoranta.Storage.VirtualFS.IStorageRef interface" Url="html/1340010657.htm" />
+  <HelpKINode Title="Suoranta.Storage.VirtualFS.IStorageRef interface" Url="html/573820259.htm" />
+  <HelpKINode Title="Suoranta.Storage.VirtualFS.IStorageStream interface" Url="html/1467081302.htm" />
+  <HelpKINode Title="Suoranta.Storage.VirtualFS.IStorageStream interface" Url="html/1892550238.htm" />
+  <HelpKINode Title="Suoranta.Storage.VirtualFS.ItemAttribute enumeration" Url="html/1671819529.htm" />
+  <HelpKINode Title="Suoranta.Storage.VirtualFS.ItemSet class" Url="html/1043569395.htm" />
+  <HelpKINode Title="Suoranta.Storage.VirtualFS.ItemSet class" Url="html/1161120963.htm" />
+  <HelpKINode Title="Suoranta.Storage.VirtualFS.NameStore class" Url="html/140225738.htm" />
+  <HelpKINode Title="Suoranta.Storage.VirtualFS.NameStore class" Url="html/409197546.htm" />
+  <HelpKINode Title="Suoranta.Storage.VirtualFS.ReferenceUpdatedHandler delegate" Url="html/1048299530.htm" />
+  <HelpKINode Title="Suoranta.Storage.VirtualFS.Replicator class" Url="html/1292729013.htm" />
+  <HelpKINode Title="Suoranta.Storage.VirtualFS.Replicator class" Url="html/192521689.htm" />
+  <HelpKINode Title="Suoranta.Storage.VirtualFS.StorageFlag enumeration" Url="html/755254341.htm" />
+  <HelpKINode Title="Suoranta.Storage.VirtualFS.StorageManager(Of TStorageRef) class" Url="html/1682464959.htm" />
+  <HelpKINode Title="Suoranta.Storage.VirtualFS.StorageManager(Of TStorageRef) class" Url="html/864870441.htm" />
+  <HelpKINode Title="Suoranta.Storage.VirtualFS.StorageManager(Of TStorageRef).DeflateStorageStream class" Url="html/1208074979.htm" />
+  <HelpKINode Title="Suoranta.Storage.VirtualFS.StorageManager(Of TStorageRef).DeflateStorageStream class" Url="html/329138123.htm" />
+  <HelpKINode Title="Suoranta.Storage.VirtualFS.StorageManager(Of TStorageRef).StorageStream class" Url="html/1435609518.htm" />
+  <HelpKINode Title="Suoranta.Storage.VirtualFS.StorageManager(Of TStorageRef).StorageStream class" Url="html/402681682.htm" />
+  <HelpKINode Title="Suoranta.Storage.VirtualFS.StorageManager&lt;TStorageRef&gt; class" Url="html/1682464959.htm" />
+  <HelpKINode Title="Suoranta.Storage.VirtualFS.StorageManager&lt;TStorageRef&gt; class" Url="html/864870441.htm" />
+  <HelpKINode Title="Suoranta.Storage.VirtualFS.StorageManager&lt;TStorageRef&gt;.DeflateStorageStream class" Url="html/1208074979.htm" />
+  <HelpKINode Title="Suoranta.Storage.VirtualFS.StorageManager&lt;TStorageRef&gt;.DeflateStorageStream class" Url="html/329138123.htm" />
+  <HelpKINode Title="Suoranta.Storage.VirtualFS.StorageManager&lt;TStorageRef&gt;.StorageStream class" Url="html/1435609518.htm" />
+  <HelpKINode Title="Suoranta.Storage.VirtualFS.StorageManager&lt;TStorageRef&gt;.StorageStream class" Url="html/402681682.htm" />
+  <HelpKINode Title="Suoranta.Storage.VirtualFS.StorageRef(Of TRef) structure" Url="html/327578251.htm" />
+  <HelpKINode Title="Suoranta.Storage.VirtualFS.StorageRef(Of TRef) structure" Url="html/711434455.htm" />
+  <HelpKINode Title="Suoranta.Storage.VirtualFS.StorageRef&lt;TRef&gt; structure" Url="html/327578251.htm" />
+  <HelpKINode Title="Suoranta.Storage.VirtualFS.StorageRef&lt;TRef&gt; structure" Url="html/711434455.htm" />
+  <HelpKINode Title="Suoranta.Storage.VirtualFS.StoredHandler delegate" Url="html/1986344177.htm" />
+  <HelpKINode Title="System enumeration member" Url="html/1671819529.htm" />
+  <HelpKINode Title="System field" Url="html/64992716.htm" />
+  <HelpKINode Title="Tag field" Url="html/595324428.htm" />
+  <HelpKINode Title="Target property" Url="html/2140008561.htm" />
+  <HelpKINode Title="Temporary enumeration member" Url="html/1671819529.htm" />
+  <HelpKINode Title="Temporary field" Url="html/372099720.htm" />
+  <HelpKINode Title="ThrowOnAll enumeration member" Url="html/1538588285.htm" />
+  <HelpKINode Title="ThrowOnAll field" Url="html/521091453.htm" />
+  <HelpKINode Title="ThrowOnDirectoryAlreadyExists enumeration member" Url="html/1538588285.htm" />
+  <HelpKINode Title="ThrowOnDirectoryAlreadyExists field" Url="html/946301391.htm" />
+  <HelpKINode Title="ThrowOnDirectoryNotFound enumeration member" Url="html/1538588285.htm" />
+  <HelpKINode Title="ThrowOnDirectoryNotFound field" Url="html/25015516.htm" />
+  <HelpKINode Title="ThrowOnFileAlreadyExists enumeration member" Url="html/1538588285.htm" />
+  <HelpKINode Title="ThrowOnFileAlreadyExists field" Url="html/2088692306.htm" />
+  <HelpKINode Title="ThrowOnFileNotFound enumeration member" Url="html/1538588285.htm" />
+  <HelpKINode Title="ThrowOnFileNotFound field" Url="html/1029260263.htm" />
+  <HelpKINode Title="ThumbnailData field" Url="html/838929156.htm" />
+  <HelpKINode Title="Timestamp property" Url="html/1098525288.htm" />
+  <HelpKINode Title="Timestamp property" Url="html/1691243635.htm" />
+  <HelpKINode Title="Title property" Url="html/1017116160.htm" />
+  <HelpKINode Title="Title property" Url="html/1181752272.htm" />
+  <HelpKINode Title="ToString method" Url="html/122977746.htm" />
+  <HelpKINode Title="ToString method" Url="html/1392834221.htm" />
+  <HelpKINode Title="ToString method" Url="html/163292768.htm" />
+  <HelpKINode Title="ToString method" Url="html/2061138855.htm" />
+  <HelpKINode Title="ToString method" Url="html/2120073225.htm" />
+  <HelpKINode Title="ToString method" Url="html/417408903.htm" />
+  <HelpKINode Title="ToString method" Url="html/529246585.htm" />
+  <HelpKINode Title="ToString method" Url="html/759514874.htm" />
+  <HelpKINode Title="ToString method" Url="html/811420615.htm" />
+  <HelpKINode Title="TotalPayloadLength property" Url="html/107015576.htm" />
+  <HelpKINode Title="TotalPayloadLength property" Url="html/1933375461.htm" />
+  <HelpKINode Title="Translate method" Url="html/152231661.htm" />
+  <HelpKINode Title="Translate method" Url="html/802629068.htm" />
+  <HelpKINode Title="TryGetExifTag method" Url="html/373315497.htm" />
+  <HelpKINode Title="TryGetReference method" Url="html/1174240541.htm" />
+  <HelpKINode Title="TryGetValue method" Url="html/1479029272.htm" />
+  <HelpKINode Title="TryGetValue method" Url="html/461215343.htm" />
+  <HelpKINode Title="Type field" Url="html/1986492604.htm" />
+  <HelpKINode Title="TypeSerializer(Of TValue) class" Url="html/381824508.htm" />
+  <HelpKINode Title="TypeSerializer(Of TValue) class" Url="html/78095368.htm" />
+  <HelpKINode Title="TypeSerializer(Of TValue) class">
+    <HelpKINode Title="about TypeSerializer(Of TValue) class" Url="html/381824508.htm" />
+    <HelpKINode Title="all members" Url="html/78095368.htm" />
+    <HelpKINode Title="methods" Url="html/1190930748.htm" />
+    <HelpKINode Title="properties" Url="html/1935997063.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TypeSerializer(Of TValue).CanReadFrom method" Url="html/2082387050.htm" />
+  <HelpKINode Title="TypeSerializer(Of TValue).EndBytes property" Url="html/1150316706.htm" />
+  <HelpKINode Title="TypeSerializer(Of TValue).MagicBytes property" Url="html/749688928.htm" />
+  <HelpKINode Title="TypeSerializer(Of TValue).ReadOne method" Url="html/49308512.htm" />
+  <HelpKINode Title="TypeSerializer(Of TValue).Serialize method" Url="html/1391905282.htm" />
+  <HelpKINode Title="TypeSerializer(Of TValue).SerializeTo method" Url="html/606244995.htm" />
+  <HelpKINode Title="TypeSerializer&lt;TValue&gt; class" Url="html/381824508.htm" />
+  <HelpKINode Title="TypeSerializer&lt;TValue&gt; class" Url="html/78095368.htm" />
+  <HelpKINode Title="TypeSerializer&lt;TValue&gt; class">
+    <HelpKINode Title="about TypeSerializer&lt;TValue&gt; class" Url="html/381824508.htm" />
+    <HelpKINode Title="all members" Url="html/78095368.htm" />
+    <HelpKINode Title="methods" Url="html/1190930748.htm" />
+    <HelpKINode Title="properties" Url="html/1935997063.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TypeSerializer&lt;TValue&gt;.CanReadFrom method" Url="html/2082387050.htm" />
+  <HelpKINode Title="TypeSerializer&lt;TValue&gt;.EndBytes property" Url="html/1150316706.htm" />
+  <HelpKINode Title="TypeSerializer&lt;TValue&gt;.MagicBytes property" Url="html/749688928.htm" />
+  <HelpKINode Title="TypeSerializer&lt;TValue&gt;.ReadOne method" Url="html/49308512.htm" />
+  <HelpKINode Title="TypeSerializer&lt;TValue&gt;.Serialize method" Url="html/1391905282.htm" />
+  <HelpKINode Title="TypeSerializer&lt;TValue&gt;.SerializeTo method" Url="html/606244995.htm" />
+  <HelpKINode Title="ULong enumeration member" Url="html/367997264.htm" />
+  <HelpKINode Title="ULong field" Url="html/975461325.htm" />
+  <HelpKINode Title="Undefined enumeration member" Url="html/367997264.htm" />
+  <HelpKINode Title="Undefined field" Url="html/1447119120.htm" />
+  <HelpKINode Title="UnspecifiedError enumeration member" Url="html/696307698.htm" />
+  <HelpKINode Title="UnspecifiedError field" Url="html/144037617.htm" />
+  <HelpKINode Title="UntrustedSignature enumeration member" Url="html/1816439120.htm" />
+  <HelpKINode Title="UntrustedSignature field" Url="html/240807804.htm" />
+  <HelpKINode Title="URational enumeration member" Url="html/367997264.htm" />
+  <HelpKINode Title="URational field" Url="html/1930926509.htm" />
+  <HelpKINode Title="UShort enumeration member" Url="html/367997264.htm" />
+  <HelpKINode Title="UShort field" Url="html/1612435101.htm" />
+  <HelpKINode Title="UShortBE enumeration member" Url="html/14400588.htm" />
+  <HelpKINode Title="UShortBE field" Url="html/880673950.htm" />
+  <HelpKINode Title="UShortLE enumeration member" Url="html/14400588.htm" />
+  <HelpKINode Title="UShortLE field" Url="html/1895263572.htm" />
+  <HelpKINode Title="UtcTimestamp property" Url="html/1376909378.htm" />
+  <HelpKINode Title="UtcTimestamp property" Url="html/1603361471.htm" />
+  <HelpKINode Title="UtcTimestamp property" Url="html/1631814414.htm" />
+  <HelpKINode Title="UtcTimestamp property" Url="html/1667845140.htm" />
+  <HelpKINode Title="UtcTimestamp property" Url="html/50886294.htm" />
+  <HelpKINode Title="UtcTimestamp property" Url="html/516099161.htm" />
+  <HelpKINode Title="UtcTimestamp property" Url="html/851067087.htm" />
+  <HelpKINode Title="Value field" Url="html/733581425.htm" />
+  <HelpKINode Title="Value property" Url="html/1639657445.htm" />
+  <HelpKINode Title="Value property" Url="html/1907138857.htm" />
+  <HelpKINode Title="VerifiedContentIntegrity enumeration member" Url="html/1816439120.htm" />
+  <HelpKINode Title="VerifiedContentIntegrity field" Url="html/689213012.htm" />
+  <HelpKINode Title="VerifiedSignerIdentity enumeration member" Url="html/1816439120.htm" />
+  <HelpKINode Title="VerifiedSignerIdentity field" Url="html/142313680.htm" />
+  <HelpKINode Title="Verify method" Url="html/1133394406.htm" />
+  <HelpKINode Title="Verify method" Url="html/202644368.htm" />
+  <HelpKINode Title="VersionedDataStore class" Url="html/2138520420.htm" />
+  <HelpKINode Title="VersionedDataStore class" Url="html/35098808.htm" />
+  <HelpKINode Title="VersionedDataStore class">
+    <HelpKINode Title="about VersionedDataStore class" Url="html/35098808.htm" />
+    <HelpKINode Title="all members" Url="html/2138520420.htm" />
+    <HelpKINode Title="constructor" Url="html/2123713301.htm" />
+    <HelpKINode Title="methods" Url="html/1505427372.htm" />
+    <HelpKINode Title="properties" Url="html/643412903.htm" />
+  </HelpKINode>
+  <HelpKINode Title="VersionedDataStore.AddRevision method" Url="html/1137642554.htm" />
+  <HelpKINode Title="VersionedDataStore.BaseRevision class" Url="html/1476493450.htm" />
+  <HelpKINode Title="VersionedDataStore.BaseRevision class" Url="html/219383230.htm" />
+  <HelpKINode Title="VersionedDataStore.BaseRevision class">
+    <HelpKINode Title="about VersionedDataStore.BaseRevision class" Url="html/1476493450.htm" />
+    <HelpKINode Title="all members" Url="html/219383230.htm" />
+    <HelpKINode Title="methods" Url="html/1100508802.htm" />
+    <HelpKINode Title="properties" Url="html/1084069315.htm" />
+  </HelpKINode>
+  <HelpKINode Title="VersionedDataStore.CopyTo method" Url="html/1330325781.htm" />
+  <HelpKINode Title="VersionedDataStore.DeltaRevision class" Url="html/269985099.htm" />
+  <HelpKINode Title="VersionedDataStore.DeltaRevision class" Url="html/575881557.htm" />
+  <HelpKINode Title="VersionedDataStore.DeltaRevision class">
+    <HelpKINode Title="about VersionedDataStore.DeltaRevision class" Url="html/269985099.htm" />
+    <HelpKINode Title="all members" Url="html/575881557.htm" />
+    <HelpKINode Title="methods" Url="html/1390175117.htm" />
+    <HelpKINode Title="properties" Url="html/84963188.htm" />
+  </HelpKINode>
+  <HelpKINode Title="VersionedDataStore.GetRevisionContent method" Url="html/1306216001.htm" />
+  <HelpKINode Title="VersionedDataStore.Revision class" Url="html/1154864293.htm" />
+  <HelpKINode Title="VersionedDataStore.Revision class" Url="html/1774834875.htm" />
+  <HelpKINode Title="VersionedDataStore.Revision class">
+    <HelpKINode Title="about VersionedDataStore.Revision class" Url="html/1154864293.htm" />
+    <HelpKINode Title="all members" Url="html/1774834875.htm" />
+    <HelpKINode Title="fields" Url="html/107496416.htm" />
+    <HelpKINode Title="methods" Url="html/1953181969.htm" />
+    <HelpKINode Title="properties" Url="html/1836169704.htm" />
+  </HelpKINode>
+  <HelpKINode Title="VersionedDataStore.RevisionHeader class" Url="html/1890314414.htm" />
+  <HelpKINode Title="VersionedDataStore.RevisionHeader class" Url="html/1994325866.htm" />
+  <HelpKINode Title="VersionedDataStore.RevisionHeader class">
+    <HelpKINode Title="about VersionedDataStore.RevisionHeader class" Url="html/1890314414.htm" />
+    <HelpKINode Title="all members" Url="html/1994325866.htm" />
+    <HelpKINode Title="methods" Url="html/1687249398.htm" />
+    <HelpKINode Title="properties" Url="html/1098945485.htm" />
+  </HelpKINode>
+  <HelpKINode Title="VersionedDataStore.Save method" Url="html/509922823.htm" />
+  <HelpKINode Title="VersionedDataStore.Title property" Url="html/1017116160.htm" />
+  <HelpKINode Title="VersionedDataStore.VersionedDataStore constructor" Url="html/2123713301.htm" />
+  <HelpKINode Title="Width field" Url="html/62134866.htm" />
+  <HelpKINode Title="Width field" Url="html/750143096.htm" />
+  <HelpKINode Title="WithSize method" Url="html/1587692844.htm" />
+  <HelpKINode Title="WithSize method" Url="html/2095266370.htm" />
+  <HelpKINode Title="WordConverter class" Url="html/1813524955.htm" />
+  <HelpKINode Title="WordConverter class" Url="html/372081001.htm" />
+  <HelpKINode Title="WordConverter class">
+    <HelpKINode Title="about WordConverter class" Url="html/1813524955.htm" />
+    <HelpKINode Title="all members" Url="html/372081001.htm" />
+    <HelpKINode Title="methods" Url="html/1959071673.htm" />
+  </HelpKINode>
+  <HelpKINode Title="WordConverter.GetByteCount method" Url="html/1691880773.htm" />
+  <HelpKINode Title="WordConverter.GetBytes method" Url="html/1993742211.htm" />
+  <HelpKINode Title="WordConverter.GetValue method" Url="html/549125016.htm" />
+  <HelpKINode Title="WordConverter.ReadValue method" Url="html/140328874.htm" />
+  <HelpKINode Title="WordConverter.WriteValue method" Url="html/39438178.htm" />
+  <HelpKINode Title="WordFormat enumeration" Url="html/14400588.htm" />
+  <HelpKINode Title="WordFormat.BigEndian field" Url="html/1207433323.htm" />
+  <HelpKINode Title="WordFormat.ByteFlag field" Url="html/1083597240.htm" />
+  <HelpKINode Title="WordFormat.IntFlag field" Url="html/1902172263.htm" />
+  <HelpKINode Title="WordFormat.LittleEndian field" Url="html/593445451.htm" />
+  <HelpKINode Title="WordFormat.LongFlag field" Url="html/812653416.htm" />
+  <HelpKINode Title="WordFormat.None field" Url="html/1221395638.htm" />
+  <HelpKINode Title="WordFormat.ShortFlag field" Url="html/1682421276.htm" />
+  <HelpKINode Title="WordFormat.Signed field" Url="html/797598700.htm" />
+  <HelpKINode Title="WordFormat.UShortBE field" Url="html/880673950.htm" />
+  <HelpKINode Title="WordFormat.UShortLE field" Url="html/1895263572.htm" />
+  <HelpKINode Title="Write method" Url="html/1356356047.htm" />
+  <HelpKINode Title="WriteAsync method" Url="html/226948990.htm" />
+  <HelpKINode Title="WriteAsync method" Url="html/89277433.htm" />
+  <HelpKINode Title="WriteByte method" Url="html/1248824355.htm" />
+  <HelpKINode Title="WriteValue method" Url="html/39438178.htm" />
+  <HelpKINode Title="_header field" Url="html/536047151.htm" />
+  <HelpKINode Title="_parentStore field" Url="html/2129367249.htm" />
+</HelpKI>
