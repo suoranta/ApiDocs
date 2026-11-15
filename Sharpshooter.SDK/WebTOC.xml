@@ -1,136 +1,136 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <HelpTOC>
 
-  <HelpTOCNode Id="2cec9f05-0bf9-4b16-90df-e2158b5eeab4" Title="Sharpshooter.SDK Namespace" Url="html/68292892.htm">
-    <HelpTOCNode Id="85d6d8e0-d949-434a-97dd-0704e53a58bc" Title="ArgumentList Class" Url="html/7484527.htm">
+  <HelpTOCNode Id="6f2f255d-c8d8-4bb6-b2b4-791529c27c08" Title="Sharpshooter.SDK Namespace" Url="html/68292892.htm">
+    <HelpTOCNode Id="39043548-3fb7-4120-a1e4-fb7932102c87" Title="ArgumentList Class" Url="html/7484527.htm">
       <HelpTOCNode Title="ArgumentList Members" Url="html/1866245375.htm" />
-      <HelpTOCNode Id="1845f980-c3dd-4c1f-b011-7e138c0b12e5" Title="ArgumentList Constructor " Url="html/1527187592.htm">
+      <HelpTOCNode Id="139595f1-05bc-4fab-a4a3-488c298054a5" Title="ArgumentList Constructor " Url="html/1527187592.htm">
         <HelpTOCNode Title="ArgumentList Constructor " Url="html/1684894691.htm" />
         <HelpTOCNode Title="ArgumentList Constructor (IEnumerable(TypedArgument))" Url="html/1630478030.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="ada5ba6c-1451-4f37-8c78-e3b926efb910" Title="ArgumentList Methods" Url="html/1615708765.htm">
+      <HelpTOCNode Id="658d07ca-be78-4a59-b0ee-727520436d61" Title="ArgumentList Methods" Url="html/1615708765.htm">
         <HelpTOCNode Title="Equals Method " Url="html/797325700.htm" />
         <HelpTOCNode Title="GetHashCode Method " Url="html/2085520105.htm" />
         <HelpTOCNode Title="ToString Method " Url="html/409420026.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="1999860f-7a8f-40e5-8d2f-aa1ff443d8d7" Title="ArgumentList Properties" Url="html/302757316.htm">
+      <HelpTOCNode Id="4c76f0b9-596b-4996-993b-8267a2cd010b" Title="ArgumentList Properties" Url="html/302757316.htm">
         <HelpTOCNode Title="Item Property " Url="html/758457759.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="c8109a7f-ea9e-485a-8f99-f27617e84ed6" Title="BacktestData Class" Url="html/705498557.htm">
+    <HelpTOCNode Id="f93465ca-d72d-4f27-b9f5-82b31e23a14f" Title="BacktestData Class" Url="html/705498557.htm">
       <HelpTOCNode Title="BacktestData Members" Url="html/481799915.htm" />
       <HelpTOCNode Title="BacktestData Constructor " Url="html/737361359.htm" />
-      <HelpTOCNode Id="57dc9c28-e4b7-4cbe-a641-275101c5f60f" Title="BacktestData Fields" Url="html/1952965040.htm">
+      <HelpTOCNode Id="6f8114c3-6549-420a-995f-3a71323177ce" Title="BacktestData Fields" Url="html/1952965040.htm">
         <HelpTOCNode Title="TrainingEquity Field" Url="html/137878884.htm" />
         <HelpTOCNode Title="ValidationEquity Field" Url="html/1694613747.htm" />
       </HelpTOCNode>
       <HelpTOCNode Title="BacktestData Methods" Url="html/676938137.htm" />
-      <HelpTOCNode Id="ce7067f7-78b2-4c9e-a3c0-23e6cac4dac3" Title="BacktestData Properties" Url="html/616030088.htm">
+      <HelpTOCNode Id="1bea54c4-df92-4038-afd7-f902d02ecea0" Title="BacktestData Properties" Url="html/616030088.htm">
         <HelpTOCNode Title="Plot Property " Url="html/1469298056.htm" />
         <HelpTOCNode Title="TrainingEnd Property " Url="html/1733370158.htm" />
         <HelpTOCNode Title="TrainingStart Property " Url="html/1308787925.htm" />
         <HelpTOCNode Title="ValidationEnd Property " Url="html/933948727.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="f7c99979-bc35-4150-80d9-5bc52f6a9912" Title="CloseSeries Class" Url="html/1505312547.htm">
+    <HelpTOCNode Id="2c8ae22a-14a2-4446-9621-e7ddfe468f84" Title="CloseSeries Class" Url="html/1505312547.htm">
       <HelpTOCNode Title="CloseSeries Members" Url="html/1428686539.htm" />
-      <HelpTOCNode Id="2ff207a9-c923-428c-b828-5e4b78568647" Title="CloseSeries Constructor " Url="html/302810918.htm">
+      <HelpTOCNode Id="91d7d5e4-0d08-4d8e-996d-e29e014feb7f" Title="CloseSeries Constructor " Url="html/302810918.htm">
         <HelpTOCNode Title="CloseSeries Constructor (Int32, TimestampKind)" Url="html/58475543.htm" />
         <HelpTOCNode Title="CloseSeries Constructor (Int32, TimeSpan, TimestampKind)" Url="html/1521331682.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="87e1e81f-59ac-47fa-8b02-a5e599ecb89e" Title="CloseSeries Methods" Url="html/1242563111.htm">
-        <HelpTOCNode Id="75724a60-6c9c-42ff-abcf-4a2088e1eae9" Title="High Method " Url="html/1852843483.htm">
+      <HelpTOCNode Id="786d94a4-5c2a-4b46-8f7f-94c9a202c2ab" Title="CloseSeries Methods" Url="html/1242563111.htm">
+        <HelpTOCNode Id="7697ed2a-a5c5-4f62-972d-e1d7f3ea45d9" Title="High Method " Url="html/1852843483.htm">
           <HelpTOCNode Title="High Method " Url="html/1466770510.htm" />
           <HelpTOCNode Title="High Method (Int32)" Url="html/149025988.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="84a4cf46-eaee-474d-9eb1-40380b308614" Title="Initialize Method " Url="html/224949253.htm">
+        <HelpTOCNode Id="275d59f5-16a7-4796-8af2-aaf29fe00928" Title="Initialize Method " Url="html/224949253.htm">
           <HelpTOCNode Title="Initialize Method " Url="html/1995072151.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="65236f45-ca5e-4f4e-9665-38371f8c1c52" Title="Low Method " Url="html/90012399.htm">
+        <HelpTOCNode Id="7b18612b-79fa-49ec-80c0-c8f5e4352b08" Title="Low Method " Url="html/90012399.htm">
           <HelpTOCNode Title="Low Method " Url="html/2080709832.htm" />
           <HelpTOCNode Title="Low Method (Int32)" Url="html/1054515802.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="a3d8d72a-ba30-45f1-ba4f-296b1bca75c7" Title="Project Method " Url="html/1899020824.htm">
+        <HelpTOCNode Id="6149b046-7f14-4996-8692-18ae19c8c540" Title="Project Method " Url="html/1899020824.htm">
           <HelpTOCNode Title="Project Method " Url="html/421978052.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="1e841f46-22b9-45da-9c1c-292f78fbc62b" Title="Push Method " Url="html/2000653427.htm">
+        <HelpTOCNode Id="600faf05-eee7-4e06-bd28-8d011d61e40a" Title="Push Method " Url="html/2000653427.htm">
           <HelpTOCNode Title="Push Method " Url="html/1251770438.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="TruncateTo Method " Url="html/1083514763.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="68780919-d1f7-455e-9a90-eb5e4dae432d" Title="CloseSeries Properties" Url="html/731815512.htm">
+      <HelpTOCNode Id="f1f62774-7be2-494e-9fde-005064c5b20d" Title="CloseSeries Properties" Url="html/731815512.htm">
         <HelpTOCNode Title="Average Property " Url="html/319671172.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="e22f9b10-6e59-409e-a388-8e7eefc75cb3" Title="CloseValue Structure" Url="html/962763543.htm">
+    <HelpTOCNode Id="86d6ebe5-7387-4477-8678-3ad1feac1c87" Title="CloseValue Structure" Url="html/962763543.htm">
       <HelpTOCNode Title="CloseValue Members" Url="html/1442388041.htm" />
       <HelpTOCNode Title="CloseValue Constructor " Url="html/7310666.htm" />
-      <HelpTOCNode Id="5444a9f7-ce6c-4ea8-ac09-2325d26ac19a" Title="CloseValue Methods" Url="html/665155679.htm">
+      <HelpTOCNode Id="3b901d94-6126-43b0-a477-87afef205196" Title="CloseValue Methods" Url="html/665155679.htm">
         <HelpTOCNode Title="FromOhlcValue Method " Url="html/103366213.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="96d79ee3-f924-4060-8567-e33ff242a722" Title="CloseValue Type Conversions" Url="html/478685038.htm">
+      <HelpTOCNode Id="281574fb-6ce5-4379-aa03-725f57629f6c" Title="CloseValue Type Conversions" Url="html/478685038.htm">
         <HelpTOCNode Title="Implicit Conversion (CloseValue to Double)" Url="html/740024971.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="117c919a-7315-46f7-8acc-8e6c535d348d" Title="CloseValue Properties" Url="html/713992806.htm">
+      <HelpTOCNode Id="1d04289a-dc70-41b9-808e-2f11a42772d7" Title="CloseValue Properties" Url="html/713992806.htm">
         <HelpTOCNode Title="Close Property " Url="html/1698913103.htm" />
         <HelpTOCNode Title="UtcTimestamp Property " Url="html/1993308455.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="4a9c8a14-08ef-4f2b-964b-76b9888a8fee" Title="CloseValueComparer Class" Url="html/1683968794.htm">
+    <HelpTOCNode Id="7ee1bff3-989d-4d5b-9830-5e7267d722b1" Title="CloseValueComparer Class" Url="html/1683968794.htm">
       <HelpTOCNode Title="CloseValueComparer Members" Url="html/1852814038.htm" />
-      <HelpTOCNode Id="93219208-6603-4f39-b1f5-d9b766c71ec4" Title="CloseValueComparer Methods" Url="html/236994562.htm">
+      <HelpTOCNode Id="72b8967b-b0bf-4840-9b37-a04c72daae1e" Title="CloseValueComparer Methods" Url="html/236994562.htm">
         <HelpTOCNode Title="Compare Method " Url="html/622100273.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="046e0854-b78f-4438-9123-2d7dc5a6c75b" Title="CustomIndicatorException Class" Url="html/61121169.htm">
+    <HelpTOCNode Id="ae972dfe-5610-4cdd-989f-580533e6158f" Title="CustomIndicatorException Class" Url="html/61121169.htm">
       <HelpTOCNode Title="CustomIndicatorException Members" Url="html/1419287079.htm" />
       <HelpTOCNode Title="CustomIndicatorException Constructor " Url="html/615713616.htm" />
       <HelpTOCNode Title="CustomIndicatorException Methods" Url="html/233903591.htm" />
-      <HelpTOCNode Id="74c817ce-8ce6-4513-b1d7-c51eb0873250" Title="CustomIndicatorException Properties" Url="html/1047841418.htm">
+      <HelpTOCNode Id="5a2d0828-ecb6-45fb-9f09-c5d789c71fd4" Title="CustomIndicatorException Properties" Url="html/1047841418.htm">
         <HelpTOCNode Title="IndicatorClass Property " Url="html/1414246606.htm" />
       </HelpTOCNode>
       <HelpTOCNode Title="CustomIndicatorException Events" Url="html/1652248386.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="d113a947-f047-4e24-a0a7-64ac5fdf881b" Title="DataImportManagerAttribute Class" Url="html/1431721228.htm">
+    <HelpTOCNode Id="b8dd5bb9-53db-4492-8f33-ae84b9dc65f4" Title="DataImportManagerAttribute Class" Url="html/1431721228.htm">
       <HelpTOCNode Title="DataImportManagerAttribute Members" Url="html/985552412.htm" />
       <HelpTOCNode Title="DataImportManagerAttribute Constructor " Url="html/620239145.htm" />
       <HelpTOCNode Title="DataImportManagerAttribute Methods" Url="html/1792950176.htm" />
-      <HelpTOCNode Id="6f624bd7-f376-4815-988b-2d1883cba710" Title="DataImportManagerAttribute Properties" Url="html/1522751135.htm">
+      <HelpTOCNode Id="46fe807e-80ab-46bc-ab64-1d7fdea25416" Title="DataImportManagerAttribute Properties" Url="html/1522751135.htm">
         <HelpTOCNode Title="ImportFormType Property " Url="html/1839490305.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="97a4063c-ea3d-4c7b-a204-aac4b41fb250" Title="FitnessBase Class" Url="html/1606732173.htm">
+    <HelpTOCNode Id="c7269e7d-e1b5-4e4b-b2e0-77a75e6adcac" Title="FitnessBase Class" Url="html/1606732173.htm">
       <HelpTOCNode Title="FitnessBase Members" Url="html/1181661149.htm" />
-      <HelpTOCNode Id="2adec500-cd7d-4f73-8d2d-240f026c0277" Title="FitnessBase Methods" Url="html/105004875.htm">
+      <HelpTOCNode Id="26d1f9f3-db21-40d3-9f6b-d325934ef62e" Title="FitnessBase Methods" Url="html/105004875.htm">
         <HelpTOCNode Title="ComputeFitness Method " Url="html/1057840937.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="3ff2e0e6-6007-4e99-b3f1-868f7f0200c1" Title="FitnessBase Properties" Url="html/434444348.htm">
+      <HelpTOCNode Id="ca0e41fc-c39c-4a1e-884f-fe9f12880d21" Title="FitnessBase Properties" Url="html/434444348.htm">
         <HelpTOCNode Title="GetEquity Property " Url="html/1146508476.htm" />
         <HelpTOCNode Title="GetTrades Property " Url="html/1641069244.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="1b439ccc-b43e-4d9b-803e-8550d9cbc3c3" Title="ICloseSeries Interface" Url="html/1153162004.htm">
+    <HelpTOCNode Id="e688659c-0efe-435b-93d2-5b686abdd1a6" Title="ICloseSeries Interface" Url="html/1153162004.htm">
       <HelpTOCNode Title="ICloseSeries Methods" Url="html/1597576864.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="c63d83a5-0d9f-4df2-a78a-e970c2247670" Title="IDiscretizer Interface" Url="html/2142065427.htm">
+    <HelpTOCNode Id="176dfc5b-bc49-467d-972d-fac1ab9e12ad" Title="IDiscretizer Interface" Url="html/2142065427.htm">
       <HelpTOCNode Title="IDiscretizer Members" Url="html/1440024841.htm" />
-      <HelpTOCNode Id="1f62cdcc-94ed-41d0-a70a-a3cb3c754a93" Title="IDiscretizer Methods" Url="html/585136933.htm">
-        <HelpTOCNode Id="4efb2c70-4d88-4b45-baf7-20517971ef61" Title="Discretize Method " Url="html/1920710995.htm">
+      <HelpTOCNode Id="42706961-7432-4ed4-894d-a19b0f4ef7af" Title="IDiscretizer Methods" Url="html/585136933.htm">
+        <HelpTOCNode Id="eefc1e0b-20da-402a-b020-4302b7d76bea" Title="Discretize Method " Url="html/1920710995.htm">
           <HelpTOCNode Title="Discretize Method (Double)" Url="html/203158609.htm" />
           <HelpTOCNode Title="Discretize Method (IEnumerable(Double))" Url="html/2721182.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="2f3e4a6a-e301-4ea1-8f0d-002cad45360e" Title="IDiscretizer Properties" Url="html/1845437754.htm">
+      <HelpTOCNode Id="3bf280a0-017c-40ca-a985-ff1e93bcab64" Title="IDiscretizer Properties" Url="html/1845437754.htm">
         <HelpTOCNode Title="Active Property " Url="html/323883047.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="fdab2537-a1ea-4992-b7b2-7d60807c8fac" Title="IInstrument Interface" Url="html/78837298.htm">
+    <HelpTOCNode Id="6c4bcb7b-d0dd-435e-9ac9-8185e65d5280" Title="IInstrument Interface" Url="html/78837298.htm">
       <HelpTOCNode Title="IInstrument Members" Url="html/2021531642.htm" />
-      <HelpTOCNode Id="194c5a0c-b33c-4cb4-ab0a-83fdf93bfe8b" Title="IInstrument Methods" Url="html/2138494030.htm">
+      <HelpTOCNode Id="ba045995-c816-459e-a31c-d15a1f994da6" Title="IInstrument Methods" Url="html/2138494030.htm">
         <HelpTOCNode Title="AddIndicatorColumn Method " Url="html/1114169546.htm" />
         <HelpTOCNode Title="GetRange Method " Url="html/593543011.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="c7446d18-26d0-497d-b00d-d5d7bd1819cf" Title="IInstrument Properties" Url="html/74598855.htm">
+      <HelpTOCNode Id="7de0abe3-024d-4a90-86f1-4eedcedf223c" Title="IInstrument Properties" Url="html/74598855.htm">
         <HelpTOCNode Title="BarCount Property " Url="html/1301941340.htm" />
         <HelpTOCNode Title="Close Property " Url="html/1583991736.htm" />
         <HelpTOCNode Title="FirstBarStart Property " Url="html/2121048331.htm" />
@@ -143,40 +143,40 @@
         <HelpTOCNode Title="TradingQuotes Property " Url="html/910616140.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="380da3bd-5d3c-4d6f-ba4a-d8c20ea8ca44" Title="IInstrumentFactory Interface" Url="html/1156242144.htm">
+    <HelpTOCNode Id="c642aa37-6553-4479-b645-cd5a4d8a64f5" Title="IInstrumentFactory Interface" Url="html/1156242144.htm">
       <HelpTOCNode Title="IInstrumentFactory Members" Url="html/1495113452.htm" />
-      <HelpTOCNode Id="9737d842-03c1-4e30-8ef6-d673390cdd8e" Title="IInstrumentFactory Methods" Url="html/708289544.htm">
-        <HelpTOCNode Id="dafdf2fc-d493-4eda-a07b-dbe03bee3a6a" Title="CreateInstruments Method " Url="html/2075464994.htm">
+      <HelpTOCNode Id="c6a77a7d-7928-4199-8ac4-83e46cd92dba" Title="IInstrumentFactory Methods" Url="html/708289544.htm">
+        <HelpTOCNode Id="827ae1f1-d55d-4999-9356-45bde3221af0" Title="CreateInstruments Method " Url="html/2075464994.htm">
           <HelpTOCNode Title="CreateInstruments Method (TimeScale, DateTimeOffset[], ITradingSchedule, String[])" Url="html/566124472.htm" />
           <HelpTOCNode Title="CreateInstruments Method (TimeScale, DateTimeOffset, DateTimeOffset, ITradingSchedule, String[])" Url="html/2013962634.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="64d6df58-55de-4c6b-8ad7-d00190d01fe8" Title="IInstrumentId Interface" Url="html/652465413.htm">
+    <HelpTOCNode Id="182ee572-0a9b-4178-af2b-fe4f913e0aa2" Title="IInstrumentId Interface" Url="html/652465413.htm">
       <HelpTOCNode Title="IInstrumentId Members" Url="html/2050763875.htm" />
       <HelpTOCNode Title="IInstrumentId Methods" Url="html/1306379281.htm" />
-      <HelpTOCNode Id="e3108ecb-f4b7-4819-a877-7a6cdb9b4171" Title="IInstrumentId Properties" Url="html/1597934338.htm">
+      <HelpTOCNode Id="a3308a44-302b-4317-9926-7fbe87672e6e" Title="IInstrumentId Properties" Url="html/1597934338.htm">
         <HelpTOCNode Title="BarWidth Property " Url="html/1843731428.htm" />
         <HelpTOCNode Title="Ticker Property " Url="html/653212907.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="762aebe6-baea-42dd-9769-7a9d0727df6f" Title="IInstrumentParameters Interface" Url="html/1602322234.htm">
+    <HelpTOCNode Id="0677dea7-9b28-4e16-8b40-52bf4065dbe3" Title="IInstrumentParameters Interface" Url="html/1602322234.htm">
       <HelpTOCNode Title="IInstrumentParameters Members" Url="html/809669238.htm" />
       <HelpTOCNode Title="IInstrumentParameters Methods" Url="html/1615519962.htm" />
-      <HelpTOCNode Id="813e91e2-ab23-43bf-86ab-d43dab512b69" Title="IInstrumentParameters Properties" Url="html/208531849.htm">
+      <HelpTOCNode Id="410aed9a-fd0c-44e8-859a-68bc3ede2740" Title="IInstrumentParameters Properties" Url="html/208531849.htm">
         <HelpTOCNode Title="PriceLevelGap Property " Url="html/2015121853.htm" />
         <HelpTOCNode Title="Ticker Property " Url="html/1283241570.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="4cba3cd8-6665-4545-8e33-655048bda0a9" Title="IndicatorColumnId Class" Url="html/1335364242.htm">
+    <HelpTOCNode Id="1921f930-fde1-44ce-bac7-380bdd6e388b" Title="IndicatorColumnId Class" Url="html/1335364242.htm">
       <HelpTOCNode Title="IndicatorColumnId Members" Url="html/1214497066.htm" />
-      <HelpTOCNode Id="2dee95dc-2fb3-4878-9bfe-1b069bdcdbe6" Title="IndicatorColumnId Constructor " Url="html/1753305507.htm">
+      <HelpTOCNode Id="0c2064ef-0e19-41c7-ba7d-3e8a5b8f112b" Title="IndicatorColumnId Constructor " Url="html/1753305507.htm">
         <HelpTOCNode Title="IndicatorColumnId Constructor " Url="html/1808823790.htm" />
         <HelpTOCNode Title="IndicatorColumnId Constructor (String, String, Int32, IndicatorFlags, IEnumerable(TypedArgument))" Url="html/688856940.htm" />
         <HelpTOCNode Title="IndicatorColumnId Constructor (IndicatorColumnId)" Url="html/117528889.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="760f23d6-1f43-4c52-9d69-91b5451af570" Title="IndicatorColumnId Methods" Url="html/763526710.htm">
-        <HelpTOCNode Id="c358001e-74de-483d-a22c-e084e9dc5762" Title="Equals Method " Url="html/1915921865.htm">
+      <HelpTOCNode Id="486b4181-93da-4525-8ddb-a1deef0baa44" Title="IndicatorColumnId Methods" Url="html/763526710.htm">
+        <HelpTOCNode Id="d2bf6756-deef-49e5-9621-7d363370f2b2" Title="Equals Method " Url="html/1915921865.htm">
           <HelpTOCNode Title="Equals Method " Url="html/258796037.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="From Method " Url="html/1231795110.htm" />
@@ -184,30 +184,30 @@
         <HelpTOCNode Title="Parse Method " Url="html/1781089331.htm" />
         <HelpTOCNode Title="ToString Method " Url="html/862556585.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="ebaa273f-3501-4660-999f-357991b7d0e9" Title="IndicatorColumnId Properties" Url="html/888654901.htm">
+      <HelpTOCNode Id="e6b558d5-f1ff-401a-8c3e-6d6fc013ac3a" Title="IndicatorColumnId Properties" Url="html/888654901.htm">
         <HelpTOCNode Title="IndicatorId Property " Url="html/1566283740.htm" />
         <HelpTOCNode Title="Instrument Property " Url="html/46122343.htm" />
         <HelpTOCNode Title="Label Property " Url="html/1234096138.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="17b192c0-a201-45ef-aec4-239d8cab65a0" Title="IndicatorId Class" Url="html/446269772.htm">
+    <HelpTOCNode Id="0d265ccb-a855-4458-aded-a5d207fa1c36" Title="IndicatorId Class" Url="html/446269772.htm">
       <HelpTOCNode Title="IndicatorId Members" Url="html/148098024.htm" />
-      <HelpTOCNode Id="ccb742e8-4549-4694-91b7-9dc04b8e0ebf" Title="IndicatorId Constructor " Url="html/1832544603.htm">
+      <HelpTOCNode Id="cf6d9ece-53c1-4d25-bdd9-15855025dace" Title="IndicatorId Constructor " Url="html/1832544603.htm">
         <HelpTOCNode Title="IndicatorId Constructor " Url="html/1157812108.htm" />
         <HelpTOCNode Title="IndicatorId Constructor (String, Int32, IndicatorFlags, IEnumerable(TypedArgument))" Url="html/1616626982.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="1567aa59-9741-4b23-9fe8-dddd997c922b" Title="IndicatorId Fields" Url="html/1312370769.htm">
+      <HelpTOCNode Id="b363502d-dc77-4cc1-b86a-b7924ffefee7" Title="IndicatorId Fields" Url="html/1312370769.htm">
         <HelpTOCNode Title="_flags Field" Url="html/1172922232.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="83201c9c-c635-4f11-a358-1125a1808062" Title="IndicatorId Methods" Url="html/2091667820.htm">
-        <HelpTOCNode Id="f834c420-9c64-49d8-9f8f-a55017bddfc4" Title="Equals Method " Url="html/749673089.htm">
+      <HelpTOCNode Id="258825b5-47d5-4bbe-9a71-f74f8bb470f1" Title="IndicatorId Methods" Url="html/2091667820.htm">
+        <HelpTOCNode Id="1bfbcd67-b8ff-4669-9221-f52984bbff93" Title="Equals Method " Url="html/749673089.htm">
           <HelpTOCNode Title="Equals Method " Url="html/2101766267.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="GetHashCode Method " Url="html/2128414978.htm" />
         <HelpTOCNode Title="Parse Method " Url="html/1216084519.htm" />
         <HelpTOCNode Title="ToString Method " Url="html/1088387993.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="94b29280-977e-4147-8481-08e3d747ca18" Title="IndicatorId Properties" Url="html/805365385.htm">
+      <HelpTOCNode Id="d5dd4b24-a3c4-4201-9341-06875bd6e39b" Title="IndicatorId Properties" Url="html/805365385.htm">
         <HelpTOCNode Title="Bars Property " Url="html/431452012.htm" />
         <HelpTOCNode Title="Discrete Property " Url="html/1619891497.htm" />
         <HelpTOCNode Title="Flags Property " Url="html/680104849.htm" />
@@ -218,26 +218,26 @@
         <HelpTOCNode Title="Rescale Property " Url="html/1698012123.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="8552f1ac-d4fa-449e-80a0-2e4c964b9b3f" Title="IOHLCSeries Interface" Url="html/58875628.htm">
+    <HelpTOCNode Id="060c85f5-2856-48cb-afce-5f9a7296e1ac" Title="IOHLCSeries Interface" Url="html/58875628.htm">
       <HelpTOCNode Title="IOHLCSeries Methods" Url="html/351712072.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="2fbbf5ce-f309-4c57-942c-faa0a27211de" Title="IQuoteSeries(TValue) Interface" Url="html/1633884457.htm">
+    <HelpTOCNode Id="828ab7b7-797e-428a-bacf-49d7d7dbe65d" Title="IQuoteSeries(TValue) Interface" Url="html/1633884457.htm">
       <HelpTOCNode Title="IQuoteSeries Members" Url="html/843057377.htm" />
-      <HelpTOCNode Id="88658b8d-1539-4b0c-8faa-7b7afec0686c" Title="IQuoteSeries Methods" Url="html/1235696737.htm">
+      <HelpTOCNode Id="1b80b14c-58e0-4c62-a6d2-384aae4e1ad9" Title="IQuoteSeries Methods" Url="html/1235696737.htm">
         <HelpTOCNode Title="High Method " Url="html/100805240.htm" />
         <HelpTOCNode Title="Low Method " Url="html/337764706.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="5b79b372-fa5d-44b1-9db0-e8ef6f486699" Title="IQuoteSeries Properties" Url="html/1881576128.htm">
+      <HelpTOCNode Id="dd966268-38ad-4929-940d-ed860d7bf616" Title="IQuoteSeries Properties" Url="html/1881576128.htm">
         <HelpTOCNode Title="CurrentTimestamp Property " Url="html/1187651940.htm" />
         <HelpTOCNode Title="Item Property " Url="html/1575306818.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="66e42657-7791-484b-ab32-729eceacdfb0" Title="IRTIndicatorInstance Interface" Url="html/1641640523.htm">
+    <HelpTOCNode Id="1b4fbc79-d33d-471a-b381-36eb61838999" Title="IRTIndicatorInstance Interface" Url="html/1641640523.htm">
       <HelpTOCNode Title="IRTIndicatorInstance Members" Url="html/1537499215.htm" />
-      <HelpTOCNode Id="88f14b08-b647-4053-a299-b7b4d8a2db41" Title="IRTIndicatorInstance Methods" Url="html/741662455.htm">
+      <HelpTOCNode Id="07d10117-d166-4132-b2e3-892d562d9f09" Title="IRTIndicatorInstance Methods" Url="html/741662455.htm">
         <HelpTOCNode Title="GetValue Method " Url="html/1133820241.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="63b4c81b-ba87-4605-a46f-90d5805c56e9" Title="IRTIndicatorInstance Properties" Url="html/684501522.htm">
+      <HelpTOCNode Id="706136ee-7105-4865-8b75-cc60023cb28c" Title="IRTIndicatorInstance Properties" Url="html/684501522.htm">
         <HelpTOCNode Title="Gain Property " Url="html/901120102.htm" />
         <HelpTOCNode Title="HasState Property " Url="html/62982400.htm" />
         <HelpTOCNode Title="Id Property " Url="html/641397048.htm" />
@@ -247,18 +247,18 @@
         <HelpTOCNode Title="Update Property " Url="html/1476696244.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="6b7d6f5f-0861-4156-a00d-8d5981e884db" Title="ISelectableValue Interface" Url="html/64553608.htm">
+    <HelpTOCNode Id="ba00db02-36e8-47e3-b334-b3b1c82b2ad8" Title="ISelectableValue Interface" Url="html/64553608.htm">
       <HelpTOCNode Title="ISelectableValue Members" Url="html/1563072732.htm" />
       <HelpTOCNode Title="ISelectableValue Methods" Url="html/1812519580.htm" />
-      <HelpTOCNode Id="4780e62e-9439-4602-9985-5e8716fdefff" Title="ISelectableValue Properties" Url="html/1713503873.htm">
+      <HelpTOCNode Id="4bf5e469-7005-40a9-9d3f-81d4fed259d9" Title="ISelectableValue Properties" Url="html/1713503873.htm">
         <HelpTOCNode Title="Text Property " Url="html/2024469535.htm" />
         <HelpTOCNode Title="Value Property " Url="html/428499937.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="e80f5385-e36f-4db8-b24f-a39f4956b2a0" Title="ITrade Interface" Url="html/735021821.htm">
+    <HelpTOCNode Id="258b6ada-23d5-40fe-b023-a87dae6f55f9" Title="ITrade Interface" Url="html/735021821.htm">
       <HelpTOCNode Title="ITrade Members" Url="html/833260489.htm" />
       <HelpTOCNode Title="ITrade Methods" Url="html/28963483.htm" />
-      <HelpTOCNode Id="b75e4049-668e-402d-8144-af4d4a8b53f4" Title="ITrade Properties" Url="html/1367017352.htm">
+      <HelpTOCNode Id="0000cdba-76f8-452a-bc6d-73de90288690" Title="ITrade Properties" Url="html/1367017352.htm">
         <HelpTOCNode Title="CloseQuote Property " Url="html/1556353181.htm" />
         <HelpTOCNode Title="Duration Property " Url="html/1150115141.htm" />
         <HelpTOCNode Title="OpenQuote Property " Url="html/1529750685.htm" />
@@ -266,52 +266,52 @@
         <HelpTOCNode Title="Quantity Property " Url="html/1465165218.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="e85dbd43-70f2-4ac8-8a5e-f1c309dd1673" Title="ObjectiveParameterAttribute Class" Url="html/1119563442.htm">
+    <HelpTOCNode Id="f1c6c610-10d4-4999-8337-ba03e06c8a83" Title="ObjectiveParameterAttribute Class" Url="html/1119563442.htm">
       <HelpTOCNode Title="ObjectiveParameterAttribute Methods" Url="html/916766518.htm" />
       <HelpTOCNode Title="ObjectiveParameterAttribute Properties" Url="html/63834765.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="a85af4c9-aaef-4f18-81a4-70c055c27d50" Title="OHLCSeries Class" Url="html/723845825.htm">
+    <HelpTOCNode Id="71a82610-b34f-492a-969c-36be48e3360a" Title="OHLCSeries Class" Url="html/723845825.htm">
       <HelpTOCNode Title="OHLCSeries Members" Url="html/989940541.htm" />
       <HelpTOCNode Title="OHLCSeries Constructor (Int32, TimeSpan)" Url="html/758485496.htm" />
-      <HelpTOCNode Id="680235eb-d8fd-43d0-b469-63f20b7f843b" Title="OHLCSeries Methods" Url="html/780664025.htm">
+      <HelpTOCNode Id="696f4e50-f2ec-4e73-8f11-82737b5395c6" Title="OHLCSeries Methods" Url="html/780664025.htm">
         <HelpTOCNode Title="Average Method " Url="html/1646056825.htm" />
         <HelpTOCNode Title="GetCloseSeries Method " Url="html/366436031.htm" />
-        <HelpTOCNode Id="d21a4a94-e959-495e-bf28-cc9fc50203e5" Title="High Method " Url="html/2062372719.htm">
+        <HelpTOCNode Id="aebdc9b3-c671-4a3b-940d-c675f4718a63" Title="High Method " Url="html/2062372719.htm">
           <HelpTOCNode Title="High Method " Url="html/1013454366.htm" />
           <HelpTOCNode Title="High Method (Int32)" Url="html/321520448.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="233ab8c3-7d3d-43ee-b558-74da2549060f" Title="Low Method " Url="html/1072481163.htm">
+        <HelpTOCNode Id="6ea7aefd-6776-4701-b933-f59e13ba4e47" Title="Low Method " Url="html/1072481163.htm">
           <HelpTOCNode Title="Low Method " Url="html/652904584.htm" />
           <HelpTOCNode Title="Low Method (Int32)" Url="html/1786568026.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="13dfc62c-7fe2-41f2-a8ff-e62c2d2e9051" Title="Project Method " Url="html/1045733130.htm">
+        <HelpTOCNode Id="36c7107b-5f7a-4e6d-a5ee-2afd7dd0c844" Title="Project Method " Url="html/1045733130.htm">
           <HelpTOCNode Title="Project Method (Func(OhlcBar, Double), Int32)" Url="html/997419782.htm" />
           <HelpTOCNode Title="Project Method (Func(OhlcBar, Double), Int32, TimestampKind)" Url="html/1534928836.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="2a44b46a-eb34-4168-a164-3ff831e09cf5" Title="Push Method " Url="html/1578533711.htm">
+        <HelpTOCNode Id="172a534c-f449-4093-b021-7de9fe01b102" Title="Push Method " Url="html/1578533711.htm">
           <HelpTOCNode Title="Push Method " Url="html/1748979184.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="TruncateTo Method " Url="html/373058427.htm" />
       </HelpTOCNode>
       <HelpTOCNode Title="OHLCSeries Properties" Url="html/1600091036.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="f9d422a0-4c69-45fd-bbbe-a218db16eb84" Title="QuoteSeries(TValue, TSeries) Class" Url="html/1440877413.htm">
+    <HelpTOCNode Id="298451cf-572d-4e6c-aecf-89ee1a8421d2" Title="QuoteSeries(TValue, TSeries) Class" Url="html/1440877413.htm">
       <HelpTOCNode Title="QuoteSeries(TValue, TSeries) Members" Url="html/190150169.htm" />
-      <HelpTOCNode Id="9f6d0184-1829-4654-a8b6-b2446ac160da" Title="QuoteSeries(TValue, TSeries) Constructor " Url="html/1077410144.htm">
+      <HelpTOCNode Id="51c11725-fa11-4007-adeb-717c88b4b66d" Title="QuoteSeries(TValue, TSeries) Constructor " Url="html/1077410144.htm">
         <HelpTOCNode Title="QuoteSeries(TValue, TSeries) Constructor (Int32, TimestampKind)" Url="html/1769030925.htm" />
         <HelpTOCNode Title="QuoteSeries(TValue, TSeries) Constructor (Int32, TimeSpan, TimestampKind)" Url="html/1958427388.htm" />
         <HelpTOCNode Title="QuoteSeries(TValue, TSeries) Constructor (IEnumerable(TValue), Int32, Int32, Int32, TimeSpan, TimestampKind)" Url="html/1989025751.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="b01ccb48-630a-4231-a813-cd71e8cb8b61" Title="QuoteSeries(TValue, TSeries) Fields" Url="html/48144118.htm">
+      <HelpTOCNode Id="3b8e95e7-4b07-4c02-9017-139d51ddb294" Title="QuoteSeries(TValue, TSeries) Fields" Url="html/48144118.htm">
         <HelpTOCNode Title="_barWidth Field" Url="html/1082831461.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="a0ae5739-de1a-4a12-9035-0e10a3a45136" Title="QuoteSeries(TValue, TSeries) Methods" Url="html/724667811.htm">
+      <HelpTOCNode Id="c3b21a9a-86c9-455e-8ee9-35c933d2f709" Title="QuoteSeries(TValue, TSeries) Methods" Url="html/724667811.htm">
         <HelpTOCNode Title="GetValueArray Method " Url="html/341999848.htm" />
-        <HelpTOCNode Id="9929720a-4e3d-4181-ba5b-3f80a4cfa8a7" Title="High Method " Url="html/645677997.htm">
+        <HelpTOCNode Id="96c7db4a-aac5-4477-9c7d-06e070685d15" Title="High Method " Url="html/645677997.htm">
           <HelpTOCNode Title="High Method " Url="html/423315228.htm" />
           <HelpTOCNode Title="High Method (Int32)" Url="html/2092388362.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="5bd3c01b-70cc-4953-885a-5a0c7a95145e" Title="Low Method " Url="html/1360714271.htm">
+        <HelpTOCNode Id="ce103675-a382-4caf-bdbf-a0a761048bb9" Title="Low Method " Url="html/1360714271.htm">
           <HelpTOCNode Title="Low Method " Url="html/62690330.htm" />
           <HelpTOCNode Title="Low Method (Int32)" Url="html/1662335368.htm" />
         </HelpTOCNode>
@@ -319,27 +319,27 @@
         <HelpTOCNode Title="ProjectToValues Method " Url="html/2061316708.htm" />
         <HelpTOCNode Title="TruncateTo Method " Url="html/1542179053.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="051bb8ba-8d5e-472a-ad26-a20017a74864" Title="QuoteSeries(TValue, TSeries) Properties" Url="html/398504650.htm">
+      <HelpTOCNode Id="2522539b-2993-46b5-ac10-6c3a88683fd2" Title="QuoteSeries(TValue, TSeries) Properties" Url="html/398504650.htm">
         <HelpTOCNode Title="Aggregates Property " Url="html/549959037.htm" />
         <HelpTOCNode Title="CurrentTimestamp Property " Url="html/933738780.htm" />
         <HelpTOCNode Title="PreviousTimestamp Property " Url="html/1364752454.htm" />
         <HelpTOCNode Title="TimestampKind Property " Url="html/469812563.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="60385cc6-0878-4312-a756-dbec3c6d536c" Title="RealTimeIndicatorException Class" Url="html/585776329.htm">
+    <HelpTOCNode Id="04b8b3b4-88c6-452e-8638-1c988c4c033b" Title="RealTimeIndicatorException Class" Url="html/585776329.htm">
       <HelpTOCNode Title="RealTimeIndicatorException Members" Url="html/333618513.htm" />
       <HelpTOCNode Title="RealTimeIndicatorException Constructor " Url="html/1694536272.htm" />
       <HelpTOCNode Title="RealTimeIndicatorException Methods" Url="html/1217903361.htm" />
-      <HelpTOCNode Id="f649ca1d-9eab-402b-a90b-7a062828c4b0" Title="RealTimeIndicatorException Properties" Url="html/1149015856.htm">
+      <HelpTOCNode Id="06dbb131-e9c6-42b0-a09d-3908d2c72e95" Title="RealTimeIndicatorException Properties" Url="html/1149015856.htm">
         <HelpTOCNode Title="IndicatorClass Property " Url="html/1128809508.htm" />
       </HelpTOCNode>
       <HelpTOCNode Title="RealTimeIndicatorException Events" Url="html/1601981288.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="3f33086a-bc95-4ddf-b5f6-ca8e2489a475" Title="RTStrategyInput Class" Url="html/1432202981.htm">
+    <HelpTOCNode Id="81ab48fa-eb1a-4c19-bbca-b1ad83e9748b" Title="RTStrategyInput Class" Url="html/1432202981.htm">
       <HelpTOCNode Title="RTStrategyInput Members" Url="html/1883996297.htm" />
       <HelpTOCNode Title="RTStrategyInput Constructor " Url="html/1389871640.htm" />
       <HelpTOCNode Title="RTStrategyInput Methods" Url="html/345476951.htm" />
-      <HelpTOCNode Id="bf29f66d-092b-40bd-b4ac-6f2eb0f5c12d" Title="RTStrategyInput Properties" Url="html/1592023956.htm">
+      <HelpTOCNode Id="8f2fe704-ae0d-4948-9c56-56f411bdf292" Title="RTStrategyInput Properties" Url="html/1592023956.htm">
         <HelpTOCNode Title="Discrete Property " Url="html/1650411206.htm" />
         <HelpTOCNode Title="Gain Property " Url="html/487710870.htm" />
         <HelpTOCNode Title="Index Property " Url="html/19031277.htm" />
@@ -350,23 +350,23 @@
         <HelpTOCNode Title="Type Property " Url="html/1905726549.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="015c3008-916b-4030-b1f5-986a1b6d1cac" Title="SDKException Class" Url="html/1893576541.htm">
+    <HelpTOCNode Id="011e2404-a743-4ae6-8143-1805a9130775" Title="SDKException Class" Url="html/1893576541.htm">
       <HelpTOCNode Title="SDKException Members" Url="html/1795699887.htm" />
       <HelpTOCNode Title="SDKException Methods" Url="html/762675269.htm" />
       <HelpTOCNode Title="SDKException Properties" Url="html/409168402.htm" />
       <HelpTOCNode Title="SDKException Events" Url="html/2008007142.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="a84414b5-8ba5-40b6-9d98-e94ecf7c8e08" Title="SdkServices Class" Url="html/59427880.htm">
+    <HelpTOCNode Id="d6e698a9-2e1b-4d9b-8375-780046541aa7" Title="SdkServices Class" Url="html/59427880.htm">
       <HelpTOCNode Title="SdkServices Members" Url="html/1677161880.htm" />
-      <HelpTOCNode Id="25d593f3-c378-4910-988f-31b8f31ef5b5" Title="SdkServices Methods" Url="html/2089454208.htm">
+      <HelpTOCNode Id="d5a6285e-a13a-4191-acf5-102361afcd82" Title="SdkServices Methods" Url="html/2089454208.htm">
         <HelpTOCNode Title="GetInstrumentFactory Method " Url="html/870859364.htm" />
         <HelpTOCNode Title="SetServiceProvider Method " Url="html/953525027.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="0915edab-11f1-455c-ac2f-543cf7730a3e" Title="SerializedRTStrategy Class" Url="html/597931187.htm">
+    <HelpTOCNode Id="e4c0c10b-e1f7-4ec2-8e17-972baac00267" Title="SerializedRTStrategy Class" Url="html/597931187.htm">
       <HelpTOCNode Title="SerializedRTStrategy Members" Url="html/1416370873.htm" />
       <HelpTOCNode Title="SerializedRTStrategy Methods" Url="html/657893745.htm" />
-      <HelpTOCNode Id="2f972096-2fae-4306-a85a-e5d0cc5c3f66" Title="SerializedRTStrategy Properties" Url="html/46703462.htm">
+      <HelpTOCNode Id="f1c8f799-2073-46b6-bf88-326b58e366b0" Title="SerializedRTStrategy Properties" Url="html/46703462.htm">
         <HelpTOCNode Title="EvaluationData Property " Url="html/850231227.htm" />
         <HelpTOCNode Title="LongThreshold Property " Url="html/1958350946.htm" />
         <HelpTOCNode Title="OriginalExpression Property " Url="html/1975947668.htm" />
@@ -376,21 +376,21 @@
         <HelpTOCNode Title="StopProfit Property " Url="html/185368061.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="64c663ed-0a2a-4719-a2a3-0a8d39422828" Title="SharpshooterModuleAttribute Class" Url="html/71719968.htm">
+    <HelpTOCNode Id="842f8dbd-336c-4a32-abd5-3f56f3fa2fc4" Title="SharpshooterModuleAttribute Class" Url="html/71719968.htm">
       <HelpTOCNode Title="SharpshooterModuleAttribute Members" Url="html/680922792.htm" />
-      <HelpTOCNode Id="f77c9d59-ae1e-407f-975c-29bab520a2a2" Title="SharpshooterModuleAttribute Fields" Url="html/895917763.htm">
+      <HelpTOCNode Id="83b8e70f-aa32-4518-bb1f-58e42617dfe5" Title="SharpshooterModuleAttribute Fields" Url="html/895917763.htm">
         <HelpTOCNode Title="SdkVersion Field" Url="html/66634580.htm" />
       </HelpTOCNode>
       <HelpTOCNode Title="SharpshooterModuleAttribute Methods" Url="html/2062486316.htm" />
       <HelpTOCNode Title="SharpshooterModuleAttribute Properties" Url="html/435444027.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="daa3be4b-8f61-46b9-8995-e93e04b638a4" Title="StrategyCollectionBase Class" Url="html/1983308296.htm">
+    <HelpTOCNode Id="79bc78e7-6fcd-4835-ac0c-dc722739b9a5" Title="StrategyCollectionBase Class" Url="html/1983308296.htm">
       <HelpTOCNode Title="StrategyCollectionBase Members" Url="html/249556260.htm" />
-      <HelpTOCNode Id="6f324ddd-7d77-45fb-bc28-478c10a6b7d1" Title="StrategyCollectionBase Methods" Url="html/1697589388.htm">
+      <HelpTOCNode Id="f9ce5b6c-7de5-428c-be6a-63358834546b" Title="StrategyCollectionBase Methods" Url="html/1697589388.htm">
         <HelpTOCNode Title="Deserialize Method " Url="html/253518959.htm" />
         <HelpTOCNode Title="GetEnumerator Method " Url="html/2075155259.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="9a565327-a911-4510-a0f1-33867d4d5c7c" Title="StrategyCollectionBase Properties" Url="html/131449799.htm">
+      <HelpTOCNode Id="d3e9eee7-1467-4f34-b937-77de5e222169" Title="StrategyCollectionBase Properties" Url="html/131449799.htm">
         <HelpTOCNode Title="Author Property " Url="html/894880987.htm" />
         <HelpTOCNode Title="BarWidth Property " Url="html/827351707.htm" />
         <HelpTOCNode Title="Comments Property " Url="html/20677000.htm" />
@@ -402,89 +402,89 @@
         <HelpTOCNode Title="TradingInstrument Property " Url="html/563823622.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="e22f5b44-016c-4cd4-ad52-33d49ccf0c4b" Title="TimestampedValue Structure" Url="html/259060042.htm">
+    <HelpTOCNode Id="6c952526-be50-4ced-8ada-aa4e4844da31" Title="TimestampedValue Structure" Url="html/259060042.htm">
       <HelpTOCNode Title="TimestampedValue Members" Url="html/53263238.htm" />
       <HelpTOCNode Title="TimestampedValue Constructor " Url="html/2088577847.htm" />
       <HelpTOCNode Title="TimestampedValue Methods" Url="html/1376072694.htm" />
-      <HelpTOCNode Id="2da17eef-3793-41e2-beaa-b27f2a7fcb2b" Title="TimestampedValue Properties" Url="html/950224665.htm">
+      <HelpTOCNode Id="bfeea1f0-244c-44df-bdf7-1e94f3e28720" Title="TimestampedValue Properties" Url="html/950224665.htm">
         <HelpTOCNode Title="UtcTimestamp Property " Url="html/2113843522.htm" />
         <HelpTOCNode Title="Value Property " Url="html/1566963407.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="59bee01c-4ef5-4a62-8463-afaa46efa7ae" Title="ValueSeries Class" Url="html/951394312.htm">
+    <HelpTOCNode Id="2e222c62-96d3-47e0-b22e-3c301dc62ca9" Title="ValueSeries Class" Url="html/951394312.htm">
       <HelpTOCNode Title="ValueSeries Members" Url="html/1309806324.htm" />
-      <HelpTOCNode Id="4df8ad9c-cabd-448c-9b45-783d7f107702" Title="ValueSeries Constructor " Url="html/601866449.htm">
+      <HelpTOCNode Id="fd765024-976d-4d20-8664-b422d57cbad8" Title="ValueSeries Constructor " Url="html/601866449.htm">
         <HelpTOCNode Title="ValueSeries Constructor (Int32)" Url="html/488381450.htm" />
         <HelpTOCNode Title="ValueSeries Constructor (Int32, BufferIndex)" Url="html/1931254164.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="9eead1b9-c3c2-43bf-be34-3194bd81bbdf" Title="ValueSeries Methods" Url="html/1326267200.htm">
-        <HelpTOCNode Id="99b7d01e-daf0-4a8a-a5e0-26f186f9b0af" Title="Initialize Method " Url="html/1201382338.htm">
+      <HelpTOCNode Id="86e8045c-340b-4422-bbde-b45b4917ae7f" Title="ValueSeries Methods" Url="html/1326267200.htm">
+        <HelpTOCNode Id="27b36fdb-3467-48da-b5b2-b10de4ea1f3f" Title="Initialize Method " Url="html/1201382338.htm">
           <HelpTOCNode Title="Initialize Method " Url="html/1301171233.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="67521536-42f0-4f8f-9c08-dad60f04f4e7" Title="Push Method " Url="html/1445756452.htm">
+        <HelpTOCNode Id="ca774d10-2dfe-4064-bd01-969067da3025" Title="Push Method " Url="html/1445756452.htm">
           <HelpTOCNode Title="Push Method " Url="html/2014809532.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="TruncateTo Method " Url="html/1538455004.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="4a856475-832f-4866-b725-74a9f5fdb980" Title="ValueSeries Operators" Url="html/1230267571.htm">
-        <HelpTOCNode Id="ccaa07d4-17fa-4437-9cdc-1b984a21d17f" Title="Addition Operator " Url="html/1318886576.htm">
+      <HelpTOCNode Id="84653f2d-78ef-492e-a25f-d1875b1e18b7" Title="ValueSeries Operators" Url="html/1230267571.htm">
+        <HelpTOCNode Id="d5898538-8162-4f2a-9070-83bc51ffc3c5" Title="Addition Operator " Url="html/1318886576.htm">
           <HelpTOCNode Title="Addition Operator (ValueSeries, Double)" Url="html/1020879214.htm" />
           <HelpTOCNode Title="Addition Operator (Double, ValueSeries)" Url="html/1783546706.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="8c641299-6c6a-475c-a2f1-9f59113788f5" Title="Multiply Operator " Url="html/1855487180.htm">
+        <HelpTOCNode Id="04a29d51-630e-4026-9128-e28feb0114cd" Title="Multiply Operator " Url="html/1855487180.htm">
           <HelpTOCNode Title="Multiply Operator (Double, ValueSeries)" Url="html/419303790.htm" />
           <HelpTOCNode Title="Multiply Operator (ValueSeries, Double)" Url="html/1569350190.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="Subtraction Operator " Url="html/337713314.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="6377b081-a661-4d3e-bda6-fd9993dcf370" Title="ValueSeries Properties" Url="html/2143682061.htm">
+      <HelpTOCNode Id="b55be403-09a2-4c51-8d1f-e8fdc2b2bcba" Title="ValueSeries Properties" Url="html/2143682061.htm">
         <HelpTOCNode Title="Average Property " Url="html/1723990609.htm" />
         <HelpTOCNode Title="SquareAverage Property " Url="html/111186680.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
   </HelpTOCNode>
-  <HelpTOCNode Id="486e254c-3cb2-4940-9193-9f1502f4f1cb" Title="Sharpshooter.SDK.Data Namespace" Url="html/1676532606.htm">
-    <HelpTOCNode Id="7725ee2d-8ab4-4817-9dac-2afc8105710c" Title="ColumnIndexAttribute Class" Url="html/1512422940.htm">
+  <HelpTOCNode Id="a4c3da1a-80b6-441e-a6a0-27679af9894c" Title="Sharpshooter.SDK.Data Namespace" Url="html/1676532606.htm">
+    <HelpTOCNode Id="1c351fd4-0cc4-47fa-91c2-533eee5e6502" Title="ColumnIndexAttribute Class" Url="html/1512422940.htm">
       <HelpTOCNode Title="ColumnIndexAttribute Members" Url="html/906579548.htm" />
       <HelpTOCNode Title="ColumnIndexAttribute Constructor " Url="html/491847390.htm" />
       <HelpTOCNode Title="ColumnIndexAttribute Methods" Url="html/810453288.htm" />
-      <HelpTOCNode Id="03547dce-1f2c-4eb8-8bab-948f03680f88" Title="ColumnIndexAttribute Properties" Url="html/373963047.htm">
+      <HelpTOCNode Id="d53338c6-53e7-48c2-87de-6d873cb0fe0e" Title="ColumnIndexAttribute Properties" Url="html/373963047.htm">
         <HelpTOCNode Title="Index Property " Url="html/1011159474.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="cdbd2799-1c99-43a7-b739-09d79fb8ac9e" Title="DataFetchResult Class" Url="html/792764107.htm">
+    <HelpTOCNode Id="2c040120-ea53-4284-8df0-e1e11c2cecec" Title="DataFetchResult Class" Url="html/792764107.htm">
       <HelpTOCNode Title="DataFetchResult Members" Url="html/1674901353.htm" />
       <HelpTOCNode Title="DataFetchResult Constructor " Url="html/483040316.htm" />
       <HelpTOCNode Title="DataFetchResult Methods" Url="html/1451478905.htm" />
-      <HelpTOCNode Id="deae26dc-975e-4435-adfb-05a3d58a9059" Title="DataFetchResult Properties" Url="html/656311980.htm">
+      <HelpTOCNode Id="649a0b87-f8b3-467c-9d41-c8614b05b463" Title="DataFetchResult Properties" Url="html/656311980.htm">
         <HelpTOCNode Title="EventColumn Property " Url="html/1044252099.htm" />
         <HelpTOCNode Title="InputInstruments Property " Url="html/374094585.htm" />
         <HelpTOCNode Title="IsSuccess Property " Url="html/1892273314.htm" />
         <HelpTOCNode Title="Status Property " Url="html/36995843.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="fe8d6fcc-80c3-4d0d-9fc5-bd125c8e981d" Title="IDataImportManager Interface" Url="html/1766957581.htm">
+    <HelpTOCNode Id="52221fa5-a40e-43d7-ac18-a77426775a69" Title="IDataImportManager Interface" Url="html/1766957581.htm">
       <HelpTOCNode Title="IDataImportManager Members" Url="html/1231359605.htm" />
-      <HelpTOCNode Id="cb77c04b-1e63-49b6-9210-00aa3977a976" Title="IDataImportManager Methods" Url="html/602332791.htm">
+      <HelpTOCNode Id="0fd7a7b4-7696-4df7-b23f-e1bfe794e37e" Title="IDataImportManager Methods" Url="html/602332791.htm">
         <HelpTOCNode Title="ImportData Method " Url="html/1545839074.htm" />
         <HelpTOCNode Title="Initialize Method " Url="html/1028907065.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="f9c5d211-7c4f-4821-8a5b-4ea7ae964f08" Title="IDataImportManager Properties" Url="html/3459498.htm">
+      <HelpTOCNode Id="44acc182-0cae-4d3a-92ab-31a8a8315fe0" Title="IDataImportManager Properties" Url="html/3459498.htm">
         <HelpTOCNode Title="InputSource Property " Url="html/217529504.htm" />
         <HelpTOCNode Title="SourceReader Property " Url="html/2032061007.htm" />
         <HelpTOCNode Title="SourceReaderType Property " Url="html/419679009.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="c7dfdc71-c5b4-4d50-a527-c879e87e9d23" Title="IDataImportManager Events" Url="html/437840830.htm">
+      <HelpTOCNode Id="4ae3da7d-6fe7-4c25-9bde-b7e03b427883" Title="IDataImportManager Events" Url="html/437840830.htm">
         <HelpTOCNode Title="ImportCompleted Event" Url="html/1927085990.htm" />
         <HelpTOCNode Title="ImportFailed Event" Url="html/1464911144.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="600c4d98-69e1-4640-a426-fd480fbe51d2" Title="IDataReader Interface" Url="html/714849366.htm">
+    <HelpTOCNode Id="adf121ed-768f-4dd7-8c4a-1fa7b62d902b" Title="IDataReader Interface" Url="html/714849366.htm">
       <HelpTOCNode Title="IDataReader Members" Url="html/2145504946.htm" />
-      <HelpTOCNode Id="38309f2c-4d2e-4656-b990-0df33e04d9aa" Title="IDataReader Methods" Url="html/1139839806.htm">
+      <HelpTOCNode Id="aef6fcb8-6bcc-43e8-99fb-16e89548586c" Title="IDataReader Methods" Url="html/1139839806.htm">
         <HelpTOCNode Title="LoadData Method " Url="html/422037226.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="d271474e-f1aa-4d1a-b149-914993007fd8" Title="IDataReader Properties" Url="html/1578505965.htm">
+      <HelpTOCNode Id="870ef2a6-1542-4502-9cdc-d4661aa6bb49" Title="IDataReader Properties" Url="html/1578505965.htm">
         <HelpTOCNode Title="AddMissingRows Property " Url="html/1929787260.htm" />
         <HelpTOCNode Title="ImportFromTimestamp Property " Url="html/1048202125.htm" />
         <HelpTOCNode Title="NormalizeBaseIndex Property " Url="html/1270382970.htm" />
@@ -493,29 +493,29 @@
         <HelpTOCNode Title="TradingSchedule Property " Url="html/285031784.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="1b710c07-f39b-40b4-b5a8-c80b063ce003" Title="IDataReader(TDataSource) Interface" Url="html/754853305.htm">
+    <HelpTOCNode Id="34f0780a-225e-4080-a81e-9dfe53505fec" Title="IDataReader(TDataSource) Interface" Url="html/754853305.htm">
       <HelpTOCNode Title="IDataReader Members" Url="html/1641482499.htm" />
-      <HelpTOCNode Id="2dfa0bc0-ecc2-4e0d-b119-e6275036ed70" Title="IDataReader Methods" Url="html/1060195091.htm">
+      <HelpTOCNode Id="15196da9-d0f0-4eab-bfc2-af74d58e0230" Title="IDataReader Methods" Url="html/1060195091.htm">
         <HelpTOCNode Title="LoadData Method " Url="html/1902636575.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="5d3581cc-657d-429d-804c-3d49af305cd0" Title="IDataSource Interface" Url="html/2062320096.htm">
+    <HelpTOCNode Id="1e3aa78a-d093-4082-ac10-3ef59bc739f5" Title="IDataSource Interface" Url="html/2062320096.htm">
       <HelpTOCNode Title="IDataSource Members" Url="html/1444343760.htm" />
-      <HelpTOCNode Id="3ac7a1e1-e495-4e7a-917c-b58a91e3e01c" Title="IDataSource Methods" Url="html/1792469480.htm">
+      <HelpTOCNode Id="b1fa0332-7c52-4b81-83a6-b44030a79dfd" Title="IDataSource Methods" Url="html/1792469480.htm">
         <HelpTOCNode Title="GetData Method " Url="html/766557601.htm" />
         <HelpTOCNode Title="GetErrors Method " Url="html/847673642.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="d66e3f50-0cb1-4d9b-b998-76439934d86f" Title="IDataSource Properties" Url="html/368151439.htm">
+      <HelpTOCNode Id="c8e68f83-e555-471c-a72e-82caa451302f" Title="IDataSource Properties" Url="html/368151439.htm">
         <HelpTOCNode Title="Comments Property " Url="html/1136365872.htm" />
         <HelpTOCNode Title="Identifier Property " Url="html/1806045373.htm" />
         <HelpTOCNode Title="IsReadyToImport Property " Url="html/726792197.htm" />
         <HelpTOCNode Title="Preview Property " Url="html/434575398.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="c30279e0-949b-436d-b919-7e5314e123ac" Title="IDataSourceColumn Interface" Url="html/381330166.htm">
+    <HelpTOCNode Id="d76135fe-6896-4940-bce5-d0443e0ac193" Title="IDataSourceColumn Interface" Url="html/381330166.htm">
       <HelpTOCNode Title="IDataSourceColumn Members" Url="html/416844330.htm" />
       <HelpTOCNode Title="IDataSourceColumn Methods" Url="html/1334531934.htm" />
-      <HelpTOCNode Id="919795de-64a1-4e1e-a1ae-72906e1d96c9" Title="IDataSourceColumn Properties" Url="html/1696137837.htm">
+      <HelpTOCNode Id="d57d9f35-605a-4f15-99d9-9ae208de8c09" Title="IDataSourceColumn Properties" Url="html/1696137837.htm">
         <HelpTOCNode Title="ColumnName Property " Url="html/815215835.htm" />
         <HelpTOCNode Title="Hide Property " Url="html/1314423852.htm" />
         <HelpTOCNode Title="Import Property " Url="html/1732828109.htm" />
@@ -528,86 +528,77 @@
         <HelpTOCNode Title="Ticker Property " Url="html/37290614.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="29b02d5f-1c28-4882-8290-7784b0d44b26" Title="IImportDataTable Interface" Url="html/977214268.htm">
+    <HelpTOCNode Id="c4b4ed73-3204-424c-8883-662e5196407c" Title="IImportDataTable Interface" Url="html/977214268.htm">
       <HelpTOCNode Title="IImportDataTable Members" Url="html/1496475832.htm" />
       <HelpTOCNode Title="IImportDataTable Methods" Url="html/864301424.htm" />
-      <HelpTOCNode Id="f25562ba-e6a7-4367-8268-9d5386544654" Title="IImportDataTable Properties" Url="html/23011829.htm">
+      <HelpTOCNode Id="1ba2c177-33fe-4812-a9c9-4a8e4b45867a" Title="IImportDataTable Properties" Url="html/23011829.htm">
         <HelpTOCNode Title="AllColumns Property " Url="html/1886249960.htm" />
         <HelpTOCNode Title="FirstTimestamp Property " Url="html/1393443936.htm" />
         <HelpTOCNode Title="Instruments Property " Url="html/1562790720.htm" />
         <HelpTOCNode Title="UntiedColumns Property " Url="html/1101340018.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="cfe87d3a-89d2-4147-9503-c475012d50e1" Title="IImportDataWindow Interface" Url="html/1077646668.htm">
+    <HelpTOCNode Id="899c7fdd-dc76-468e-8b4d-9e2e06864f3e" Title="IImportDataWindow Interface" Url="html/1077646668.htm">
       <HelpTOCNode Title="IImportDataWindow Members" Url="html/219650828.htm" />
-      <HelpTOCNode Id="9f855c30-b6ef-4355-b817-ccdfd09a2c6a" Title="IImportDataWindow Methods" Url="html/246934772.htm">
+      <HelpTOCNode Id="6b715694-aa6d-45cb-a8af-ee6658580de5" Title="IImportDataWindow Methods" Url="html/246934772.htm">
         <HelpTOCNode Title="Initialize Method " Url="html/533675177.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="d43f45db-ad2c-4b55-9620-88ebfcf8f449" Title="IImportDataWindow Properties" Url="html/1893702099.htm">
+      <HelpTOCNode Id="d2fd2bd3-9f23-4149-af32-49007bfffc95" Title="IImportDataWindow Properties" Url="html/1893702099.htm">
         <HelpTOCNode Title="ImportManagerType Property " Url="html/1156237302.htm" />
         <HelpTOCNode Title="ViewModel Property " Url="html/1161271960.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="4e662384-8293-4005-bce9-e339f7198986" Title="IImportDataWindow Events" Url="html/1409670891.htm">
+      <HelpTOCNode Id="4666cc77-8f9f-447c-811e-c9f5c029b912" Title="IImportDataWindow Events" Url="html/1409670891.htm">
         <HelpTOCNode Title="AllImportsCompleted Event" Url="html/46823453.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="69974eb5-fe5f-4076-a0d5-974e7b4aeac2" Title="ImportEventArgs Class" Url="html/1380785280.htm">
+    <HelpTOCNode Id="c801326f-9c92-4fec-b7ff-dbe572fd536c" Title="ImportEventArgs Class" Url="html/1380785280.htm">
       <HelpTOCNode Title="ImportEventArgs Members" Url="html/1895678724.htm" />
       <HelpTOCNode Title="ImportEventArgs Constructor " Url="html/816904394.htm" />
       <HelpTOCNode Title="ImportEventArgs Methods" Url="html/1259707804.htm" />
-      <HelpTOCNode Id="921c3dac-7fc3-4c27-97ff-6047a95f9525" Title="ImportEventArgs Properties" Url="html/2097167257.htm">
+      <HelpTOCNode Id="a8372126-4489-4a07-8c1b-ef5b342b3a35" Title="ImportEventArgs Properties" Url="html/2097167257.htm">
         <HelpTOCNode Title="Result Property " Url="html/163665225.htm" />
         <HelpTOCNode Title="SourceId Property " Url="html/907768910.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="d74693b5-d9c2-4902-880a-f3c5a8e7f596" Title="ImportsCompletedEventArgs Class" Url="html/1685984490.htm">
+    <HelpTOCNode Id="f506f84c-e291-4e22-939c-e1056dcb1eee" Title="ImportsCompletedEventArgs Class" Url="html/1685984490.htm">
       <HelpTOCNode Title="ImportsCompletedEventArgs Members" Url="html/529966118.htm" />
       <HelpTOCNode Title="ImportsCompletedEventArgs Constructor " Url="html/1522044122.htm" />
       <HelpTOCNode Title="ImportsCompletedEventArgs Methods" Url="html/1455198742.htm" />
-      <HelpTOCNode Id="80722e48-8a2b-4481-b658-8d284004d6bc" Title="ImportsCompletedEventArgs Properties" Url="html/342227129.htm">
+      <HelpTOCNode Id="94ad5254-0cee-429f-a423-2f010b405492" Title="ImportsCompletedEventArgs Properties" Url="html/342227129.htm">
         <HelpTOCNode Title="Instruments Property " Url="html/577731354.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
     <HelpTOCNode Title="InputColumnType Enumeration" Url="html/112814492.htm" />
-    <HelpTOCNode Id="f6d9071d-bcdb-4335-8a4b-2f076daa98aa" Title="IPreviewDataTable Interface" Url="html/1824412167.htm">
+    <HelpTOCNode Id="599f148e-0ac6-4c5c-929b-c00c1b59583a" Title="IPreviewDataTable Interface" Url="html/1824412167.htm">
       <HelpTOCNode Title="IPreviewDataTable Methods" Url="html/1677159405.htm" />
     </HelpTOCNode>
     <HelpTOCNode Title="LoadStatus Enumeration" Url="html/2125332324.htm" />
     <HelpTOCNode Title="QuoteColumnType Enumeration" Url="html/1791642852.htm" />
   </HelpTOCNode>
-  <HelpTOCNode Id="e9da116b-b0c0-44fc-bec1-d94e4647f186" Title="Sharpshooter.SDK.Indicators Namespace" Url="html/118665920.htm">
-    <HelpTOCNode Id="0d798d68-f202-4d3f-af6e-431026e29d5a" Title="CloseIndicatorInstance Class" Url="html/67945050.htm">
-      <HelpTOCNode Title="CloseIndicatorInstance Members" Url="html/1480867022.htm" />
-      <HelpTOCNode Title="CloseIndicatorInstance Constructor " Url="html/2032602503.htm" />
-      <HelpTOCNode Title="CloseIndicatorInstance Methods" Url="html/1185646866.htm" />
-      <HelpTOCNode Id="5fd57245-e91b-4a5d-ba48-7ef066a317d5" Title="CloseIndicatorInstance Properties" Url="html/259914035.htm">
-        <HelpTOCNode Title="HasState Property " Url="html/865607401.htm" />
-        <HelpTOCNode Title="Map Property " Url="html/2135901982.htm" />
-      </HelpTOCNode>
-    </HelpTOCNode>
-    <HelpTOCNode Id="2c03a8f4-99d7-48cf-b7a6-73b050f11a3e" Title="DefaultDiscretizer Class" Url="html/1873698367.htm">
+  <HelpTOCNode Id="c6440a2b-807b-4bd0-a2d9-bc8116555c25" Title="Sharpshooter.SDK.Indicators Namespace" Url="html/118665920.htm">
+    <HelpTOCNode Id="aa5ab1b2-603e-42cf-be6c-eebaa8c5c952" Title="DefaultDiscretizer Class" Url="html/1873698367.htm">
       <HelpTOCNode Title="DefaultDiscretizer Members" Url="html/34095633.htm" />
       <HelpTOCNode Title="DefaultDiscretizer Constructor " Url="html/626881886.htm" />
-      <HelpTOCNode Id="d5fa7374-2e3c-46d2-b61b-46b852148b12" Title="DefaultDiscretizer Methods" Url="html/1960675651.htm">
-        <HelpTOCNode Id="9d4757ba-bb66-495b-aa22-5f6aafa8e1f1" Title="Discretize Method " Url="html/23812985.htm">
+      <HelpTOCNode Id="e91b0f26-0237-475b-bdf0-4cdb62f2bb47" Title="DefaultDiscretizer Methods" Url="html/1960675651.htm">
+        <HelpTOCNode Id="efbd4d94-9bb8-45e1-a8a6-fcd3e9c7ed9d" Title="Discretize Method " Url="html/23812985.htm">
           <HelpTOCNode Title="Discretize Method (Double)" Url="html/366085989.htm" />
           <HelpTOCNode Title="Discretize Method (IEnumerable(Double))" Url="html/150719202.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="d60b7ef3-1206-409b-9627-8833cbffed1c" Title="DefaultDiscretizer Properties" Url="html/1117619758.htm">
+      <HelpTOCNode Id="eda15590-ff53-4800-991d-90f7072a4a3a" Title="DefaultDiscretizer Properties" Url="html/1117619758.htm">
         <HelpTOCNode Title="Active Property " Url="html/1279902857.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="b8979d06-21a6-490a-8c3e-04e394c5eb0a" Title="IndicatorAttribute Class" Url="html/389192459.htm">
+    <HelpTOCNode Id="5d1ad369-d414-4bed-8d63-a6cef2c43d0b" Title="IndicatorAttribute Class" Url="html/389192459.htm">
       <HelpTOCNode Title="IndicatorAttribute Members" Url="html/786905517.htm" />
-      <HelpTOCNode Id="2816003b-fc32-4ff8-918a-e83ee3258ad3" Title="IndicatorAttribute Constructor " Url="html/1909437620.htm">
+      <HelpTOCNode Id="cc0d9d9d-3a12-4f9c-aa43-693d884cf5e2" Title="IndicatorAttribute Constructor " Url="html/1909437620.htm">
         <HelpTOCNode Title="IndicatorAttribute Constructor (Int32)" Url="html/1849295329.htm" />
         <HelpTOCNode Title="IndicatorAttribute Constructor (Int32, IndicatorFlags)" Url="html/2034231265.htm" />
         <HelpTOCNode Title="IndicatorAttribute Constructor (Int32, Int32)" Url="html/105139720.htm" />
         <HelpTOCNode Title="IndicatorAttribute Constructor (Int32, String)" Url="html/1135180907.htm" />
       </HelpTOCNode>
       <HelpTOCNode Title="IndicatorAttribute Methods" Url="html/1828212257.htm" />
-      <HelpTOCNode Id="e4433d85-8c3c-4cb5-9360-56565e569b75" Title="IndicatorAttribute Properties" Url="html/960435886.htm">
+      <HelpTOCNode Id="b7ddf34f-70b1-4173-a239-fb3a848049fc" Title="IndicatorAttribute Properties" Url="html/960435886.htm">
         <HelpTOCNode Title="Flags Property " Url="html/712275162.htm" />
         <HelpTOCNode Title="IsDiscrete Property " Url="html/29020336.htm" />
         <HelpTOCNode Title="Label Property " Url="html/1578419401.htm" />
@@ -615,146 +606,58 @@
         <HelpTOCNode Title="MinBarCount Property " Url="html/1571797529.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="812732c5-e634-4b95-930a-343a9dcd493e" Title="IndicatorClassAttribute Class" Url="html/263035233.htm">
+    <HelpTOCNode Id="f494d6a1-ecf1-49d8-94b6-7a57e10ff5c3" Title="IndicatorClassAttribute Class" Url="html/263035233.htm">
       <HelpTOCNode Title="IndicatorClassAttribute Members" Url="html/2120346395.htm" />
-      <HelpTOCNode Id="c5b651c5-086f-4e16-a0db-658fe41ad695" Title="IndicatorClassAttribute Constructor " Url="html/9281410.htm">
+      <HelpTOCNode Id="9b2afd49-d891-4225-adb0-cbe85f10f98e" Title="IndicatorClassAttribute Constructor " Url="html/9281410.htm">
         <HelpTOCNode Title="IndicatorClassAttribute Constructor (IndicatorClassFlags)" Url="html/1991456344.htm" />
         <HelpTOCNode Title="IndicatorClassAttribute Constructor (IndicatorClassFlags, String)" Url="html/966504804.htm" />
       </HelpTOCNode>
       <HelpTOCNode Title="IndicatorClassAttribute Methods" Url="html/145726153.htm" />
-      <HelpTOCNode Id="c00414b7-e20c-4bdb-a016-df70726bad8b" Title="IndicatorClassAttribute Properties" Url="html/647697890.htm">
+      <HelpTOCNode Id="31a4e296-e9f6-475c-903a-a61dd6b08e35" Title="IndicatorClassAttribute Properties" Url="html/647697890.htm">
         <HelpTOCNode Title="Flags Property " Url="html/74936992.htm" />
         <HelpTOCNode Title="Label Property " Url="html/1504445665.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
     <HelpTOCNode Title="IndicatorClassFlags Enumeration" Url="html/715028058.htm" />
     <HelpTOCNode Title="IndicatorFlags Enumeration" Url="html/431774792.htm" />
-    <HelpTOCNode Id="7e372dd7-c806-4794-a523-60b6fda2c3b0" Title="IndicatorHelpers Class" Url="html/1998134722.htm">
-      <HelpTOCNode Title="IndicatorHelpers Members" Url="html/1629354610.htm" />
-      <HelpTOCNode Id="a22f9cb0-2601-4919-be27-b9d3318054e8" Title="IndicatorHelpers Methods" Url="html/1902393802.htm">
-        <HelpTOCNode Title="BollingerZScore Method " Url="html/1654865738.htm" />
-        <HelpTOCNode Title="EMA Method " Url="html/738320264.htm" />
-      </HelpTOCNode>
-    </HelpTOCNode>
-    <HelpTOCNode Id="d60dcb99-5f4b-40e4-adeb-e921a229b60a" Title="IndicatorInstanceBase Class" Url="html/1372715351.htm">
-      <HelpTOCNode Title="IndicatorInstanceBase Members" Url="html/1948651423.htm" />
-      <HelpTOCNode Id="d967cef2-0f66-4184-a1bf-a3c852938ba9" Title="IndicatorInstanceBase Constructor " Url="html/2009017568.htm">
-        <HelpTOCNode Title="IndicatorInstanceBase Constructor (Object, Int32, Boolean)" Url="html/412225904.htm" />
-        <HelpTOCNode Title="IndicatorInstanceBase Constructor (Object, Int32, Int32, Boolean)" Url="html/1689159517.htm" />
-      </HelpTOCNode>
-      <HelpTOCNode Title="IndicatorInstanceBase Methods" Url="html/443378805.htm" />
-      <HelpTOCNode Id="61e38198-6079-44c6-bcff-ccf53319229c" Title="IndicatorInstanceBase Properties" Url="html/13171324.htm">
-        <HelpTOCNode Title="Bars Property " Url="html/447259287.htm" />
-        <HelpTOCNode Title="Discrete Property " Url="html/49812160.htm" />
-        <HelpTOCNode Title="HasState Property " Url="html/201454006.htm" />
-        <HelpTOCNode Title="Instrument Property " Url="html/145370414.htm" />
-        <HelpTOCNode Title="MinBars Property " Url="html/1870981163.htm" />
-      </HelpTOCNode>
-    </HelpTOCNode>
-    <HelpTOCNode Id="53340e5d-a7f2-4e01-85e4-758d29d48b52" Title="IndicatorParameterAttribute Class" Url="html/409327488.htm">
+    <HelpTOCNode Id="cac7ea09-88ff-4757-91e1-9a360899363c" Title="IndicatorParameterAttribute Class" Url="html/409327488.htm">
       <HelpTOCNode Title="IndicatorParameterAttribute Members" Url="html/906372228.htm" />
       <HelpTOCNode Title="IndicatorParameterAttribute Methods" Url="html/2115088220.htm" />
-      <HelpTOCNode Id="e8b32197-783f-4148-bbd6-4a2086bf673b" Title="IndicatorParameterAttribute Properties" Url="html/266041415.htm">
+      <HelpTOCNode Id="e342722c-3b06-4661-a626-6c81533c3388" Title="IndicatorParameterAttribute Properties" Url="html/266041415.htm">
         <HelpTOCNode Title="Type Property " Url="html/1121020410.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="9022da63-a991-4091-9ceb-8f83fa07c381" Title="IndicatorsBase Class" Url="html/775959921.htm">
+    <HelpTOCNode Id="f5cdc679-3d7a-420d-bafb-1dc94b1e28d4" Title="IndicatorsBase Class" Url="html/775959921.htm">
       <HelpTOCNode Title="IndicatorsBase Members" Url="html/1307410085.htm" />
       <HelpTOCNode Title="IndicatorsBase Constructor " Url="html/679958296.htm" />
-      <HelpTOCNode Id="11bf8a6f-6efd-4f06-ad28-1e7cda516f98" Title="IndicatorsBase Fields" Url="html/926361322.htm">
+      <HelpTOCNode Id="cf09a5eb-df76-405d-b766-00cd1bfdf3ff" Title="IndicatorsBase Fields" Url="html/926361322.htm">
         <HelpTOCNode Title="_instrument Field" Url="html/1273539927.htm" />
-        <HelpTOCNode Title="L Field" Url="html/231690391.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="f38133a0-59fd-4832-a1bb-a8509c68766c" Title="IndicatorsBase Methods" Url="html/1433952661.htm">
-        <HelpTOCNode Id="24b6f12e-9901-44d1-95ba-1d1f6a6314ec" Title="Calculate Method " Url="html/545396259.htm">
-          <HelpTOCNode Title="Calculate Method (CloseIndicatorInstance, IReadOnlyList(CloseValue))" Url="html/799805153.htm" />
-          <HelpTOCNode Title="Calculate Method (OhlcIndicatorInstance, IReadOnlyList(OhlcBar))" Url="html/893041547.htm" />
-          <HelpTOCNode Title="Calculate Method (TransformIndicator, IReadOnlyList(Double))" Url="html/1742594273.htm" />
+      <HelpTOCNode Id="86c93d89-b355-42fe-8ec2-b7cb324f9d91" Title="IndicatorsBase Methods" Url="html/1433952661.htm">
+        <HelpTOCNode Id="db8fefb7-e4f4-4764-b0f3-82e15cf08beb" Title="Calculate Method " Url="html/545396259.htm">
+          <HelpTOCNode Title="Calculate Method (Func(CloseSeries, Double), Int32, Int32)" Url="html/960458808.htm" />
+          <HelpTOCNode Title="Calculate Method (Func(OHLCSeries, Double), Int32, Int32)" Url="html/806069456.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Title="EMA Method " Url="html/1524207788.htm" />
-        <HelpTOCNode Title="NoiseOff Method " Url="html/1141370779.htm" />
-        <HelpTOCNode Title="NoiseOn Method " Url="html/264800721.htm" />
+        <HelpTOCNode Title="EMA Method " Url="html/988263907.htm" />
         <HelpTOCNode Title="SMA Method " Url="html/711425338.htm" />
         <HelpTOCNode Title="SmoothedMA Method " Url="html/1195510216.htm" />
         <HelpTOCNode Title="WMA Method " Url="html/178675802.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="c7dba62d-b4b2-424a-9000-cd0b7315bd94" Title="IndicatorsBase Properties" Url="html/741993658.htm">
-        <HelpTOCNode Title="Close Property " Url="html/434705231.htm" />
+      <HelpTOCNode Id="428c588b-807c-4ffc-bc28-0b5040cd4901" Title="IndicatorsBase Properties" Url="html/741993658.htm">
         <HelpTOCNode Title="CustomData Property " Url="html/717941952.htm" />
-        <HelpTOCNode Title="Discretize Property " Url="html/302280797.htm" />
         <HelpTOCNode Title="Discretizer Property " Url="html/1571594877.htm" />
-        <HelpTOCNode Title="High Property " Url="html/1404255853.htm" />
-        <HelpTOCNode Title="Low Property " Url="html/1655325529.htm" />
+        <HelpTOCNode Title="IsNoised Property " Url="html/1698092539.htm" />
+        <HelpTOCNode Title="L Property " Url="html/661082747.htm" />
         <HelpTOCNode Title="MinimumBarCount Property " Url="html/346835757.htm" />
-        <HelpTOCNode Title="Noised Property " Url="html/113307573.htm" />
-        <HelpTOCNode Title="Open Property " Url="html/584131787.htm" />
-      </HelpTOCNode>
-    </HelpTOCNode>
-    <HelpTOCNode Id="6dbafee5-e8d6-4110-9bb0-430dcea01c4f" Title="NullDiscretizer Class" Url="html/2057255109.htm">
-      <HelpTOCNode Title="NullDiscretizer Members" Url="html/914726611.htm" />
-      <HelpTOCNode Id="f27f6c95-a015-4e9d-aa5e-1bb1aec4bf6a" Title="NullDiscretizer Methods" Url="html/179748291.htm">
-        <HelpTOCNode Id="26a76c7b-2673-403f-9506-c43b1b9dab36" Title="Discretize Method " Url="html/299269285.htm">
-          <HelpTOCNode Title="Discretize Method (Double)" Url="html/410628067.htm" />
-          <HelpTOCNode Title="Discretize Method (IEnumerable(Double))" Url="html/1630909724.htm" />
-        </HelpTOCNode>
-      </HelpTOCNode>
-      <HelpTOCNode Id="abc52fce-e43e-4ab6-9aeb-13fd61d41888" Title="NullDiscretizer Properties" Url="html/1581605812.htm">
-        <HelpTOCNode Title="Active Property " Url="html/502260597.htm" />
-      </HelpTOCNode>
-    </HelpTOCNode>
-    <HelpTOCNode Id="ce57e4f2-4bd8-4401-969d-d6bb78cbcad0" Title="OhlcAdvancedIndicatorInstance Class" Url="html/1695458694.htm">
-      <HelpTOCNode Title="OhlcAdvancedIndicatorInstance Members" Url="html/737276818.htm" />
-      <HelpTOCNode Title="OhlcAdvancedIndicatorInstance Constructor " Url="html/156896354.htm" />
-      <HelpTOCNode Id="99922700-b9ab-4d49-a260-93eca8cde28f" Title="OhlcAdvancedIndicatorInstance Methods" Url="html/1543837090.htm">
-        <HelpTOCNode Id="7cd36da5-9357-410a-8d38-538fc24b42e2" Title="Equals Method " Url="html/1105380537.htm">
-          <HelpTOCNode Title="Equals Method " Url="html/1892037924.htm" />
-        </HelpTOCNode>
-        <HelpTOCNode Title="GetValue Method " Url="html/581019866.htm" />
-      </HelpTOCNode>
-      <HelpTOCNode Id="682d7e56-caa6-4e6e-b73e-d5b9b62bcd2b" Title="OhlcAdvancedIndicatorInstance Properties" Url="html/596658421.htm">
-        <HelpTOCNode Title="ClassInstance Property " Url="html/891228771.htm" />
-        <HelpTOCNode Title="Gain Property " Url="html/1658218565.htm" />
-        <HelpTOCNode Title="HasState Property " Url="html/2130552283.htm" />
-        <HelpTOCNode Title="Id Property " Url="html/1620931715.htm" />
-        <HelpTOCNode Title="Label Property " Url="html/1314330222.htm" />
-        <HelpTOCNode Title="Offset Property " Url="html/1381808689.htm" />
-        <HelpTOCNode Title="Update Property " Url="html/111104599.htm" />
-      </HelpTOCNode>
-    </HelpTOCNode>
-    <HelpTOCNode Id="5b4b6d2d-f44c-45e4-80ea-4a20ca247da8" Title="OhlcIndicatorInstance Class" Url="html/1679661508.htm">
-      <HelpTOCNode Title="OhlcIndicatorInstance Members" Url="html/1948875016.htm" />
-      <HelpTOCNode Title="OhlcIndicatorInstance Constructor " Url="html/338954522.htm" />
-      <HelpTOCNode Id="e71f61ce-d51e-4e25-95d1-9f3b0e72df13" Title="OhlcIndicatorInstance Methods" Url="html/723951748.htm">
-        <HelpTOCNode Id="40810628-33b5-4d0b-8e44-01bf22ebac5c" Title="Equals Method " Url="html/694183573.htm">
-          <HelpTOCNode Title="Equals Method " Url="html/667058798.htm" />
-        </HelpTOCNode>
-        <HelpTOCNode Title="GetValue Method " Url="html/1410175996.htm" />
-      </HelpTOCNode>
-      <HelpTOCNode Id="f1db1fa3-bb73-4375-a3c8-5aadd21c6d1e" Title="OhlcIndicatorInstance Properties" Url="html/467700231.htm">
-        <HelpTOCNode Title="Gain Property " Url="html/256975105.htm" />
-        <HelpTOCNode Title="HasState Property " Url="html/200329159.htm" />
-        <HelpTOCNode Title="Id Property " Url="html/419326675.htm" />
-        <HelpTOCNode Title="Label Property " Url="html/796309384.htm" />
-        <HelpTOCNode Title="Map Property " Url="html/1728920368.htm" />
-        <HelpTOCNode Title="Offset Property " Url="html/569213441.htm" />
-        <HelpTOCNode Title="Update Property " Url="html/1343961863.htm" />
+        <HelpTOCNode Title="SeriesLength Property " Url="html/1376760266.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
     <HelpTOCNode Title="ParameterType Enumeration" Url="html/877969037.htm" />
-    <HelpTOCNode Id="704e99d9-1669-4501-b777-bc1bd94674ac" Title="TransformIndicator Class" Url="html/1880291513.htm">
-      <HelpTOCNode Title="TransformIndicator Members" Url="html/351389137.htm" />
-      <HelpTOCNode Title="TransformIndicator Constructor " Url="html/1543607338.htm" />
-      <HelpTOCNode Title="TransformIndicator Methods" Url="html/1036448837.htm" />
-      <HelpTOCNode Id="e94ba75f-9a1e-4a14-b92c-6443f32d0298" Title="TransformIndicator Properties" Url="html/1964673100.htm">
-        <HelpTOCNode Title="HasState Property " Url="html/516920032.htm" />
-        <HelpTOCNode Title="Map Property " Url="html/284057995.htm" />
-      </HelpTOCNode>
-    </HelpTOCNode>
-    <HelpTOCNode Id="9bd3d5e4-be3e-4ca0-8a0d-dd578cfdbca9" Title="ValueRangeAttribute Class" Url="html/1566978618.htm">
+    <HelpTOCNode Id="b69b8500-ce2a-410f-b59f-a4c9f5b7b47e" Title="ValueRangeAttribute Class" Url="html/1566978618.htm">
       <HelpTOCNode Title="ValueRangeAttribute Members" Url="html/397446614.htm" />
       <HelpTOCNode Title="ValueRangeAttribute Constructor " Url="html/1232526204.htm" />
       <HelpTOCNode Title="ValueRangeAttribute Methods" Url="html/1948318086.htm" />
-      <HelpTOCNode Id="523b1fff-f660-4a48-bf5d-fa0a761e4af1" Title="ValueRangeAttribute Properties" Url="html/682245705.htm">
+      <HelpTOCNode Id="1d89efcf-5138-4e7f-a9d9-107713124772" Title="ValueRangeAttribute Properties" Url="html/682245705.htm">
         <HelpTOCNode Title="CustomMax Property " Url="html/1884891247.htm" />
         <HelpTOCNode Title="CustomMin Property " Url="html/2053845707.htm" />
         <HelpTOCNode Title="Type Property " Url="html/1026792672.htm" />
@@ -762,121 +665,121 @@
     </HelpTOCNode>
     <HelpTOCNode Title="ValueRangeType Enumeration" Url="html/1747967522.htm" />
   </HelpTOCNode>
-  <HelpTOCNode Id="cf47243a-fa5e-4843-8806-63b17acb6100" Title="Sharpshooter.SDK.Indicators.RealTime Namespace" Url="html/2136082291.htm">
-    <HelpTOCNode Id="191b8a1a-6897-44d7-9e9d-4f443b5351b0" Title="AdvancedCloseIndicator Class" Url="html/1416948106.htm">
+  <HelpTOCNode Id="52ea14e4-22b2-4b89-bb02-6ffae0a1facc" Title="Sharpshooter.SDK.Indicators.RealTime Namespace" Url="html/2136082291.htm">
+    <HelpTOCNode Id="5753854b-ba14-468b-8b0b-1d819980c9a3" Title="AdvancedCloseIndicator Class" Url="html/1416948106.htm">
       <HelpTOCNode Title="AdvancedCloseIndicator Members" Url="html/612365698.htm" />
-      <HelpTOCNode Id="bb91accc-b433-46e6-9f57-c624ec046d5e" Title="AdvancedCloseIndicator Methods" Url="html/1764666282.htm">
-        <HelpTOCNode Id="17225815-bf56-4e55-87d1-489299c0dad8" Title="GetValue Method " Url="html/2047270891.htm">
+      <HelpTOCNode Id="571c6a04-2242-4d87-8979-904fd8a90803" Title="AdvancedCloseIndicator Methods" Url="html/1764666282.htm">
+        <HelpTOCNode Id="8ecc3f43-fbda-4566-b70a-3c266ff1e5bc" Title="GetValue Method " Url="html/2047270891.htm">
           <HelpTOCNode Title="GetValue Method " Url="html/1205069062.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="bbbccd11-3ea8-47be-bc3d-9af624550f7c" Title="Initialize Method " Url="html/1979916600.htm">
+        <HelpTOCNode Id="4d1113b4-7789-4b4a-aa0e-fb02f9700169" Title="Initialize Method " Url="html/1979916600.htm">
           <HelpTOCNode Title="Initialize Method " Url="html/1263753007.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
       <HelpTOCNode Title="AdvancedCloseIndicator Properties" Url="html/920465567.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="7395854d-24d7-4116-a7ab-c3f47803c198" Title="AdvancedIndicator(TValue, TSeries) Class" Url="html/548768182.htm">
+    <HelpTOCNode Id="abbb0a73-15a0-4a8a-acd0-93b2f2dfed3e" Title="AdvancedIndicator(TValue, TSeries) Class" Url="html/548768182.htm">
       <HelpTOCNode Title="AdvancedIndicator(TValue, TSeries) Members" Url="html/586951658.htm" />
-      <HelpTOCNode Id="18d4712f-0875-42cc-a171-35700c849572" Title="AdvancedIndicator(TValue, TSeries) Methods" Url="html/448745150.htm">
+      <HelpTOCNode Id="e31e7817-86d8-405a-8190-2a47689e9142" Title="AdvancedIndicator(TValue, TSeries) Methods" Url="html/448745150.htm">
         <HelpTOCNode Title="Calculate Method " Url="html/1497731427.htm" />
         <HelpTOCNode Title="GetValue Method " Url="html/661811120.htm" />
         <HelpTOCNode Title="Initialize Method " Url="html/1949276253.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="35966a1a-ca6f-4255-ade8-48317985ee45" Title="AdvancedIndicator(TValue, TSeries) Properties" Url="html/404778535.htm">
+      <HelpTOCNode Id="c6985a8f-a3f0-4bed-b1b1-894fbcac04c6" Title="AdvancedIndicator(TValue, TSeries) Properties" Url="html/404778535.htm">
         <HelpTOCNode Title="EnableImplicitInitialize Property " Url="html/1856088030.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="9c659ef7-9cb6-4092-a7f3-718d384f6fcb" Title="AdvancedIndicatorBase(TValue, TSeries) Class" Url="html/211887439.htm">
+    <HelpTOCNode Id="51c741c6-d733-425c-836a-642b48b8cd91" Title="AdvancedIndicatorBase(TValue, TSeries) Class" Url="html/211887439.htm">
       <HelpTOCNode Title="AdvancedIndicatorBase(TValue, TSeries) Members" Url="html/1545796807.htm" />
-      <HelpTOCNode Id="373004d7-3baf-49ad-9a5f-291524fb516c" Title="AdvancedIndicatorBase(TValue, TSeries) Methods" Url="html/1037851367.htm">
+      <HelpTOCNode Id="b10fcae9-8ed9-4c4f-960a-7158895b20f0" Title="AdvancedIndicatorBase(TValue, TSeries) Methods" Url="html/1037851367.htm">
         <HelpTOCNode Title="ForwardByBar Method " Url="html/1661549947.htm" />
         <HelpTOCNode Title="InitializeWith Method " Url="html/1329062344.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="c924dc84-e18e-4d56-9327-4a00f5d75322" Title="AdvancedIndicatorBase(TValue, TSeries) Properties" Url="html/1709009174.htm">
-        <HelpTOCNode Title="Bars Property " Url="html/228308951.htm" />
+      <HelpTOCNode Id="a49ad696-fd36-40b9-9f9e-d137c9325ca3" Title="AdvancedIndicatorBase(TValue, TSeries) Properties" Url="html/1709009174.htm">
+        <HelpTOCNode Title="BarCount Property " Url="html/1793511659.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="d9fdb4ec-1a62-4b7b-9335-65c8ecef5b7e" Title="AdvancedOhlcIndicator Class" Url="html/1336124842.htm">
+    <HelpTOCNode Id="ac1fa9a4-c9e2-4cb4-8858-399b45825855" Title="AdvancedOhlcIndicator Class" Url="html/1336124842.htm">
       <HelpTOCNode Title="AdvancedOhlcIndicator Methods" Url="html/706255634.htm" />
       <HelpTOCNode Title="AdvancedOhlcIndicator Properties" Url="html/862996891.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="ab80bd86-d39e-421d-ad67-49d77edeaa08" Title="BollingerZScore Class" Url="html/1909276525.htm">
+    <HelpTOCNode Id="78285da9-09f9-4a60-bf30-0facded4da1e" Title="BollingerZScore Class" Url="html/1909276525.htm">
       <HelpTOCNode Title="BollingerZScore Members" Url="html/1176689325.htm" />
       <HelpTOCNode Title="BollingerZScore Constructor " Url="html/380054909.htm" />
-      <HelpTOCNode Id="c070524f-0781-4c27-9b6c-b9e489a9ad13" Title="BollingerZScore Methods" Url="html/427141419.htm">
+      <HelpTOCNode Id="2d27092f-fcac-48cb-8359-1bfe10dee733" Title="BollingerZScore Methods" Url="html/427141419.htm">
         <HelpTOCNode Title="Calculate Method " Url="html/749402345.htm" />
-        <HelpTOCNode Id="48467a43-eefe-451b-a35e-c1b64608eb29" Title="ForwardByBar Method " Url="html/1847539066.htm">
+        <HelpTOCNode Id="483b5acd-f59a-452c-ae7b-00f2371eac21" Title="ForwardByBar Method " Url="html/1847539066.htm">
           <HelpTOCNode Title="ForwardByBar Method " Url="html/2036640122.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="246b43b4-e331-49eb-ac27-c6022a179566" Title="InitializeWith Method " Url="html/1847627083.htm">
+        <HelpTOCNode Id="b347c0fe-7d26-433c-ac9b-080fa8feef0f" Title="InitializeWith Method " Url="html/1847627083.htm">
           <HelpTOCNode Title="InitializeWith Method " Url="html/597563565.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
       <HelpTOCNode Title="BollingerZScore Properties" Url="html/413404652.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="7f15f9a3-860c-4476-a7d9-9995e196a91d" Title="CachedEMA Class" Url="html/2092434044.htm">
+    <HelpTOCNode Id="b742a3e2-df32-41d9-b637-ba3a3294615d" Title="CachedEMA Class" Url="html/2092434044.htm">
       <HelpTOCNode Title="CachedEMA Members" Url="html/1385216264.htm" />
-      <HelpTOCNode Id="87eef43b-cfd5-4e1b-ac5d-2a28019d805f" Title="CachedEMA Constructor " Url="html/1595851745.htm">
+      <HelpTOCNode Id="20fbeb02-6ef4-43ea-b13d-dab39eda25a9" Title="CachedEMA Constructor " Url="html/1595851745.htm">
         <HelpTOCNode Title="CachedEMA Constructor (Int32)" Url="html/234039218.htm" />
         <HelpTOCNode Title="CachedEMA Constructor (Int32, Double)" Url="html/1305843258.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="b77c0382-81af-4f9b-8f85-af37dbe99756" Title="CachedEMA Methods" Url="html/248190376.htm">
+      <HelpTOCNode Id="197d82e9-aa79-498b-8b40-575816c025b6" Title="CachedEMA Methods" Url="html/248190376.htm">
         <HelpTOCNode Title="Calculate Method (ValueSeries)" Url="html/1262297122.htm" />
-        <HelpTOCNode Id="8e23cebe-ee9b-4cdb-8c3e-c32073a92c08" Title="ForwardByBar Method " Url="html/1208193577.htm">
+        <HelpTOCNode Id="bd443c36-90a3-4c1b-b46a-bd466d0d2544" Title="ForwardByBar Method " Url="html/1208193577.htm">
           <HelpTOCNode Title="ForwardByBar Method " Url="html/378498165.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="d60f5ef8-6f05-4445-80ba-9172ad2ae0a2" Title="InitializeWith Method " Url="html/2021141702.htm">
+        <HelpTOCNode Id="c5eca043-b361-4f0e-8e69-06951d5e8714" Title="InitializeWith Method " Url="html/2021141702.htm">
           <HelpTOCNode Title="InitializeWith Method " Url="html/1662877170.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="a7e56bb8-15d7-4adc-be2e-a8913a2f68ef" Title="CachedEMA Properties" Url="html/908492891.htm">
+      <HelpTOCNode Id="58943c3c-0075-4b20-a638-978b3cda9e66" Title="CachedEMA Properties" Url="html/908492891.htm">
         <HelpTOCNode Title="Alpha Property " Url="html/941118382.htm" />
         <HelpTOCNode Title="CalculatedValues Property " Url="html/1019658956.htm" />
         <HelpTOCNode Title="Item Property " Url="html/55019821.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="e9378bb7-cb08-4be6-8e79-f2e3d19db333" Title="IndicatorHelper Class" Url="html/558065370.htm">
+    <HelpTOCNode Id="f925c304-fc7c-4247-a0c7-eb83b10a86ca" Title="IndicatorHelper Class" Url="html/558065370.htm">
       <HelpTOCNode Title="IndicatorHelper Members" Url="html/1449076934.htm" />
-      <HelpTOCNode Id="cdb7e323-2c09-4f49-b080-87982635da01" Title="IndicatorHelper Constructor " Url="html/411487563.htm">
+      <HelpTOCNode Id="27c4e1e4-23bf-4173-a808-17a757bb7e26" Title="IndicatorHelper Constructor " Url="html/411487563.htm">
         <HelpTOCNode Title="IndicatorHelper Constructor " Url="html/271562722.htm" />
         <HelpTOCNode Title="IndicatorHelper Constructor (Int32)" Url="html/551928364.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="16d3de40-eff1-492e-812e-b7d9f2daa2f1" Title="IndicatorHelper Methods" Url="html/1676780222.htm">
+      <HelpTOCNode Id="bded4e0f-f04d-4027-9823-91e4f8021c34" Title="IndicatorHelper Methods" Url="html/1676780222.htm">
         <HelpTOCNode Title="AddInputValue Method " Url="html/1727748702.htm" />
         <HelpTOCNode Title="Calculate Method " Url="html/353974760.htm" />
         <HelpTOCNode Title="GetValue Method " Url="html/1334011658.htm" />
         <HelpTOCNode Title="Initialize Method " Url="html/74537500.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="b3fed7ca-6d86-41b2-9bd7-a5ae806b1e3a" Title="IndicatorHelper Properties" Url="html/859314757.htm">
+      <HelpTOCNode Id="65208b63-988e-4498-ae84-b73cd38f27b8" Title="IndicatorHelper Properties" Url="html/859314757.htm">
         <HelpTOCNode Title="CanCalculate Property " Url="html/57031966.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
   </HelpTOCNode>
-  <HelpTOCNode Id="55aa850d-2606-4842-b3fb-782ccd077159" Title="SharpTrader Namespace" Url="html/511519562.htm">
-    <HelpTOCNode Id="8de2a2a5-3657-4100-8c73-1ee454ba8043" Title="ApiValueAttribute Class" Url="html/84028155.htm">
+  <HelpTOCNode Id="41402721-45e0-4d67-bd08-b6acfa991330" Title="SharpTrader Namespace" Url="html/511519562.htm">
+    <HelpTOCNode Id="049596d9-a9f3-44a4-944c-0e7e0c5d4584" Title="ApiValueAttribute Class" Url="html/84028155.htm">
       <HelpTOCNode Title="ApiValueAttribute Members" Url="html/980272477.htm" />
       <HelpTOCNode Title="ApiValueAttribute Constructor " Url="html/635861582.htm" />
       <HelpTOCNode Title="ApiValueAttribute Methods" Url="html/1243782641.htm" />
-      <HelpTOCNode Id="3ec2ee40-8146-409f-b2c7-2bdcccd8540b" Title="ApiValueAttribute Properties" Url="html/140149602.htm">
+      <HelpTOCNode Id="c87ffe97-9dd8-489e-b387-aa111a9fd17b" Title="ApiValueAttribute Properties" Url="html/140149602.htm">
         <HelpTOCNode Title="Brokerage Property " Url="html/617948237.htm" />
         <HelpTOCNode Title="Value Property " Url="html/2060925362.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
     <HelpTOCNode Title="BarWidths Enumeration" Url="html/1995141678.htm" />
-    <HelpTOCNode Id="2cacfffc-b470-47ae-801f-6a81d90bc767" Title="BrokerageClientAttribute Class" Url="html/1961757425.htm">
+    <HelpTOCNode Id="c9cef891-6d74-4665-81be-2411367955ea" Title="BrokerageClientAttribute Class" Url="html/1961757425.htm">
       <HelpTOCNode Title="BrokerageClientAttribute Members" Url="html/1729299163.htm" />
       <HelpTOCNode Title="BrokerageClientAttribute Constructor " Url="html/1622105190.htm" />
       <HelpTOCNode Title="BrokerageClientAttribute Methods" Url="html/500392171.htm" />
-      <HelpTOCNode Id="97b28442-3327-4e93-a174-6e6da451664c" Title="BrokerageClientAttribute Properties" Url="html/448800858.htm">
+      <HelpTOCNode Id="58ba0065-4567-4b0b-bb2d-479cc7cd3b1f" Title="BrokerageClientAttribute Properties" Url="html/448800858.htm">
         <HelpTOCNode Title="BrokerageId Property " Url="html/1480950516.htm" />
         <HelpTOCNode Title="ContractManagerType Property " Url="html/595290368.htm" />
         <HelpTOCNode Title="InstrumentType Property " Url="html/339580850.htm" />
         <HelpTOCNode Title="SubmissionType Property " Url="html/919433305.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="6a9cff2a-e17b-4705-88ff-1c090b6bd17c" Title="BuiltInIndicators Class" Url="html/1124128789.htm">
+    <HelpTOCNode Id="449ec2b1-dde4-45f1-8e4e-c4a5dcf8ce36" Title="BuiltInIndicators Class" Url="html/1124128789.htm">
       <HelpTOCNode Title="BuiltInIndicators Members" Url="html/1643174573.htm" />
-      <HelpTOCNode Id="92b4f615-f321-42f2-9b33-8e104c3960b5" Title="BuiltInIndicators Fields" Url="html/447092572.htm">
+      <HelpTOCNode Id="2a08cedf-7469-4697-a966-c61119da419b" Title="BuiltInIndicators Fields" Url="html/447092572.htm">
         <HelpTOCNode Title="ADX Field" Url="html/1259710532.htm" />
         <HelpTOCNode Title="CCI Field" Url="html/500195434.htm" />
         <HelpTOCNode Title="DistanceFromHigh Field" Url="html/652854602.htm" />
@@ -890,9 +793,9 @@
       <HelpTOCNode Title="BuiltInIndicators Methods" Url="html/682610003.htm" />
     </HelpTOCNode>
     <HelpTOCNode Title="DataLatency Enumeration" Url="html/1759378828.htm" />
-    <HelpTOCNode Id="b831e36d-f065-4691-a25f-f76e1063fe3c" Title="EnumHelper Class" Url="html/249514529.htm">
+    <HelpTOCNode Id="600065ad-d238-4fd5-ac1f-1cc96f754ed6" Title="EnumHelper Class" Url="html/249514529.htm">
       <HelpTOCNode Title="EnumHelper Members" Url="html/187768437.htm" />
-      <HelpTOCNode Id="87b2c4b4-2b8e-43da-8a5f-c9b3df252396" Title="EnumHelper Methods" Url="html/1998738213.htm">
+      <HelpTOCNode Id="946c53ea-66a8-4e3a-9e84-06f494929ba0" Title="EnumHelper Methods" Url="html/1998738213.htm">
         <HelpTOCNode Title="GetApiValue(TEnum) Method " Url="html/1884102051.htm" />
         <HelpTOCNode Title="GetApiValueAttribute(TEnum) Method " Url="html/1589013835.htm" />
         <HelpTOCNode Title="GetApiValueAttributes(TEnum) Method " Url="html/332318858.htm" />
@@ -903,11 +806,11 @@
       </HelpTOCNode>
     </HelpTOCNode>
     <HelpTOCNode Title="Exchange Enumeration" Url="html/564309271.htm" />
-    <HelpTOCNode Id="de4f9b47-632e-486f-84bf-2ee87931dc66" Title="FutureTicker Structure" Url="html/136526549.htm">
+    <HelpTOCNode Id="9f0d6ba8-bcfc-4890-b547-70e8c43f40b7" Title="FutureTicker Structure" Url="html/136526549.htm">
       <HelpTOCNode Title="FutureTicker Members" Url="html/2071038093.htm" />
       <HelpTOCNode Title="FutureTicker Constructor " Url="html/363067025.htm" />
-      <HelpTOCNode Id="0ec62789-6144-4261-8bdf-7785658e626c" Title="FutureTicker Methods" Url="html/2043407981.htm">
-        <HelpTOCNode Id="517abbbf-b588-4667-9163-ecdd1d55649d" Title="Equals Method " Url="html/401205108.htm">
+      <HelpTOCNode Id="6bbfab8d-0027-408f-ac9c-0937a243e636" Title="FutureTicker Methods" Url="html/2043407981.htm">
+        <HelpTOCNode Id="f31fd6a6-2240-4060-86ae-57448541d21a" Title="Equals Method " Url="html/401205108.htm">
           <HelpTOCNode Title="Equals Method (FutureTicker)" Url="html/817245451.htm" />
           <HelpTOCNode Title="Equals Method (Object)" Url="html/694010546.htm" />
         </HelpTOCNode>
@@ -915,11 +818,11 @@
         <HelpTOCNode Title="ToString Method " Url="html/454924432.htm" />
         <HelpTOCNode Title="TryParse Method " Url="html/453706925.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="2d97cb55-99b6-4390-b3ff-84740940186f" Title="FutureTicker Operators" Url="html/217013638.htm">
+      <HelpTOCNode Id="d8eb9c0b-8456-460c-9756-b9eacf396dfc" Title="FutureTicker Operators" Url="html/217013638.htm">
         <HelpTOCNode Title="Equality Operator " Url="html/366628277.htm" />
         <HelpTOCNode Title="Inequality Operator " Url="html/137382772.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="71717d52-03b6-48dc-b39a-82d4c3650be3" Title="FutureTicker Properties" Url="html/1768011574.htm">
+      <HelpTOCNode Id="9dc618f1-2f39-4fd8-a02b-5d203601882b" Title="FutureTicker Properties" Url="html/1768011574.htm">
         <HelpTOCNode Title="BrokerSymbol Property " Url="html/1555932486.htm" />
         <HelpTOCNode Title="CommonSymbol Property " Url="html/546212598.htm" />
         <HelpTOCNode Title="Continuous Property " Url="html/1550050088.htm" />
@@ -931,14 +834,14 @@
         <HelpTOCNode Title="Underlying Property " Url="html/1771221128.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="2866a724-0241-4245-b6af-3cdbbaa020eb" Title="FxTicker Structure" Url="html/437020770.htm">
+    <HelpTOCNode Id="1dcb8a53-2c82-4f90-8c4d-71455b59ef19" Title="FxTicker Structure" Url="html/437020770.htm">
       <HelpTOCNode Title="FxTicker Members" Url="html/401856318.htm" />
-      <HelpTOCNode Id="af19d335-a465-4e15-afa7-6a1b97371b41" Title="FxTicker Constructor " Url="html/1797320051.htm">
+      <HelpTOCNode Id="020f8187-28e5-4f50-8364-f40e73ac553e" Title="FxTicker Constructor " Url="html/1797320051.htm">
         <HelpTOCNode Title="FxTicker Constructor (FxPair, Decimal)" Url="html/1877290115.htm" />
         <HelpTOCNode Title="FxTicker Constructor (Currency, Currency, Decimal)" Url="html/1761219753.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="d8f5bd44-394c-4ffa-aab0-903ebefa2236" Title="FxTicker Methods" Url="html/512671734.htm">
-        <HelpTOCNode Id="26968f26-a800-4fac-8ede-6c8baf272161" Title="Equals Method " Url="html/1252698351.htm">
+      <HelpTOCNode Id="185796e5-380f-4db1-96f8-508e36a03f47" Title="FxTicker Methods" Url="html/512671734.htm">
+        <HelpTOCNode Id="1c0b60c6-cf87-44d8-a251-b83210de9f9f" Title="Equals Method " Url="html/1252698351.htm">
           <HelpTOCNode Title="Equals Method (FxTicker)" Url="html/1768539317.htm" />
           <HelpTOCNode Title="Equals Method (Object)" Url="html/1812776439.htm" />
         </HelpTOCNode>
@@ -948,11 +851,11 @@
         <HelpTOCNode Title="ToString Method " Url="html/2091361321.htm" />
         <HelpTOCNode Title="TryParse Method " Url="html/1925943134.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="129d4d73-5654-45b0-b1fa-5bf756e0d272" Title="FxTicker Operators" Url="html/2009625967.htm">
+      <HelpTOCNode Id="44d28c9c-8fc9-4be0-9b07-ba7e965052e1" Title="FxTicker Operators" Url="html/2009625967.htm">
         <HelpTOCNode Title="Equality Operator " Url="html/158446896.htm" />
         <HelpTOCNode Title="Inequality Operator " Url="html/576882761.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="0aef6819-da37-4f98-b670-0317b99c721a" Title="FxTicker Properties" Url="html/949315933.htm">
+      <HelpTOCNode Id="1c54db73-a46c-4e8e-8359-b03cee23f544" Title="FxTicker Properties" Url="html/949315933.htm">
         <HelpTOCNode Title="BrokerSymbol Property " Url="html/731551385.htm" />
         <HelpTOCNode Title="CommonSymbol Property " Url="html/1339081247.htm" />
         <HelpTOCNode Title="Continuous Property " Url="html/1717972755.htm" />
@@ -963,101 +866,101 @@
         <HelpTOCNode Title="Type Property " Url="html/5018888.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="428f3bcd-7403-4507-bcae-14b867bf661e" Title="IBkrValueAttribute Class" Url="html/649177383.htm">
+    <HelpTOCNode Id="ee30b63c-96ee-4afa-99f3-f2d95c46d87a" Title="IBkrValueAttribute Class" Url="html/649177383.htm">
       <HelpTOCNode Title="IBkrValueAttribute Members" Url="html/913210181.htm" />
       <HelpTOCNode Title="IBkrValueAttribute Constructor " Url="html/1156787730.htm" />
       <HelpTOCNode Title="IBkrValueAttribute Methods" Url="html/88672765.htm" />
-      <HelpTOCNode Id="ef7c168d-1b0b-43c5-a8c2-cafe5a9c5d54" Title="IBkrValueAttribute Properties" Url="html/1767629222.htm">
+      <HelpTOCNode Id="6b7cf70c-1a62-4e75-826a-a09b409dc4dc" Title="IBkrValueAttribute Properties" Url="html/1767629222.htm">
         <HelpTOCNode Title="IBkr Property " Url="html/1487692555.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="af422516-c9ee-44c3-b88c-2abfce354282" Title="IIndicatorCache Interface" Url="html/1919328332.htm">
+    <HelpTOCNode Id="d6fd4412-3293-4f9f-93e6-a5cb5e5a1274" Title="IIndicatorCache Interface" Url="html/1919328332.htm">
       <HelpTOCNode Title="IIndicatorCache Members" Url="html/1266998740.htm" />
-      <HelpTOCNode Id="ab40298b-0065-4779-aff9-f96c7247d00e" Title="IIndicatorCache Methods" Url="html/1275346952.htm">
-        <HelpTOCNode Id="53dda464-22d7-412e-9ef8-c75461f58805" Title="Get Method " Url="html/670439800.htm">
+      <HelpTOCNode Id="aa9db2d3-945c-4257-8d06-e66cb9c73265" Title="IIndicatorCache Methods" Url="html/1275346952.htm">
+        <HelpTOCNode Id="c8c5ebac-e401-4b09-9a18-9cd856a4a767" Title="Get Method " Url="html/670439800.htm">
           <HelpTOCNode Title="Get Method (IndicatorId)" Url="html/932016644.htm" />
           <HelpTOCNode Title="Get Method (String)" Url="html/1622640292.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="GetMinBars Method " Url="html/922091260.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="4f5d2048-2cfc-487d-b13e-ef70881a71ed" Title="IIndicatorCache Properties" Url="html/604434569.htm">
+      <HelpTOCNode Id="cc74dc02-4396-4a27-ad17-42f12d78db81" Title="IIndicatorCache Properties" Url="html/604434569.htm">
         <HelpTOCNode Title="IndicatorNames Property " Url="html/1739151813.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="8a452d74-02ab-4bf9-b1fa-d19476edf4b2" Title="IIndicatorFactory Interface" Url="html/1266208728.htm">
+    <HelpTOCNode Id="68185727-99a0-4e33-89c7-1e82552f082d" Title="IIndicatorFactory Interface" Url="html/1266208728.htm">
       <HelpTOCNode Title="IIndicatorFactory Members" Url="html/719465432.htm" />
-      <HelpTOCNode Id="9e204eff-9bde-49a2-b4ab-c336a7f204ad" Title="IIndicatorFactory Methods" Url="html/970969632.htm">
-        <HelpTOCNode Title="Include Method " Url="html/941388026.htm" />
-        <HelpTOCNode Title="NewCollection Method " Url="html/1616161085.htm" />
-        <HelpTOCNode Id="938a5f12-5816-4478-832b-a196fec438fc" Title="NewInstance Method " Url="html/986741139.htm">
-          <HelpTOCNode Title="NewInstance Method (String, Int32, String, BarWidths, IndicatorFlags)" Url="html/1364834836.htm" />
-          <HelpTOCNode Title="NewInstance Method (String, Int32, IInstrument, IndicatorFlags)" Url="html/76820506.htm" />
+      <HelpTOCNode Id="61851f80-0f9e-4cd3-b674-878ea01f6f26" Title="IIndicatorFactory Methods" Url="html/970969632.htm">
+        <HelpTOCNode Title="CreateCollection Method " Url="html/215786009.htm" />
+        <HelpTOCNode Id="7a7340ca-afa9-476d-9c92-468580df5e99" Title="CreateInstance Method " Url="html/990841565.htm">
+          <HelpTOCNode Title="CreateInstance Method (String, Int32, String, BarWidths, IndicatorFlags)" Url="html/564593292.htm" />
+          <HelpTOCNode Title="CreateInstance Method (String, Int32, IInstrument, IndicatorFlags)" Url="html/40113526.htm" />
         </HelpTOCNode>
+        <HelpTOCNode Title="Include Method " Url="html/941388026.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="36d36909-8d97-4797-8ecf-37c0314100a0" Title="IIndicatorFactory Properties" Url="html/516628727.htm">
+      <HelpTOCNode Id="d92f825d-2169-454d-bdc8-212ffa0937e9" Title="IIndicatorFactory Properties" Url="html/516628727.htm">
         <HelpTOCNode Title="AllIndicators Property " Url="html/735019757.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="e17c8b81-3b8d-4a39-9d7a-dc7b6213f47d" Title="IInstrument Interface" Url="html/750250128.htm">
+    <HelpTOCNode Id="b3557c32-f5e3-43ba-a05f-efa022c29174" Title="IInstrument Interface" Url="html/750250128.htm">
       <HelpTOCNode Title="IInstrument Members" Url="html/1960174568.htm" />
       <HelpTOCNode Title="IInstrument Methods" Url="html/861673704.htm" />
-      <HelpTOCNode Id="04faa848-e41f-427d-864d-732ad77d0b66" Title="IInstrument Properties" Url="html/1477357401.htm">
+      <HelpTOCNode Id="aa54bcbb-b451-4dd3-9089-67ab95d20fa6" Title="IInstrument Properties" Url="html/1477357401.htm">
         <HelpTOCNode Title="BarWidth Property " Url="html/1777073949.htm" />
         <HelpTOCNode Title="BaseTicker Property " Url="html/1765677625.htm" />
         <HelpTOCNode Title="IsProxied Property " Url="html/1689723383.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="83577a32-ea8e-4267-b689-fb1fa752f1b2" Title="IInstrumentResolver Interface" Url="html/634130586.htm">
+    <HelpTOCNode Id="4917d4ce-ec18-4c42-b1f2-071d2a5cf40a" Title="IInstrumentResolver Interface" Url="html/634130586.htm">
       <HelpTOCNode Title="IInstrumentResolver Members" Url="html/1795342738.htm" />
-      <HelpTOCNode Id="2ff19e76-0ff8-4435-99e1-07c9f5d80dea" Title="IInstrumentResolver Methods" Url="html/1533435962.htm">
+      <HelpTOCNode Id="6810f817-c0bb-405c-8c4d-8484789b54e8" Title="IInstrumentResolver Methods" Url="html/1533435962.htm">
         <HelpTOCNode Title="Resolve Method " Url="html/115664574.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="039ed90a-81b1-4a39-8408-aa1e3a857ee5" Title="InstrumentComparer Class" Url="html/1341213128.htm">
+    <HelpTOCNode Id="8f9708c4-2ac2-4078-a641-18d8c090e23b" Title="InstrumentComparer Class" Url="html/1341213128.htm">
       <HelpTOCNode Title="InstrumentComparer Members" Url="html/742065496.htm" />
-      <HelpTOCNode Id="73b42c0e-51b7-4b9e-9367-6e66cdda6824" Title="InstrumentComparer Methods" Url="html/455521572.htm">
-        <HelpTOCNode Id="8c173efd-7c9c-48cb-8694-d53851168fe3" Title="Equals Method " Url="html/629564257.htm">
+      <HelpTOCNode Id="87c52dd4-bb7c-42b9-98cf-515960eea9a3" Title="InstrumentComparer Methods" Url="html/455521572.htm">
+        <HelpTOCNode Id="80a13b67-9cb8-416d-97dc-a37397c91a64" Title="Equals Method " Url="html/629564257.htm">
           <HelpTOCNode Title="Equals Method " Url="html/760578425.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="3c6cddc3-1937-4bde-8269-24fbb9b6d0b1" Title="GetHashCode Method " Url="html/1495344209.htm">
+        <HelpTOCNode Id="0ad7e856-94be-4b2c-bb0b-362f56d9d585" Title="GetHashCode Method " Url="html/1495344209.htm">
           <HelpTOCNode Title="GetHashCode Method " Url="html/809779939.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="025fed5f-f083-43ec-ad02-b39ecd9d8540" Title="IRealTimeStrategy Interface" Url="html/242043039.htm">
+    <HelpTOCNode Id="d11e0fdb-58e8-4fc8-ac41-e19efb58bace" Title="IRealTimeStrategy Interface" Url="html/242043039.htm">
       <HelpTOCNode Title="IRealTimeStrategy Members" Url="html/1156061731.htm" />
       <HelpTOCNode Title="IRealTimeStrategy Methods" Url="html/276669291.htm" />
-      <HelpTOCNode Id="95a7232d-913c-4598-937a-91f2e90f9864" Title="IRealTimeStrategy Properties" Url="html/516637502.htm">
+      <HelpTOCNode Id="bdddcd8c-083b-4b15-96e7-7130fcd5dbf0" Title="IRealTimeStrategy Properties" Url="html/516637502.htm">
         <HelpTOCNode Title="Active Property " Url="html/1289095329.htm" />
         <HelpTOCNode Title="Label Property " Url="html/417118817.htm" />
         <HelpTOCNode Title="LongThreshold Property " Url="html/348188602.htm" />
         <HelpTOCNode Title="ShortThreshold Property " Url="html/1609237348.htm" />
         <HelpTOCNode Title="Ticker Property " Url="html/690001323.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="3dcbe91e-986f-4500-ab82-f6b8c460f3e5" Title="IRealTimeStrategy Events" Url="html/1424153002.htm">
+      <HelpTOCNode Id="ff99d98d-81f4-40a7-a3ad-5fe36f92c08f" Title="IRealTimeStrategy Events" Url="html/1424153002.htm">
         <HelpTOCNode Title="SignalUpdated Event" Url="html/1159743345.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="e5b26196-38b7-49fb-84fc-8f3a54a7d49a" Title="IRTIndicatorCollection Interface" Url="html/512842672.htm">
+    <HelpTOCNode Id="37576378-190c-4a25-9fb3-a8db25aec87c" Title="IRTIndicatorCollection Interface" Url="html/512842672.htm">
       <HelpTOCNode Title="IRTIndicatorCollection Members" Url="html/1772349016.htm" />
-      <HelpTOCNode Id="4c430369-086d-4ab9-82c2-c3bd9149d7ea" Title="IRTIndicatorCollection Methods" Url="html/1235574564.htm">
-        <HelpTOCNode Id="49e7a5ae-5448-4991-9223-09e5886661a6" Title="CreateSubCollection Method " Url="html/1642228462.htm">
+      <HelpTOCNode Id="8ae3b7c8-eb44-4b41-ba90-e7a7e8cd3b1e" Title="IRTIndicatorCollection Methods" Url="html/1235574564.htm">
+        <HelpTOCNode Id="8fdfa668-2f57-4258-98f4-9bb407b9eeab" Title="CreateSubCollection Method " Url="html/1642228462.htm">
           <HelpTOCNode Title="CreateSubCollection Method (BarWidths, Int32[])" Url="html/1360432115.htm" />
           <HelpTOCNode Title="CreateSubCollection Method (BarWidths, IRTIndicatorInstance[])" Url="html/689819561.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="Initialize Method " Url="html/599765005.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="e2e7dfeb-18ac-4e13-8034-da87f603db07" Title="IRTIndicatorCollection Properties" Url="html/777881115.htm">
+      <HelpTOCNode Id="d17d48ab-12c4-47fc-82d1-2149f9c7fe23" Title="IRTIndicatorCollection Properties" Url="html/777881115.htm">
         <HelpTOCNode Title="LatestValues Property " Url="html/1794771401.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="574c1395-9618-4efc-8979-6cc630247c36" Title="IRTIndicatorCollection Events" Url="html/874636071.htm">
+      <HelpTOCNode Id="3937beef-fb84-4f6a-a649-bfe8bd3b1450" Title="IRTIndicatorCollection Events" Url="html/874636071.htm">
         <HelpTOCNode Title="IndicatorUpdateCompleted Event" Url="html/15602476.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="b0efa0a5-abcf-4de1-b896-900873d414b2" Title="ITicker Interface" Url="html/1071431707.htm">
+    <HelpTOCNode Id="a5192224-adc8-40be-89de-96a4bdb2331d" Title="ITicker Interface" Url="html/1071431707.htm">
       <HelpTOCNode Title="ITicker Members" Url="html/983047427.htm" />
       <HelpTOCNode Title="ITicker Methods" Url="html/471888207.htm" />
-      <HelpTOCNode Id="4dfa55e0-fe20-41e5-95ab-e0dd12e69ad0" Title="ITicker Properties" Url="html/923069536.htm">
+      <HelpTOCNode Id="239b5390-9596-4de0-96ab-2cb5e4d01af1" Title="ITicker Properties" Url="html/923069536.htm">
         <HelpTOCNode Title="BrokerSymbol Property " Url="html/116564422.htm" />
         <HelpTOCNode Title="CommonSymbol Property " Url="html/1853921574.htm" />
         <HelpTOCNode Title="Continuous Property " Url="html/328340436.htm" />
@@ -1067,23 +970,23 @@
         <HelpTOCNode Title="Type Property " Url="html/1673234293.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="3ef12cdb-0b08-4bc3-b12e-12084a3bc4ce" Title="ManagerTypeAttribute Class" Url="html/435251963.htm">
+    <HelpTOCNode Id="ad94bc88-3050-458f-807c-a7400b143300" Title="ManagerTypeAttribute Class" Url="html/435251963.htm">
       <HelpTOCNode Title="ManagerTypeAttribute Members" Url="html/2104388717.htm" />
       <HelpTOCNode Title="ManagerTypeAttribute Constructor " Url="html/564344216.htm" />
       <HelpTOCNode Title="ManagerTypeAttribute Methods" Url="html/1284883005.htm" />
-      <HelpTOCNode Id="cb1ea360-70d5-4650-8aca-dcfeed1a3d4b" Title="ManagerTypeAttribute Properties" Url="html/2147203446.htm">
+      <HelpTOCNode Id="e9f73c98-503e-4dae-be6b-cf4b5a4c153a" Title="ManagerTypeAttribute Properties" Url="html/2147203446.htm">
         <HelpTOCNode Title="Type Property " Url="html/994058933.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
     <HelpTOCNode Title="ProxyType Enumeration" Url="html/1878711178.htm" />
-    <HelpTOCNode Id="fd2a6cfe-326d-42bc-be80-1c04581529c8" Title="RTIndicatorType Structure" Url="html/95514693.htm">
+    <HelpTOCNode Id="c32b3369-ecbc-4da2-9fb8-0e9ff6974fb9" Title="RTIndicatorType Structure" Url="html/95514693.htm">
       <HelpTOCNode Title="RTIndicatorType Members" Url="html/1809168843.htm" />
       <HelpTOCNode Title="RTIndicatorType Methods" Url="html/390149299.htm" />
     </HelpTOCNode>
     <HelpTOCNode Title="SecurityType Enumeration" Url="html/121404904.htm" />
-    <HelpTOCNode Id="95d35bfa-a6e0-48bb-a1ff-0ccf6cfb190e" Title="SharpTraderModuleAttribute Class" Url="html/342233238.htm">
+    <HelpTOCNode Id="2df63702-562c-4a71-975b-a759430413c6" Title="SharpTraderModuleAttribute Class" Url="html/342233238.htm">
       <HelpTOCNode Title="SharpTraderModuleAttribute Members" Url="html/1397777698.htm" />
-      <HelpTOCNode Id="cf275402-9f0c-4202-9bb8-591b9c972fea" Title="SharpTraderModuleAttribute Fields" Url="html/1847800167.htm">
+      <HelpTOCNode Id="9f98f902-0c08-4645-9ff5-187436449244" Title="SharpTraderModuleAttribute Fields" Url="html/1847800167.htm">
         <HelpTOCNode Title="SdkVersion Field" Url="html/1163171998.htm" />
       </HelpTOCNode>
       <HelpTOCNode Title="SharpTraderModuleAttribute Methods" Url="html/741154858.htm" />
@@ -1091,99 +994,99 @@
     </HelpTOCNode>
     <HelpTOCNode Title="Signal Enumeration" Url="html/2113390030.htm" />
     <HelpTOCNode Title="SignalChangedHandler Delegate" Url="html/450641382.htm" />
-    <HelpTOCNode Id="b0edde31-cca5-4b9e-b949-5ff0fc5aa878" Title="SignalEventArgs Class" Url="html/1713430941.htm">
+    <HelpTOCNode Id="e667a7da-fac2-4fde-bb27-baa9c3245efa" Title="SignalEventArgs Class" Url="html/1713430941.htm">
       <HelpTOCNode Title="SignalEventArgs Members" Url="html/2101420167.htm" />
       <HelpTOCNode Title="SignalEventArgs Constructor (Signal, Signal, DateTimeOffset)" Url="html/1144217008.htm" />
       <HelpTOCNode Title="SignalEventArgs Methods" Url="html/609643839.htm" />
-      <HelpTOCNode Id="7c6a9e46-b4a8-4b2d-a564-9f01e17cad08" Title="SignalEventArgs Properties" Url="html/717518660.htm">
+      <HelpTOCNode Id="1bb8378c-cc5b-4739-bcb6-cbcd009a83ae" Title="SignalEventArgs Properties" Url="html/717518660.htm">
         <HelpTOCNode Title="CurrentSignal Property " Url="html/1561745404.htm" />
         <HelpTOCNode Title="PreviousSignal Property " Url="html/190761586.htm" />
         <HelpTOCNode Title="Timestamp Property " Url="html/1234146959.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="1b94f326-4a21-400a-938c-11523235f816" Title="TickerGroup Structure" Url="html/1040225945.htm">
+    <HelpTOCNode Id="4a48b770-92aa-4c4e-b970-490bc554b548" Title="TickerGroup Structure" Url="html/1040225945.htm">
       <HelpTOCNode Title="TickerGroup Members" Url="html/235922659.htm" />
       <HelpTOCNode Title="TickerGroup Constructor " Url="html/1003183600.htm" />
-      <HelpTOCNode Id="709829ac-7c5e-4641-be73-f2b505ab7f44" Title="TickerGroup Methods" Url="html/127012111.htm">
-        <HelpTOCNode Id="0032c9c3-ce82-4de6-b8df-4dc3eb35e089" Title="Equals Method " Url="html/1079946568.htm">
+      <HelpTOCNode Id="1fbe789f-a0e6-47e1-85d0-7b8cb6099696" Title="TickerGroup Methods" Url="html/127012111.htm">
+        <HelpTOCNode Id="4bebad5c-9ae2-4820-a9bb-7a5bf1692319" Title="Equals Method " Url="html/1079946568.htm">
           <HelpTOCNode Title="Equals Method (FutureTicker)" Url="html/901837415.htm" />
           <HelpTOCNode Title="Equals Method (FxTicker)" Url="html/1359138372.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="8b1d8f41-1610-4ce6-b23f-da6199880f4d" Title="TickerGroup Properties" Url="html/2140881948.htm">
+      <HelpTOCNode Id="d4d0a011-898f-4620-a30c-d4314afa0a32" Title="TickerGroup Properties" Url="html/2140881948.htm">
         <HelpTOCNode Title="CommonSymbol Property " Url="html/737752262.htm" />
         <HelpTOCNode Title="Types Property " Url="html/33274812.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
     <HelpTOCNode Title="TickerSignalChangedHandler Delegate" Url="html/1516794792.htm" />
-    <HelpTOCNode Id="cdc3d4c4-bc98-4f3b-a2b7-567d1d5fbf3c" Title="TickerSignalEventArgs Class" Url="html/548618235.htm">
+    <HelpTOCNode Id="99d78de1-a23e-476e-ba6b-cbc17560d672" Title="TickerSignalEventArgs Class" Url="html/548618235.htm">
       <HelpTOCNode Title="TickerSignalEventArgs Members" Url="html/1872608227.htm" />
       <HelpTOCNode Title="TickerSignalEventArgs Constructor " Url="html/1461392344.htm" />
       <HelpTOCNode Title="TickerSignalEventArgs Methods" Url="html/1124116643.htm" />
       <HelpTOCNode Title="TickerSignalEventArgs Properties" Url="html/276628870.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="c45b40ee-95fb-4bbc-b788-058d8712f1f1" Title="UpdateCompletedEventArgs Class" Url="html/1491822793.htm">
+    <HelpTOCNode Id="aa3130e5-2c6a-47a0-aa66-11666e51fd48" Title="UpdateCompletedEventArgs Class" Url="html/1491822793.htm">
       <HelpTOCNode Title="UpdateCompletedEventArgs Members" Url="html/1726524871.htm" />
       <HelpTOCNode Title="UpdateCompletedEventArgs Constructor " Url="html/473902676.htm" />
       <HelpTOCNode Title="UpdateCompletedEventArgs Methods" Url="html/418772997.htm" />
-      <HelpTOCNode Id="84fe5471-f118-41d5-9767-2c05a3e51a2d" Title="UpdateCompletedEventArgs Properties" Url="html/1332533476.htm">
+      <HelpTOCNode Id="6b8301e0-bfd9-4a25-b019-e1c9b33c50fa" Title="UpdateCompletedEventArgs Properties" Url="html/1332533476.htm">
         <HelpTOCNode Title="BarWidth Property " Url="html/703576950.htm" />
         <HelpTOCNode Title="Timestamp Property " Url="html/1061215081.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="65071378-2ef7-49f6-b28a-c45c86b5efe9" Title="WatchdogTimer Class" Url="html/1069416602.htm">
+    <HelpTOCNode Id="17e3b069-c1fb-45f2-9e7b-4628d7ea917d" Title="WatchdogTimer Class" Url="html/1069416602.htm">
       <HelpTOCNode Title="WatchdogTimer Members" Url="html/1919258902.htm" />
       <HelpTOCNode Title="WatchdogTimer Constructor " Url="html/1203948180.htm" />
-      <HelpTOCNode Id="b7fe481b-6af2-4b35-93e0-88dccd9fde99" Title="WatchdogTimer Methods" Url="html/1771879570.htm">
-        <HelpTOCNode Id="45e7aa20-4567-4db0-b1f0-b3b9c4995bd4" Title="Start Method " Url="html/185674766.htm">
+      <HelpTOCNode Id="03856047-bc36-45ad-a36b-ed21064a6eec" Title="WatchdogTimer Methods" Url="html/1771879570.htm">
+        <HelpTOCNode Id="3ae33046-b060-4675-8b12-77a7a35af89d" Title="Start Method " Url="html/185674766.htm">
           <HelpTOCNode Title="Start Method " Url="html/78353603.htm" />
           <HelpTOCNode Title="Start Method (Int32)" Url="html/265671477.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="4ca78d47-9480-4f07-a37d-9a25e41c8cbf" Title="WatchdogTimer Properties" Url="html/1501253549.htm">
+      <HelpTOCNode Id="578c246d-1329-413b-a55b-ce4ffc29738d" Title="WatchdogTimer Properties" Url="html/1501253549.htm">
         <HelpTOCNode Title="Interval Property " Url="html/665077345.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="a6a3581c-2d8b-4b38-a53b-e639560b9364" Title="WatchdogTimer Events" Url="html/240253013.htm">
+      <HelpTOCNode Id="ecf4d644-5a46-4671-a3e5-fc849142f0d7" Title="WatchdogTimer Events" Url="html/240253013.htm">
         <HelpTOCNode Title="Elapsed Event" Url="html/337539359.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
   </HelpTOCNode>
-  <HelpTOCNode Id="baf9db1c-edb0-4c7a-8d8c-4542310909b2" Title="SharpTrader.Client Namespace" Url="html/1890181849.htm">
-    <HelpTOCNode Id="fb4da71c-7469-4141-8311-415a3e5d4db9" Title="OrderEvent Class" Url="html/1170933889.htm">
+  <HelpTOCNode Id="f1e8d334-5c63-4388-bb62-35d6c933b493" Title="SharpTrader.Client Namespace" Url="html/1890181849.htm">
+    <HelpTOCNode Id="9beaa566-c2dc-4f0c-bf06-0805548e7ebd" Title="OrderEvent Class" Url="html/1170933889.htm">
       <HelpTOCNode Title="OrderEvent Members" Url="html/1963862011.htm" />
       <HelpTOCNode Title="OrderEvent Constructor " Url="html/2101523027.htm" />
       <HelpTOCNode Title="OrderEvent Methods" Url="html/858581915.htm" />
-      <HelpTOCNode Id="089c0bd5-28d7-44e1-9a90-208cc3a52f7c" Title="OrderEvent Properties" Url="html/664062054.htm">
+      <HelpTOCNode Id="f0f18863-6793-4269-9e99-2bb35b697f17" Title="OrderEvent Properties" Url="html/664062054.htm">
         <HelpTOCNode Title="UpdateType Property " Url="html/1770050368.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
     <HelpTOCNode Title="OrderUpdateType Enumeration" Url="html/749926398.htm" />
   </HelpTOCNode>
-  <HelpTOCNode Id="b6cf32b3-b8d4-4bb7-830d-7f06a88c16f2" Title="SharpTrader.Core Namespace" Url="html/1135705361.htm">
-    <HelpTOCNode Id="8b3ebe29-9393-4b4a-b215-a917d5aa8f18" Title="RealTimeIndicators Class" Url="html/902606378.htm">
+  <HelpTOCNode Id="08bb6683-4f32-4e6c-b451-97348a354399" Title="SharpTrader.Core Namespace" Url="html/1135705361.htm">
+    <HelpTOCNode Id="ac263bcc-ff04-4de6-a47b-b4dd776e0fc5" Title="RealTimeIndicators Class" Url="html/902606378.htm">
       <HelpTOCNode Title="RealTimeIndicators Members" Url="html/264821606.htm" />
-      <HelpTOCNode Id="068bd0b0-0797-47ce-b7a6-01dad8da2bc4" Title="RealTimeIndicators Methods" Url="html/1841292886.htm">
-        <HelpTOCNode Id="0deb2a09-cfd7-4a60-9582-71339e5345b7" Title="Get Method " Url="html/475219302.htm">
+      <HelpTOCNode Id="f03ac0d1-dfc9-426e-b556-038a3ac68e9b" Title="RealTimeIndicators Methods" Url="html/1841292886.htm">
+        <HelpTOCNode Id="06df165b-95e2-4cc7-8cf3-eaa06bdd3e6f" Title="Get Method " Url="html/475219302.htm">
           <HelpTOCNode Title="Get Method (String)" Url="html/1380847194.htm" />
           <HelpTOCNode Title="Get Method (IndicatorId)" Url="html/2034950478.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="GetMinBars Method " Url="html/1651617374.htm" />
         <HelpTOCNode Title="GetRTIndicator Method " Url="html/93013888.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="8b465de7-53e0-4a1f-ba11-8f4105661312" Title="RealTimeIndicators Properties" Url="html/1090004359.htm">
+      <HelpTOCNode Id="f88b2996-7399-4f13-be8b-7be8e68ed847" Title="RealTimeIndicators Properties" Url="html/1090004359.htm">
         <HelpTOCNode Title="IndicatorNames Property " Url="html/314225485.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="b1608cd6-0dcd-42f7-98b6-794b35e05433" Title="RealTimeStrategy Class" Url="html/2058237265.htm">
+    <HelpTOCNode Id="826581cf-5c75-4103-b529-d506a3f2a5be" Title="RealTimeStrategy Class" Url="html/2058237265.htm">
       <HelpTOCNode Title="RealTimeStrategy Members" Url="html/1509045045.htm" />
       <HelpTOCNode Title="RealTimeStrategy Constructor " Url="html/1094243567.htm" />
-      <HelpTOCNode Id="9fe66532-debd-44e9-8d7f-0b3050b6c896" Title="RealTimeStrategy Methods" Url="html/677202471.htm">
-        <HelpTOCNode Id="eec9f185-415d-4ee9-868b-d31101302efb" Title="Equals Method " Url="html/1034258926.htm">
+      <HelpTOCNode Id="7d6f152e-0544-4b03-adbb-fc94c850ca0e" Title="RealTimeStrategy Methods" Url="html/677202471.htm">
+        <HelpTOCNode Id="66ac48e5-a425-4a6e-b4ae-472338fab159" Title="Equals Method " Url="html/1034258926.htm">
           <HelpTOCNode Title="Equals Method " Url="html/504429106.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="ToString Method " Url="html/87091456.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="500705f3-e0d1-4302-98d6-5074d626cc6b" Title="RealTimeStrategy Properties" Url="html/1232716494.htm">
+      <HelpTOCNode Id="cc91273d-bda5-48ea-ba96-0a3446897422" Title="RealTimeStrategy Properties" Url="html/1232716494.htm">
         <HelpTOCNode Title="Active Property " Url="html/145950603.htm" />
         <HelpTOCNode Title="BarWidth Property " Url="html/1144963778.htm" />
         <HelpTOCNode Title="Indicators Property " Url="html/713258873.htm" />
@@ -1199,65 +1102,65 @@
         <HelpTOCNode Title="TickerType Property " Url="html/1912407661.htm" />
         <HelpTOCNode Title="TimeToUpdate Property " Url="html/246724440.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="ca46dd9a-b53a-45b4-afc2-280e3fe4c3d8" Title="RealTimeStrategy Events" Url="html/1496996226.htm">
+      <HelpTOCNode Id="c5759689-a8df-4d1c-8ca1-0f8b1e930e7f" Title="RealTimeStrategy Events" Url="html/1496996226.htm">
         <HelpTOCNode Title="PropertyChanged Event" Url="html/1143535195.htm" />
         <HelpTOCNode Title="SignalUpdated Event" Url="html/1658905319.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="42ce59d9-3fa9-43a0-860f-2b03d2526ddc" Title="RealTimeStrategyCollection Class" Url="html/680086117.htm">
+    <HelpTOCNode Id="1861313a-efec-4853-8b5c-b4c0a6d00c97" Title="RealTimeStrategyCollection Class" Url="html/680086117.htm">
       <HelpTOCNode Title="RealTimeStrategyCollection Members" Url="html/1833941579.htm" />
       <HelpTOCNode Title="RealTimeStrategyCollection Constructor " Url="html/44232724.htm" />
-      <HelpTOCNode Id="6966a5b0-05ff-4cc9-9f17-e9854b34a69a" Title="RealTimeStrategyCollection Methods" Url="html/1054257343.htm">
+      <HelpTOCNode Id="e2b77d89-7974-43a2-8a1a-b28150ee9bf7" Title="RealTimeStrategyCollection Methods" Url="html/1054257343.htm">
         <HelpTOCNode Title="GetEnumerator Method " Url="html/1692597402.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="b4db7adb-13fb-46aa-ba9f-a89da46fca87" Title="RealTimeStrategyCollection Properties" Url="html/327821578.htm">
+      <HelpTOCNode Id="0ee39562-e3be-46cc-920f-4038186fb36b" Title="RealTimeStrategyCollection Properties" Url="html/327821578.htm">
         <HelpTOCNode Title="BarWidth Property " Url="html/308110726.htm" />
         <HelpTOCNode Title="Indicators Property " Url="html/6734453.htm" />
         <HelpTOCNode Title="Label Property " Url="html/1898633503.htm" />
         <HelpTOCNode Title="Ticker Property " Url="html/1261592717.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="458e3d82-7363-4d4e-be81-28304da08a4d" Title="StrategyExpression Class" Url="html/949789354.htm">
+    <HelpTOCNode Id="c3c4019d-d3ff-4600-8645-a10d79828ecd" Title="StrategyExpression Class" Url="html/949789354.htm">
       <HelpTOCNode Title="StrategyExpression Members" Url="html/986787954.htm" />
       <HelpTOCNode Title="StrategyExpression Constructor (Expression(Func))" Url="html/1801937188.htm" />
-      <HelpTOCNode Id="372c4104-5291-42c6-b793-49c9b4d399e1" Title="StrategyExpression Methods" Url="html/1016676418.htm">
-        <HelpTOCNode Id="1ffaa62f-f0d1-4b9d-a84e-b7ea6f449a8e" Title="ToString Method " Url="html/1015932146.htm">
+      <HelpTOCNode Id="e9679a50-1bf7-4bb9-89bc-0e4bff9ec1e2" Title="StrategyExpression Methods" Url="html/1016676418.htm">
+        <HelpTOCNode Id="47c4632f-ced3-4ea7-83d0-03b697a53277" Title="ToString Method " Url="html/1015932146.htm">
           <HelpTOCNode Title="ToString Method " Url="html/1177602163.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="Update Method " Url="html/336340497.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
   </HelpTOCNode>
-  <HelpTOCNode Id="c1846963-5144-4b98-811a-ebd35753c4bb" Title="SharpTrader.Core.Indicators Namespace" Url="html/1948022267.htm">
-    <HelpTOCNode Id="2e3b1e0f-6b9e-4294-80e0-584fd4f5decd" Title="IndicatorFactory Class" Url="html/303348958.htm">
+  <HelpTOCNode Id="bdd7ff57-27e5-4975-9068-636ca0e4986a" Title="SharpTrader.Core.Indicators Namespace" Url="html/1948022267.htm">
+    <HelpTOCNode Id="c6d97bef-6439-4fde-b3c7-7d0f2de59fdd" Title="IndicatorFactory Class" Url="html/303348958.htm">
       <HelpTOCNode Title="IndicatorFactory Members" Url="html/1082793090.htm" />
       <HelpTOCNode Title="IndicatorFactory Constructor " Url="html/369484825.htm" />
-      <HelpTOCNode Id="9cfb4c8a-ef11-40f2-986c-997f52c19216" Title="IndicatorFactory Methods" Url="html/531036714.htm">
+      <HelpTOCNode Id="86881fbe-c70a-46f9-964f-cc58e78f09e2" Title="IndicatorFactory Methods" Url="html/531036714.htm">
+        <HelpTOCNode Id="a089f06a-921f-41cc-b6c6-710a05d73c0f" Title="CreateCollection Method " Url="html/1465723942.htm">
+          <HelpTOCNode Title="CreateCollection Method (BarWidths, Int32[])" Url="html/1361316715.htm" />
+          <HelpTOCNode Title="CreateCollection Method (BarWidths, IDictionary(Int32, IRTIndicatorInstance))" Url="html/1290261039.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="7b75ed3d-773f-42c8-92f9-68b0ce423e89" Title="CreateInstance Method " Url="html/1167158219.htm">
+          <HelpTOCNode Title="CreateInstance Method (String, Int32, IInstrument, IndicatorFlags)" Url="html/1186677134.htm" />
+          <HelpTOCNode Title="CreateInstance Method (String, Int32, String, BarWidths, IndicatorFlags)" Url="html/80779724.htm" />
+        </HelpTOCNode>
         <HelpTOCNode Title="Include Method " Url="html/134894614.htm" />
-        <HelpTOCNode Id="02de76dc-04b9-42e9-bc1e-ec9c8b01c8b8" Title="NewCollection Method " Url="html/1203180544.htm">
-          <HelpTOCNode Title="NewCollection Method (BarWidths, Int32[])" Url="html/2077038527.htm" />
-          <HelpTOCNode Title="NewCollection Method (BarWidths, IDictionary(Int32, IRTIndicatorInstance))" Url="html/536253149.htm" />
-        </HelpTOCNode>
-        <HelpTOCNode Id="51bc011b-a654-4b85-b202-ee3ab644efdd" Title="NewInstance Method " Url="html/690479349.htm">
-          <HelpTOCNode Title="NewInstance Method (String, Int32, IInstrument, IndicatorFlags)" Url="html/495141966.htm" />
-          <HelpTOCNode Title="NewInstance Method (String, Int32, String, BarWidths, IndicatorFlags)" Url="html/1620982508.htm" />
-        </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="3e857c1f-270b-4b10-b82a-65c28eaf1b3b" Title="IndicatorFactory Properties" Url="html/405133477.htm">
+      <HelpTOCNode Id="28379557-6005-401a-b6e5-e73188afb8d2" Title="IndicatorFactory Properties" Url="html/405133477.htm">
         <HelpTOCNode Title="AllIndicators Property " Url="html/1777261579.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="0cdac424-18cb-45f8-a527-27fab9b126ae" Title="RTIndicatorCollection Class" Url="html/261745450.htm">
+    <HelpTOCNode Id="949e31ab-0d82-4127-9c0d-bd9ff310691c" Title="RTIndicatorCollection Class" Url="html/261745450.htm">
       <HelpTOCNode Title="RTIndicatorCollection Members" Url="html/1038687350.htm" />
-      <HelpTOCNode Id="5e83c482-f7c0-4d89-a208-662437097921" Title="RTIndicatorCollection Constructor " Url="html/1815982765.htm">
+      <HelpTOCNode Id="36ad5406-402b-4a6a-8014-2f634c613188" Title="RTIndicatorCollection Constructor " Url="html/1815982765.htm">
         <HelpTOCNode Title="RTIndicatorCollection Constructor " Url="html/1781897232.htm" />
         <HelpTOCNode Title="RTIndicatorCollection Constructor (IReadOnlyDictionary(Int32, IRTIndicatorInstance))" Url="html/776617370.htm" />
         <HelpTOCNode Title="RTIndicatorCollection Constructor (RTIndicatorCollection, IDictionary(Int32, IRTIndicatorInstance))" Url="html/31373967.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="e5fc3df1-f4e6-47e0-b706-56e0006eb4ee" Title="RTIndicatorCollection Methods" Url="html/2098100822.htm">
+      <HelpTOCNode Id="f0b37158-d94b-4fbb-86c4-7208a559ca2f" Title="RTIndicatorCollection Methods" Url="html/2098100822.htm">
         <HelpTOCNode Title="AddRange Method " Url="html/452985001.htm" />
         <HelpTOCNode Title="ContainsKey Method " Url="html/448565081.htm" />
-        <HelpTOCNode Id="a5091b69-a5f6-405f-8cf6-918054a81b16" Title="CreateSubCollection Method " Url="html/293622672.htm">
+        <HelpTOCNode Id="a4e2a524-5cbb-4c70-8c51-18452d358311" Title="CreateSubCollection Method " Url="html/293622672.htm">
           <HelpTOCNode Title="CreateSubCollection Method (BarWidths, Int32[])" Url="html/525229567.htm" />
           <HelpTOCNode Title="CreateSubCollection Method (BarWidths, IRTIndicatorInstance[])" Url="html/1783877315.htm" />
           <HelpTOCNode Title="CreateSubCollection Method (BarWidths, IDictionary(Int32, IRTIndicatorInstance))" Url="html/115765813.htm" />
@@ -1267,7 +1170,7 @@
         <HelpTOCNode Title="TryGetValue Method " Url="html/1928181744.htm" />
         <HelpTOCNode Title="Update Method " Url="html/1407778856.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="a2984187-a092-42cf-b199-b8ec468164cf" Title="RTIndicatorCollection Properties" Url="html/1634417687.htm">
+      <HelpTOCNode Id="d374561e-d4ba-4679-a33d-3df1ac819148" Title="RTIndicatorCollection Properties" Url="html/1634417687.htm">
         <HelpTOCNode Title="Count Property " Url="html/1780806483.htm" />
         <HelpTOCNode Title="Item Property " Url="html/7438655.htm" />
         <HelpTOCNode Title="Keys Property " Url="html/2052724424.htm" />
@@ -1275,7 +1178,7 @@
         <HelpTOCNode Title="Timestamp Property " Url="html/738571888.htm" />
         <HelpTOCNode Title="Values Property " Url="html/500889678.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="19dc7e4e-423c-4dd9-9630-792eee2d9882" Title="RTIndicatorCollection Events" Url="html/462357301.htm">
+      <HelpTOCNode Id="14706791-0fde-42ad-ad82-bad93afbb2ff" Title="RTIndicatorCollection Events" Url="html/462357301.htm">
         <HelpTOCNode Title="IndicatorUpdateCompleted Event" Url="html/1476894740.htm" />
       </HelpTOCNode>
     </HelpTOCNode>

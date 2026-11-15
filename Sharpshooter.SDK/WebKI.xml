@@ -5,7 +5,6 @@
   <HelpKINode Title="Active property" Url="html/1289095329.htm" />
   <HelpKINode Title="Active property" Url="html/145950603.htm" />
   <HelpKINode Title="Active property" Url="html/323883047.htm" />
-  <HelpKINode Title="Active property" Url="html/502260597.htm" />
   <HelpKINode Title="AddIndicatorColumn method" Url="html/1114169546.htm" />
   <HelpKINode Title="AddInputValue method" Url="html/1727748702.htm" />
   <HelpKINode Title="Addition operator" Url="html/1318886576.htm" />
@@ -55,7 +54,7 @@
     <HelpKINode Title="methods" Url="html/1037851367.htm" />
     <HelpKINode Title="properties" Url="html/1709009174.htm" />
   </HelpKINode>
-  <HelpKINode Title="AdvancedIndicatorBase(Of TValue, TSeries).Bars property" Url="html/228308951.htm" />
+  <HelpKINode Title="AdvancedIndicatorBase(Of TValue, TSeries).BarCount property" Url="html/1793511659.htm" />
   <HelpKINode Title="AdvancedIndicatorBase(Of TValue, TSeries).ForwardByBar method" Url="html/1661549947.htm" />
   <HelpKINode Title="AdvancedIndicatorBase(Of TValue, TSeries).InitializeWith method" Url="html/1329062344.htm" />
   <HelpKINode Title="AdvancedIndicatorBase&lt;TValue, TSeries&gt; class" Url="html/1545796807.htm" />
@@ -66,7 +65,7 @@
     <HelpKINode Title="methods" Url="html/1037851367.htm" />
     <HelpKINode Title="properties" Url="html/1709009174.htm" />
   </HelpKINode>
-  <HelpKINode Title="AdvancedIndicatorBase&lt;TValue, TSeries&gt;.Bars property" Url="html/228308951.htm" />
+  <HelpKINode Title="AdvancedIndicatorBase&lt;TValue, TSeries&gt;.BarCount property" Url="html/1793511659.htm" />
   <HelpKINode Title="AdvancedIndicatorBase&lt;TValue, TSeries&gt;.ForwardByBar method" Url="html/1661549947.htm" />
   <HelpKINode Title="AdvancedIndicatorBase&lt;TValue, TSeries&gt;.InitializeWith method" Url="html/1329062344.htm" />
   <HelpKINode Title="AdvancedOhlcIndicator class" Url="html/1145218650.htm" />
@@ -144,9 +143,8 @@
   <HelpKINode Title="BAG enumeration member" Url="html/121404904.htm" />
   <HelpKINode Title="BAG field" Url="html/1885344734.htm" />
   <HelpKINode Title="BarCount property" Url="html/1301941340.htm" />
-  <HelpKINode Title="Bars property" Url="html/228308951.htm" />
+  <HelpKINode Title="BarCount property" Url="html/1793511659.htm" />
   <HelpKINode Title="Bars property" Url="html/431452012.htm" />
-  <HelpKINode Title="Bars property" Url="html/447259287.htm" />
   <HelpKINode Title="BarWidth property" Url="html/1144963778.htm" />
   <HelpKINode Title="BarWidth property" Url="html/1777073949.htm" />
   <HelpKINode Title="BarWidth property" Url="html/1843731428.htm" />
@@ -173,7 +171,6 @@
     <HelpKINode Title="methods" Url="html/427141419.htm" />
     <HelpKINode Title="properties" Url="html/413404652.htm" />
   </HelpKINode>
-  <HelpKINode Title="BollingerZScore method" Url="html/1654865738.htm" />
   <HelpKINode Title="BollingerZScore.BollingerZScore constructor" Url="html/380054909.htm" />
   <HelpKINode Title="BollingerZScore.Calculate method" Url="html/749402345.htm" />
   <HelpKINode Title="BollingerZScore.ForwardByBar method" Url="html/1847539066.htm" />
@@ -250,26 +247,12 @@
   <HelpKINode Title="CCI field" Url="html/500195434.htm" />
   <HelpKINode Title="CFE enumeration member" Url="html/564309271.htm" />
   <HelpKINode Title="CFE field" Url="html/2078548843.htm" />
-  <HelpKINode Title="ClassInstance property" Url="html/891228771.htm" />
   <HelpKINode Title="Close enumeration member" Url="html/1791642852.htm" />
   <HelpKINode Title="Close enumeration member" Url="html/715028058.htm" />
   <HelpKINode Title="Close field" Url="html/1275914808.htm" />
   <HelpKINode Title="Close field" Url="html/715652806.htm" />
   <HelpKINode Title="Close property" Url="html/1583991736.htm" />
   <HelpKINode Title="Close property" Url="html/1698913103.htm" />
-  <HelpKINode Title="Close property" Url="html/434705231.htm" />
-  <HelpKINode Title="CloseIndicatorInstance class" Url="html/1480867022.htm" />
-  <HelpKINode Title="CloseIndicatorInstance class" Url="html/67945050.htm" />
-  <HelpKINode Title="CloseIndicatorInstance class">
-    <HelpKINode Title="about CloseIndicatorInstance class" Url="html/67945050.htm" />
-    <HelpKINode Title="all members" Url="html/1480867022.htm" />
-    <HelpKINode Title="constructor" Url="html/2032602503.htm" />
-    <HelpKINode Title="methods" Url="html/1185646866.htm" />
-    <HelpKINode Title="properties" Url="html/259914035.htm" />
-  </HelpKINode>
-  <HelpKINode Title="CloseIndicatorInstance.CloseIndicatorInstance constructor" Url="html/2032602503.htm" />
-  <HelpKINode Title="CloseIndicatorInstance.HasState property" Url="html/865607401.htm" />
-  <HelpKINode Title="CloseIndicatorInstance.Map property" Url="html/2135901982.htm" />
   <HelpKINode Title="CloseQuote property" Url="html/1556353181.htm" />
   <HelpKINode Title="CloseSeries class" Url="html/1428686539.htm" />
   <HelpKINode Title="CloseSeries class" Url="html/1505312547.htm" />
@@ -353,6 +336,10 @@
   <HelpKINode Title="Correlation field" Url="html/1866827918.htm" />
   <HelpKINode Title="Count property" Url="html/1780806483.htm" />
   <HelpKINode Title="Count property" Url="html/562279131.htm" />
+  <HelpKINode Title="CreateCollection method" Url="html/1465723942.htm" />
+  <HelpKINode Title="CreateCollection method" Url="html/215786009.htm" />
+  <HelpKINode Title="CreateInstance method" Url="html/1167158219.htm" />
+  <HelpKINode Title="CreateInstance method" Url="html/990841565.htm" />
   <HelpKINode Title="CreateInstruments method" Url="html/2075464994.htm" />
   <HelpKINode Title="CreateSubCollection method" Url="html/1642228462.htm" />
   <HelpKINode Title="CreateSubCollection method" Url="html/293622672.htm" />
@@ -435,19 +422,15 @@
   <HelpKINode Title="Discrete field" Url="html/1109845541.htm" />
   <HelpKINode Title="Discrete property" Url="html/1619891497.htm" />
   <HelpKINode Title="Discrete property" Url="html/1650411206.htm" />
-  <HelpKINode Title="Discrete property" Url="html/49812160.htm" />
   <HelpKINode Title="Discretize method" Url="html/1920710995.htm" />
   <HelpKINode Title="Discretize method" Url="html/23812985.htm" />
-  <HelpKINode Title="Discretize method" Url="html/299269285.htm" />
-  <HelpKINode Title="Discretize property" Url="html/302280797.htm" />
   <HelpKINode Title="Discretizer property" Url="html/1571594877.htm" />
   <HelpKINode Title="DistanceFromHigh field" Url="html/652854602.htm" />
   <HelpKINode Title="DistanceFromLow field" Url="html/1599731392.htm" />
   <HelpKINode Title="DistanceToSma field" Url="html/620773946.htm" />
   <HelpKINode Title="Duration property" Url="html/1150115141.htm" />
   <HelpKINode Title="Elapsed event" Url="html/337539359.htm" />
-  <HelpKINode Title="EMA method" Url="html/1524207788.htm" />
-  <HelpKINode Title="EMA method" Url="html/738320264.htm" />
+  <HelpKINode Title="EMA method" Url="html/988263907.htm" />
   <HelpKINode Title="EnableImplicitInitialize property" Url="html/1856088030.htm" />
   <HelpKINode Title="EnumHelper class" Url="html/187768437.htm" />
   <HelpKINode Title="EnumHelper class" Url="html/249514529.htm" />
@@ -471,17 +454,13 @@
   <HelpKINode Title="Equality operator" Url="html/366628277.htm" />
   <HelpKINode Title="Equals method" Url="html/1034258926.htm" />
   <HelpKINode Title="Equals method" Url="html/1079946568.htm" />
-  <HelpKINode Title="Equals method" Url="html/1105380537.htm" />
   <HelpKINode Title="Equals method" Url="html/1252698351.htm" />
-  <HelpKINode Title="Equals method" Url="html/1892037924.htm" />
   <HelpKINode Title="Equals method" Url="html/1915921865.htm" />
   <HelpKINode Title="Equals method" Url="html/2101766267.htm" />
   <HelpKINode Title="Equals method" Url="html/258796037.htm" />
   <HelpKINode Title="Equals method" Url="html/401205108.htm" />
   <HelpKINode Title="Equals method" Url="html/504429106.htm" />
   <HelpKINode Title="Equals method" Url="html/629564257.htm" />
-  <HelpKINode Title="Equals method" Url="html/667058798.htm" />
-  <HelpKINode Title="Equals method" Url="html/694183573.htm" />
   <HelpKINode Title="Equals method" Url="html/749673089.htm" />
   <HelpKINode Title="Equals method" Url="html/760578425.htm" />
   <HelpKINode Title="Equals method" Url="html/797325700.htm" />
@@ -591,8 +570,6 @@
   <HelpKINode Title="FxTicker.ToString method" Url="html/2091361321.htm" />
   <HelpKINode Title="FxTicker.TryParse method" Url="html/1925943134.htm" />
   <HelpKINode Title="FxTicker.Type property" Url="html/5018888.htm" />
-  <HelpKINode Title="Gain property" Url="html/1658218565.htm" />
-  <HelpKINode Title="Gain property" Url="html/256975105.htm" />
   <HelpKINode Title="Gain property" Url="html/487710870.htm" />
   <HelpKINode Title="Gain property" Url="html/901120102.htm" />
   <HelpKINode Title="Get method" Url="html/475219302.htm" />
@@ -628,17 +605,10 @@
   <HelpKINode Title="GetValue method" Url="html/1133820241.htm" />
   <HelpKINode Title="GetValue method" Url="html/1205069062.htm" />
   <HelpKINode Title="GetValue method" Url="html/1334011658.htm" />
-  <HelpKINode Title="GetValue method" Url="html/1410175996.htm" />
   <HelpKINode Title="GetValue method" Url="html/2047270891.htm" />
-  <HelpKINode Title="GetValue method" Url="html/581019866.htm" />
   <HelpKINode Title="GetValue method" Url="html/661811120.htm" />
   <HelpKINode Title="GetValueArray method" Url="html/341999848.htm" />
-  <HelpKINode Title="HasState property" Url="html/200329159.htm" />
-  <HelpKINode Title="HasState property" Url="html/201454006.htm" />
-  <HelpKINode Title="HasState property" Url="html/2130552283.htm" />
-  <HelpKINode Title="HasState property" Url="html/516920032.htm" />
   <HelpKINode Title="HasState property" Url="html/62982400.htm" />
-  <HelpKINode Title="HasState property" Url="html/865607401.htm" />
   <HelpKINode Title="Hide property" Url="html/1314423852.htm" />
   <HelpKINode Title="High enumeration member" Url="html/1759378828.htm" />
   <HelpKINode Title="High enumeration member" Url="html/1791642852.htm" />
@@ -648,7 +618,6 @@
   <HelpKINode Title="High method" Url="html/1852843483.htm" />
   <HelpKINode Title="High method" Url="html/2062372719.htm" />
   <HelpKINode Title="High method" Url="html/645677997.htm" />
-  <HelpKINode Title="High property" Url="html/1404255853.htm" />
   <HelpKINode Title="High property" Url="html/1872881840.htm" />
   <HelpKINode Title="IBkr property" Url="html/1487692555.htm" />
   <HelpKINode Title="IBkrValueAttribute class" Url="html/649177383.htm" />
@@ -673,8 +642,6 @@
     <HelpKINode Title="all members" Url="html/1071085888.htm" />
     <HelpKINode Title="methods" Url="html/1597576864.htm" />
   </HelpKINode>
-  <HelpKINode Title="Id property" Url="html/1620931715.htm" />
-  <HelpKINode Title="Id property" Url="html/419326675.htm" />
   <HelpKINode Title="Id property" Url="html/641397048.htm" />
   <HelpKINode Title="IDataImportManager interface" Url="html/1231359605.htm" />
   <HelpKINode Title="IDataImportManager interface" Url="html/1766957581.htm" />
@@ -808,9 +775,9 @@
     <HelpKINode Title="properties" Url="html/516628727.htm" />
   </HelpKINode>
   <HelpKINode Title="IIndicatorFactory.AllIndicators property" Url="html/735019757.htm" />
+  <HelpKINode Title="IIndicatorFactory.CreateCollection method" Url="html/215786009.htm" />
+  <HelpKINode Title="IIndicatorFactory.CreateInstance method" Url="html/990841565.htm" />
   <HelpKINode Title="IIndicatorFactory.Include method" Url="html/941388026.htm" />
-  <HelpKINode Title="IIndicatorFactory.NewCollection method" Url="html/1616161085.htm" />
-  <HelpKINode Title="IIndicatorFactory.NewInstance method" Url="html/986741139.htm" />
   <HelpKINode Title="IInstrument interface" Url="html/1960174568.htm" />
   <HelpKINode Title="IInstrument interface" Url="html/2021531642.htm" />
   <HelpKINode Title="IInstrument interface" Url="html/750250128.htm" />
@@ -975,10 +942,10 @@
     <HelpKINode Title="properties" Url="html/405133477.htm" />
   </HelpKINode>
   <HelpKINode Title="IndicatorFactory.AllIndicators property" Url="html/1777261579.htm" />
+  <HelpKINode Title="IndicatorFactory.CreateCollection method" Url="html/1465723942.htm" />
+  <HelpKINode Title="IndicatorFactory.CreateInstance method" Url="html/1167158219.htm" />
   <HelpKINode Title="IndicatorFactory.Include method" Url="html/134894614.htm" />
   <HelpKINode Title="IndicatorFactory.IndicatorFactory constructor" Url="html/369484825.htm" />
-  <HelpKINode Title="IndicatorFactory.NewCollection method" Url="html/1203180544.htm" />
-  <HelpKINode Title="IndicatorFactory.NewInstance method" Url="html/690479349.htm" />
   <HelpKINode Title="IndicatorFlags enumeration" Url="html/431774792.htm" />
   <HelpKINode Title="IndicatorFlags.Discrete field" Url="html/1109845541.htm" />
   <HelpKINode Title="IndicatorFlags.None field" Url="html/1147030490.htm" />
@@ -998,15 +965,6 @@
   <HelpKINode Title="IndicatorHelper.GetValue method" Url="html/1334011658.htm" />
   <HelpKINode Title="IndicatorHelper.IndicatorHelper constructor" Url="html/411487563.htm" />
   <HelpKINode Title="IndicatorHelper.Initialize method" Url="html/74537500.htm" />
-  <HelpKINode Title="IndicatorHelpers class" Url="html/1629354610.htm" />
-  <HelpKINode Title="IndicatorHelpers class" Url="html/1998134722.htm" />
-  <HelpKINode Title="IndicatorHelpers class">
-    <HelpKINode Title="about IndicatorHelpers class" Url="html/1998134722.htm" />
-    <HelpKINode Title="all members" Url="html/1629354610.htm" />
-    <HelpKINode Title="methods" Url="html/1902393802.htm" />
-  </HelpKINode>
-  <HelpKINode Title="IndicatorHelpers.BollingerZScore method" Url="html/1654865738.htm" />
-  <HelpKINode Title="IndicatorHelpers.EMA method" Url="html/738320264.htm" />
   <HelpKINode Title="IndicatorId class" Url="html/148098024.htm" />
   <HelpKINode Title="IndicatorId class" Url="html/446269772.htm" />
   <HelpKINode Title="IndicatorId class">
@@ -1034,21 +992,6 @@
   <HelpKINode Title="IndicatorId.Rescale property" Url="html/1698012123.htm" />
   <HelpKINode Title="IndicatorId.ToString method" Url="html/1088387993.htm" />
   <HelpKINode Title="IndicatorId._flags field" Url="html/1172922232.htm" />
-  <HelpKINode Title="IndicatorInstanceBase class" Url="html/1372715351.htm" />
-  <HelpKINode Title="IndicatorInstanceBase class" Url="html/1948651423.htm" />
-  <HelpKINode Title="IndicatorInstanceBase class">
-    <HelpKINode Title="about IndicatorInstanceBase class" Url="html/1372715351.htm" />
-    <HelpKINode Title="all members" Url="html/1948651423.htm" />
-    <HelpKINode Title="constructor" Url="html/2009017568.htm" />
-    <HelpKINode Title="methods" Url="html/443378805.htm" />
-    <HelpKINode Title="properties" Url="html/13171324.htm" />
-  </HelpKINode>
-  <HelpKINode Title="IndicatorInstanceBase.Bars property" Url="html/447259287.htm" />
-  <HelpKINode Title="IndicatorInstanceBase.Discrete property" Url="html/49812160.htm" />
-  <HelpKINode Title="IndicatorInstanceBase.HasState property" Url="html/201454006.htm" />
-  <HelpKINode Title="IndicatorInstanceBase.IndicatorInstanceBase constructor" Url="html/2009017568.htm" />
-  <HelpKINode Title="IndicatorInstanceBase.Instrument property" Url="html/145370414.htm" />
-  <HelpKINode Title="IndicatorInstanceBase.MinBars property" Url="html/1870981163.htm" />
   <HelpKINode Title="IndicatorName property" Url="html/2011625288.htm" />
   <HelpKINode Title="IndicatorNames property" Url="html/1739151813.htm" />
   <HelpKINode Title="IndicatorNames property" Url="html/314225485.htm" />
@@ -1074,20 +1017,14 @@
     <HelpKINode Title="properties" Url="html/741993658.htm" />
   </HelpKINode>
   <HelpKINode Title="IndicatorsBase.Calculate method" Url="html/545396259.htm" />
-  <HelpKINode Title="IndicatorsBase.Close property" Url="html/434705231.htm" />
   <HelpKINode Title="IndicatorsBase.CustomData property" Url="html/717941952.htm" />
-  <HelpKINode Title="IndicatorsBase.Discretize property" Url="html/302280797.htm" />
   <HelpKINode Title="IndicatorsBase.Discretizer property" Url="html/1571594877.htm" />
-  <HelpKINode Title="IndicatorsBase.EMA method" Url="html/1524207788.htm" />
-  <HelpKINode Title="IndicatorsBase.High property" Url="html/1404255853.htm" />
+  <HelpKINode Title="IndicatorsBase.EMA method" Url="html/988263907.htm" />
   <HelpKINode Title="IndicatorsBase.IndicatorsBase constructor" Url="html/679958296.htm" />
-  <HelpKINode Title="IndicatorsBase.L field" Url="html/231690391.htm" />
-  <HelpKINode Title="IndicatorsBase.Low property" Url="html/1655325529.htm" />
+  <HelpKINode Title="IndicatorsBase.IsNoised property" Url="html/1698092539.htm" />
+  <HelpKINode Title="IndicatorsBase.L property" Url="html/661082747.htm" />
   <HelpKINode Title="IndicatorsBase.MinimumBarCount property" Url="html/346835757.htm" />
-  <HelpKINode Title="IndicatorsBase.Noised property" Url="html/113307573.htm" />
-  <HelpKINode Title="IndicatorsBase.NoiseOff method" Url="html/1141370779.htm" />
-  <HelpKINode Title="IndicatorsBase.NoiseOn method" Url="html/264800721.htm" />
-  <HelpKINode Title="IndicatorsBase.Open property" Url="html/584131787.htm" />
+  <HelpKINode Title="IndicatorsBase.SeriesLength property" Url="html/1376760266.htm" />
   <HelpKINode Title="IndicatorsBase.SMA method" Url="html/711425338.htm" />
   <HelpKINode Title="IndicatorsBase.SmoothedMA method" Url="html/1195510216.htm" />
   <HelpKINode Title="IndicatorsBase.WMA method" Url="html/178675802.htm" />
@@ -1131,7 +1068,6 @@
   <HelpKINode Title="Instrument enumeration member" Url="html/877969037.htm" />
   <HelpKINode Title="Instrument field" Url="html/1004758196.htm" />
   <HelpKINode Title="Instrument property" Url="html/1068489368.htm" />
-  <HelpKINode Title="Instrument property" Url="html/145370414.htm" />
   <HelpKINode Title="Instrument property" Url="html/46122343.htm" />
   <HelpKINode Title="Instrument property" Url="html/743154068.htm" />
   <HelpKINode Title="InstrumentComparer class" Url="html/1341213128.htm" />
@@ -1242,6 +1178,7 @@
   <HelpKINode Title="ISelectableValue.Value property" Url="html/428499937.htm" />
   <HelpKINode Title="IsEventColumn property" Url="html/1059127114.htm" />
   <HelpKINode Title="IsIndicatorColumn property" Url="html/134246087.htm" />
+  <HelpKINode Title="IsNoised property" Url="html/1698092539.htm" />
   <HelpKINode Title="IsProxied property" Url="html/1689723383.htm" />
   <HelpKINode Title="IsQuoteColumn property" Url="html/638231262.htm" />
   <HelpKINode Title="IsReadyToImport property" Url="html/726792197.htm" />
@@ -1282,19 +1219,17 @@
   <HelpKINode Title="ITrade.ProfitLoss property" Url="html/1461370694.htm" />
   <HelpKINode Title="ITrade.Quantity property" Url="html/1465165218.htm" />
   <HelpKINode Title="Keys property" Url="html/2052724424.htm" />
-  <HelpKINode Title="L field" Url="html/231690391.htm" />
+  <HelpKINode Title="L property" Url="html/661082747.htm" />
   <HelpKINode Title="Label property" Url="html/1033249565.htm" />
   <HelpKINode Title="Label property" Url="html/1234096138.htm" />
   <HelpKINode Title="Label property" Url="html/1247889908.htm" />
   <HelpKINode Title="Label property" Url="html/125431304.htm" />
-  <HelpKINode Title="Label property" Url="html/1314330222.htm" />
   <HelpKINode Title="Label property" Url="html/1504445665.htm" />
   <HelpKINode Title="Label property" Url="html/1578419401.htm" />
   <HelpKINode Title="Label property" Url="html/1645780689.htm" />
   <HelpKINode Title="Label property" Url="html/1898633503.htm" />
   <HelpKINode Title="Label property" Url="html/1954918779.htm" />
   <HelpKINode Title="Label property" Url="html/417118817.htm" />
-  <HelpKINode Title="Label property" Url="html/796309384.htm" />
   <HelpKINode Title="LastBarEnd property" Url="html/394728662.htm" />
   <HelpKINode Title="LatestSignal property" Url="html/299225206.htm" />
   <HelpKINode Title="LatestValues property" Url="html/1387331543.htm" />
@@ -1320,7 +1255,6 @@
   <HelpKINode Title="Low method" Url="html/1360714271.htm" />
   <HelpKINode Title="Low method" Url="html/337764706.htm" />
   <HelpKINode Title="Low method" Url="html/90012399.htm" />
-  <HelpKINode Title="Low property" Url="html/1655325529.htm" />
   <HelpKINode Title="Low property" Url="html/711499214.htm" />
   <HelpKINode Title="ManagerTypeAttribute class" Url="html/2104388717.htm" />
   <HelpKINode Title="ManagerTypeAttribute class" Url="html/435251963.htm" />
@@ -1333,16 +1267,12 @@
   </HelpKINode>
   <HelpKINode Title="ManagerTypeAttribute.ManagerTypeAttribute constructor" Url="html/564344216.htm" />
   <HelpKINode Title="ManagerTypeAttribute.Type property" Url="html/994058933.htm" />
-  <HelpKINode Title="Map property" Url="html/1728920368.htm" />
-  <HelpKINode Title="Map property" Url="html/2135901982.htm" />
-  <HelpKINode Title="Map property" Url="html/284057995.htm" />
   <HelpKINode Title="MaxBarCount property" Url="html/1440354393.htm" />
   <HelpKINode Title="Medium enumeration member" Url="html/1759378828.htm" />
   <HelpKINode Title="Medium field" Url="html/2144066053.htm" />
   <HelpKINode Title="Mid enumeration member" Url="html/1791642852.htm" />
   <HelpKINode Title="Mid field" Url="html/1734084934.htm" />
   <HelpKINode Title="MinBarCount property" Url="html/1571797529.htm" />
-  <HelpKINode Title="MinBars property" Url="html/1870981163.htm" />
   <HelpKINode Title="Minimal enumeration member" Url="html/1759378828.htm" />
   <HelpKINode Title="Minimal field" Url="html/812205175.htm" />
   <HelpKINode Title="MinimumBarCount property" Url="html/346835757.htm" />
@@ -1353,15 +1283,8 @@
   <HelpKINode Title="Multiply operator" Url="html/1855487180.htm" />
   <HelpKINode Title="Neutral enumeration member" Url="html/2113390030.htm" />
   <HelpKINode Title="Neutral field" Url="html/824323561.htm" />
-  <HelpKINode Title="NewCollection method" Url="html/1203180544.htm" />
-  <HelpKINode Title="NewCollection method" Url="html/1616161085.htm" />
-  <HelpKINode Title="NewInstance method" Url="html/690479349.htm" />
-  <HelpKINode Title="NewInstance method" Url="html/986741139.htm" />
   <HelpKINode Title="NEWS enumeration member" Url="html/121404904.htm" />
   <HelpKINode Title="NEWS field" Url="html/522824933.htm" />
-  <HelpKINode Title="Noised property" Url="html/113307573.htm" />
-  <HelpKINode Title="NoiseOff method" Url="html/1141370779.htm" />
-  <HelpKINode Title="NoiseOn method" Url="html/264800721.htm" />
   <HelpKINode Title="None enumeration member" Url="html/112814492.htm" />
   <HelpKINode Title="None enumeration member" Url="html/1747967522.htm" />
   <HelpKINode Title="None enumeration member" Url="html/1791642852.htm" />
@@ -1375,16 +1298,6 @@
   <HelpKINode Title="None field" Url="html/606876940.htm" />
   <HelpKINode Title="None field" Url="html/942920947.htm" />
   <HelpKINode Title="NormalizeBaseIndex property" Url="html/1270382970.htm" />
-  <HelpKINode Title="NullDiscretizer class" Url="html/2057255109.htm" />
-  <HelpKINode Title="NullDiscretizer class" Url="html/914726611.htm" />
-  <HelpKINode Title="NullDiscretizer class">
-    <HelpKINode Title="about NullDiscretizer class" Url="html/2057255109.htm" />
-    <HelpKINode Title="all members" Url="html/914726611.htm" />
-    <HelpKINode Title="methods" Url="html/179748291.htm" />
-    <HelpKINode Title="properties" Url="html/1581605812.htm" />
-  </HelpKINode>
-  <HelpKINode Title="NullDiscretizer.Active property" Url="html/502260597.htm" />
-  <HelpKINode Title="NullDiscretizer.Discretize method" Url="html/299269285.htm" />
   <HelpKINode Title="NYBOT enumeration member" Url="html/564309271.htm" />
   <HelpKINode Title="NYBOT field" Url="html/1927465653.htm" />
   <HelpKINode Title="NYMEX enumeration member" Url="html/564309271.htm" />
@@ -1397,52 +1310,10 @@
     <HelpKINode Title="methods" Url="html/916766518.htm" />
     <HelpKINode Title="properties" Url="html/63834765.htm" />
   </HelpKINode>
-  <HelpKINode Title="Offset property" Url="html/1381808689.htm" />
   <HelpKINode Title="Offset property" Url="html/1855241610.htm" />
   <HelpKINode Title="Offset property" Url="html/1998299274.htm" />
-  <HelpKINode Title="Offset property" Url="html/569213441.htm" />
   <HelpKINode Title="Ohlc enumeration member" Url="html/715028058.htm" />
   <HelpKINode Title="Ohlc field" Url="html/100679120.htm" />
-  <HelpKINode Title="OhlcAdvancedIndicatorInstance class" Url="html/1695458694.htm" />
-  <HelpKINode Title="OhlcAdvancedIndicatorInstance class" Url="html/737276818.htm" />
-  <HelpKINode Title="OhlcAdvancedIndicatorInstance class">
-    <HelpKINode Title="about OhlcAdvancedIndicatorInstance class" Url="html/1695458694.htm" />
-    <HelpKINode Title="all members" Url="html/737276818.htm" />
-    <HelpKINode Title="constructor" Url="html/156896354.htm" />
-    <HelpKINode Title="methods" Url="html/1543837090.htm" />
-    <HelpKINode Title="properties" Url="html/596658421.htm" />
-  </HelpKINode>
-  <HelpKINode Title="OhlcAdvancedIndicatorInstance.ClassInstance property" Url="html/891228771.htm" />
-  <HelpKINode Title="OhlcAdvancedIndicatorInstance.Equals method" Url="html/1105380537.htm" />
-  <HelpKINode Title="OhlcAdvancedIndicatorInstance.Equals method" Url="html/1892037924.htm" />
-  <HelpKINode Title="OhlcAdvancedIndicatorInstance.Gain property" Url="html/1658218565.htm" />
-  <HelpKINode Title="OhlcAdvancedIndicatorInstance.GetValue method" Url="html/581019866.htm" />
-  <HelpKINode Title="OhlcAdvancedIndicatorInstance.HasState property" Url="html/2130552283.htm" />
-  <HelpKINode Title="OhlcAdvancedIndicatorInstance.Id property" Url="html/1620931715.htm" />
-  <HelpKINode Title="OhlcAdvancedIndicatorInstance.Label property" Url="html/1314330222.htm" />
-  <HelpKINode Title="OhlcAdvancedIndicatorInstance.Offset property" Url="html/1381808689.htm" />
-  <HelpKINode Title="OhlcAdvancedIndicatorInstance.OhlcAdvancedIndicatorInstance constructor" Url="html/156896354.htm" />
-  <HelpKINode Title="OhlcAdvancedIndicatorInstance.Update property" Url="html/111104599.htm" />
-  <HelpKINode Title="OhlcIndicatorInstance class" Url="html/1679661508.htm" />
-  <HelpKINode Title="OhlcIndicatorInstance class" Url="html/1948875016.htm" />
-  <HelpKINode Title="OhlcIndicatorInstance class">
-    <HelpKINode Title="about OhlcIndicatorInstance class" Url="html/1679661508.htm" />
-    <HelpKINode Title="all members" Url="html/1948875016.htm" />
-    <HelpKINode Title="constructor" Url="html/338954522.htm" />
-    <HelpKINode Title="methods" Url="html/723951748.htm" />
-    <HelpKINode Title="properties" Url="html/467700231.htm" />
-  </HelpKINode>
-  <HelpKINode Title="OhlcIndicatorInstance.Equals method" Url="html/667058798.htm" />
-  <HelpKINode Title="OhlcIndicatorInstance.Equals method" Url="html/694183573.htm" />
-  <HelpKINode Title="OhlcIndicatorInstance.Gain property" Url="html/256975105.htm" />
-  <HelpKINode Title="OhlcIndicatorInstance.GetValue method" Url="html/1410175996.htm" />
-  <HelpKINode Title="OhlcIndicatorInstance.HasState property" Url="html/200329159.htm" />
-  <HelpKINode Title="OhlcIndicatorInstance.Id property" Url="html/419326675.htm" />
-  <HelpKINode Title="OhlcIndicatorInstance.Label property" Url="html/796309384.htm" />
-  <HelpKINode Title="OhlcIndicatorInstance.Map property" Url="html/1728920368.htm" />
-  <HelpKINode Title="OhlcIndicatorInstance.Offset property" Url="html/569213441.htm" />
-  <HelpKINode Title="OhlcIndicatorInstance.OhlcIndicatorInstance constructor" Url="html/338954522.htm" />
-  <HelpKINode Title="OhlcIndicatorInstance.Update property" Url="html/1343961863.htm" />
   <HelpKINode Title="OHLCSeries class" Url="html/723845825.htm" />
   <HelpKINode Title="OHLCSeries class" Url="html/989940541.htm" />
   <HelpKINode Title="OHLCSeries class">
@@ -1462,7 +1333,6 @@
   <HelpKINode Title="Open enumeration member" Url="html/1791642852.htm" />
   <HelpKINode Title="Open field" Url="html/1493407036.htm" />
   <HelpKINode Title="Open property" Url="html/1052758772.htm" />
-  <HelpKINode Title="Open property" Url="html/584131787.htm" />
   <HelpKINode Title="OpenQuote property" Url="html/1529750685.htm" />
   <HelpKINode Title="OPT enumeration member" Url="html/121404904.htm" />
   <HelpKINode Title="OPT field" Url="html/198335029.htm" />
@@ -1768,6 +1638,7 @@
   <HelpKINode Title="SerializedRTStrategy.ShortThreshold property" Url="html/1765099576.htm" />
   <HelpKINode Title="SerializedRTStrategy.StopLoss property" Url="html/1286962014.htm" />
   <HelpKINode Title="SerializedRTStrategy.StopProfit property" Url="html/185368061.htm" />
+  <HelpKINode Title="SeriesLength property" Url="html/1376760266.htm" />
   <HelpKINode Title="SetServiceProvider method" Url="html/953525027.htm" />
   <HelpKINode Title="Sharpshooter.SDK namespace" Url="html/68292892.htm" />
   <HelpKINode Title="Sharpshooter.SDK.ArgumentList class" Url="html/1866245375.htm" />
@@ -1832,8 +1703,6 @@
   <HelpKINode Title="Sharpshooter.SDK.IndicatorId class" Url="html/148098024.htm" />
   <HelpKINode Title="Sharpshooter.SDK.IndicatorId class" Url="html/446269772.htm" />
   <HelpKINode Title="Sharpshooter.SDK.Indicators namespace" Url="html/118665920.htm" />
-  <HelpKINode Title="Sharpshooter.SDK.Indicators.CloseIndicatorInstance class" Url="html/1480867022.htm" />
-  <HelpKINode Title="Sharpshooter.SDK.Indicators.CloseIndicatorInstance class" Url="html/67945050.htm" />
   <HelpKINode Title="Sharpshooter.SDK.Indicators.DefaultDiscretizer class" Url="html/1873698367.htm" />
   <HelpKINode Title="Sharpshooter.SDK.Indicators.DefaultDiscretizer class" Url="html/34095633.htm" />
   <HelpKINode Title="Sharpshooter.SDK.Indicators.IndicatorAttribute class" Url="html/389192459.htm" />
@@ -1842,20 +1711,10 @@
   <HelpKINode Title="Sharpshooter.SDK.Indicators.IndicatorClassAttribute class" Url="html/263035233.htm" />
   <HelpKINode Title="Sharpshooter.SDK.Indicators.IndicatorClassFlags enumeration" Url="html/715028058.htm" />
   <HelpKINode Title="Sharpshooter.SDK.Indicators.IndicatorFlags enumeration" Url="html/431774792.htm" />
-  <HelpKINode Title="Sharpshooter.SDK.Indicators.IndicatorHelpers class" Url="html/1629354610.htm" />
-  <HelpKINode Title="Sharpshooter.SDK.Indicators.IndicatorHelpers class" Url="html/1998134722.htm" />
-  <HelpKINode Title="Sharpshooter.SDK.Indicators.IndicatorInstanceBase class" Url="html/1372715351.htm" />
-  <HelpKINode Title="Sharpshooter.SDK.Indicators.IndicatorInstanceBase class" Url="html/1948651423.htm" />
   <HelpKINode Title="Sharpshooter.SDK.Indicators.IndicatorParameterAttribute class" Url="html/409327488.htm" />
   <HelpKINode Title="Sharpshooter.SDK.Indicators.IndicatorParameterAttribute class" Url="html/906372228.htm" />
   <HelpKINode Title="Sharpshooter.SDK.Indicators.IndicatorsBase class" Url="html/1307410085.htm" />
   <HelpKINode Title="Sharpshooter.SDK.Indicators.IndicatorsBase class" Url="html/775959921.htm" />
-  <HelpKINode Title="Sharpshooter.SDK.Indicators.NullDiscretizer class" Url="html/2057255109.htm" />
-  <HelpKINode Title="Sharpshooter.SDK.Indicators.NullDiscretizer class" Url="html/914726611.htm" />
-  <HelpKINode Title="Sharpshooter.SDK.Indicators.OhlcAdvancedIndicatorInstance class" Url="html/1695458694.htm" />
-  <HelpKINode Title="Sharpshooter.SDK.Indicators.OhlcAdvancedIndicatorInstance class" Url="html/737276818.htm" />
-  <HelpKINode Title="Sharpshooter.SDK.Indicators.OhlcIndicatorInstance class" Url="html/1679661508.htm" />
-  <HelpKINode Title="Sharpshooter.SDK.Indicators.OhlcIndicatorInstance class" Url="html/1948875016.htm" />
   <HelpKINode Title="Sharpshooter.SDK.Indicators.ParameterType enumeration" Url="html/877969037.htm" />
   <HelpKINode Title="Sharpshooter.SDK.Indicators.RealTime namespace" Url="html/2136082291.htm" />
   <HelpKINode Title="Sharpshooter.SDK.Indicators.RealTime.AdvancedCloseIndicator class" Url="html/1416948106.htm" />
@@ -1876,8 +1735,6 @@
   <HelpKINode Title="Sharpshooter.SDK.Indicators.RealTime.CachedEMA class" Url="html/2092434044.htm" />
   <HelpKINode Title="Sharpshooter.SDK.Indicators.RealTime.IndicatorHelper class" Url="html/1449076934.htm" />
   <HelpKINode Title="Sharpshooter.SDK.Indicators.RealTime.IndicatorHelper class" Url="html/558065370.htm" />
-  <HelpKINode Title="Sharpshooter.SDK.Indicators.TransformIndicator class" Url="html/1880291513.htm" />
-  <HelpKINode Title="Sharpshooter.SDK.Indicators.TransformIndicator class" Url="html/351389137.htm" />
   <HelpKINode Title="Sharpshooter.SDK.Indicators.ValueRangeAttribute class" Url="html/1566978618.htm" />
   <HelpKINode Title="Sharpshooter.SDK.Indicators.ValueRangeAttribute class" Url="html/397446614.htm" />
   <HelpKINode Title="Sharpshooter.SDK.Indicators.ValueRangeType enumeration" Url="html/1747967522.htm" />
@@ -2157,18 +2014,6 @@
   <HelpKINode Title="TrainingEnd property" Url="html/1733370158.htm" />
   <HelpKINode Title="TrainingEquity field" Url="html/137878884.htm" />
   <HelpKINode Title="TrainingStart property" Url="html/1308787925.htm" />
-  <HelpKINode Title="TransformIndicator class" Url="html/1880291513.htm" />
-  <HelpKINode Title="TransformIndicator class" Url="html/351389137.htm" />
-  <HelpKINode Title="TransformIndicator class">
-    <HelpKINode Title="about TransformIndicator class" Url="html/1880291513.htm" />
-    <HelpKINode Title="all members" Url="html/351389137.htm" />
-    <HelpKINode Title="constructor" Url="html/1543607338.htm" />
-    <HelpKINode Title="methods" Url="html/1036448837.htm" />
-    <HelpKINode Title="properties" Url="html/1964673100.htm" />
-  </HelpKINode>
-  <HelpKINode Title="TransformIndicator.HasState property" Url="html/516920032.htm" />
-  <HelpKINode Title="TransformIndicator.Map property" Url="html/284057995.htm" />
-  <HelpKINode Title="TransformIndicator.TransformIndicator constructor" Url="html/1543607338.htm" />
   <HelpKINode Title="TruncateTo method" Url="html/1083514763.htm" />
   <HelpKINode Title="TruncateTo method" Url="html/1538455004.htm" />
   <HelpKINode Title="TruncateTo method" Url="html/1542179053.htm" />
@@ -2188,8 +2033,6 @@
   <HelpKINode Title="UntiedColumns property" Url="html/1101340018.htm" />
   <HelpKINode Title="Update method" Url="html/1407778856.htm" />
   <HelpKINode Title="Update method" Url="html/336340497.htm" />
-  <HelpKINode Title="Update property" Url="html/111104599.htm" />
-  <HelpKINode Title="Update property" Url="html/1343961863.htm" />
   <HelpKINode Title="Update property" Url="html/1476696244.htm" />
   <HelpKINode Title="UpdateCompletedEventArgs class" Url="html/1491822793.htm" />
   <HelpKINode Title="UpdateCompletedEventArgs class" Url="html/1726524871.htm" />
