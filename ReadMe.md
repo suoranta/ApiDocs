@@ -15,6 +15,6 @@ Note: Most presentation-related attributes and enums are part of the 'Unified Pr
 See the [dependency diagram of all packages](PackageDependencies.html).
 
 ## SDKs
-- [Sharpshooter.SDK & SharpTrader.SDK](Sharpshooter.SDK/): Provide extensibility features of [Sharpshooter & SharpTrader](Sharpshooter/Sharpshooter.html) (Note: Covers two packages.). [Presentation](Sharpshooter/Sharpshooter.pdf)
+- [Sharpshooter.SDK & SharpTrader.SDK](Sharpshooter.SDK/): Provide extensibility features of [Sharpshooter & SharpTrader](Sharpshooter/Sharpshooter.html). For a quick start, see, e.g., [IndicatorHelper](Sharpshooter.SDK/html/558065370.htm). Types that are "missing" (no link to the documentation) can be mostly found from [Suoranta.Finance](Suoranta.Finance/). [Presentation](Sharpshooter/Sharpshooter.pdf)
 
 _Inquiries: packages at suoranta dot net_
