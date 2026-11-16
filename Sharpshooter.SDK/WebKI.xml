@@ -105,6 +105,7 @@
     <HelpKINode Title="properties" Url="html/302757316.htm" />
   </HelpKINode>
   <HelpKINode Title="ArgumentList.ArgumentList constructor" Url="html/1527187592.htm" />
+  <HelpKINode Title="ArgumentList.Empty property" Url="html/646369800.htm" />
   <HelpKINode Title="ArgumentList.Equals method" Url="html/797325700.htm" />
   <HelpKINode Title="ArgumentList.GetHashCode method" Url="html/2085520105.htm" />
   <HelpKINode Title="ArgumentList.Item property" Url="html/758457759.htm" />
@@ -405,6 +406,8 @@
   <HelpKINode Title="DateColumnNotFound field" Url="html/1343237325.htm" />
   <HelpKINode Title="DateParseFailure enumeration member" Url="html/2125332324.htm" />
   <HelpKINode Title="DateParseFailure field" Url="html/1978891049.htm" />
+  <HelpKINode Title="Decimal enumeration member" Url="html/877969037.htm" />
+  <HelpKINode Title="Decimal field" Url="html/1509220460.htm" />
   <HelpKINode Title="DefaultDiscretizer class" Url="html/1873698367.htm" />
   <HelpKINode Title="DefaultDiscretizer class" Url="html/34095633.htm" />
   <HelpKINode Title="DefaultDiscretizer class">
@@ -431,6 +434,7 @@
   <HelpKINode Title="Duration property" Url="html/1150115141.htm" />
   <HelpKINode Title="Elapsed event" Url="html/337539359.htm" />
   <HelpKINode Title="EMA method" Url="html/988263907.htm" />
+  <HelpKINode Title="Empty property" Url="html/646369800.htm" />
   <HelpKINode Title="EnableImplicitInitialize property" Url="html/1856088030.htm" />
   <HelpKINode Title="EnumHelper class" Url="html/187768437.htm" />
   <HelpKINode Title="EnumHelper class" Url="html/249514529.htm" />
@@ -1359,6 +1363,7 @@
   <HelpKINode Title="Pair property" Url="html/1769484948.htm" />
   <HelpKINode Title="Parameters property" Url="html/967516118.htm" />
   <HelpKINode Title="ParameterType enumeration" Url="html/877969037.htm" />
+  <HelpKINode Title="ParameterType.Decimal field" Url="html/1509220460.htm" />
   <HelpKINode Title="ParameterType.Instrument field" Url="html/1004758196.htm" />
   <HelpKINode Title="ParameterType.None field" Url="html/942920947.htm" />
   <HelpKINode Title="Parse method" Url="html/1124786751.htm" />
