@@ -126,6 +126,11 @@
 <img src="../Item.gif"/><a class="UnselectedNode" onclick="javascript: return SelectNode(this);" href="1077619538.htm" target="_self">CreditRatingAgency Enumeration</a>
 </div>
 <div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="1374702793.htm" target="_self">CreditRatingAttribute Class</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeNode">
 <img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="1112641273.htm" target="_self">CreditRatingHistory Class</a>
 <div class="Hidden">
 </div>
@@ -150,9 +155,6 @@
 </div>
 <div class="TreeItem">
 <img src="../Item.gif"/><a class="UnselectedNode" onclick="javascript: return SelectNode(this);" href="343682374.htm" target="_self">DayOfMonth Enumeration</a>
-</div>
-<div class="TreeItem">
-<img src="../Item.gif"/><a class="UnselectedNode" onclick="javascript: return SelectNode(this);" href="1793158549.htm" target="_self">DisplayUnitPrefix Enumeration</a>
 </div>
 <div class="TreeNode">
 <img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="1832844206.htm" target="_self">EnumExtensions Class</a>
@@ -186,6 +188,11 @@
 </div>
 <div class="TreeNode">
 <img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="1424478665.htm" target="_self">FinanceModelException Class</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="1468211307.htm" target="_self">FitchAttribute Class</a>
 <div class="Hidden">
 </div>
 </div>
@@ -413,6 +420,11 @@
 <img src="../Item.gif"/><a class="UnselectedNode" onclick="javascript: return SelectNode(this);" href="102430339.htm" target="_self">Month Enumeration</a>
 </div>
 <div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="520857462.htm" target="_self">MoodysAttribute Class</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeNode">
 <img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="592952900.htm" target="_self">OhlcBar Structure</a>
 <div class="Hidden">
 </div>
@@ -456,6 +468,11 @@
 </div>
 <div class="TreeNode">
 <img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="1115613930.htm" target="_self">Resolver.DefaultResolver Class</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="461314196.htm" target="_self">SnPAttribute Class</a>
 <div class="Hidden">
 </div>
 </div>
@@ -507,7 +524,7 @@
 </div>
 </div>
 <div class="TreeItem">
-<img src="../Item.gif"/><a class="UnselectedNode" onclick="javascript: return SelectNode(this);" href="1971926340.htm" target="_self">UnitLabelFormat Enumeration</a>
+<img src="../Item.gif"/><a class="UnselectedNode" onclick="javascript: return SelectNode(this);" href="1020014037.htm" target="_self">ValueMultiplier Enumeration</a>
 </div>
 <div class="TreeNode">
 <img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="948914962.htm" target="_self">Volatility Class</a>
@@ -1726,8 +1743,8 @@
                       </td>
                       <td>
                         <div class="summary">
-   Implements <a href="751295983.htm">ITimestamps</a> by on-demand enumeration of an underlying
-   <a href="1283873132.htm">ITradingSchedule</a>. May be open-ended.
+   Implements <a href="751295983.htm">ITimestamps</a> by on-demand enumeration of an underlying <a href="1283873132.htm">ITradingSchedule</a>.
+   May be open-ended.
    </div>
                       </td>
                     </tr>
@@ -1747,7 +1764,25 @@
                       <td>
                         <a href="309681570.htm">CountryValueAttribute</a>
                       </td>
-                      <td />
+                      <td>
+                        <div class="summary">
+   Stores country information in greater detail than <a href="14150498.htm">Iso3166Attribute</a>.
+   </div>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td>
+                        <img src="../icons/pubclass.gif" alt="Public class" title="Public class" />
+                      </td>
+                      <td>
+                        <a href="1374702793.htm">CreditRatingAttribute</a>
+                      </td>
+                      <td>
+                        <div class="summary">
+   Base class for attributes that indicate label used by a rating agency to identify a particular
+   <a href="1129744797.htm">CreditRating</a> (value).
+   </div>
+                      </td>
                     </tr>
                     <tr>
                       <td>
@@ -1756,7 +1791,11 @@
                       <td>
                         <a href="1112641273.htm">CreditRatingHistory</a>
                       </td>
-                      <td />
+                      <td>
+                        <div class="summary">
+   Implements the <a href="140000436.htm">ICreditRatingHistory</a>.
+   </div>
+                      </td>
                     </tr>
                     <tr>
                       <td>
@@ -1767,8 +1806,8 @@
                       </td>
                       <td>
                         <div class="summary">
-   Decorates the members of <a href="1322968494.htm">Currency</a> or equivalent type.
-   Implements the <span class="nolink">EnumLabelAttribute</span></div>
+   Decorates the members of <a href="1322968494.htm">Currency</a> or equivalent type. Implements the <span class="nolink">EnumLabelAttribute</span>.
+   </div>
                       </td>
                     </tr>
                     <tr>
@@ -1778,7 +1817,11 @@
                       <td>
                         <a href="1832844206.htm">EnumExtensions</a>
                       </td>
-                      <td />
+                      <td>
+                        <div class="summary">
+   Provides extension methods related to <a href="https://docs.microsoft.com/en-us/dotnet/api/system.enum" target="_blank">Enum</a>s, particularly the <a href="1708519508.htm">OptionType</a>.
+   </div>
+                      </td>
                     </tr>
                     <tr>
                       <td>
@@ -1805,7 +1848,12 @@
                       <td>
                         <a href="1876425774.htm">FinanceDataException</a>
                       </td>
-                      <td />
+                      <td>
+                        <div class="summary">
+   General data-related <a href="413369890.htm">FinanceException</a> used when a more specific exception type has not been
+   defined.
+   </div>
+                      </td>
                     </tr>
                     <tr>
                       <td>
@@ -1828,7 +1876,11 @@
                       <td>
                         <a href="1674538559.htm">FinanceFormatException</a>
                       </td>
-                      <td />
+                      <td>
+                        <div class="summary">
+                          <a href="413369890.htm">FinanceException</a> thrown on failure to parse a string into the desired type.
+   </div>
+                      </td>
                     </tr>
                     <tr>
                       <td>
@@ -1837,7 +1889,25 @@
                       <td>
                         <a href="1424478665.htm">FinanceModelException</a>
                       </td>
-                      <td />
+                      <td>
+                        <div class="summary">
+                          <a href="413369890.htm">FinanceException</a> thrown by certain classes in <span class="nolink">[Suoranta.Finance.Models]</span> if the
+   model encounters an error.
+   </div>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td>
+                        <img src="../icons/pubclass.gif" alt="Public class" title="Public class" />
+                      </td>
+                      <td>
+                        <a href="1468211307.htm">FitchAttribute</a>
+                      </td>
+                      <td>
+                        <div class="summary">
+                          <a href="1374702793.htm">CreditRatingAttribute</a> for Fitch.
+   </div>
+                      </td>
                     </tr>
                     <tr>
                       <td>
@@ -1846,7 +1916,11 @@
                       <td>
                         <a href="76608743.htm">IbanFormatException</a>
                       </td>
-                      <td />
+                      <td>
+                        <div class="summary">
+                          <a href="1674538559.htm">FinanceFormatException</a> thrown on invalid <a href="1112121771.htm">IBAN</a>.
+   </div>
+                      </td>
                     </tr>
                     <tr>
                       <td>
@@ -1870,7 +1944,8 @@
                       </td>
                       <td>
                         <div class="summary">
-   Thrown on failure to parse ISIN from a <a href="https://docs.microsoft.com/en-us/dotnet/api/system.string" target="_blank">String</a>.
+   Thrown on failure to parse ISIN from a <a href="https://docs.microsoft.com/en-us/dotnet/api/system.string" target="_blank">String</a>. This includes checksum errors and the unrecognized
+   jurisdiction.
    </div>
                       </td>
                     </tr>
@@ -1897,8 +1972,20 @@
                       </td>
                       <td>
                         <div class="summary">
-                          <a href="https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.icomparer-1" target="_blank">IComparer</a> for <a href="907016371.htm">ITimestamped</a> values that may have differing
-   <a href="1188569005.htm">TimestampKind</a>.
+                          <a href="https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.icomparer-1" target="_blank">IComparer</a> for <a href="907016371.htm">ITimestamped</a> values that may have differing <a href="1188569005.htm">TimestampKind</a>.
+   </div>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td>
+                        <img src="../icons/pubclass.gif" alt="Public class" title="Public class" />
+                      </td>
+                      <td>
+                        <a href="520857462.htm">MoodysAttribute</a>
+                      </td>
+                      <td>
+                        <div class="summary">
+                          <a href="1374702793.htm">CreditRatingAttribute</a> for Moody's.
    </div>
                       </td>
                     </tr>
@@ -1911,7 +1998,7 @@
                       </td>
                       <td>
                         <div class="summary">
-   Valid combinations of <a href="1708519508.htm">OptionType</a> values.
+   Common combinations of <a href="1708519508.htm">OptionType</a> values.
    </div>
                       </td>
                     </tr>
@@ -1972,6 +2059,19 @@
                         <img src="../icons/pubclass.gif" alt="Public class" title="Public class" />
                       </td>
                       <td>
+                        <a href="461314196.htm">SnPAttribute</a>
+                      </td>
+                      <td>
+                        <div class="summary">
+                          <a href="1374702793.htm">CreditRatingAttribute</a> for Standard &amp; Poor's.
+   </div>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td>
+                        <img src="../icons/pubclass.gif" alt="Public class" title="Public class" />
+                      </td>
+                      <td>
                         <a href="849054387.htm">SpotForexContract</a>
                       </td>
                       <td>
@@ -1989,8 +2089,7 @@
                       </td>
                       <td>
                         <div class="summary">
-   Creates <a href="1351781486.htm">TimeScale</a>s with preset <a href="194175893.htm">TradingDayInMinutes</a> and
-   <a href="460204154.htm">TradingYearInDays</a>.
+   Creates <a href="1351781486.htm">TimeScale</a>s with preset <a href="194175893.htm">TradingDayInMinutes</a> and <a href="460204154.htm">TradingYearInDays</a>.
    </div>
                       </td>
                     </tr>
@@ -2023,7 +2122,11 @@
                       <td>
                         <a href="412780483.htm">UnitLabelAttribute</a>
                       </td>
-                      <td />
+                      <td>
+                        <div class="summary">
+   Defines unit labels for enums representing units or unit quantities.
+   </div>
+                      </td>
                     </tr>
                     <tr>
                       <td>
@@ -2034,7 +2137,7 @@
                       </td>
                       <td>
                         <div class="summary">
-   Moving OHLC volatility estimators
+   Moving OHLC volatility estimators.
    </div>
                       </td>
                     </tr>
@@ -2091,7 +2194,11 @@
                       <td>
                         <a href="1810444315.htm">CreditRatingHistory<span class="languageSpecificText"><span class="cs">.</span><span class="vb">.</span><span class="cpp">::</span><span class="nu">.</span><span class="fs">.</span></span>Element</a>
                       </td>
-                      <td />
+                      <td>
+                        <div class="summary">
+   Implements <a href="1899707992.htm">ICreditRatingEntry</a>.
+   </div>
+                      </td>
                     </tr>
                     <tr>
                       <td>
@@ -2100,7 +2207,11 @@
                       <td>
                         <a href="397067010.htm">CurrencyAmount</a>
                       </td>
-                      <td />
+                      <td>
+                        <div class="summary">
+   Represents a monetary amount in specified <a href="1322968494.htm">Currency</a>.
+   </div>
+                      </td>
                     </tr>
                     <tr>
                       <td>
@@ -2122,7 +2233,11 @@
                       <td>
                         <a href="1112121771.htm">IBAN</a>
                       </td>
-                      <td />
+                      <td>
+                        <div class="summary">
+   Represents IBAN account number.
+   </div>
+                      </td>
                     </tr>
                     <tr>
                       <td>
@@ -2184,7 +2299,11 @@
                       <td>
                         <a href="420720043.htm">Term</a>
                       </td>
-                      <td />
+                      <td>
+                        <div class="summary">
+   Represents the term of a debt security or other type of contractual obligation.
+   </div>
+                      </td>
                     </tr>
                     <tr>
                       <td>
@@ -2228,7 +2347,7 @@
                       </td>
                       <td>
                         <div class="summary">
-   Interface IAssetClassInfo
+   Defines an asset class.
    </div>
                       </td>
                     </tr>
@@ -2265,7 +2384,11 @@
                       <td>
                         <a href="373834603.htm">ICashFlow</a>
                       </td>
-                      <td />
+                      <td>
+                        <div class="summary">
+   Represents a cash flow, i.e., a list of <a href="390342386.htm">IPayable</a>s.
+   </div>
+                      </td>
                     </tr>
                     <tr>
                       <td>
@@ -2310,7 +2433,11 @@
                       <td>
                         <a href="1899707992.htm">ICreditRatingEntry</a>
                       </td>
-                      <td />
+                      <td>
+                        <div class="summary">
+   Represents a credit rating assigned at the specific date.
+   </div>
+                      </td>
                     </tr>
                     <tr>
                       <td>
@@ -2319,7 +2446,11 @@
                       <td>
                         <a href="140000436.htm">ICreditRatingHistory</a>
                       </td>
-                      <td />
+                      <td>
+                        <div class="summary">
+   Represents credit rating history.
+   </div>
+                      </td>
                     </tr>
                     <tr>
                       <td>
@@ -2348,7 +2479,7 @@
                       </td>
                       <td>
                         <div class="summary">
-   Represents an exchange
+   Represents a securities/derivatives exchange.
    </div>
                       </td>
                     </tr>
@@ -2376,8 +2507,7 @@
                       </td>
                       <td>
                         <div class="summary">
-   Types that implement this interface store or generate the interest payment schedule of
-   an <a href="1688708959.htm">IDebtSecurity</a>.
+   Types that implement this interface store or generate the interest payment schedule of an <a href="1688708959.htm">IDebtSecurity</a>.
    </div>
                       </td>
                     </tr>
@@ -2390,8 +2520,7 @@
                       </td>
                       <td>
                         <div class="summary">
-   Special case of <a href="1831690966.htm">IGetCoupon</a> for <a href="1688708959.htm">IDebtSecurity</a>s with a non-standard
-   payment schedule.
+   Special case of <a href="1831690966.htm">IGetCoupon</a> for <a href="1688708959.htm">IDebtSecurity</a>s with a non-standard payment schedule.
    </div>
                       </td>
                     </tr>
@@ -2404,8 +2533,8 @@
                       </td>
                       <td>
                         <div class="summary">
-                          <a href="1831690966.htm">IGetCoupon</a> interface for <a href="1688708959.htm">IDebtSecurity</a> that has a standard payment
-   schedule defined by a fixed rate or floating rate derived from the benchmark and the markup.
+                          <a href="1831690966.htm">IGetCoupon</a> interface for <a href="1688708959.htm">IDebtSecurity</a> that has a standard payment schedule defined
+   by a fixed rate or floating rate derived from the benchmark and the markup.
    </div>
                       </td>
                     </tr>
@@ -2584,8 +2713,8 @@
                       </td>
                       <td>
                         <div class="summary">
-   Provides the access to <a href="1118171087.htm">TradingDayInMinutes</a> and <a href="1869025140.htm">TradingYearInDays</a>
-   that are otherwise private to types that use them.
+     Provides the access to <a href="1118171087.htm">TradingDayInMinutes</a> and <a href="1869025140.htm">TradingYearInDays</a> that are
+     otherwise private to types that use them.
    </div>
                       </td>
                     </tr>
@@ -2624,9 +2753,9 @@
                       </td>
                       <td>
                         <div class="summary">
-   Provides timestamps for fixed time range, i.e., each timestamp has a fixed index. Indexing is
-   zero-based in relation to <a href="1138611679.htm">First</a>. Non-trading segments of <a href="1613699721.htm">TradingSchedule</a>
-   do not have a value for them in the index. See <a href="1940016292.htm">IIndexedEnumerable<span class="languageSpecificText"><span class="cs">&lt;</span><span class="vb">(Of </span><span class="cpp">&lt;</span><span class="nu">(</span><span class="fs">&lt;'</span></span>T<span class="languageSpecificText"><span class="cs">&gt;</span><span class="vb">)</span><span class="cpp">&gt;</span><span class="nu">)</span><span class="fs">&gt;</span></span></a>.
+     Provides timestamps for fixed time range, i.e., each timestamp has a fixed index. Indexing is
+     zero-based in relation to <a href="1138611679.htm">First</a>. Non-trading segments of <a href="1613699721.htm">TradingSchedule</a>
+     do not have a value for them in the index. See <a href="1940016292.htm">IIndexedEnumerable<span class="languageSpecificText"><span class="cs">&lt;</span><span class="vb">(Of </span><span class="cpp">&lt;</span><span class="nu">(</span><span class="fs">&lt;'</span></span>T<span class="languageSpecificText"><span class="cs">&gt;</span><span class="vb">)</span><span class="cpp">&gt;</span><span class="nu">)</span><span class="fs">&gt;</span></span></a>.
    </div>
                       </td>
                     </tr>
@@ -2639,8 +2768,7 @@
                       </td>
                       <td>
                         <div class="summary">
-                          <a href="https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.ienumerable-1" target="_blank">IEnumerable</a> of applicable trading hours without fixed indexing.
-   Also implements <a href="1645185428.htm">IBarIndexer</a>.
+                          <a href="https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.ienumerable-1" target="_blank">IEnumerable</a> of applicable trading hours without fixed indexing. Also implements <a href="1645185428.htm">IBarIndexer</a>.
    </div>
                       </td>
                     </tr>
@@ -2653,8 +2781,7 @@
                       </td>
                       <td>
                         <div class="summary">
-   Represents the underlying of <a href="1625816262.htm">IContractInfo</a> (i.e., the elementary exposure) of,
-   e.g., a derivative.
+   Represents the underlying of <a href="1625816262.htm">IContractInfo</a> (i.e., the elementary exposure) of, e.g., a derivative.
    </div>
                       </td>
                     </tr>
@@ -2724,7 +2851,13 @@
                       <td>
                         <a href="1129744797.htm">CreditRating</a>
                       </td>
-                      <td />
+                      <td>
+                        <div class="summary">
+   Value names represent Fitch/S&amp;P ratings, with postfix p being the equivalent of + and m that of -.
+   Each enum member has <a href="1374702793.htm">CreditRatingAttribute</a>s from which the official designation can
+   be retrieved for each of the three major rating agencies.
+   </div>
+                      </td>
                     </tr>
                     <tr>
                       <td>
@@ -2758,18 +2891,9 @@
                       </td>
                       <td>
                         <div class="summary">
-   Enum DayOfMonth
+   Represents a rule prescribing the day of a month.
    </div>
                       </td>
-                    </tr>
-                    <tr>
-                      <td>
-                        <img src="../icons/pubenumeration.gif" alt="Public enumeration" title="Public enumeration" />
-                      </td>
-                      <td>
-                        <a href="1793158549.htm">DisplayUnitPrefix</a>
-                      </td>
-                      <td />
                     </tr>
                     <tr>
                       <td>
@@ -2800,7 +2924,11 @@
                       <td>
                         <a href="683086987.htm">QuoteType</a>
                       </td>
-                      <td />
+                      <td>
+                        <div class="summary">
+   Flags representing quote type.
+   </div>
+                      </td>
                     </tr>
                     <tr>
                       <td>
@@ -2811,7 +2939,8 @@
                       </td>
                       <td>
                         <div class="summary">
-   Regions of economic events. The values do not overlap.
+   Regions of economic events. Members have one or more <a href="14150498.htm">Iso3166Attribute</a>s. The values do not
+   overlap and are flags, hence they can be combined.
    </div>
                       </td>
                     </tr>
@@ -2868,7 +2997,7 @@
                       </td>
                       <td>
                         <div class="summary">
-   Represents the base unit of time.
+   Represents the base unit of time. The members have <a href="412780483.htm">UnitLabelAttribute</a>.
    </div>
                       </td>
                     </tr>
@@ -2881,8 +3010,7 @@
                       </td>
                       <td>
                         <div class="summary">
-                          <a href="https://en.wikipedia.org/wiki/Bijection,_injection_and_surjection">https://en.wikipedia.org/wiki/Bijection,_injection_and_surjection</a>
-                        </div>
+   See <a href="https://en.wikipedia.org/wiki/Bijection,_injection_and_surjection">https://en.wikipedia.org/wiki/Bijection,_injection_and_surjection</a></div>
                       </td>
                     </tr>
                     <tr>
@@ -2890,9 +3018,14 @@
                         <img src="../icons/pubenumeration.gif" alt="Public enumeration" title="Public enumeration" />
                       </td>
                       <td>
-                        <a href="1971926340.htm">UnitLabelFormat</a>
+                        <a href="1020014037.htm">ValueMultiplier</a>
                       </td>
-                      <td />
+                      <td>
+                        <div class="summary">
+   When set to other than <a href="2029703061.htm">None</a>, indicates the associated amount is reported in multiple of the
+   base unit.
+   </div>
+                      </td>
                     </tr>
                     <tr>
                       <td>

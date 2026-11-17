@@ -348,7 +348,6 @@
   </HelpKINode>
   <HelpKINode Title="BacktestResults.BacktestResults constructor" Url="html/1754686652.htm" />
   <HelpKINode Title="BacktestResults.Comments property" Url="html/794218313.htm" />
-  <HelpKINode Title="BacktestResults.GetObjectData method" Url="html/1698398645.htm" />
   <HelpKINode Title="BacktestResults.Id property" Url="html/560429610.htm" />
   <HelpKINode Title="BacktestResults.Settings property" Url="html/760682126.htm" />
   <HelpKINode Title="BacktestResults.Steps property" Url="html/1947565934.htm" />
@@ -368,7 +367,6 @@
   <HelpKINode Title="BacktestStep.BarIndex property" Url="html/193689566.htm" />
   <HelpKINode Title="BacktestStep.ClosingPosition property" Url="html/1250084277.htm" />
   <HelpKINode Title="BacktestStep.Equity property" Url="html/1208480810.htm" />
-  <HelpKINode Title="BacktestStep.GetObjectData method" Url="html/2130014055.htm" />
   <HelpKINode Title="BacktestStep.ProcessedOrders property" Url="html/1584951742.htm" />
   <HelpKINode Title="BacktestStep.RealizedPL property" Url="html/789342275.htm" />
   <HelpKINode Title="BacktestStep.TradingCost property" Url="html/1479034395.htm" />
@@ -1263,12 +1261,22 @@
   <HelpKINode Title="CreditRating.CCCm field" Url="html/930775637.htm" />
   <HelpKINode Title="CreditRating.CCCp field" Url="html/171260750.htm" />
   <HelpKINode Title="CreditRating.D field" Url="html/992733241.htm" />
-  <HelpKINode Title="CreditRating.None field" Url="html/2114295073.htm" />
   <HelpKINode Title="CreditRatingAgency enumeration" Url="html/1077619538.htm" />
   <HelpKINode Title="CreditRatingAgency.DnB field" Url="html/609166370.htm" />
   <HelpKINode Title="CreditRatingAgency.Fitch field" Url="html/807692662.htm" />
   <HelpKINode Title="CreditRatingAgency.Moodys field" Url="html/1656537937.htm" />
   <HelpKINode Title="CreditRatingAgency.SnP field" Url="html/609166653.htm" />
+  <HelpKINode Title="CreditRatingAttribute class" Url="html/1374702793.htm" />
+  <HelpKINode Title="CreditRatingAttribute class" Url="html/1803269843.htm" />
+  <HelpKINode Title="CreditRatingAttribute class">
+    <HelpKINode Title="about CreditRatingAttribute class" Url="html/1374702793.htm" />
+    <HelpKINode Title="all members" Url="html/1803269843.htm" />
+    <HelpKINode Title="constructor" Url="html/180240754.htm" />
+    <HelpKINode Title="methods" Url="html/533214205.htm" />
+    <HelpKINode Title="properties" Url="html/1770323054.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CreditRatingAttribute.CreditRatingAttribute constructor" Url="html/180240754.htm" />
+  <HelpKINode Title="CreditRatingAttribute.Value property" Url="html/1777279088.htm" />
   <HelpKINode Title="CreditRatingHistory class" Url="html/1112641273.htm" />
   <HelpKINode Title="CreditRatingHistory class" Url="html/490001727.htm" />
   <HelpKINode Title="CreditRatingHistory class">
@@ -1355,7 +1363,6 @@
   <HelpKINode Title="CurrencyAmount.Amount property" Url="html/470875984.htm" />
   <HelpKINode Title="CurrencyAmount.Currency property" Url="html/1936972915.htm" />
   <HelpKINode Title="CurrencyAmount.CurrencyAmount constructor" Url="html/92774910.htm" />
-  <HelpKINode Title="CurrencyAmount.Equals method" Url="html/1042140302.htm" />
   <HelpKINode Title="CurrencyAmount.Equals method" Url="html/79254543.htm" />
   <HelpKINode Title="CurrencyAmount.Subtraction operator" Url="html/2140509432.htm" />
   <HelpKINode Title="CurrencyAmount.ToString method" Url="html/569437499.htm" />
@@ -1681,10 +1688,6 @@
   <HelpKINode Title="DisplayName property" Url="html/1634556171.htm" />
   <HelpKINode Title="DisplayName property" Url="html/1970205278.htm" />
   <HelpKINode Title="DisplayName property" Url="html/635920436.htm" />
-  <HelpKINode Title="DisplayUnitPrefix enumeration" Url="html/1793158549.htm" />
-  <HelpKINode Title="DisplayUnitPrefix.Millions field" Url="html/2135509420.htm" />
-  <HelpKINode Title="DisplayUnitPrefix.None field" Url="html/636375869.htm" />
-  <HelpKINode Title="DisplayUnitPrefix.Thousands field" Url="html/661312712.htm" />
   <HelpKINode Title="Dispose method" Url="html/1190987370.htm" />
   <HelpKINode Title="Dispose method" Url="html/1432484715.htm" />
   <HelpKINode Title="Dispose method" Url="html/1958054652.htm" />
@@ -1829,7 +1832,6 @@
   <HelpKINode Title="Equality operator" Url="html/2011255667.htm" />
   <HelpKINode Title="Equality operator" Url="html/626025403.htm" />
   <HelpKINode Title="Equality operator" Url="html/737791236.htm" />
-  <HelpKINode Title="Equals method" Url="html/1042140302.htm" />
   <HelpKINode Title="Equals method" Url="html/1086605383.htm" />
   <HelpKINode Title="Equals method" Url="html/1111613319.htm" />
   <HelpKINode Title="Equals method" Url="html/1199912754.htm" />
@@ -2006,11 +2008,8 @@
   <HelpKINode Title="ExecuteStrategy structure">
     <HelpKINode Title="about ExecuteStrategy structure" Url="html/417595322.htm" />
     <HelpKINode Title="all members" Url="html/1991112970.htm" />
-    <HelpKINode Title="constructor" Url="html/317671548.htm" />
     <HelpKINode Title="methods" Url="html/1061523438.htm" />
   </HelpKINode>
-  <HelpKINode Title="ExecuteStrategy.ExecuteStrategy constructor" Url="html/317671548.htm" />
-  <HelpKINode Title="ExecuteStrategy.GetObjectData method" Url="html/1182147036.htm" />
   <HelpKINode Title="ExecuteStrategy.ToString method" Url="html/954940165.htm" />
   <HelpKINode Title="Execution property" Url="html/1950221981.htm" />
   <HelpKINode Title="Execution property" Url="html/412862058.htm" />
@@ -2055,8 +2054,6 @@
   <HelpKINode Title="Extensions.CombineOrdered(Of T) method" Url="html/1075716864.htm" />
   <HelpKINode Title="Extensions.CombineOrdered&lt;T&gt; method" Url="html/1075716864.htm" />
   <HelpKINode Title="Extensions.GetRange method" Url="html/1135220561.htm" />
-  <HelpKINode Title="Extensions.GetUnitLabel(Of TEnum) method" Url="html/987985207.htm" />
-  <HelpKINode Title="Extensions.GetUnitLabel&lt;TEnum&gt; method" Url="html/987985207.htm" />
   <HelpKINode Title="Extensions.IsAnyOf(Of T) method" Url="html/1784416539.htm" />
   <HelpKINode Title="Extensions.IsAnyOf&lt;T&gt; method" Url="html/1784416539.htm" />
   <HelpKINode Title="Extensions.IsClose method" Url="html/1799851977.htm" />
@@ -2204,6 +2201,16 @@
   <HelpKINode Title="FiscalYear.OpeningDate property" Url="html/1928812421.htm" />
   <HelpKINode Title="Fitch enumeration member" Url="html/1077619538.htm" />
   <HelpKINode Title="Fitch field" Url="html/807692662.htm" />
+  <HelpKINode Title="FitchAttribute class" Url="html/1034578163.htm" />
+  <HelpKINode Title="FitchAttribute class" Url="html/1468211307.htm" />
+  <HelpKINode Title="FitchAttribute class">
+    <HelpKINode Title="about FitchAttribute class" Url="html/1468211307.htm" />
+    <HelpKINode Title="all members" Url="html/1034578163.htm" />
+    <HelpKINode Title="constructor" Url="html/523171278.htm" />
+    <HelpKINode Title="methods" Url="html/586147635.htm" />
+    <HelpKINode Title="properties" Url="html/209629846.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FitchAttribute.FitchAttribute constructor" Url="html/523171278.htm" />
   <HelpKINode Title="Fixed.CommonDividendMultiplier property" Url="html/1784664414.htm" />
   <HelpKINode Title="Fixed.Cumulative property" Url="html/1466360100.htm" />
   <HelpKINode Title="Fixed.FixedAmount property" Url="html/2107856759.htm" />
@@ -2435,18 +2442,6 @@
   <HelpKINode Title="GetNetPresentValue method" Url="html/1455252863.htm" />
   <HelpKINode Title="GetNetPresentValue method" Url="html/1867144711.htm" />
   <HelpKINode Title="GetNpvOf method" Url="html/680917669.htm" />
-  <HelpKINode Title="GetObjectData method" Url="html/1139588983.htm" />
-  <HelpKINode Title="GetObjectData method" Url="html/1182147036.htm" />
-  <HelpKINode Title="GetObjectData method" Url="html/1258382738.htm" />
-  <HelpKINode Title="GetObjectData method" Url="html/1292023251.htm" />
-  <HelpKINode Title="GetObjectData method" Url="html/1466879317.htm" />
-  <HelpKINode Title="GetObjectData method" Url="html/154738132.htm" />
-  <HelpKINode Title="GetObjectData method" Url="html/1698398645.htm" />
-  <HelpKINode Title="GetObjectData method" Url="html/2096782420.htm" />
-  <HelpKINode Title="GetObjectData method" Url="html/2130014055.htm" />
-  <HelpKINode Title="GetObjectData method" Url="html/50097990.htm" />
-  <HelpKINode Title="GetObjectData method" Url="html/753744480.htm" />
-  <HelpKINode Title="GetObjectData method" Url="html/825225914.htm" />
   <HelpKINode Title="GetOhlcSeries method" Url="html/499124892.htm" />
   <HelpKINode Title="GetOpen method" Url="html/218427472.htm" />
   <HelpKINode Title="GetOpposite method" Url="html/986749864.htm" />
@@ -2473,8 +2468,6 @@
   <HelpKINode Title="GetTotalOwnershipInterestIn method" Url="html/1867715508.htm" />
   <HelpKINode Title="GetUnderlying method" Url="html/1270280821.htm" />
   <HelpKINode Title="GetUnderlying method" Url="html/402569903.htm" />
-  <HelpKINode Title="GetUnitLabel(Of TEnum) method" Url="html/987985207.htm" />
-  <HelpKINode Title="GetUnitLabel&lt;TEnum&gt; method" Url="html/987985207.htm" />
   <HelpKINode Title="GetValue method" Url="html/521242676.htm" />
   <HelpKINode Title="GetValueDates method" Url="html/366701164.htm" />
   <HelpKINode Title="GJ enumeration member" Url="html/1939531287.htm" />
@@ -2992,12 +2985,12 @@
   <HelpKINode Title="IncomeStatementItem structure">
     <HelpKINode Title="about IncomeStatementItem structure" Url="html/1045568273.htm" />
     <HelpKINode Title="all members" Url="html/1243068903.htm" />
-    <HelpKINode Title="constructor" Url="html/1529297794.htm" />
+    <HelpKINode Title="constructor" Url="html/1688964600.htm" />
     <HelpKINode Title="methods" Url="html/42222567.htm" />
     <HelpKINode Title="properties" Url="html/593811222.htm" />
   </HelpKINode>
   <HelpKINode Title="IncomeStatementItem.GetHashCode method" Url="html/1882134643.htm" />
-  <HelpKINode Title="IncomeStatementItem.IncomeStatementItem constructor" Url="html/1529297794.htm" />
+  <HelpKINode Title="IncomeStatementItem.IncomeStatementItem constructor" Url="html/1688964600.htm" />
   <HelpKINode Title="IncomeStatementItem.Key property" Url="html/1788256584.htm" />
   <HelpKINode Title="IncomeStatementItem.Text property" Url="html/760697718.htm" />
   <HelpKINode Title="IncomeStatementItem.UnitPrefix property" Url="html/328740811.htm" />
@@ -3299,7 +3292,6 @@
   <HelpKINode Title="ISimulatedOrder.Quantity property" Url="html/1795983612.htm" />
   <HelpKINode Title="ISimulatedOrder.Stop property" Url="html/1372839269.htm" />
   <HelpKINode Title="ISimulatedOrder.SubmissionTime property" Url="html/1481875228.htm" />
-  <HelpKINode Title="ISimulatedOrder.Timestamp property" Url="html/1909721723.htm" />
   <HelpKINode Title="Isin property" Url="html/1084066725.htm" />
   <HelpKINode Title="Isin property" Url="html/1954024031.htm" />
   <HelpKINode Title="Isin structure" Url="html/1401693262.htm" />
@@ -3633,14 +3625,11 @@
   <HelpKINode Title="LimitOrderCondition structure">
     <HelpKINode Title="about LimitOrderCondition structure" Url="html/868415022.htm" />
     <HelpKINode Title="all members" Url="html/1890442106.htm" />
-    <HelpKINode Title="constructor" Url="html/1781975144.htm" />
     <HelpKINode Title="methods" Url="html/693681174.htm" />
     <HelpKINode Title="properties" Url="html/1782699511.htm" />
     <HelpKINode Title="type conversions" Url="html/296805073.htm" />
   </HelpKINode>
   <HelpKINode Title="LimitOrderCondition to  conversion" Url="html/1021085995.htm" />
-  <HelpKINode Title="LimitOrderCondition.GetObjectData method" Url="html/753744480.htm" />
-  <HelpKINode Title="LimitOrderCondition.LimitOrderCondition constructor" Url="html/1781975144.htm" />
   <HelpKINode Title="LimitOrderCondition.LimitPrice property" Url="html/1263523532.htm" />
   <HelpKINode Title="LimitOrderCondition.ToString method" Url="html/2016738839.htm" />
   <HelpKINode Title="LimitOrderCondition.ValidityPeriod property" Url="html/1069085661.htm" />
@@ -3650,11 +3639,8 @@
   <HelpKINode Title="Liquidate structure">
     <HelpKINode Title="about Liquidate structure" Url="html/1188392924.htm" />
     <HelpKINode Title="all members" Url="html/1809358744.htm" />
-    <HelpKINode Title="constructor" Url="html/1376551546.htm" />
     <HelpKINode Title="methods" Url="html/668115356.htm" />
   </HelpKINode>
-  <HelpKINode Title="Liquidate.GetObjectData method" Url="html/1258382738.htm" />
-  <HelpKINode Title="Liquidate.Liquidate constructor" Url="html/1376551546.htm" />
   <HelpKINode Title="Liquidate.ToString method" Url="html/1229887487.htm" />
   <HelpKINode Title="LiquidityProvider class" Url="html/1069753805.htm" />
   <HelpKINode Title="LiquidityProvider class" Url="html/144832171.htm" />
@@ -3693,8 +3679,6 @@
   <HelpKINode Title="Loan.SetPrincipalAmount method" Url="html/67657185.htm" />
   <HelpKINode Title="Loan.TermCategory property" Url="html/2054630599.htm" />
   <HelpKINode Title="Loan.ValuationMethod property" Url="html/1016060021.htm" />
-  <HelpKINode Title="Long enumeration member" Url="html/1971926340.htm" />
-  <HelpKINode Title="Long field" Url="html/322055326.htm" />
   <HelpKINode Title="LongName property" Url="html/1029204812.htm" />
   <HelpKINode Title="LongPluralLabel property" Url="html/260037773.htm" />
   <HelpKINode Title="LongTerm enumeration member" Url="html/442289817.htm" />
@@ -3837,12 +3821,9 @@
   <HelpKINode Title="MarketOrderCondition structure">
     <HelpKINode Title="about MarketOrderCondition structure" Url="html/1668747109.htm" />
     <HelpKINode Title="all members" Url="html/338170451.htm" />
-    <HelpKINode Title="constructor" Url="html/1880546949.htm" />
     <HelpKINode Title="methods" Url="html/680645585.htm" />
     <HelpKINode Title="properties" Url="html/1287981646.htm" />
   </HelpKINode>
-  <HelpKINode Title="MarketOrderCondition.GetObjectData method" Url="html/1466879317.htm" />
-  <HelpKINode Title="MarketOrderCondition.MarketOrderCondition constructor" Url="html/1880546949.htm" />
   <HelpKINode Title="MarketOrderCondition.ToString method" Url="html/1011054128.htm" />
   <HelpKINode Title="MarketOrderCondition.ValidityPeriod property" Url="html/1990932790.htm" />
   <HelpKINode Title="MarkToMarket enumeration member" Url="html/2112951523.htm" />
@@ -3886,8 +3867,8 @@
   <HelpKINode Title="Mid enumeration member" Url="html/683086987.htm" />
   <HelpKINode Title="Mid field" Url="html/496205669.htm" />
   <HelpKINode Title="MidPrice property" Url="html/940080904.htm" />
-  <HelpKINode Title="Millions enumeration member" Url="html/1793158549.htm" />
-  <HelpKINode Title="Millions field" Url="html/2135509420.htm" />
+  <HelpKINode Title="Millions enumeration member" Url="html/1020014037.htm" />
+  <HelpKINode Title="Millions field" Url="html/1056988090.htm" />
   <HelpKINode Title="Minute enumeration member" Url="html/1663590182.htm" />
   <HelpKINode Title="Minute field" Url="html/344652414.htm" />
   <HelpKINode Title="MJ enumeration member" Url="html/1939531287.htm" />
@@ -3963,6 +3944,16 @@
   <HelpKINode Title="Months property" Url="html/415028369.htm" />
   <HelpKINode Title="Moodys enumeration member" Url="html/1077619538.htm" />
   <HelpKINode Title="Moodys field" Url="html/1656537937.htm" />
+  <HelpKINode Title="MoodysAttribute class" Url="html/1807344966.htm" />
+  <HelpKINode Title="MoodysAttribute class" Url="html/520857462.htm" />
+  <HelpKINode Title="MoodysAttribute class">
+    <HelpKINode Title="about MoodysAttribute class" Url="html/520857462.htm" />
+    <HelpKINode Title="all members" Url="html/1807344966.htm" />
+    <HelpKINode Title="constructor" Url="html/274396641.htm" />
+    <HelpKINode Title="methods" Url="html/2020076530.htm" />
+    <HelpKINode Title="properties" Url="html/1402354853.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MoodysAttribute.MoodysAttribute constructor" Url="html/274396641.htm" />
   <HelpKINode Title="MostRecentRatings property" Url="html/1404743972.htm" />
   <HelpKINode Title="MostRecentRatings property" Url="html/527011345.htm" />
   <HelpKINode Title="Multiplier property" Url="html/434919904.htm" />
@@ -4067,9 +4058,8 @@
   </HelpKINode>
   <HelpKINode Title="NOK enumeration member" Url="html/1322968494.htm" />
   <HelpKINode Title="NOK field" Url="html/412811746.htm" />
-  <HelpKINode Title="None enumeration member" Url="html/1129744797.htm" />
+  <HelpKINode Title="None enumeration member" Url="html/1020014037.htm" />
   <HelpKINode Title="None enumeration member" Url="html/1456192965.htm" />
-  <HelpKINode Title="None enumeration member" Url="html/1793158549.htm" />
   <HelpKINode Title="None enumeration member" Url="html/3812663.htm" />
   <HelpKINode Title="None enumeration member" Url="html/872178452.htm" />
   <HelpKINode Title="None field" Url="html/1627705801.htm" />
@@ -4077,9 +4067,8 @@
   <HelpKINode Title="None field" Url="html/1810165014.htm" />
   <HelpKINode Title="None field" Url="html/1918225999.htm" />
   <HelpKINode Title="None field" Url="html/2024204129.htm" />
-  <HelpKINode Title="None field" Url="html/2114295073.htm" />
+  <HelpKINode Title="None field" Url="html/2029703061.htm" />
   <HelpKINode Title="None field" Url="html/298364289.htm" />
-  <HelpKINode Title="None field" Url="html/636375869.htm" />
   <HelpKINode Title="None.CommonDividendMultiplier property" Url="html/1500686844.htm" />
   <HelpKINode Title="NonEMUWesternEurope field" Url="html/959355658.htm" />
   <HelpKINode Title="Nordic enumeration member" Url="html/2023130359.htm" />
@@ -4108,7 +4097,6 @@
     <HelpKINode Title="methods" Url="html/1817651388.htm" />
     <HelpKINode Title="properties" Url="html/492443221.htm" />
   </HelpKINode>
-  <HelpKINode Title="NullOrderCondition.GetObjectData method" Url="html/154738132.htm" />
   <HelpKINode Title="NullOrderCondition.ValidityPeriod property" Url="html/1976667219.htm" />
   <HelpKINode Title="NZD enumeration member" Url="html/1322968494.htm" />
   <HelpKINode Title="NZD field" Url="html/1884787346.htm" />
@@ -4549,8 +4537,6 @@
   <HelpKINode Title="PlottingOptions property" Url="html/337761862.htm" />
   <HelpKINode Title="PlottingOptions.PlottingOptions constructor" Url="html/1880904936.htm" />
   <HelpKINode Title="PlottingOptions.Range property" Url="html/169814968.htm" />
-  <HelpKINode Title="Plural enumeration member" Url="html/1971926340.htm" />
-  <HelpKINode Title="Plural field" Url="html/883553138.htm" />
   <HelpKINode Title="PointOfDelivery property" Url="html/933458619.htm" />
   <HelpKINode Title="Portfolio class" Url="html/1569171920.htm" />
   <HelpKINode Title="Portfolio class" Url="html/522480572.htm" />
@@ -5109,8 +5095,6 @@
   <HelpKINode Title="ShareType.PreferredFlag field" Url="html/1784809077.htm" />
   <HelpKINode Title="ShareType.PreferredStock field" Url="html/1960779433.htm" />
   <HelpKINode Title="ShareType.StockFlag field" Url="html/121348214.htm" />
-  <HelpKINode Title="Short enumeration member" Url="html/1971926340.htm" />
-  <HelpKINode Title="Short field" Url="html/1459523298.htm" />
   <HelpKINode Title="ShortTerm enumeration member" Url="html/442289817.htm" />
   <HelpKINode Title="ShortTerm field" Url="html/220232825.htm" />
   <HelpKINode Title="Shutdown event" Url="html/158899935.htm" />
@@ -5131,12 +5115,21 @@
   <HelpKINode Title="SimulatedOrder.Executed property" Url="html/269242549.htm" />
   <HelpKINode Title="SimulatedOrder.Execution property" Url="html/412862058.htm" />
   <HelpKINode Title="SimulatedOrder.ExecutionTime property" Url="html/148626529.htm" />
-  <HelpKINode Title="SimulatedOrder.GetObjectData method" Url="html/50097990.htm" />
   <HelpKINode Title="SimulatedOrder.OrderCondition property" Url="html/668585591.htm" />
   <HelpKINode Title="SimulatedOrder.SimulatedOrder constructor" Url="html/991642111.htm" />
   <HelpKINode Title="SimulatedOrder.Stop property" Url="html/1740364724.htm" />
   <HelpKINode Title="SnP enumeration member" Url="html/1077619538.htm" />
   <HelpKINode Title="SnP field" Url="html/609166653.htm" />
+  <HelpKINode Title="SnPAttribute class" Url="html/1068787608.htm" />
+  <HelpKINode Title="SnPAttribute class" Url="html/461314196.htm" />
+  <HelpKINode Title="SnPAttribute class">
+    <HelpKINode Title="about SnPAttribute class" Url="html/461314196.htm" />
+    <HelpKINode Title="all members" Url="html/1068787608.htm" />
+    <HelpKINode Title="constructor" Url="html/1261465421.htm" />
+    <HelpKINode Title="methods" Url="html/365164660.htm" />
+    <HelpKINode Title="properties" Url="html/1146244983.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SnPAttribute.SnPAttribute constructor" Url="html/1261465421.htm" />
   <HelpKINode Title="SOFR field" Url="html/180292281.htm" />
   <HelpKINode Title="Solvent enumeration member" Url="html/1858862659.htm" />
   <HelpKINode Title="Solvent field" Url="html/1510065700.htm" />
@@ -5214,27 +5207,21 @@
   <HelpKINode Title="StopLoss structure">
     <HelpKINode Title="about StopLoss structure" Url="html/25611975.htm" />
     <HelpKINode Title="all members" Url="html/1719583235.htm" />
-    <HelpKINode Title="constructor" Url="html/1642037784.htm" />
     <HelpKINode Title="methods" Url="html/1060630289.htm" />
     <HelpKINode Title="properties" Url="html/544649628.htm" />
   </HelpKINode>
-  <HelpKINode Title="StopLoss.GetObjectData method" Url="html/1139588983.htm" />
   <HelpKINode Title="StopLoss.PriceReference property" Url="html/672466361.htm" />
-  <HelpKINode Title="StopLoss.StopLoss constructor" Url="html/1642037784.htm" />
   <HelpKINode Title="StopLoss.ToString method" Url="html/1270507602.htm" />
   <HelpKINode Title="StopLossOrderCondition structure" Url="html/1863384034.htm" />
   <HelpKINode Title="StopLossOrderCondition structure" Url="html/273931598.htm" />
   <HelpKINode Title="StopLossOrderCondition structure">
     <HelpKINode Title="about StopLossOrderCondition structure" Url="html/1863384034.htm" />
     <HelpKINode Title="all members" Url="html/273931598.htm" />
-    <HelpKINode Title="constructor" Url="html/1610571214.htm" />
     <HelpKINode Title="methods" Url="html/1029908950.htm" />
     <HelpKINode Title="properties" Url="html/907927985.htm" />
     <HelpKINode Title="type conversions" Url="html/808486697.htm" />
   </HelpKINode>
   <HelpKINode Title="StopLossOrderCondition to  conversion" Url="html/520183569.htm" />
-  <HelpKINode Title="StopLossOrderCondition.GetObjectData method" Url="html/825225914.htm" />
-  <HelpKINode Title="StopLossOrderCondition.StopLossOrderCondition constructor" Url="html/1610571214.htm" />
   <HelpKINode Title="StopLossOrderCondition.ToString method" Url="html/1739378817.htm" />
   <HelpKINode Title="StopLossOrderCondition.TriggerPrice property" Url="html/491800535.htm" />
   <HelpKINode Title="StopLossOrderCondition.ValidityPeriod property" Url="html/1351696783.htm" />
@@ -5339,6 +5326,8 @@
   <HelpKINode Title="Suoranta.Finance.CountryValueAttribute class" Url="html/459389558.htm" />
   <HelpKINode Title="Suoranta.Finance.CreditRating enumeration" Url="html/1129744797.htm" />
   <HelpKINode Title="Suoranta.Finance.CreditRatingAgency enumeration" Url="html/1077619538.htm" />
+  <HelpKINode Title="Suoranta.Finance.CreditRatingAttribute class" Url="html/1374702793.htm" />
+  <HelpKINode Title="Suoranta.Finance.CreditRatingAttribute class" Url="html/1803269843.htm" />
   <HelpKINode Title="Suoranta.Finance.CreditRatingHistory class" Url="html/1112641273.htm" />
   <HelpKINode Title="Suoranta.Finance.CreditRatingHistory class" Url="html/490001727.htm" />
   <HelpKINode Title="Suoranta.Finance.CreditRatingHistory.Element structure" Url="html/1810444315.htm" />
@@ -5432,7 +5421,6 @@
   <HelpKINode Title="Suoranta.Finance.Data.VolumeSeries class" Url="html/1071281806.htm" />
   <HelpKINode Title="Suoranta.Finance.Data.VolumeSeries class" Url="html/1716425758.htm" />
   <HelpKINode Title="Suoranta.Finance.DayOfMonth enumeration" Url="html/343682374.htm" />
-  <HelpKINode Title="Suoranta.Finance.DisplayUnitPrefix enumeration" Url="html/1793158549.htm" />
   <HelpKINode Title="Suoranta.Finance.EnumExtensions class" Url="html/1745262302.htm" />
   <HelpKINode Title="Suoranta.Finance.EnumExtensions class" Url="html/1832844206.htm" />
   <HelpKINode Title="Suoranta.Finance.Extensions class" Url="html/1181198397.htm" />
@@ -5447,6 +5435,8 @@
   <HelpKINode Title="Suoranta.Finance.FinanceFormatException class" Url="html/1674538559.htm" />
   <HelpKINode Title="Suoranta.Finance.FinanceModelException class" Url="html/1424478665.htm" />
   <HelpKINode Title="Suoranta.Finance.FinanceModelException class" Url="html/611647201.htm" />
+  <HelpKINode Title="Suoranta.Finance.FitchAttribute class" Url="html/1034578163.htm" />
+  <HelpKINode Title="Suoranta.Finance.FitchAttribute class" Url="html/1468211307.htm" />
   <HelpKINode Title="Suoranta.Finance.FxPair structure" Url="html/1655488625.htm" />
   <HelpKINode Title="Suoranta.Finance.FxPair structure" Url="html/63704057.htm" />
   <HelpKINode Title="Suoranta.Finance.IAssetClassInfo interface" Url="html/2013109524.htm" />
@@ -5753,6 +5743,8 @@
   <HelpKINode Title="Suoranta.Finance.Models.TradeReceipt class" Url="html/600782563.htm" />
   <HelpKINode Title="Suoranta.Finance.Models.ValuationMethod enumeration" Url="html/2112951523.htm" />
   <HelpKINode Title="Suoranta.Finance.Month enumeration" Url="html/102430339.htm" />
+  <HelpKINode Title="Suoranta.Finance.MoodysAttribute class" Url="html/1807344966.htm" />
+  <HelpKINode Title="Suoranta.Finance.MoodysAttribute class" Url="html/520857462.htm" />
   <HelpKINode Title="Suoranta.Finance.OhlcBar structure" Url="html/1123016096.htm" />
   <HelpKINode Title="Suoranta.Finance.OhlcBar structure" Url="html/592952900.htm" />
   <HelpKINode Title="Suoranta.Finance.OptionType enumeration" Url="html/1708519508.htm" />
@@ -5793,6 +5785,8 @@
   <HelpKINode Title="Suoranta.Finance.Resolver class" Url="html/1860424403.htm" />
   <HelpKINode Title="Suoranta.Finance.Resolver.DefaultResolver class" Url="html/1115613930.htm" />
   <HelpKINode Title="Suoranta.Finance.Resolver.DefaultResolver class" Url="html/579032458.htm" />
+  <HelpKINode Title="Suoranta.Finance.SnPAttribute class" Url="html/1068787608.htm" />
+  <HelpKINode Title="Suoranta.Finance.SnPAttribute class" Url="html/461314196.htm" />
   <HelpKINode Title="Suoranta.Finance.SpotForexContract class" Url="html/1173702467.htm" />
   <HelpKINode Title="Suoranta.Finance.SpotForexContract class" Url="html/849054387.htm" />
   <HelpKINode Title="Suoranta.Finance.Term structure" Url="html/115830583.htm" />
@@ -5879,7 +5873,7 @@
   <HelpKINode Title="Suoranta.Finance.TransformType enumeration" Url="html/1881460347.htm" />
   <HelpKINode Title="Suoranta.Finance.UnitLabelAttribute class" Url="html/2107588621.htm" />
   <HelpKINode Title="Suoranta.Finance.UnitLabelAttribute class" Url="html/412780483.htm" />
-  <HelpKINode Title="Suoranta.Finance.UnitLabelFormat enumeration" Url="html/1971926340.htm" />
+  <HelpKINode Title="Suoranta.Finance.ValueMultiplier enumeration" Url="html/1020014037.htm" />
   <HelpKINode Title="Suoranta.Finance.Volatility class" Url="html/1348137398.htm" />
   <HelpKINode Title="Suoranta.Finance.Volatility class" Url="html/948914962.htm" />
   <HelpKINode Title="Suoranta.Finance.VolatilityScaling enumeration" Url="html/1456192965.htm" />
@@ -5903,27 +5897,21 @@
   <HelpKINode Title="TakeProfit structure">
     <HelpKINode Title="about TakeProfit structure" Url="html/1060128737.htm" />
     <HelpKINode Title="all members" Url="html/1131362505.htm" />
-    <HelpKINode Title="constructor" Url="html/206456318.htm" />
     <HelpKINode Title="methods" Url="html/249235895.htm" />
     <HelpKINode Title="properties" Url="html/13247078.htm" />
   </HelpKINode>
-  <HelpKINode Title="TakeProfit.GetObjectData method" Url="html/1292023251.htm" />
   <HelpKINode Title="TakeProfit.PriceReference property" Url="html/326773379.htm" />
-  <HelpKINode Title="TakeProfit.TakeProfit constructor" Url="html/206456318.htm" />
   <HelpKINode Title="TakeProfit.ToString method" Url="html/930501804.htm" />
   <HelpKINode Title="TakeProfitOrderCondition structure" Url="html/1341252608.htm" />
   <HelpKINode Title="TakeProfitOrderCondition structure" Url="html/650581436.htm" />
   <HelpKINode Title="TakeProfitOrderCondition structure">
     <HelpKINode Title="about TakeProfitOrderCondition structure" Url="html/1341252608.htm" />
     <HelpKINode Title="all members" Url="html/650581436.htm" />
-    <HelpKINode Title="constructor" Url="html/2142352592.htm" />
     <HelpKINode Title="methods" Url="html/1169213352.htm" />
     <HelpKINode Title="properties" Url="html/1138590565.htm" />
     <HelpKINode Title="type conversions" Url="html/1755128475.htm" />
   </HelpKINode>
   <HelpKINode Title="TakeProfitOrderCondition to  conversion" Url="html/2086114497.htm" />
-  <HelpKINode Title="TakeProfitOrderCondition.GetObjectData method" Url="html/2096782420.htm" />
-  <HelpKINode Title="TakeProfitOrderCondition.TakeProfitOrderCondition constructor" Url="html/2142352592.htm" />
   <HelpKINode Title="TakeProfitOrderCondition.ToString method" Url="html/1718094181.htm" />
   <HelpKINode Title="TakeProfitOrderCondition.TriggerPrice property" Url="html/542113783.htm" />
   <HelpKINode Title="TakeProfitOrderCondition.ValidityPeriod property" Url="html/593891627.htm" />
@@ -6023,8 +6011,8 @@
   <HelpKINode Title="Terms property" Url="html/1674917416.htm" />
   <HelpKINode Title="Text property" Url="html/760697718.htm" />
   <HelpKINode Title="ThermalEnergyPerUnitVolume property" Url="html/765421555.htm" />
-  <HelpKINode Title="Thousands enumeration member" Url="html/1793158549.htm" />
-  <HelpKINode Title="Thousands field" Url="html/661312712.htm" />
+  <HelpKINode Title="Thousands enumeration member" Url="html/1020014037.htm" />
+  <HelpKINode Title="Thousands field" Url="html/780642342.htm" />
   <HelpKINode Title="ThrowIfIncompatible method" Url="html/275021447.htm" />
   <HelpKINode Title="Tick structure" Url="html/1244106435.htm" />
   <HelpKINode Title="Tick structure" Url="html/1513972061.htm" />
@@ -6200,7 +6188,6 @@
   <HelpKINode Title="TimeSpan property" Url="html/73295651.htm" />
   <HelpKINode Title="Timestamp property" Url="html/1371029121.htm" />
   <HelpKINode Title="Timestamp property" Url="html/1579816434.htm" />
-  <HelpKINode Title="Timestamp property" Url="html/1909721723.htm" />
   <HelpKINode Title="Timestamp property" Url="html/1946849872.htm" />
   <HelpKINode Title="Timestamp property" Url="html/1962129549.htm" />
   <HelpKINode Title="Timestamp property" Url="html/351541723.htm" />
@@ -6450,10 +6437,6 @@
   </HelpKINode>
   <HelpKINode Title="UnitLabelAttribute.LongPluralLabel property" Url="html/260037773.htm" />
   <HelpKINode Title="UnitLabelAttribute.UnitLabelAttribute constructor" Url="html/985496666.htm" />
-  <HelpKINode Title="UnitLabelFormat enumeration" Url="html/1971926340.htm" />
-  <HelpKINode Title="UnitLabelFormat.Long field" Url="html/322055326.htm" />
-  <HelpKINode Title="UnitLabelFormat.Plural field" Url="html/883553138.htm" />
-  <HelpKINode Title="UnitLabelFormat.Short field" Url="html/1459523298.htm" />
   <HelpKINode Title="UnitOfEnergy enumeration" Url="html/1939531287.htm" />
   <HelpKINode Title="UnitOfEnergy.BTU field" Url="html/2016225928.htm" />
   <HelpKINode Title="UnitOfEnergy.GJ field" Url="html/151331710.htm" />
@@ -6495,12 +6478,17 @@
   <HelpKINode Title="Value field" Url="html/1333586949.htm" />
   <HelpKINode Title="Value property" Url="html/116010989.htm" />
   <HelpKINode Title="Value property" Url="html/1239051527.htm" />
+  <HelpKINode Title="Value property" Url="html/1777279088.htm" />
   <HelpKINode Title="Value property" Url="html/279063910.htm" />
   <HelpKINode Title="Value property" Url="html/53998841.htm" />
   <HelpKINode Title="Value property" Url="html/858945142.htm" />
   <HelpKINode Title="ValueAxisKey property" Url="html/750929209.htm" />
   <HelpKINode Title="ValueDate property" Url="html/1225353289.htm" />
   <HelpKINode Title="ValueDate property" Url="html/283345326.htm" />
+  <HelpKINode Title="ValueMultiplier enumeration" Url="html/1020014037.htm" />
+  <HelpKINode Title="ValueMultiplier.Millions field" Url="html/1056988090.htm" />
+  <HelpKINode Title="ValueMultiplier.None field" Url="html/2029703061.htm" />
+  <HelpKINode Title="ValueMultiplier.Thousands field" Url="html/780642342.htm" />
   <HelpKINode Title="Values property" Url="html/1801862677.htm" />
   <HelpKINode Title="Values property" Url="html/1953022823.htm" />
   <HelpKINode Title="ValueSourceData property" Url="html/1564661721.htm" />
