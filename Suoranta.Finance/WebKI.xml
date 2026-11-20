@@ -16,6 +16,7 @@
   <HelpKINode Title="AAm field" Url="html/315782292.htm" />
   <HelpKINode Title="AAp enumeration member" Url="html/1129744797.htm" />
   <HelpKINode Title="AAp field" Url="html/315782263.htm" />
+  <HelpKINode Title="Abbreviation property" Url="html/1220211191.htm" />
   <HelpKINode Title="AccountId property" Url="html/1776406088.htm" />
   <HelpKINode Title="AccountId property" Url="html/842335482.htm" />
   <HelpKINode Title="AccountingPeriod property" Url="html/337070420.htm" />
@@ -55,6 +56,7 @@
   <HelpKINode Title="ActivePortfolio.SetScaler method" Url="html/1570103575.htm" />
   <HelpKINode Title="ActualSheet property" Url="html/206266568.htm" />
   <HelpKINode Title="Add method" Url="html/1050246077.htm" />
+  <HelpKINode Title="Add method" Url="html/1139666825.htm" />
   <HelpKINode Title="Add method" Url="html/1265108850.htm" />
   <HelpKINode Title="Add method" Url="html/1325248060.htm" />
   <HelpKINode Title="Add method" Url="html/1474610007.htm" />
@@ -65,8 +67,8 @@
   <HelpKINode Title="Add method" Url="html/584133772.htm" />
   <HelpKINode Title="Add method" Url="html/88742516.htm" />
   <HelpKINode Title="Add method" Url="html/93552117.htm" />
-  <HelpKINode Title="Add(Of TCompetingInterest) method" Url="html/335088546.htm" />
-  <HelpKINode Title="Add&lt;TCompetingInterest&gt; method" Url="html/335088546.htm" />
+  <HelpKINode Title="AddAmortizationPlan(Of T) method" Url="html/455484728.htm" />
+  <HelpKINode Title="AddAmortizationPlan&lt;T&gt; method" Url="html/455484728.htm" />
   <HelpKINode Title="AddAskTick method" Url="html/1275506868.htm" />
   <HelpKINode Title="AddAskTick method" Url="html/489548632.htm" />
   <HelpKINode Title="AddAsset method" Url="html/1407454217.htm" />
@@ -78,9 +80,9 @@
   <HelpKINode Title="AddCollateral method" Url="html/1207962400.htm" />
   <HelpKINode Title="AddCollateral method" Url="html/1563352753.htm" />
   <HelpKINode Title="AddCovenant method" Url="html/1666874283.htm" />
-  <HelpKINode Title="AddCreditFacility method" Url="html/1698490927.htm" />
-  <HelpKINode Title="AddCustomAsset method" Url="html/1034282054.htm" />
-  <HelpKINode Title="AddDebtIssue method" Url="html/827956758.htm" />
+  <HelpKINode Title="AddCreditFacility method" Url="html/836199633.htm" />
+  <HelpKINode Title="AddCustomAsset method" Url="html/1919622239.htm" />
+  <HelpKINode Title="AddDebtIssue method" Url="html/1469106048.htm" />
   <HelpKINode Title="AddDepositaryReceipt method" Url="html/1196714398.htm" />
   <HelpKINode Title="AddError method" Url="html/489665175.htm" />
   <HelpKINode Title="AddFinanceServiceBindings method" Url="html/9623865.htm" />
@@ -92,8 +94,6 @@
   <HelpKINode Title="AddLoanLiability method" Url="html/1932269479.htm" />
   <HelpKINode Title="AddOrGetUnit method" Url="html/1319015932.htm" />
   <HelpKINode Title="AddParseFailure method" Url="html/176946860.htm" />
-  <HelpKINode Title="AddPlan(Of T) method" Url="html/146054757.htm" />
-  <HelpKINode Title="AddPlan&lt;T&gt; method" Url="html/146054757.htm" />
   <HelpKINode Title="AddPledge method" Url="html/1321029204.htm" />
   <HelpKINode Title="AddPledge method" Url="html/1348022657.htm" />
   <HelpKINode Title="AddPledge method" Url="html/1970109488.htm" />
@@ -107,9 +107,8 @@
   <HelpKINode Title="AddShareClass(Of TDividend) method" Url="html/1151399753.htm" />
   <HelpKINode Title="AddShareClass&lt;TDividend&gt; method" Url="html/1151399753.htm" />
   <HelpKINode Title="AddSubordinatedLiability method" Url="html/815183394.htm" />
-  <HelpKINode Title="AddTo method" Url="html/1207676642.htm" />
-  <HelpKINode Title="AddTradePayable method" Url="html/2082658534.htm" />
-  <HelpKINode Title="AddTradeReceivable method" Url="html/1902358158.htm" />
+  <HelpKINode Title="AddTradePayable method" Url="html/164892168.htm" />
+  <HelpKINode Title="AddTradeReceivable method" Url="html/471077532.htm" />
   <HelpKINode Title="AddVolatility method" Url="html/60185275.htm" />
   <HelpKINode Title="AddWarning method" Url="html/745081009.htm" />
   <HelpKINode Title="AdoptionDate property" Url="html/1254392342.htm" />
@@ -132,21 +131,21 @@
     <HelpKINode Title="methods" Url="html/835199641.htm" />
     <HelpKINode Title="properties" Url="html/561615596.htm" />
   </HelpKINode>
-  <HelpKINode Title="Affiliations.OwnerAffiliation structure" Url="html/1336368597.htm" />
-  <HelpKINode Title="Affiliations.OwnerAffiliation structure" Url="html/1519998465.htm" />
-  <HelpKINode Title="Affiliations.OwnerAffiliation structure">
-    <HelpKINode Title="about Affiliations.OwnerAffiliation structure" Url="html/1519998465.htm" />
-    <HelpKINode Title="all members" Url="html/1336368597.htm" />
-    <HelpKINode Title="methods" Url="html/1952298985.htm" />
-    <HelpKINode Title="properties" Url="html/690903892.htm" />
+  <HelpKINode Title="Affiliations.IndirectInterest structure" Url="html/1033756186.htm" />
+  <HelpKINode Title="Affiliations.IndirectInterest structure" Url="html/1992312222.htm" />
+  <HelpKINode Title="Affiliations.IndirectInterest structure">
+    <HelpKINode Title="about Affiliations.IndirectInterest structure" Url="html/1033756186.htm" />
+    <HelpKINode Title="all members" Url="html/1992312222.htm" />
+    <HelpKINode Title="methods" Url="html/1616924902.htm" />
+    <HelpKINode Title="properties" Url="html/1643222015.htm" />
   </HelpKINode>
-  <HelpKINode Title="Affiliations.SelfOwnershipInterest structure" Url="html/1954972679.htm" />
-  <HelpKINode Title="Affiliations.SelfOwnershipInterest structure" Url="html/2120189139.htm" />
-  <HelpKINode Title="Affiliations.SelfOwnershipInterest structure">
-    <HelpKINode Title="about Affiliations.SelfOwnershipInterest structure" Url="html/1954972679.htm" />
-    <HelpKINode Title="all members" Url="html/2120189139.htm" />
-    <HelpKINode Title="methods" Url="html/1568588817.htm" />
-    <HelpKINode Title="properties" Url="html/1072772628.htm" />
+  <HelpKINode Title="Affiliations.OwnershipInterest structure" Url="html/1294207729.htm" />
+  <HelpKINode Title="Affiliations.OwnershipInterest structure" Url="html/807291389.htm" />
+  <HelpKINode Title="Affiliations.OwnershipInterest structure">
+    <HelpKINode Title="about Affiliations.OwnershipInterest structure" Url="html/807291389.htm" />
+    <HelpKINode Title="all members" Url="html/1294207729.htm" />
+    <HelpKINode Title="methods" Url="html/1981077791.htm" />
+    <HelpKINode Title="properties" Url="html/354545938.htm" />
   </HelpKINode>
   <HelpKINode Title="Agency property" Url="html/1848508270.htm" />
   <HelpKINode Title="Agency property" Url="html/707611431.htm" />
@@ -250,8 +249,24 @@
     <HelpKINode Title="properties" Url="html/144504051.htm" />
   </HelpKINode>
   <HelpKINode Title="ArticlesOfAssociation.AdoptionDate property" Url="html/1254392342.htm" />
-  <HelpKINode Title="ArticlesOfAssociation.BoardMemberMaxCount property" Url="html/1215145791.htm" />
-  <HelpKINode Title="ArticlesOfAssociation.BoardMemberMinCount property" Url="html/1632774947.htm" />
+  <HelpKINode Title="ArticlesOfAssociation.BoardMemberCount property" Url="html/652703455.htm" />
+  <HelpKINode Title="ArticlesOfAssociation.Domicile property" Url="html/117196314.htm" />
+  <HelpKINode Title="ArticleTypes class" Url="html/900965856.htm" />
+  <HelpKINode Title="ArticleTypes class" Url="html/987342364.htm" />
+  <HelpKINode Title="ArticleTypes class">
+    <HelpKINode Title="about ArticleTypes class" Url="html/900965856.htm" />
+    <HelpKINode Title="all members" Url="html/987342364.htm" />
+    <HelpKINode Title="methods" Url="html/115850744.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ArticleTypes.BoardMemberCount structure" Url="html/1168571955.htm" />
+  <HelpKINode Title="ArticleTypes.BoardMemberCount structure" Url="html/1184198279.htm" />
+  <HelpKINode Title="ArticleTypes.BoardMemberCount structure">
+    <HelpKINode Title="about ArticleTypes.BoardMemberCount structure" Url="html/1168571955.htm" />
+    <HelpKINode Title="all members" Url="html/1184198279.htm" />
+    <HelpKINode Title="methods" Url="html/908074385.htm" />
+    <HelpKINode Title="properties" Url="html/1164219738.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AsArray method" Url="html/166361902.htm" />
   <HelpKINode Title="AsDateTimes method" Url="html/1468071708.htm" />
   <HelpKINode Title="AsDateTimes method" Url="html/630249630.htm" />
   <HelpKINode Title="AsEnumerable method" Url="html/1665942568.htm" />
@@ -292,10 +307,13 @@
   <HelpKINode Title="AssetClassCollection class">
     <HelpKINode Title="about AssetClassCollection class" Url="html/1331621743.htm" />
     <HelpKINode Title="all members" Url="html/1619325117.htm" />
+    <HelpKINode Title="constructor" Url="html/1879833557.htm" />
+    <HelpKINode Title="fields" Url="html/19024642.htm" />
     <HelpKINode Title="methods" Url="html/1607880219.htm" />
     <HelpKINode Title="properties" Url="html/1108247678.htm" />
   </HelpKINode>
-  <HelpKINode Title="AssetClassCollection.ElementName property" Url="html/2041729992.htm" />
+  <HelpKINode Title="AssetClassCollection.AssetClassCollection constructor" Url="html/1879833557.htm" />
+  <HelpKINode Title="AssetClassCollection.ElementName field" Url="html/924077366.htm" />
   <HelpKINode Title="AssetClassElement class" Url="html/1351513879.htm" />
   <HelpKINode Title="AssetClassElement class" Url="html/1378004897.htm" />
   <HelpKINode Title="AssetClassElement class" Url="html/1638234171.htm" />
@@ -312,6 +330,7 @@
   </HelpKINode>
   <HelpKINode Title="AssetClassElement.DefaultExchange property" Url="html/1104433605.htm" />
   <HelpKINode Title="AssetClassElement.DefaultExchange property" Url="html/1820600689.htm" />
+  <HelpKINode Title="AssetClassElement.DefaultExchangeString property" Url="html/489822220.htm" />
   <HelpKINode Title="AssetClassElement.Moniker property" Url="html/1696997328.htm" />
   <HelpKINode Title="AssetClassElement.Moniker property" Url="html/237738938.htm" />
   <HelpKINode Title="AssetClasses class" Url="html/1758611503.htm" />
@@ -328,6 +347,7 @@
   <HelpKINode Title="AssetClasses.Money field" Url="html/838977579.htm" />
   <HelpKINode Title="Assets property" Url="html/465407013.htm" />
   <HelpKINode Title="Assets property" Url="html/654984378.htm" />
+  <HelpKINode Title="AU field" Url="html/1641564881.htm" />
   <HelpKINode Title="AUD enumeration member" Url="html/1322968494.htm" />
   <HelpKINode Title="AUD field" Url="html/318703892.htm" />
   <HelpKINode Title="August enumeration member" Url="html/102430339.htm" />
@@ -384,16 +404,15 @@
   <HelpKINode Title="BalanceSheet.AccountingStandard property" Url="html/902324018.htm" />
   <HelpKINode Title="BalanceSheet.AddAsset method" Url="html/1407454217.htm" />
   <HelpKINode Title="BalanceSheet.AddCashDeposit method" Url="html/23221497.htm" />
-  <HelpKINode Title="BalanceSheet.AddCreditFacility method" Url="html/1698490927.htm" />
-  <HelpKINode Title="BalanceSheet.AddCustomAsset method" Url="html/1034282054.htm" />
+  <HelpKINode Title="BalanceSheet.AddCreditFacility method" Url="html/836199633.htm" />
+  <HelpKINode Title="BalanceSheet.AddCustomAsset method" Url="html/1919622239.htm" />
   <HelpKINode Title="BalanceSheet.AddFinancialAsset method" Url="html/783264722.htm" />
   <HelpKINode Title="BalanceSheet.AddLiability method" Url="html/111159645.htm" />
   <HelpKINode Title="BalanceSheet.AddLoanLiability method" Url="html/1932269479.htm" />
   <HelpKINode Title="BalanceSheet.AddPrivateEquityHolding method" Url="html/510119825.htm" />
-  <HelpKINode Title="BalanceSheet.AddTradePayable method" Url="html/2082658534.htm" />
-  <HelpKINode Title="BalanceSheet.AddTradeReceivable method" Url="html/1902358158.htm" />
+  <HelpKINode Title="BalanceSheet.AddTradePayable method" Url="html/164892168.htm" />
+  <HelpKINode Title="BalanceSheet.AddTradeReceivable method" Url="html/471077532.htm" />
   <HelpKINode Title="BalanceSheet.Assets property" Url="html/465407013.htm" />
-  <HelpKINode Title="BalanceSheet.CheckCurrency method" Url="html/914950110.htm" />
   <HelpKINode Title="BalanceSheet.Clone method" Url="html/1194573226.htm" />
   <HelpKINode Title="BalanceSheet.CompareTo method" Url="html/1984453337.htm" />
   <HelpKINode Title="BalanceSheet.Equals method" Url="html/1401915255.htm" />
@@ -462,6 +481,17 @@
   <HelpKINode Title="BarCount property" Url="html/1327739047.htm" />
   <HelpKINode Title="BarCount property" Url="html/1644571430.htm" />
   <HelpKINode Title="BarIndex property" Url="html/193689566.htm" />
+  <HelpKINode Title="BarrierOptionModel class" Url="html/1104319764.htm" />
+  <HelpKINode Title="BarrierOptionModel class" Url="html/1262447596.htm" />
+  <HelpKINode Title="BarrierOptionModel class">
+    <HelpKINode Title="about BarrierOptionModel class" Url="html/1104319764.htm" />
+    <HelpKINode Title="all members" Url="html/1262447596.htm" />
+    <HelpKINode Title="methods" Url="html/1114283092.htm" />
+    <HelpKINode Title="properties" Url="html/1219796043.htm" />
+  </HelpKINode>
+  <HelpKINode Title="BarrierOptionModel.GetOptionRange method" Url="html/1188308885.htm" />
+  <HelpKINode Title="BarrierOptionModel.IssuanceDate property" Url="html/1710073009.htm" />
+  <HelpKINode Title="BarrierOptionModel.StrikePrice property" Url="html/1619804251.htm" />
   <HelpKINode Title="BarsInHour property" Url="html/1021719119.htm" />
   <HelpKINode Title="BarsInTradingDay property" Url="html/2027038809.htm" />
   <HelpKINode Title="BarsInTradingDay property" Url="html/602213568.htm" />
@@ -549,8 +579,6 @@
   <HelpKINode Title="BaseOrder.SubmissionTime property" Url="html/1662693058.htm" />
   <HelpKINode Title="BaseUnit property" Url="html/1225275942.htm" />
   <HelpKINode Title="BaseUnit property" Url="html/94130185.htm" />
-  <HelpKINode Title="BaseValues property" Url="html/1401566689.htm" />
-  <HelpKINode Title="BaseValues property" Url="html/320624075.htm" />
   <HelpKINode Title="BB enumeration member" Url="html/1129744797.htm" />
   <HelpKINode Title="BB field" Url="html/542491671.htm" />
   <HelpKINode Title="BBAN property" Url="html/1208385394.htm" />
@@ -605,6 +633,19 @@
   <HelpKINode Title="Bijective field" Url="html/1219825276.htm" />
   <HelpKINode Title="Bm enumeration member" Url="html/1129744797.htm" />
   <HelpKINode Title="Bm field" Url="html/1133992866.htm" />
+  <HelpKINode Title="BoardCandidate class" Url="html/1185538398.htm" />
+  <HelpKINode Title="BoardCandidate class" Url="html/1304553374.htm" />
+  <HelpKINode Title="BoardCandidate class">
+    <HelpKINode Title="about BoardCandidate class" Url="html/1185538398.htm" />
+    <HelpKINode Title="all members" Url="html/1304553374.htm" />
+    <HelpKINode Title="constructor" Url="html/1057218795.htm" />
+    <HelpKINode Title="methods" Url="html/204681226.htm" />
+    <HelpKINode Title="properties" Url="html/962770881.htm" />
+  </HelpKINode>
+  <HelpKINode Title="BoardCandidate.BoardCandidate constructor" Url="html/1057218795.htm" />
+  <HelpKINode Title="BoardCandidate.GetAffiliateInterests method" Url="html/1555450795.htm" />
+  <HelpKINode Title="BoardCandidate.GetAffiliateVotes method" Url="html/345892239.htm" />
+  <HelpKINode Title="BoardCandidates property" Url="html/796823170.htm" />
   <HelpKINode Title="BoardMember class" Url="html/152226359.htm" />
   <HelpKINode Title="BoardMember class" Url="html/565452473.htm" />
   <HelpKINode Title="BoardMember class">
@@ -614,15 +655,15 @@
     <HelpKINode Title="methods" Url="html/6744497.htm" />
     <HelpKINode Title="properties" Url="html/206080698.htm" />
   </HelpKINode>
-  <HelpKINode Title="BoardMember.Add(Of TCompetingInterest) method" Url="html/335088546.htm" />
-  <HelpKINode Title="BoardMember.Add&lt;TCompetingInterest&gt; method" Url="html/335088546.htm" />
+  <HelpKINode Title="BoardMember.Add method" Url="html/1139666825.htm" />
   <HelpKINode Title="BoardMember.BoardMember constructor" Url="html/2004940998.htm" />
-  <HelpKINode Title="BoardMember.CompetingInterests property" Url="html/1559952846.htm" />
+  <HelpKINode Title="BoardMember.Interests property" Url="html/1248073266.htm" />
   <HelpKINode Title="BoardMember.IsExecutive property" Url="html/1836523127.htm" />
   <HelpKINode Title="BoardMember.IsIndependent property" Url="html/1034007731.htm" />
   <HelpKINode Title="BoardMember.Person property" Url="html/1576535226.htm" />
-  <HelpKINode Title="BoardMemberMaxCount property" Url="html/1215145791.htm" />
-  <HelpKINode Title="BoardMemberMinCount property" Url="html/1632774947.htm" />
+  <HelpKINode Title="BoardMemberCount property" Url="html/652703455.htm" />
+  <HelpKINode Title="BoardMemberCount.MaximumCount property" Url="html/301883074.htm" />
+  <HelpKINode Title="BoardMemberCount.MinimumCount property" Url="html/571778536.htm" />
   <HelpKINode Title="BoardOfDirectors class" Url="html/134285595.htm" />
   <HelpKINode Title="BoardOfDirectors class" Url="html/1741454975.htm" />
   <HelpKINode Title="BoardOfDirectors class">
@@ -689,9 +730,12 @@
   <HelpKINode Title="BookEntry.Timestamp property" Url="html/351541723.htm" />
   <HelpKINode Title="Bp enumeration member" Url="html/1129744797.htm" />
   <HelpKINode Title="Bp field" Url="html/1537277393.htm" />
+  <HelpKINode Title="BR field" Url="html/1087318479.htm" />
   <HelpKINode Title="Brazil enumeration member" Url="html/2023130359.htm" />
   <HelpKINode Title="Brazil field" Url="html/280379139.htm" />
   <HelpKINode Title="BRICS field" Url="html/254444949.htm" />
+  <HelpKINode Title="BRL enumeration member" Url="html/1322968494.htm" />
+  <HelpKINode Title="BRL field" Url="html/2053949210.htm" />
   <HelpKINode Title="BTU enumeration member" Url="html/1939531287.htm" />
   <HelpKINode Title="BTU field" Url="html/2016225928.htm" />
   <HelpKINode Title="Bullet.MaturityDate property" Url="html/1756958702.htm" />
@@ -718,6 +762,7 @@
   <HelpKINode Title="BUY field" Url="html/274726034.htm" />
   <HelpKINode Title="C enumeration member" Url="html/1129744797.htm" />
   <HelpKINode Title="C field" Url="html/992733248.htm" />
+  <HelpKINode Title="CA field" Url="html/478765447.htm" />
   <HelpKINode Title="CAD enumeration member" Url="html/1322968494.htm" />
   <HelpKINode Title="CAD field" Url="html/1931841806.htm" />
   <HelpKINode Title="CalculateFor method" Url="html/1724842326.htm" />
@@ -860,14 +905,11 @@
   <HelpKINode Title="CDI enumeration member" Url="html/1664576058.htm" />
   <HelpKINode Title="CDI field" Url="html/1025830832.htm" />
   <HelpKINode Title="CDI field" Url="html/1932838432.htm" />
-  <HelpKINode Title="Ceased enumeration member" Url="html/1858862659.htm" />
-  <HelpKINode Title="Ceased field" Url="html/1586012050.htm" />
   <HelpKINode Title="Ceil property" Url="html/2069452777.htm" />
   <HelpKINode Title="CEO enumeration member" Url="html/1548938036.htm" />
   <HelpKINode Title="CEO field" Url="html/1017372183.htm" />
   <HelpKINode Title="CFO enumeration member" Url="html/1548938036.htm" />
   <HelpKINode Title="CFO field" Url="html/548711758.htm" />
-  <HelpKINode Title="CheckCurrency method" Url="html/914950110.htm" />
   <HelpKINode Title="Checksum property" Url="html/1965011610.htm" />
   <HelpKINode Title="CHF enumeration member" Url="html/1322968494.htm" />
   <HelpKINode Title="CHF field" Url="html/9527507.htm" />
@@ -910,6 +952,7 @@
   <HelpKINode Title="ClosingDate property" Url="html/1718954272.htm" />
   <HelpKINode Title="ClosingDate property" Url="html/266781328.htm" />
   <HelpKINode Title="ClosingPosition property" Url="html/1250084277.htm" />
+  <HelpKINode Title="CN field" Url="html/478765458.htm" />
   <HelpKINode Title="CNH enumeration member" Url="html/1322968494.htm" />
   <HelpKINode Title="CNH field" Url="html/1153271913.htm" />
   <HelpKINode Title="Collateral class" Url="html/857369870.htm" />
@@ -934,16 +977,18 @@
   <HelpKINode Title="Collections class">
     <HelpKINode Title="about Collections class" Url="html/729060098.htm" />
     <HelpKINode Title="all members" Url="html/1386190246.htm" />
-    <HelpKINode Title="constructor" Url="html/452896774.htm" />
+    <HelpKINode Title="constructor" Url="html/1096885700.htm" />
+    <HelpKINode Title="fields" Url="html/1550557631.htm" />
     <HelpKINode Title="methods" Url="html/2092149258.htm" />
     <HelpKINode Title="properties" Url="html/1251074775.htm" />
   </HelpKINode>
   <HelpKINode Title="Collections.AssetClasses property" Url="html/441027988.htm" />
-  <HelpKINode Title="Collections.Collections constructor" Url="html/452896774.htm" />
-  <HelpKINode Title="Collections.Create method" Url="html/1652627113.htm" />
+  <HelpKINode Title="Collections.Collections constructor" Url="html/1096885700.htm" />
   <HelpKINode Title="Collections.Exchanges property" Url="html/1442952826.htm" />
   <HelpKINode Title="Collections.Tickers property" Url="html/2110021145.htm" />
   <HelpKINode Title="Collections.Underlyings property" Url="html/780724988.htm" />
+  <HelpKINode Title="Collections._path field" Url="html/1619959464.htm" />
+  <HelpKINode Title="Collections._root field" Url="html/1619613141.htm" />
   <HelpKINode Title="Column enumeration member" Url="html/1351129337.htm" />
   <HelpKINode Title="Column field" Url="html/1091941413.htm" />
   <HelpKINode Title="Combine method" Url="html/1270835828.htm" />
@@ -975,7 +1020,6 @@
   <HelpKINode Title="CompareTo method" Url="html/2144061020.htm" />
   <HelpKINode Title="CompareTo method" Url="html/319226532.htm" />
   <HelpKINode Title="CompareTo method" Url="html/8994133.htm" />
-  <HelpKINode Title="CompetingInterests property" Url="html/1559952846.htm" />
   <HelpKINode Title="Comphrehensive enumeration member" Url="html/872178452.htm" />
   <HelpKINode Title="Comphrehensive field" Url="html/934158066.htm" />
   <HelpKINode Title="Component.Equals method" Url="html/739466928.htm" />
@@ -990,52 +1034,64 @@
   <HelpKINode Title="CompoundedReturnFor method" Url="html/182663098.htm" />
   <HelpKINode Title="CompoundFactorX property" Url="html/747472605.htm" />
   <HelpKINode Title="CompoundFactorY property" Url="html/747472606.htm" />
-  <HelpKINode Title="ConfigurationCollection(Of TElement) class" Url="html/1118298072.htm" />
-  <HelpKINode Title="ConfigurationCollection(Of TElement) class" Url="html/181474654.htm" />
-  <HelpKINode Title="ConfigurationCollection(Of TElement) class" Url="html/1858795252.htm" />
-  <HelpKINode Title="ConfigurationCollection(Of TElement) class" Url="html/999176074.htm" />
-  <HelpKINode Title="ConfigurationCollection(Of TElement) class">
-    <HelpKINode Title="about ConfigurationCollection(Of TElement) class" Url="html/1858795252.htm" />
-    <HelpKINode Title="about ConfigurationCollection(Of TElement) class" Url="html/999176074.htm" />
-    <HelpKINode Title="all members" Url="html/1118298072.htm" />
+  <HelpKINode Title="ConfigurationCollection(Of T) class" Url="html/181474654.htm" />
+  <HelpKINode Title="ConfigurationCollection(Of T) class" Url="html/999176074.htm" />
+  <HelpKINode Title="ConfigurationCollection(Of T) class">
+    <HelpKINode Title="about ConfigurationCollection(Of T) class" Url="html/999176074.htm" />
     <HelpKINode Title="all members" Url="html/181474654.htm" />
-    <HelpKINode Title="constructor" Url="html/1813612218.htm" />
-    <HelpKINode Title="methods" Url="html/1448945288.htm" />
+    <HelpKINode Title="constructor" Url="html/2133714408.htm" />
+    <HelpKINode Title="fields" Url="html/729213907.htm" />
     <HelpKINode Title="methods" Url="html/1961432290.htm" />
     <HelpKINode Title="properties" Url="html/1311464613.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ConfigurationCollection(Of T).ConfigurationCollection constructor" Url="html/2133714408.htm" />
+  <HelpKINode Title="ConfigurationCollection(Of T).Get method" Url="html/1370500102.htm" />
+  <HelpKINode Title="ConfigurationCollection(Of T).GetAll method" Url="html/1333657572.htm" />
+  <HelpKINode Title="ConfigurationCollection(Of T)._elements field" Url="html/908816870.htm" />
+  <HelpKINode Title="ConfigurationCollection(Of T)._path field" Url="html/585373592.htm" />
+  <HelpKINode Title="ConfigurationCollection(Of T)._root field" Url="html/94629131.htm" />
+  <HelpKINode Title="ConfigurationCollection(Of TElement) class" Url="html/1118298072.htm" />
+  <HelpKINode Title="ConfigurationCollection(Of TElement) class" Url="html/1858795252.htm" />
+  <HelpKINode Title="ConfigurationCollection(Of TElement) class">
+    <HelpKINode Title="about ConfigurationCollection(Of TElement) class" Url="html/1858795252.htm" />
+    <HelpKINode Title="all members" Url="html/1118298072.htm" />
+    <HelpKINode Title="methods" Url="html/1448945288.htm" />
     <HelpKINode Title="properties" Url="html/1806508411.htm" />
   </HelpKINode>
   <HelpKINode Title="ConfigurationCollection(Of TElement).Add method" Url="html/1050246077.htm" />
-  <HelpKINode Title="ConfigurationCollection(Of TElement).ConfigurationCollection constructor" Url="html/1813612218.htm" />
   <HelpKINode Title="ConfigurationCollection(Of TElement).CreateNewElement method" Url="html/197562146.htm" />
   <HelpKINode Title="ConfigurationCollection(Of TElement).CreateNewElement method" Url="html/2126058611.htm" />
-  <HelpKINode Title="ConfigurationCollection(Of TElement).ElementName property" Url="html/956061501.htm" />
-  <HelpKINode Title="ConfigurationCollection(Of TElement).Get method" Url="html/1370500102.htm" />
   <HelpKINode Title="ConfigurationCollection(Of TElement).Get method" Url="html/659071388.htm" />
   <HelpKINode Title="ConfigurationCollection(Of TElement).GetElementKey method" Url="html/1638936037.htm" />
   <HelpKINode Title="ConfigurationCollection(Of TElement).GetElementKey method" Url="html/168617001.htm" />
   <HelpKINode Title="ConfigurationCollection(Of TElement).Item property" Url="html/1872574980.htm" />
-  <HelpKINode Title="ConfigurationCollection&lt;TElement&gt; class" Url="html/1118298072.htm" />
-  <HelpKINode Title="ConfigurationCollection&lt;TElement&gt; class" Url="html/181474654.htm" />
-  <HelpKINode Title="ConfigurationCollection&lt;TElement&gt; class" Url="html/1858795252.htm" />
-  <HelpKINode Title="ConfigurationCollection&lt;TElement&gt; class" Url="html/999176074.htm" />
-  <HelpKINode Title="ConfigurationCollection&lt;TElement&gt; class">
-    <HelpKINode Title="about ConfigurationCollection&lt;TElement&gt; class" Url="html/1858795252.htm" />
-    <HelpKINode Title="about ConfigurationCollection&lt;TElement&gt; class" Url="html/999176074.htm" />
-    <HelpKINode Title="all members" Url="html/1118298072.htm" />
+  <HelpKINode Title="ConfigurationCollection&lt;T&gt; class" Url="html/181474654.htm" />
+  <HelpKINode Title="ConfigurationCollection&lt;T&gt; class" Url="html/999176074.htm" />
+  <HelpKINode Title="ConfigurationCollection&lt;T&gt; class">
+    <HelpKINode Title="about ConfigurationCollection&lt;T&gt; class" Url="html/999176074.htm" />
     <HelpKINode Title="all members" Url="html/181474654.htm" />
-    <HelpKINode Title="constructor" Url="html/1813612218.htm" />
-    <HelpKINode Title="methods" Url="html/1448945288.htm" />
+    <HelpKINode Title="constructor" Url="html/2133714408.htm" />
+    <HelpKINode Title="fields" Url="html/729213907.htm" />
     <HelpKINode Title="methods" Url="html/1961432290.htm" />
     <HelpKINode Title="properties" Url="html/1311464613.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ConfigurationCollection&lt;T&gt;.ConfigurationCollection constructor" Url="html/2133714408.htm" />
+  <HelpKINode Title="ConfigurationCollection&lt;T&gt;.Get method" Url="html/1370500102.htm" />
+  <HelpKINode Title="ConfigurationCollection&lt;T&gt;.GetAll method" Url="html/1333657572.htm" />
+  <HelpKINode Title="ConfigurationCollection&lt;T&gt;._elements field" Url="html/908816870.htm" />
+  <HelpKINode Title="ConfigurationCollection&lt;T&gt;._path field" Url="html/585373592.htm" />
+  <HelpKINode Title="ConfigurationCollection&lt;T&gt;._root field" Url="html/94629131.htm" />
+  <HelpKINode Title="ConfigurationCollection&lt;TElement&gt; class" Url="html/1118298072.htm" />
+  <HelpKINode Title="ConfigurationCollection&lt;TElement&gt; class" Url="html/1858795252.htm" />
+  <HelpKINode Title="ConfigurationCollection&lt;TElement&gt; class">
+    <HelpKINode Title="about ConfigurationCollection&lt;TElement&gt; class" Url="html/1858795252.htm" />
+    <HelpKINode Title="all members" Url="html/1118298072.htm" />
+    <HelpKINode Title="methods" Url="html/1448945288.htm" />
     <HelpKINode Title="properties" Url="html/1806508411.htm" />
   </HelpKINode>
   <HelpKINode Title="ConfigurationCollection&lt;TElement&gt;.Add method" Url="html/1050246077.htm" />
-  <HelpKINode Title="ConfigurationCollection&lt;TElement&gt;.ConfigurationCollection constructor" Url="html/1813612218.htm" />
   <HelpKINode Title="ConfigurationCollection&lt;TElement&gt;.CreateNewElement method" Url="html/197562146.htm" />
   <HelpKINode Title="ConfigurationCollection&lt;TElement&gt;.CreateNewElement method" Url="html/2126058611.htm" />
-  <HelpKINode Title="ConfigurationCollection&lt;TElement&gt;.ElementName property" Url="html/956061501.htm" />
-  <HelpKINode Title="ConfigurationCollection&lt;TElement&gt;.Get method" Url="html/1370500102.htm" />
   <HelpKINode Title="ConfigurationCollection&lt;TElement&gt;.Get method" Url="html/659071388.htm" />
   <HelpKINode Title="ConfigurationCollection&lt;TElement&gt;.GetElementKey method" Url="html/1638936037.htm" />
   <HelpKINode Title="ConfigurationCollection&lt;TElement&gt;.GetElementKey method" Url="html/168617001.htm" />
@@ -1076,10 +1132,10 @@
     <HelpKINode Title="constructor" Url="html/1108933835.htm" />
   </HelpKINode>
   <HelpKINode Title="CorporateOfficer.CorporateOfficer constructor" Url="html/1108933835.htm" />
+  <HelpKINode Title="CorporateOfficer.Depth property" Url="html/959095782.htm" />
   <HelpKINode Title="CorporateOfficer.Role property" Url="html/1685065513.htm" />
   <HelpKINode Title="CorporateStock enumeration member" Url="html/2095312171.htm" />
   <HelpKINode Title="CorporateStock field" Url="html/400564820.htm" />
-  <HelpKINode Title="Count property" Url="html/1194751707.htm" />
   <HelpKINode Title="Count property" Url="html/1401081259.htm" />
   <HelpKINode Title="Count property" Url="html/1461221271.htm" />
   <HelpKINode Title="Count property" Url="html/1744957845.htm" />
@@ -1098,6 +1154,10 @@
     <HelpKINode Title="methods" Url="html/33792461.htm" />
     <HelpKINode Title="properties" Url="html/1381731588.htm" />
   </HelpKINode>
+  <HelpKINode Title="Country.AU field" Url="html/1641564881.htm" />
+  <HelpKINode Title="Country.BR field" Url="html/1087318479.htm" />
+  <HelpKINode Title="Country.CA field" Url="html/478765447.htm" />
+  <HelpKINode Title="Country.CN field" Url="html/478765458.htm" />
   <HelpKINode Title="Country.Country constructor" Url="html/1726099673.htm" />
   <HelpKINode Title="Country.Currency property" Url="html/785642542.htm" />
   <HelpKINode Title="Country.DE field" Url="html/2044849392.htm" />
@@ -1107,6 +1167,7 @@
   <HelpKINode Title="Country.GB field" Url="html/1846833382.htm" />
   <HelpKINode Title="Country.GR field" Url="html/1846833366.htm" />
   <HelpKINode Title="Country.IsoCode2 property" Url="html/649299493.htm" />
+  <HelpKINode Title="Country.JP field" Url="html/1443548837.htm" />
   <HelpKINode Title="Country.LongName property" Url="html/1029204812.htm" />
   <HelpKINode Title="Country.None field" Url="html/298364289.htm" />
   <HelpKINode Title="Country.RU field" Url="html/374857754.htm" />
@@ -1160,10 +1221,8 @@
   <HelpKINode Title="Covenant.IsSatisfied method" Url="html/939743054.htm" />
   <HelpKINode Title="covenants field" Url="html/1669444131.htm" />
   <HelpKINode Title="Covenants property" Url="html/238690983.htm" />
-  <HelpKINode Title="Create method" Url="html/1652627113.htm" />
   <HelpKINode Title="Create method" Url="html/480083947.htm" />
   <HelpKINode Title="CreateCalendarYear method" Url="html/1121161382.htm" />
-  <HelpKINode Title="CreateDebtIssue method" Url="html/1298817113.htm" />
   <HelpKINode Title="CreateFiscalYear method" Url="html/1035347049.htm" />
   <HelpKINode Title="CreateIrregular method" Url="html/994881839.htm" />
   <HelpKINode Title="CreateMissingValue method" Url="html/858628719.htm" />
@@ -1315,6 +1374,8 @@
   <HelpKINode Title="Cryptocurrency enumeration member" Url="html/2095312171.htm" />
   <HelpKINode Title="Cryptocurrency field" Url="html/1927165163.htm" />
   <HelpKINode Title="Cryptocurrency field" Url="html/1958244219.htm" />
+  <HelpKINode Title="CS enumeration member" Url="html/1548938036.htm" />
+  <HelpKINode Title="CS field" Url="html/2120032658.htm" />
   <HelpKINode Title="Cumulative property" Url="html/1466360100.htm" />
   <HelpKINode Title="Currency enumeration" Url="html/1322968494.htm" />
   <HelpKINode Title="Currency enumeration member" Url="html/2095312171.htm" />
@@ -1334,6 +1395,7 @@
   <HelpKINode Title="Currency property" Url="html/627694744.htm" />
   <HelpKINode Title="Currency property" Url="html/785642542.htm" />
   <HelpKINode Title="Currency.AUD field" Url="html/318703892.htm" />
+  <HelpKINode Title="Currency.BRL field" Url="html/2053949210.htm" />
   <HelpKINode Title="Currency.CAD field" Url="html/1931841806.htm" />
   <HelpKINode Title="Currency.CHF field" Url="html/9527507.htm" />
   <HelpKINode Title="Currency.CNH field" Url="html/1153271913.htm" />
@@ -1426,13 +1488,14 @@
   <HelpKINode Title="CustomSeries(Of T) class">
     <HelpKINode Title="about CustomSeries(Of T) class" Url="html/1240830128.htm" />
     <HelpKINode Title="all members" Url="html/1022579208.htm" />
-    <HelpKINode Title="constructor" Url="html/326918044.htm" />
+    <HelpKINode Title="constructor" Url="html/1184784376.htm" />
     <HelpKINode Title="methods" Url="html/1371426824.htm" />
     <HelpKINode Title="properties" Url="html/254470025.htm" />
   </HelpKINode>
-  <HelpKINode Title="CustomSeries(Of T).BaseValues property" Url="html/1401566689.htm" />
+  <HelpKINode Title="CustomSeries(Of T).AsArray method" Url="html/166361902.htm" />
   <HelpKINode Title="CustomSeries(Of T).Count property" Url="html/1401081259.htm" />
-  <HelpKINode Title="CustomSeries(Of T).CustomSeries constructor" Url="html/326918044.htm" />
+  <HelpKINode Title="CustomSeries(Of T).CustomSeries constructor" Url="html/1184784376.htm" />
+  <HelpKINode Title="CustomSeries(Of T).Item property" Url="html/2027020429.htm" />
   <HelpKINode Title="CustomSeries(Of T).ValueType property" Url="html/426613399.htm" />
   <HelpKINode Title="CustomSeries.Count property" Url="html/235129866.htm" />
   <HelpKINode Title="CustomSeries.Name property" Url="html/1444238968.htm" />
@@ -1443,13 +1506,14 @@
   <HelpKINode Title="CustomSeries&lt;T&gt; class">
     <HelpKINode Title="about CustomSeries&lt;T&gt; class" Url="html/1240830128.htm" />
     <HelpKINode Title="all members" Url="html/1022579208.htm" />
-    <HelpKINode Title="constructor" Url="html/326918044.htm" />
+    <HelpKINode Title="constructor" Url="html/1184784376.htm" />
     <HelpKINode Title="methods" Url="html/1371426824.htm" />
     <HelpKINode Title="properties" Url="html/254470025.htm" />
   </HelpKINode>
-  <HelpKINode Title="CustomSeries&lt;T&gt;.BaseValues property" Url="html/1401566689.htm" />
+  <HelpKINode Title="CustomSeries&lt;T&gt;.AsArray method" Url="html/166361902.htm" />
   <HelpKINode Title="CustomSeries&lt;T&gt;.Count property" Url="html/1401081259.htm" />
-  <HelpKINode Title="CustomSeries&lt;T&gt;.CustomSeries constructor" Url="html/326918044.htm" />
+  <HelpKINode Title="CustomSeries&lt;T&gt;.CustomSeries constructor" Url="html/1184784376.htm" />
+  <HelpKINode Title="CustomSeries&lt;T&gt;.Item property" Url="html/2027020429.htm" />
   <HelpKINode Title="CustomSeries&lt;T&gt;.ValueType property" Url="html/426613399.htm" />
   <HelpKINode Title="CustomValueDates property" Url="html/183798220.htm" />
   <HelpKINode Title="D enumeration member" Url="html/1129744797.htm" />
@@ -1475,8 +1539,16 @@
   </HelpKINode>
   <HelpKINode Title="DataTableReader.DataTableReader constructor" Url="html/2129168152.htm" />
   <HelpKINode Title="DataTableReader.GetOhlcSeries method" Url="html/499124892.htm" />
-  <HelpKINode Title="DataTableReader.Initialize method" Url="html/1599199937.htm" />
+  <HelpKINode Title="DataTableReader.Initialize method" Url="html/1734295060.htm" />
   <HelpKINode Title="DataTableReader.NormalizeToSchedule property" Url="html/1022883079.htm" />
+  <HelpKINode Title="DataTableReader.Options class" Url="html/340835312.htm" />
+  <HelpKINode Title="DataTableReader.Options class" Url="html/446322016.htm" />
+  <HelpKINode Title="DataTableReader.Options class">
+    <HelpKINode Title="about DataTableReader.Options class" Url="html/340835312.htm" />
+    <HelpKINode Title="all members" Url="html/446322016.htm" />
+    <HelpKINode Title="methods" Url="html/455197308.htm" />
+    <HelpKINode Title="properties" Url="html/651711837.htm" />
+  </HelpKINode>
   <HelpKINode Title="Date property" Url="html/1396605367.htm" />
   <HelpKINode Title="Date property" Url="html/2110741552.htm" />
   <HelpKINode Title="Date property" Url="html/362174074.htm" />
@@ -1484,6 +1556,7 @@
   <HelpKINode Title="DateOfBirth property" Url="html/1256180355.htm" />
   <HelpKINode Title="DateOfIssuance property" Url="html/1574841917.htm" />
   <HelpKINode Title="DateOfTerms property" Url="html/643901850.htm" />
+  <HelpKINode Title="DateOrTimestampColumnName property" Url="html/1323378948.htm" />
   <HelpKINode Title="DateStringParser class" Url="html/2031427867.htm" />
   <HelpKINode Title="DateStringParser class" Url="html/770940795.htm" />
   <HelpKINode Title="DateStringParser class">
@@ -1493,6 +1566,7 @@
     <HelpKINode Title="methods" Url="html/865364689.htm" />
     <HelpKINode Title="properties" Url="html/457459880.htm" />
   </HelpKINode>
+  <HelpKINode Title="DateStringParser property" Url="html/1393065492.htm" />
   <HelpKINode Title="DateStringParser.DateStringParser constructor" Url="html/872784587.htm" />
   <HelpKINode Title="DateStringParser.DetectFormat method" Url="html/617896613.htm" />
   <HelpKINode Title="DateStringParser.Format property" Url="html/1555261740.htm" />
@@ -1545,10 +1619,10 @@
     <HelpKINode Title="methods" Url="html/1458107136.htm" />
     <HelpKINode Title="properties" Url="html/947545317.htm" />
   </HelpKINode>
+  <HelpKINode Title="DebtIssuanceTerms.AddAmortizationPlan(Of T) method" Url="html/455484728.htm" />
+  <HelpKINode Title="DebtIssuanceTerms.AddAmortizationPlan&lt;T&gt; method" Url="html/455484728.htm" />
   <HelpKINode Title="DebtIssuanceTerms.AddCollateral method" Url="html/1207962400.htm" />
   <HelpKINode Title="DebtIssuanceTerms.AddGuarantor method" Url="html/1261632250.htm" />
-  <HelpKINode Title="DebtIssuanceTerms.AddPlan(Of T) method" Url="html/146054757.htm" />
-  <HelpKINode Title="DebtIssuanceTerms.AddPlan&lt;T&gt; method" Url="html/146054757.htm" />
   <HelpKINode Title="DebtIssuanceTerms.AddRedemptionOption method" Url="html/1174112339.htm" />
   <HelpKINode Title="DebtIssuanceTerms.AddSeniorLiability method" Url="html/1012288228.htm" />
   <HelpKINode Title="DebtIssuanceTerms.AddSubordinatedLiability method" Url="html/815183394.htm" />
@@ -1566,7 +1640,7 @@
   <HelpKINode Title="DebtIssuanceTerms.Equals method" Url="html/1086605383.htm" />
   <HelpKINode Title="DebtIssuanceTerms.GetHashCode method" Url="html/572746996.htm" />
   <HelpKINode Title="DebtIssuanceTerms.Guarantees property" Url="html/1306223275.htm" />
-  <HelpKINode Title="DebtIssuanceTerms.InterestPayments property" Url="html/780152743.htm" />
+  <HelpKINode Title="DebtIssuanceTerms.Interest property" Url="html/1431378220.htm" />
   <HelpKINode Title="DebtIssuanceTerms.IssuanceCurrency property" Url="html/486140318.htm" />
   <HelpKINode Title="DebtIssuanceTerms.IssuancePrice property" Url="html/1538105726.htm" />
   <HelpKINode Title="DebtIssuanceTerms.Issuer property" Url="html/1117815217.htm" />
@@ -1642,6 +1716,7 @@
   <HelpKINode Title="DefaultExchange property" Url="html/1104433605.htm" />
   <HelpKINode Title="DefaultExchange property" Url="html/1820600689.htm" />
   <HelpKINode Title="DefaultExchange property" Url="html/1834690550.htm" />
+  <HelpKINode Title="DefaultExchangeString property" Url="html/489822220.htm" />
   <HelpKINode Title="DefaultMarkerCacheSize field" Url="html/2072784791.htm" />
   <HelpKINode Title="DefaultResolver class">
     <HelpKINode Title="constructor" Url="html/759139843.htm" />
@@ -1656,6 +1731,7 @@
   <HelpKINode Title="DefaultResolver.provider field" Url="html/312152553.htm" />
   <HelpKINode Title="DefaultResolver.TimeScale property" Url="html/1181487957.htm" />
   <HelpKINode Title="DefaultSize field" Url="html/88065721.htm" />
+  <HelpKINode Title="Delaware property" Url="html/593857736.htm" />
   <HelpKINode Title="DepositaryReceipt structure" Url="html/1111813107.htm" />
   <HelpKINode Title="DepositaryReceipt structure" Url="html/1802571733.htm" />
   <HelpKINode Title="DepositaryReceipt structure">
@@ -1676,13 +1752,16 @@
   <HelpKINode Title="DepositaryReceipt.TotalVotes property" Url="html/2015149122.htm" />
   <HelpKINode Title="Depreciation property" Url="html/2110694544.htm" />
   <HelpKINode Title="DepreciationAndAmortization property" Url="html/624356670.htm" />
+  <HelpKINode Title="Depth property" Url="html/1861362401.htm" />
+  <HelpKINode Title="Depth property" Url="html/1945561978.htm" />
+  <HelpKINode Title="Depth property" Url="html/959095782.htm" />
   <HelpKINode Title="Description property" Url="html/1119468359.htm" />
   <HelpKINode Title="Description property" Url="html/759143587.htm" />
   <HelpKINode Title="DetectFormat method" Url="html/617896613.htm" />
   <HelpKINode Title="DickeyFullerStatistic method" Url="html/1396548020.htm" />
   <HelpKINode Title="DilutedDividendRightsTotal property" Url="html/1480246703.htm" />
   <HelpKINode Title="DilutedVotesTotal property" Url="html/777160184.htm" />
-  <HelpKINode Title="DirectVotes property" Url="html/1581081853.htm" />
+  <HelpKINode Title="DirectVotes property" Url="html/201301249.htm" />
   <HelpKINode Title="Discretionary enumeration member" Url="html/2112951523.htm" />
   <HelpKINode Title="Discretionary field" Url="html/1266087995.htm" />
   <HelpKINode Title="DisplayName property" Url="html/1634556171.htm" />
@@ -1692,6 +1771,8 @@
   <HelpKINode Title="Dispose method" Url="html/1432484715.htm" />
   <HelpKINode Title="Dispose method" Url="html/1958054652.htm" />
   <HelpKINode Title="Dispose method" Url="html/487475315.htm" />
+  <HelpKINode Title="Dissolved enumeration member" Url="html/1858862659.htm" />
+  <HelpKINode Title="Dissolved field" Url="html/925886836.htm" />
   <HelpKINode Title="DistributionETF enumeration member" Url="html/1664576058.htm" />
   <HelpKINode Title="DistributionETF field" Url="html/2097300003.htm" />
   <HelpKINode Title="DivideBy method" Url="html/1045754273.htm" />
@@ -1733,6 +1814,30 @@
   <HelpKINode Title="Division operator" Url="html/763891384.htm" />
   <HelpKINode Title="DnB enumeration member" Url="html/1077619538.htm" />
   <HelpKINode Title="DnB field" Url="html/609166370.htm" />
+  <HelpKINode Title="Domicile property" Url="html/117196314.htm" />
+  <HelpKINode Title="DomicileTypes class" Url="html/316541124.htm" />
+  <HelpKINode Title="DomicileTypes class" Url="html/724967528.htm" />
+  <HelpKINode Title="DomicileTypes class">
+    <HelpKINode Title="about DomicileTypes class" Url="html/724967528.htm" />
+    <HelpKINode Title="all members" Url="html/316541124.htm" />
+    <HelpKINode Title="methods" Url="html/1189541908.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DomicileTypes.Generic structure" Url="html/503827407.htm" />
+  <HelpKINode Title="DomicileTypes.Generic structure" Url="html/552118165.htm" />
+  <HelpKINode Title="DomicileTypes.Generic structure">
+    <HelpKINode Title="about DomicileTypes.Generic structure" Url="html/503827407.htm" />
+    <HelpKINode Title="all members" Url="html/552118165.htm" />
+    <HelpKINode Title="methods" Url="html/123098137.htm" />
+    <HelpKINode Title="properties" Url="html/746096914.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DomicileTypes.USState structure" Url="html/2026987581.htm" />
+  <HelpKINode Title="DomicileTypes.USState structure" Url="html/742497977.htm" />
+  <HelpKINode Title="DomicileTypes.USState structure">
+    <HelpKINode Title="about DomicileTypes.USState structure" Url="html/2026987581.htm" />
+    <HelpKINode Title="all members" Url="html/742497977.htm" />
+    <HelpKINode Title="methods" Url="html/350789855.htm" />
+    <HelpKINode Title="properties" Url="html/454174982.htm" />
+  </HelpKINode>
   <HelpKINode Title="DownTriangle method" Url="html/142854238.htm" />
   <HelpKINode Title="DrawnAmount property" Url="html/1933655999.htm" />
   <HelpKINode Title="DRFlag enumeration member" Url="html/1361976262.htm" />
@@ -1777,11 +1882,10 @@
   <HelpKINode Title="Element.Equals method" Url="html/249254350.htm" />
   <HelpKINode Title="Element.GetHashCode method" Url="html/1283768551.htm" />
   <HelpKINode Title="Element.Rating property" Url="html/1122163784.htm" />
-  <HelpKINode Title="ElementName property" Url="html/1342577593.htm" />
-  <HelpKINode Title="ElementName property" Url="html/1483313906.htm" />
-  <HelpKINode Title="ElementName property" Url="html/156187334.htm" />
-  <HelpKINode Title="ElementName property" Url="html/2041729992.htm" />
-  <HelpKINode Title="ElementName property" Url="html/956061501.htm" />
+  <HelpKINode Title="ElementName field" Url="html/1978594831.htm" />
+  <HelpKINode Title="ElementName field" Url="html/1979850368.htm" />
+  <HelpKINode Title="ElementName field" Url="html/269473484.htm" />
+  <HelpKINode Title="ElementName field" Url="html/924077366.htm" />
   <HelpKINode Title="ElementWith(Of TCondition) method" Url="html/1761244434.htm" />
   <HelpKINode Title="ElementWith&lt;TCondition&gt; method" Url="html/1761244434.htm" />
   <HelpKINode Title="EMU field" Url="html/685050145.htm" />
@@ -1940,8 +2044,10 @@
     <HelpKINode Title="methods" Url="html/2117512196.htm" />
     <HelpKINode Title="properties" Url="html/446264329.htm" />
   </HelpKINode>
-  <HelpKINode Title="EuropeanOptionModel.GetTerminalPayoff method" Url="html/334485777.htm" />
-  <HelpKINode Title="EuropeanOptionModel.GetTerminalPayoff method" Url="html/682048235.htm" />
+  <HelpKINode Title="EuropeanOptionModel.GetCallTerminalPayoff method" Url="html/137252205.htm" />
+  <HelpKINode Title="EuropeanOptionModel.GetCallTerminalPayoff method" Url="html/1541507325.htm" />
+  <HelpKINode Title="EuropeanOptionModel.GetPutTerminalPayoff method" Url="html/1538037490.htm" />
+  <HelpKINode Title="EuropeanOptionModel.GetPutTerminalPayoff method" Url="html/1731596258.htm" />
   <HelpKINode Title="EuropeanOptionModel.StrikePrice property" Url="html/1616497683.htm" />
   <HelpKINode Title="EuropeanPut field" Url="html/407855895.htm" />
   <HelpKINode Title="EventMarkers class" Url="html/1135307025.htm" />
@@ -1967,10 +2073,13 @@
   <HelpKINode Title="ExchangeCollection class">
     <HelpKINode Title="about ExchangeCollection class" Url="html/2134555648.htm" />
     <HelpKINode Title="all members" Url="html/80070864.htm" />
+    <HelpKINode Title="constructor" Url="html/1371019812.htm" />
+    <HelpKINode Title="fields" Url="html/947615179.htm" />
     <HelpKINode Title="methods" Url="html/1995381580.htm" />
     <HelpKINode Title="properties" Url="html/594204269.htm" />
   </HelpKINode>
-  <HelpKINode Title="ExchangeCollection.ElementName property" Url="html/1342577593.htm" />
+  <HelpKINode Title="ExchangeCollection.ElementName field" Url="html/1978594831.htm" />
+  <HelpKINode Title="ExchangeCollection.ExchangeCollection constructor" Url="html/1371019812.htm" />
   <HelpKINode Title="ExchangeElement class" Url="html/1582058462.htm" />
   <HelpKINode Title="ExchangeElement class" Url="html/33334142.htm" />
   <HelpKINode Title="ExchangeElement class" Url="html/468016824.htm" />
@@ -2042,10 +2151,15 @@
   <HelpKINode Title="ExtendedProperties property" Url="html/1612497831.htm" />
   <HelpKINode Title="ExtendedProperties property" Url="html/996280359.htm" />
   <HelpKINode Title="Extensions class" Url="html/1181198397.htm" />
+  <HelpKINode Title="Extensions class" Url="html/1333484513.htm" />
+  <HelpKINode Title="Extensions class" Url="html/1825744735.htm" />
   <HelpKINode Title="Extensions class" Url="html/915799937.htm" />
   <HelpKINode Title="Extensions class">
     <HelpKINode Title="about Extensions class" Url="html/1181198397.htm" />
+    <HelpKINode Title="about Extensions class" Url="html/1825744735.htm" />
+    <HelpKINode Title="all members" Url="html/1333484513.htm" />
     <HelpKINode Title="all members" Url="html/915799937.htm" />
+    <HelpKINode Title="methods" Url="html/392318211.htm" />
     <HelpKINode Title="methods" Url="html/45823749.htm" />
   </HelpKINode>
   <HelpKINode Title="Extensions.Add method" Url="html/1325248060.htm" />
@@ -2053,6 +2167,8 @@
   <HelpKINode Title="Extensions.AddRange&lt;TKey, TValue&gt; method" Url="html/2141201889.htm" />
   <HelpKINode Title="Extensions.CombineOrdered(Of T) method" Url="html/1075716864.htm" />
   <HelpKINode Title="Extensions.CombineOrdered&lt;T&gt; method" Url="html/1075716864.htm" />
+  <HelpKINode Title="Extensions.FlattedInterests method" Url="html/1344909308.htm" />
+  <HelpKINode Title="Extensions.GetOwnershipInterestByDepth method" Url="html/938113502.htm" />
   <HelpKINode Title="Extensions.GetRange method" Url="html/1135220561.htm" />
   <HelpKINode Title="Extensions.IsAnyOf(Of T) method" Url="html/1784416539.htm" />
   <HelpKINode Title="Extensions.IsAnyOf&lt;T&gt; method" Url="html/1784416539.htm" />
@@ -2182,7 +2298,6 @@
   <HelpKINode Title="First property" Url="html/1138611679.htm" />
   <HelpKINode Title="First property" Url="html/1300234345.htm" />
   <HelpKINode Title="First property" Url="html/141058937.htm" />
-  <HelpKINode Title="First property" Url="html/2039464342.htm" />
   <HelpKINode Title="FirstBankingDay enumeration member" Url="html/343682374.htm" />
   <HelpKINode Title="FirstBankingDay field" Url="html/1686148020.htm" />
   <HelpKINode Title="FirstDate property" Url="html/210826396.htm" />
@@ -2220,6 +2335,7 @@
   <HelpKINode Title="FixedRate.Rate property" Url="html/2099473572.htm" />
   <HelpKINode Title="Flags property" Url="html/196299985.htm" />
   <HelpKINode Title="FlatOrderCost property" Url="html/95591875.htm" />
+  <HelpKINode Title="FlattedInterests method" Url="html/1344909308.htm" />
   <HelpKINode Title="FloatingBenchmark property" Url="html/1088722004.htm" />
   <HelpKINode Title="FloatingMarkup property" Url="html/1905203181.htm" />
   <HelpKINode Title="FloatingRate.Benchmark property" Url="html/800682861.htm" />
@@ -2293,7 +2409,6 @@
   <HelpKINode Title="From method" Url="html/1820368979.htm" />
   <HelpKINode Title="From method" Url="html/2066023920.htm" />
   <HelpKINode Title="From method" Url="html/53136377.htm" />
-  <HelpKINode Title="FromDataTable method" Url="html/1607222732.htm" />
   <HelpKINode Title="FromDefault method" Url="html/766739895.htm" />
   <HelpKINode Title="FromHours method" Url="html/1854005552.htm" />
   <HelpKINode Title="FromList method" Url="html/1073422872.htm" />
@@ -2348,11 +2463,17 @@
     <HelpKINode Title="methods" Url="html/143502558.htm" />
     <HelpKINode Title="properties" Url="html/562201435.htm" />
   </HelpKINode>
+  <HelpKINode Title="GeneralMeeting.BoardCandidates property" Url="html/796823170.htm" />
   <HelpKINode Title="GeneralMeeting.Date property" Url="html/2110741552.htm" />
   <HelpKINode Title="GeneralMeeting.GeneralMeeting constructor" Url="html/27919479.htm" />
   <HelpKINode Title="GeneralMeeting.Participants property" Url="html/1116290510.htm" />
   <HelpKINode Title="GeneralMeeting.Type property" Url="html/1054926228.htm" />
   <HelpKINode Title="GenerateSeries method" Url="html/231997934.htm" />
+  <HelpKINode Title="Generic structure">
+    <HelpKINode Title="constructor" Url="html/1360066046.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Generic.Generic constructor" Url="html/1360066046.htm" />
+  <HelpKINode Title="Generic.Id property" Url="html/815307146.htm" />
   <HelpKINode Title="Geolocation property" Url="html/1865967207.htm" />
   <HelpKINode Title="Germany enumeration member" Url="html/2023130359.htm" />
   <HelpKINode Title="Germany field" Url="html/1676767732.htm" />
@@ -2360,6 +2481,9 @@
   <HelpKINode Title="Get method" Url="html/1499455202.htm" />
   <HelpKINode Title="Get method" Url="html/659071388.htm" />
   <HelpKINode Title="Get method" Url="html/935719672.htm" />
+  <HelpKINode Title="GetAffiliateInterests method" Url="html/1555450795.htm" />
+  <HelpKINode Title="GetAffiliateVotes method" Url="html/345892239.htm" />
+  <HelpKINode Title="GetAll method" Url="html/1333657572.htm" />
   <HelpKINode Title="GetAskBook method" Url="html/1714400315.htm" />
   <HelpKINode Title="GetAskBook method" Url="html/749878602.htm" />
   <HelpKINode Title="GetBaseValues method" Url="html/133195696.htm" />
@@ -2369,6 +2493,13 @@
   <HelpKINode Title="GetBusinessEntity method" Url="html/14037414.htm" />
   <HelpKINode Title="GetBusinessEntityById method" Url="html/817371524.htm" />
   <HelpKINode Title="GetByXBRLTag method" Url="html/2008321258.htm" />
+  <HelpKINode Title="GetCallTerminalPayoff method" Url="html/1144034578.htm" />
+  <HelpKINode Title="GetCallTerminalPayoff method" Url="html/137252205.htm" />
+  <HelpKINode Title="GetCallTerminalPayoff method" Url="html/1490509697.htm" />
+  <HelpKINode Title="GetCallTerminalPayoff method" Url="html/1541507325.htm" />
+  <HelpKINode Title="GetCallTerminalPayoff method" Url="html/1940695477.htm" />
+  <HelpKINode Title="GetCallTerminalPayoff method" Url="html/2052248108.htm" />
+  <HelpKINode Title="GetCallTerminalPayoff method" Url="html/531641369.htm" />
   <HelpKINode Title="GetColumn method" Url="html/1014144144.htm" />
   <HelpKINode Title="GetColumn method" Url="html/19518678.htm" />
   <HelpKINode Title="GetColumn method" Url="html/2066955891.htm" />
@@ -2398,14 +2529,11 @@
   <HelpKINode Title="GetElementKey method" Url="html/168617001.htm" />
   <HelpKINode Title="GetEnumerator method" Url="html/1077323143.htm" />
   <HelpKINode Title="GetEnumerator method" Url="html/1616928666.htm" />
-  <HelpKINode Title="GetEnumerator method" Url="html/1702248753.htm" />
   <HelpKINode Title="GetEnumerator method" Url="html/1724182860.htm" />
   <HelpKINode Title="GetEnumerator method" Url="html/1735119680.htm" />
   <HelpKINode Title="GetEnumerator method" Url="html/378381312.htm" />
   <HelpKINode Title="GetEnumerator method" Url="html/486598810.htm" />
   <HelpKINode Title="GetEnumerator method" Url="html/637790466.htm" />
-  <HelpKINode Title="GetEnumeratorInternal method" Url="html/694980716.htm" />
-  <HelpKINode Title="GetEnumeratorInternal method" Url="html/864552914.htm" />
   <HelpKINode Title="GetEstimate method" Url="html/1226120787.htm" />
   <HelpKINode Title="GetExchange method" Url="html/11149916.htm" />
   <HelpKINode Title="GetExchange method" Url="html/464466934.htm" />
@@ -2445,13 +2573,22 @@
   <HelpKINode Title="GetOhlcSeries method" Url="html/499124892.htm" />
   <HelpKINode Title="GetOpen method" Url="html/218427472.htm" />
   <HelpKINode Title="GetOpposite method" Url="html/986749864.htm" />
+  <HelpKINode Title="GetOptionRange method" Url="html/1188308885.htm" />
   <HelpKINode Title="GetOrCreateBalanceSheet method" Url="html/1801855813.htm" />
   <HelpKINode Title="GetOrCreateBusinessEntity method" Url="html/352799483.htm" />
   <HelpKINode Title="GetOrCreateModelLLC method" Url="html/554674800.htm" />
+  <HelpKINode Title="GetOwnershipInterestByDepth method" Url="html/938113502.htm" />
   <HelpKINode Title="GetPledgedAssets method" Url="html/1865149087.htm" />
   <HelpKINode Title="GetPlottableRange method" Url="html/1404651650.htm" />
   <HelpKINode Title="GetPlottableRange method" Url="html/1525822550.htm" />
   <HelpKINode Title="GetPlottableTimeRange method" Url="html/1610500178.htm" />
+  <HelpKINode Title="GetPutTerminalPayoff method" Url="html/1538037490.htm" />
+  <HelpKINode Title="GetPutTerminalPayoff method" Url="html/1580766422.htm" />
+  <HelpKINode Title="GetPutTerminalPayoff method" Url="html/1731596258.htm" />
+  <HelpKINode Title="GetPutTerminalPayoff method" Url="html/1855443839.htm" />
+  <HelpKINode Title="GetPutTerminalPayoff method" Url="html/2034211185.htm" />
+  <HelpKINode Title="GetPutTerminalPayoff method" Url="html/229753110.htm" />
+  <HelpKINode Title="GetPutTerminalPayoff method" Url="html/55998250.htm" />
   <HelpKINode Title="GetRange method" Url="html/1135220561.htm" />
   <HelpKINode Title="GetRatioTo method" Url="html/1005472198.htm" />
   <HelpKINode Title="GetRatioTo method" Url="html/696157155.htm" />
@@ -2460,11 +2597,6 @@
   <HelpKINode Title="GetSchedule method" Url="html/531745709.htm" />
   <HelpKINode Title="GetSelector method" Url="html/1886962395.htm" />
   <HelpKINode Title="GetStandardValues method" Url="html/1271231922.htm" />
-  <HelpKINode Title="GetTerminalPayoff method" Url="html/1330811963.htm" />
-  <HelpKINode Title="GetTerminalPayoff method" Url="html/334485777.htm" />
-  <HelpKINode Title="GetTerminalPayoff method" Url="html/549788657.htm" />
-  <HelpKINode Title="GetTerminalPayoff method" Url="html/682048235.htm" />
-  <HelpKINode Title="GetTerminalPayoff method" Url="html/717224784.htm" />
   <HelpKINode Title="GetTotalOwnershipInterestIn method" Url="html/1867715508.htm" />
   <HelpKINode Title="GetUnderlying method" Url="html/1270280821.htm" />
   <HelpKINode Title="GetUnderlying method" Url="html/402569903.htm" />
@@ -2523,6 +2655,13 @@
   </HelpKINode>
   <HelpKINode Title="IAssetClassInfo.DefaultExchange property" Url="html/1834690550.htm" />
   <HelpKINode Title="IAssetClassInfo.Moniker property" Url="html/1154191375.htm" />
+  <HelpKINode Title="IAssociationArticle interface" Url="html/254599719.htm" />
+  <HelpKINode Title="IAssociationArticle interface" Url="html/686710323.htm" />
+  <HelpKINode Title="IAssociationArticle interface">
+    <HelpKINode Title="about IAssociationArticle interface" Url="html/254599719.htm" />
+    <HelpKINode Title="all members" Url="html/686710323.htm" />
+    <HelpKINode Title="methods" Url="html/506864175.htm" />
+  </HelpKINode>
   <HelpKINode Title="IAttribution interface" Url="html/1907929522.htm" />
   <HelpKINode Title="IAttribution interface" Url="html/791126734.htm" />
   <HelpKINode Title="IAttribution interface">
@@ -2684,13 +2823,6 @@
     <HelpKINode Title="properties" Url="html/830489652.htm" />
   </HelpKINode>
   <HelpKINode Title="ICloseValue.Close property" Url="html/709390495.htm" />
-  <HelpKINode Title="ICompetingInterest interface" Url="html/136189046.htm" />
-  <HelpKINode Title="ICompetingInterest interface" Url="html/820995258.htm" />
-  <HelpKINode Title="ICompetingInterest interface">
-    <HelpKINode Title="about ICompetingInterest interface" Url="html/820995258.htm" />
-    <HelpKINode Title="all members" Url="html/136189046.htm" />
-    <HelpKINode Title="methods" Url="html/1911455330.htm" />
-  </HelpKINode>
   <HelpKINode Title="IComponent interface" Url="html/1166203474.htm" />
   <HelpKINode Title="IComponent interface" Url="html/783872482.htm" />
   <HelpKINode Title="IComponent interface">
@@ -2769,6 +2901,7 @@
   <HelpKINode Title="Id property" Url="html/560429610.htm" />
   <HelpKINode Title="Id property" Url="html/67629678.htm" />
   <HelpKINode Title="Id property" Url="html/79099663.htm" />
+  <HelpKINode Title="Id property" Url="html/815307146.htm" />
   <HelpKINode Title="IDebtAmortizationPlan interface" Url="html/1285330431.htm" />
   <HelpKINode Title="IDebtAmortizationPlan interface" Url="html/881982087.htm" />
   <HelpKINode Title="IDebtAmortizationPlan interface">
@@ -2810,6 +2943,13 @@
   </HelpKINode>
   <HelpKINode Title="IDividendRights.CommonDividendMultiplier property" Url="html/1366740713.htm" />
   <HelpKINode Title="IdNumber property" Url="html/1976480628.htm" />
+  <HelpKINode Title="IDomicile interface" Url="html/2077972958.htm" />
+  <HelpKINode Title="IDomicile interface" Url="html/317219646.htm" />
+  <HelpKINode Title="IDomicile interface">
+    <HelpKINode Title="about IDomicile interface" Url="html/317219646.htm" />
+    <HelpKINode Title="all members" Url="html/2077972958.htm" />
+    <HelpKINode Title="methods" Url="html/2107511082.htm" />
+  </HelpKINode>
   <HelpKINode Title="IdType property" Url="html/1566642717.htm" />
   <HelpKINode Title="IEconomicData interface" Url="html/191330633.htm" />
   <HelpKINode Title="IEconomicData interface" Url="html/244307313.htm" />
@@ -2927,6 +3067,13 @@
     <HelpKINode Title="about IIndexedEnumerable&lt;T&gt; interface" Url="html/1940016292.htm" />
   </HelpKINode>
   <HelpKINode Title="IIndexedEnumerable&lt;T&gt;.AsIndexedEnumerable method" Url="html/987081978.htm" />
+  <HelpKINode Title="IInterest interface" Url="html/1788032536.htm" />
+  <HelpKINode Title="IInterest interface" Url="html/407453084.htm" />
+  <HelpKINode Title="IInterest interface">
+    <HelpKINode Title="about IInterest interface" Url="html/1788032536.htm" />
+    <HelpKINode Title="all members" Url="html/407453084.htm" />
+    <HelpKINode Title="methods" Url="html/1765875344.htm" />
+  </HelpKINode>
   <HelpKINode Title="ILinkedContracts interface" Url="html/1833854120.htm" />
   <HelpKINode Title="ILinkedContracts interface" Url="html/920561180.htm" />
   <HelpKINode Title="ILinkedContracts interface">
@@ -3024,7 +3171,13 @@
   <HelpKINode Title="IndexVolatility field" Url="html/902487174.htm" />
   <HelpKINode Title="India enumeration member" Url="html/2023130359.htm" />
   <HelpKINode Title="India field" Url="html/868482738.htm" />
-  <HelpKINode Title="IndirectVotes property" Url="html/599574682.htm" />
+  <HelpKINode Title="IndirectInterest structure">
+    <HelpKINode Title="constructor" Url="html/1767338192.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IndirectInterest.Depth property" Url="html/1861362401.htm" />
+  <HelpKINode Title="IndirectInterest.IndirectInterest constructor" Url="html/1767338192.htm" />
+  <HelpKINode Title="IndirectInterest.Principal property" Url="html/1257729202.htm" />
+  <HelpKINode Title="IndirectInterest.PrincipalInterest property" Url="html/89765336.htm" />
   <HelpKINode Title="IndustrialMetal enumeration member" Url="html/2095312171.htm" />
   <HelpKINode Title="IndustrialMetal field" Url="html/619782433.htm" />
   <HelpKINode Title="Inequality operator" Url="html/1711597329.htm" />
@@ -3033,7 +3186,7 @@
   <HelpKINode Title="InHours property" Url="html/1562645146.htm" />
   <HelpKINode Title="InHours property" Url="html/713490637.htm" />
   <HelpKINode Title="InitialEquity property" Url="html/1297695640.htm" />
-  <HelpKINode Title="Initialize method" Url="html/1599199937.htm" />
+  <HelpKINode Title="Initialize method" Url="html/1734295060.htm" />
   <HelpKINode Title="InitializeSeries method" Url="html/1812326942.htm" />
   <HelpKINode Title="InitialValue property" Url="html/100729203.htm" />
   <HelpKINode Title="Injective enumeration member" Url="html/1881460347.htm" />
@@ -3041,21 +3194,6 @@
   <HelpKINode Title="InLiquidation enumeration member" Url="html/1858862659.htm" />
   <HelpKINode Title="InLiquidation field" Url="html/1399751787.htm" />
   <HelpKINode Title="InputString property" Url="html/1577430912.htm" />
-  <HelpKINode Title="InputTimestamps class" Url="html/115764670.htm" />
-  <HelpKINode Title="InputTimestamps class" Url="html/1342559098.htm" />
-  <HelpKINode Title="InputTimestamps class">
-    <HelpKINode Title="about InputTimestamps class" Url="html/1342559098.htm" />
-    <HelpKINode Title="all members" Url="html/115764670.htm" />
-    <HelpKINode Title="methods" Url="html/1746187582.htm" />
-    <HelpKINode Title="properties" Url="html/626613023.htm" />
-  </HelpKINode>
-  <HelpKINode Title="InputTimestamps.AddTo method" Url="html/1207676642.htm" />
-  <HelpKINode Title="InputTimestamps.Count property" Url="html/1194751707.htm" />
-  <HelpKINode Title="InputTimestamps.First property" Url="html/2039464342.htm" />
-  <HelpKINode Title="InputTimestamps.FromDataTable method" Url="html/1607222732.htm" />
-  <HelpKINode Title="InputTimestamps.GetEnumerator method" Url="html/1702248753.htm" />
-  <HelpKINode Title="InputTimestamps.Item property" Url="html/46679857.htm" />
-  <HelpKINode Title="InputTimestamps.Last property" Url="html/1887728256.htm" />
   <HelpKINode Title="InRestructuring enumeration member" Url="html/1858862659.htm" />
   <HelpKINode Title="InRestructuring field" Url="html/883967431.htm" />
   <HelpKINode Title="Insolvent enumeration member" Url="html/1858862659.htm" />
@@ -3075,7 +3213,7 @@
   <HelpKINode Title="IntangibleAsset.Name property" Url="html/1583471097.htm" />
   <HelpKINode Title="IntangibleAsset.ScenarioValue property" Url="html/711940443.htm" />
   <HelpKINode Title="IntangibleAsset.TermCategory property" Url="html/388721652.htm" />
-  <HelpKINode Title="InterestPayments property" Url="html/780152743.htm" />
+  <HelpKINode Title="Interest property" Url="html/1431378220.htm" />
   <HelpKINode Title="InterestRate class" Url="html/1645212139.htm" />
   <HelpKINode Title="InterestRate class" Url="html/269635155.htm" />
   <HelpKINode Title="InterestRate class">
@@ -3093,6 +3231,8 @@
   <HelpKINode Title="InterestRate.Term property" Url="html/628085737.htm" />
   <HelpKINode Title="InterestRate.ToString method" Url="html/1564213672.htm" />
   <HelpKINode Title="InterestRates property" Url="html/1204097584.htm" />
+  <HelpKINode Title="Interests property" Url="html/1248073266.htm" />
+  <HelpKINode Title="Interests property" Url="html/1715479109.htm" />
   <HelpKINode Title="InternalStructure property" Url="html/1169289786.htm" />
   <HelpKINode Title="InternalStructure property" Url="html/136650139.htm" />
   <HelpKINode Title="InternalStructure property" Url="html/28788382.htm" />
@@ -3107,8 +3247,8 @@
     <HelpKINode Title="properties" Url="html/1458113815.htm" />
   </HelpKINode>
   <HelpKINode Title="INumericSeries.BarWidth property" Url="html/1672992741.htm" />
-  <HelpKINode Title="INumericSeries.BaseValues property" Url="html/320624075.htm" />
   <HelpKINode Title="INumericSeries.Count property" Url="html/2039066787.htm" />
+  <HelpKINode Title="INumericSeries.Item property" Url="html/984779847.htm" />
   <HelpKINode Title="Invert method" Url="html/1207667939.htm" />
   <HelpKINode Title="Invert method" Url="html/269489112.htm" />
   <HelpKINode Title="Invert method" Url="html/677057495.htm" />
@@ -3353,6 +3493,7 @@
   <HelpKINode Title="IsSell method" Url="html/530044061.htm" />
   <HelpKINode Title="IsStock method" Url="html/280755211.htm" />
   <HelpKINode Title="IssuanceCurrency property" Url="html/486140318.htm" />
+  <HelpKINode Title="IssuanceDate property" Url="html/1710073009.htm" />
   <HelpKINode Title="IssuanceDate property" Url="html/1784474420.htm" />
   <HelpKINode Title="IssuancePrice property" Url="html/1538105726.htm" />
   <HelpKINode Title="Issue property" Url="html/767339377.htm" />
@@ -3390,6 +3531,7 @@
   <HelpKINode Title="Italy enumeration member" Url="html/2023130359.htm" />
   <HelpKINode Title="Italy field" Url="html/1127737078.htm" />
   <HelpKINode Title="Item property" Url="html/1058225232.htm" />
+  <HelpKINode Title="Item property" Url="html/1069343561.htm" />
   <HelpKINode Title="Item property" Url="html/1076204689.htm" />
   <HelpKINode Title="Item property" Url="html/1079560748.htm" />
   <HelpKINode Title="Item property" Url="html/1566483105.htm" />
@@ -3400,17 +3542,18 @@
   <HelpKINode Title="Item property" Url="html/1923656890.htm" />
   <HelpKINode Title="Item property" Url="html/1965480094.htm" />
   <HelpKINode Title="Item property" Url="html/1978675882.htm" />
+  <HelpKINode Title="Item property" Url="html/2027020429.htm" />
   <HelpKINode Title="Item property" Url="html/255124489.htm" />
   <HelpKINode Title="Item property" Url="html/313939334.htm" />
   <HelpKINode Title="Item property" Url="html/31394524.htm" />
   <HelpKINode Title="Item property" Url="html/394531963.htm" />
   <HelpKINode Title="Item property" Url="html/45323599.htm" />
-  <HelpKINode Title="Item property" Url="html/46679857.htm" />
   <HelpKINode Title="Item property" Url="html/52697855.htm" />
   <HelpKINode Title="Item property" Url="html/528329066.htm" />
   <HelpKINode Title="Item property" Url="html/793180008.htm" />
   <HelpKINode Title="Item property" Url="html/804222284.htm" />
   <HelpKINode Title="Item property" Url="html/977596870.htm" />
+  <HelpKINode Title="Item property" Url="html/984779847.htm" />
   <HelpKINode Title="ItemFlags enumeration" Url="html/872178452.htm" />
   <HelpKINode Title="ItemFlags.Comphrehensive field" Url="html/934158066.htm" />
   <HelpKINode Title="ItemFlags.Expense field" Url="html/376160472.htm" />
@@ -3539,6 +3682,7 @@
   <HelpKINode Title="January field" Url="html/619114719.htm" />
   <HelpKINode Title="Japan enumeration member" Url="html/2023130359.htm" />
   <HelpKINode Title="Japan field" Url="html/1285065111.htm" />
+  <HelpKINode Title="JP field" Url="html/1443548837.htm" />
   <HelpKINode Title="JPY enumeration member" Url="html/1322968494.htm" />
   <HelpKINode Title="JPY field" Url="html/1078218445.htm" />
   <HelpKINode Title="July enumeration member" Url="html/102430339.htm" />
@@ -3551,20 +3695,38 @@
   <HelpKINode Title="Key property" Url="html/513610069.htm" />
   <HelpKINode Title="Key property" Url="html/908376931.htm" />
   <HelpKINode Title="Key property" Url="html/970234270.htm" />
-  <HelpKINode Title="KnockoutOptionModel class" Url="html/1376270171.htm" />
-  <HelpKINode Title="KnockoutOptionModel class" Url="html/407947031.htm" />
-  <HelpKINode Title="KnockoutOptionModel class">
-    <HelpKINode Title="about KnockoutOptionModel class" Url="html/1376270171.htm" />
-    <HelpKINode Title="all members" Url="html/407947031.htm" />
-    <HelpKINode Title="constructor" Url="html/1208979669.htm" />
-    <HelpKINode Title="methods" Url="html/938384675.htm" />
-    <HelpKINode Title="properties" Url="html/742178264.htm" />
+  <HelpKINode Title="KnockInOptionModel class" Url="html/1127655128.htm" />
+  <HelpKINode Title="KnockInOptionModel class" Url="html/1237013320.htm" />
+  <HelpKINode Title="KnockInOptionModel class">
+    <HelpKINode Title="about KnockInOptionModel class" Url="html/1127655128.htm" />
+    <HelpKINode Title="all members" Url="html/1237013320.htm" />
+    <HelpKINode Title="constructor" Url="html/1338645688.htm" />
+    <HelpKINode Title="methods" Url="html/687307884.htm" />
+    <HelpKINode Title="properties" Url="html/1577183045.htm" />
   </HelpKINode>
-  <HelpKINode Title="KnockoutOptionModel.GetTerminalPayoff method" Url="html/549788657.htm" />
-  <HelpKINode Title="KnockoutOptionModel.GetTerminalPayoff method" Url="html/717224784.htm" />
-  <HelpKINode Title="KnockoutOptionModel.KnockoutOptionModel constructor" Url="html/1208979669.htm" />
-  <HelpKINode Title="KnockoutOptionModel.KnockoutPrice property" Url="html/1957175060.htm" />
-  <HelpKINode Title="KnockoutPrice property" Url="html/1957175060.htm" />
+  <HelpKINode Title="KnockInOptionModel.GetCallTerminalPayoff method" Url="html/1144034578.htm" />
+  <HelpKINode Title="KnockInOptionModel.GetCallTerminalPayoff method" Url="html/531641369.htm" />
+  <HelpKINode Title="KnockInOptionModel.GetPutTerminalPayoff method" Url="html/1855443839.htm" />
+  <HelpKINode Title="KnockInOptionModel.GetPutTerminalPayoff method" Url="html/55998250.htm" />
+  <HelpKINode Title="KnockInOptionModel.KnockInOptionModel constructor" Url="html/1338645688.htm" />
+  <HelpKINode Title="KnockInOptionModel.KnockInPrice property" Url="html/145189222.htm" />
+  <HelpKINode Title="KnockInPrice property" Url="html/145189222.htm" />
+  <HelpKINode Title="KnockOutOptionModel class" Url="html/1271249673.htm" />
+  <HelpKINode Title="KnockOutOptionModel class" Url="html/67709179.htm" />
+  <HelpKINode Title="KnockOutOptionModel class">
+    <HelpKINode Title="about KnockOutOptionModel class" Url="html/67709179.htm" />
+    <HelpKINode Title="all members" Url="html/1271249673.htm" />
+    <HelpKINode Title="constructor" Url="html/248053195.htm" />
+    <HelpKINode Title="methods" Url="html/2146929091.htm" />
+    <HelpKINode Title="properties" Url="html/501186232.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KnockOutOptionModel.GetCallTerminalPayoff method" Url="html/1940695477.htm" />
+  <HelpKINode Title="KnockOutOptionModel.GetCallTerminalPayoff method" Url="html/2052248108.htm" />
+  <HelpKINode Title="KnockOutOptionModel.GetPutTerminalPayoff method" Url="html/1580766422.htm" />
+  <HelpKINode Title="KnockOutOptionModel.GetPutTerminalPayoff method" Url="html/2034211185.htm" />
+  <HelpKINode Title="KnockOutOptionModel.KnockOutOptionModel constructor" Url="html/248053195.htm" />
+  <HelpKINode Title="KnockOutOptionModel.KnockOutPrice property" Url="html/535466068.htm" />
+  <HelpKINode Title="KnockOutPrice property" Url="html/535466068.htm" />
   <HelpKINode Title="KnownUnits property" Url="html/1684248039.htm" />
   <HelpKINode Title="Last enumeration member" Url="html/343682374.htm" />
   <HelpKINode Title="Last enumeration member" Url="html/766690620.htm" />
@@ -3573,7 +3735,6 @@
   <HelpKINode Title="Last property" Url="html/1333751679.htm" />
   <HelpKINode Title="Last property" Url="html/1729778499.htm" />
   <HelpKINode Title="Last property" Url="html/1814638155.htm" />
-  <HelpKINode Title="Last property" Url="html/1887728256.htm" />
   <HelpKINode Title="LastAdded property" Url="html/91841238.htm" />
   <HelpKINode Title="LastBankingDay enumeration member" Url="html/343682374.htm" />
   <HelpKINode Title="LastBankingDay field" Url="html/134954598.htm" />
@@ -3609,7 +3770,7 @@
   <HelpKINode Title="LegalEntityIdType.CIK field" Url="html/471580981.htm" />
   <HelpKINode Title="LegalEntityIdType.LEI field" Url="html/1854017868.htm" />
   <HelpKINode Title="LegalEntityStatus enumeration" Url="html/1858862659.htm" />
-  <HelpKINode Title="LegalEntityStatus.Ceased field" Url="html/1586012050.htm" />
+  <HelpKINode Title="LegalEntityStatus.Dissolved field" Url="html/925886836.htm" />
   <HelpKINode Title="LegalEntityStatus.InLiquidation field" Url="html/1399751787.htm" />
   <HelpKINode Title="LegalEntityStatus.InRestructuring field" Url="html/883967431.htm" />
   <HelpKINode Title="LegalEntityStatus.Insolvent field" Url="html/390943301.htm" />
@@ -3788,10 +3949,12 @@
     <HelpKINode Title="about MarketEventSeries class" Url="html/136842346.htm" />
     <HelpKINode Title="all members" Url="html/1060872618.htm" />
     <HelpKINode Title="constructor" Url="html/2051081159.htm" />
+    <HelpKINode Title="fields" Url="html/1791494405.htm" />
     <HelpKINode Title="methods" Url="html/1988679150.htm" />
     <HelpKINode Title="properties" Url="html/143390069.htm" />
   </HelpKINode>
   <HelpKINode Title="MarketEventSeries.MarketEventSeries constructor" Url="html/2051081159.htm" />
+  <HelpKINode Title="MarketEventSeries.SeriesName field" Url="html/1989776664.htm" />
   <HelpKINode Title="MarketEventType enumeration" Url="html/3812663.htm" />
   <HelpKINode Title="MarketEventType.None field" Url="html/1918225999.htm" />
   <HelpKINode Title="MarketIndexElement class" Url="html/1110273407.htm" />
@@ -3832,6 +3995,7 @@
   <HelpKINode Title="MaturityDate property" Url="html/1756958702.htm" />
   <HelpKINode Title="MaturityDate property" Url="html/627157912.htm" />
   <HelpKINode Title="MaxCandlesCount property" Url="html/1758250575.htm" />
+  <HelpKINode Title="MaximumCount property" Url="html/301883074.htm" />
   <HelpKINode Title="MaximumCredit property" Url="html/959324730.htm" />
   <HelpKINode Title="MaxIssuableAmount property" Url="html/1759904804.htm" />
   <HelpKINode Title="May enumeration member" Url="html/102430339.htm" />
@@ -3869,6 +4033,7 @@
   <HelpKINode Title="MidPrice property" Url="html/940080904.htm" />
   <HelpKINode Title="Millions enumeration member" Url="html/1020014037.htm" />
   <HelpKINode Title="Millions field" Url="html/1056988090.htm" />
+  <HelpKINode Title="MinimumCount property" Url="html/571778536.htm" />
   <HelpKINode Title="Minute enumeration member" Url="html/1663590182.htm" />
   <HelpKINode Title="Minute field" Url="html/344652414.htm" />
   <HelpKINode Title="MJ enumeration member" Url="html/1939531287.htm" />
@@ -3901,9 +4066,8 @@
     <HelpKINode Title="methods" Url="html/87772931.htm" />
     <HelpKINode Title="properties" Url="html/1843835142.htm" />
   </HelpKINode>
-  <HelpKINode Title="ModelManager.AddDebtIssue method" Url="html/827956758.htm" />
+  <HelpKINode Title="ModelManager.AddDebtIssue method" Url="html/1469106048.htm" />
   <HelpKINode Title="ModelManager.AddRealEstateAsset method" Url="html/779971330.htm" />
-  <HelpKINode Title="ModelManager.CreateDebtIssue method" Url="html/1298817113.htm" />
   <HelpKINode Title="ModelManager.DebtIssues property" Url="html/508492518.htm" />
   <HelpKINode Title="ModelManager.FindBusinessEntities method" Url="html/279413241.htm" />
   <HelpKINode Title="ModelManager.GetBusinessEntity method" Url="html/14037414.htm" />
@@ -4033,6 +4197,7 @@
   <HelpKINode Title="NaturalPerson.LastName property" Url="html/1515632570.htm" />
   <HelpKINode Title="NaturalPerson.Name property" Url="html/993844046.htm" />
   <HelpKINode Title="NaturalPerson.NaturalPerson constructor" Url="html/545544573.htm" />
+  <HelpKINode Title="NaturalPerson.NormalizeName method" Url="html/1939082341.htm" />
   <HelpKINode Title="NewCandle event" Url="html/131938930.htm" />
   <HelpKINode Title="NewCandle event" Url="html/1357028213.htm" />
   <HelpKINode Title="NewCandle event" Url="html/1628891924.htm" />
@@ -4049,13 +4214,6 @@
   <HelpKINode Title="NewCandleEventArgs.Candle property" Url="html/481670147.htm" />
   <HelpKINode Title="NewZealand enumeration member" Url="html/2023130359.htm" />
   <HelpKINode Title="NewZealand field" Url="html/1334950812.htm" />
-  <HelpKINode Title="NoCompetingInterests structure" Url="html/909000869.htm" />
-  <HelpKINode Title="NoCompetingInterests structure" Url="html/937825831.htm" />
-  <HelpKINode Title="NoCompetingInterests structure">
-    <HelpKINode Title="about NoCompetingInterests structure" Url="html/909000869.htm" />
-    <HelpKINode Title="all members" Url="html/937825831.htm" />
-    <HelpKINode Title="methods" Url="html/1685164227.htm" />
-  </HelpKINode>
   <HelpKINode Title="NOK enumeration member" Url="html/1322968494.htm" />
   <HelpKINode Title="NOK field" Url="html/412811746.htm" />
   <HelpKINode Title="None enumeration member" Url="html/1020014037.htm" />
@@ -4073,6 +4231,7 @@
   <HelpKINode Title="NonEMUWesternEurope field" Url="html/959355658.htm" />
   <HelpKINode Title="Nordic enumeration member" Url="html/2023130359.htm" />
   <HelpKINode Title="Nordic field" Url="html/806676098.htm" />
+  <HelpKINode Title="NormalizeName method" Url="html/1939082341.htm" />
   <HelpKINode Title="NormalizeToSchedule property" Url="html/1022883079.htm" />
   <HelpKINode Title="NotTouched field" Url="html/1838419924.htm" />
   <HelpKINode Title="NotTriggered field" Url="html/17437109.htm" />
@@ -4107,7 +4266,7 @@
   <HelpKINode Title="OfficerRoles.CEO field" Url="html/1017372183.htm" />
   <HelpKINode Title="OfficerRoles.CFO field" Url="html/548711758.htm" />
   <HelpKINode Title="OfficerRoles.CLO field" Url="html/2067741532.htm" />
-  <HelpKINode Title="OfficerRoles.Other field" Url="html/1948544938.htm" />
+  <HelpKINode Title="OfficerRoles.CS field" Url="html/2120032658.htm" />
   <HelpKINode Title="OfSymbol method" Url="html/1224602294.htm" />
   <HelpKINode Title="OhlcBar structure" Url="html/1123016096.htm" />
   <HelpKINode Title="OhlcBar structure" Url="html/592952900.htm" />
@@ -4184,7 +4343,6 @@
   <HelpKINode Title="OhlcColumns.CustomColumns property" Url="html/1503699654.htm" />
   <HelpKINode Title="OhlcColumns.GetColumn method" Url="html/1014144144.htm" />
   <HelpKINode Title="OhlcColumns.GetColumns method" Url="html/1008247338.htm" />
-  <HelpKINode Title="OhlcColumns.GetEnumeratorInternal method" Url="html/694980716.htm" />
   <HelpKINode Title="OhlcColumns.High property" Url="html/703092492.htm" />
   <HelpKINode Title="OhlcColumns.InternalStructure property" Url="html/28788382.htm" />
   <HelpKINode Title="OhlcColumns.Invert method" Url="html/677057495.htm" />
@@ -4275,7 +4433,6 @@
   <HelpKINode Title="OhlcSeries.Count property" Url="html/1744957845.htm" />
   <HelpKINode Title="OhlcSeries.GetColumn method" Url="html/19518678.htm" />
   <HelpKINode Title="OhlcSeries.GetColumns method" Url="html/594657452.htm" />
-  <HelpKINode Title="OhlcSeries.GetEnumeratorInternal method" Url="html/864552914.htm" />
   <HelpKINode Title="OhlcSeries.Id property" Url="html/103284595.htm" />
   <HelpKINode Title="OhlcSeries.InternalStructure property" Url="html/1169289786.htm" />
   <HelpKINode Title="OhlcSeries.IsColumnStructured property" Url="html/430796061.htm" />
@@ -4344,7 +4501,8 @@
     <HelpKINode Title="properties" Url="html/552566535.htm" />
   </HelpKINode>
   <HelpKINode Title="OptionModel(Of TOptionPayoffInputs).ExpirationDate property" Url="html/1761220765.htm" />
-  <HelpKINode Title="OptionModel(Of TOptionPayoffInputs).GetTerminalPayoff method" Url="html/1330811963.htm" />
+  <HelpKINode Title="OptionModel(Of TOptionPayoffInputs).GetCallTerminalPayoff method" Url="html/1490509697.htm" />
+  <HelpKINode Title="OptionModel(Of TOptionPayoffInputs).GetPutTerminalPayoff method" Url="html/229753110.htm" />
   <HelpKINode Title="OptionModel(Of TOptionPayoffInputs).OptionModel constructor" Url="html/1045296938.htm" />
   <HelpKINode Title="OptionModel&lt;TOptionPayoffInputs&gt; class" Url="html/1686773500.htm" />
   <HelpKINode Title="OptionModel&lt;TOptionPayoffInputs&gt; class" Url="html/287170484.htm" />
@@ -4356,8 +4514,13 @@
     <HelpKINode Title="properties" Url="html/552566535.htm" />
   </HelpKINode>
   <HelpKINode Title="OptionModel&lt;TOptionPayoffInputs&gt;.ExpirationDate property" Url="html/1761220765.htm" />
-  <HelpKINode Title="OptionModel&lt;TOptionPayoffInputs&gt;.GetTerminalPayoff method" Url="html/1330811963.htm" />
+  <HelpKINode Title="OptionModel&lt;TOptionPayoffInputs&gt;.GetCallTerminalPayoff method" Url="html/1490509697.htm" />
+  <HelpKINode Title="OptionModel&lt;TOptionPayoffInputs&gt;.GetPutTerminalPayoff method" Url="html/229753110.htm" />
   <HelpKINode Title="OptionModel&lt;TOptionPayoffInputs&gt;.OptionModel constructor" Url="html/1045296938.htm" />
+  <HelpKINode Title="Options.DateOrTimestampColumnName property" Url="html/1323378948.htm" />
+  <HelpKINode Title="Options.DateStringParser property" Url="html/1393065492.htm" />
+  <HelpKINode Title="Options.TickColumnName property" Url="html/1285921406.htm" />
+  <HelpKINode Title="Options.TimeColumnName property" Url="html/1998150738.htm" />
   <HelpKINode Title="OptionType enumeration" Url="html/1708519508.htm" />
   <HelpKINode Title="OptionType property" Url="html/399523074.htm" />
   <HelpKINode Title="OptionType property" Url="html/514287621.htm" />
@@ -4424,11 +4587,9 @@
   <HelpKINode Title="Original field" Url="html/1188720447.htm" />
   <HelpKINode Title="OriginalValue property" Url="html/1731301398.htm" />
   <HelpKINode Title="Other enumeration member" Url="html/1267798375.htm" />
-  <HelpKINode Title="Other enumeration member" Url="html/1548938036.htm" />
   <HelpKINode Title="Other enumeration member" Url="html/189345123.htm" />
   <HelpKINode Title="Other enumeration member" Url="html/2112951523.htm" />
   <HelpKINode Title="Other field" Url="html/1895352357.htm" />
-  <HelpKINode Title="Other field" Url="html/1948544938.htm" />
   <HelpKINode Title="Other field" Url="html/220758595.htm" />
   <HelpKINode Title="Other field" Url="html/601875819.htm" />
   <HelpKINode Title="OtherCommodity enumeration member" Url="html/2095312171.htm" />
@@ -4444,7 +4605,12 @@
   <HelpKINode Title="Overnight field" Url="html/511072699.htm" />
   <HelpKINode Title="OvernightRateX property" Url="html/445563973.htm" />
   <HelpKINode Title="OvernightRateY property" Url="html/1120519968.htm" />
-  <HelpKINode Title="OwnerAffiliation.Principal property" Url="html/2046803277.htm" />
+  <HelpKINode Title="OwnershipInterest structure">
+    <HelpKINode Title="constructor" Url="html/223395165.htm" />
+  </HelpKINode>
+  <HelpKINode Title="OwnershipInterest.Depth property" Url="html/1945561978.htm" />
+  <HelpKINode Title="OwnershipInterest.DirectVotes property" Url="html/201301249.htm" />
+  <HelpKINode Title="OwnershipInterest.OwnershipInterest constructor" Url="html/223395165.htm" />
   <HelpKINode Title="OwnershipShare property" Url="html/1411978186.htm" />
   <HelpKINode Title="ParentAsset property" Url="html/1396322945.htm" />
   <HelpKINode Title="ParentEntity property" Url="html/1282325311.htm" />
@@ -4472,7 +4638,8 @@
     <HelpKINode Title="properties" Url="html/1712025637.htm" />
   </HelpKINode>
   <HelpKINode Title="Participant.Entity property" Url="html/1450611203.htm" />
-  <HelpKINode Title="Participant.ProxyVotes property" Url="html/2138154349.htm" />
+  <HelpKINode Title="Participant.Interests property" Url="html/1715479109.htm" />
+  <HelpKINode Title="Participant.UnaffiliatedProxyVotes property" Url="html/1028418087.htm" />
   <HelpKINode Title="Participant.Votes property" Url="html/733385381.htm" />
   <HelpKINode Title="Participants property" Url="html/1116290510.htm" />
   <HelpKINode Title="ParValue property" Url="html/148684128.htm" />
@@ -4581,12 +4748,13 @@
   <HelpKINode Title="PriceTick property" Url="html/1464560801.htm" />
   <HelpKINode Title="PriceTick property" Url="html/1672044120.htm" />
   <HelpKINode Title="PriceTick property" Url="html/938610095.htm" />
-  <HelpKINode Title="Principal property" Url="html/2046803277.htm" />
+  <HelpKINode Title="Principal property" Url="html/1257729202.htm" />
   <HelpKINode Title="PrincipalAmount property" Url="html/1362006525.htm" />
   <HelpKINode Title="PrincipalAmount property" Url="html/1392827621.htm" />
   <HelpKINode Title="PrincipalAmount property" Url="html/2059654112.htm" />
   <HelpKINode Title="PrincipalAmount property" Url="html/2093895137.htm" />
   <HelpKINode Title="PrincipalAmount property" Url="html/601812745.htm" />
+  <HelpKINode Title="PrincipalInterest property" Url="html/89765336.htm" />
   <HelpKINode Title="PrivateEquityHolding class" Url="html/1373455580.htm" />
   <HelpKINode Title="PrivateEquityHolding class" Url="html/1538168568.htm" />
   <HelpKINode Title="PrivateEquityHolding class">
@@ -4636,7 +4804,6 @@
   <HelpKINode Title="Provider property" Url="html/1356372928.htm" />
   <HelpKINode Title="Provider property" Url="html/1958850414.htm" />
   <HelpKINode Title="Provider property" Url="html/972378099.htm" />
-  <HelpKINode Title="ProxyVotes property" Url="html/2138154349.htm" />
   <HelpKINode Title="PullTicks method" Url="html/830045276.htm" />
   <HelpKINode Title="Purpose property" Url="html/1387972395.htm" />
   <HelpKINode Title="Purpose property" Url="html/1586579657.htm" />
@@ -4753,6 +4920,7 @@
   <HelpKINode Title="RealTimeRsVolatility.Add method" Url="html/1713119483.htm" />
   <HelpKINode Title="RealTimeRsVolatility.BarCount property" Url="html/1644571430.htm" />
   <HelpKINode Title="RealTimeRsVolatility.BarWidth property" Url="html/1538784959.htm" />
+  <HelpKINode Title="RealTimeRsVolatility.Item property" Url="html/1069343561.htm" />
   <HelpKINode Title="RealTimeRsVolatility.RealTimeRsVolatility constructor" Url="html/1923454413.htm" />
   <HelpKINode Title="RedeemedAmount property" Url="html/803076523.htm" />
   <HelpKINode Title="RedemptionOptions property" Url="html/877336101.htm" />
@@ -4985,13 +5153,12 @@
   <HelpKINode Title="SecurityUnitValue.SecurityUnitValue constructor" Url="html/639005930.htm" />
   <HelpKINode Title="SEK enumeration member" Url="html/1322968494.htm" />
   <HelpKINode Title="SEK field" Url="html/393756497.htm" />
-  <HelpKINode Title="SelfOwnershipInterest.DirectVotes property" Url="html/1581081853.htm" />
-  <HelpKINode Title="SelfOwnershipInterest.IndirectVotes property" Url="html/599574682.htm" />
   <HelpKINode Title="SELL enumeration member" Url="html/370585758.htm" />
   <HelpKINode Title="SELL field" Url="html/211714078.htm" />
   <HelpKINode Title="Separator property" Url="html/296133418.htm" />
   <HelpKINode Title="September enumeration member" Url="html/102430339.htm" />
   <HelpKINode Title="September field" Url="html/1023624358.htm" />
+  <HelpKINode Title="SeriesName field" Url="html/1989776664.htm" />
   <HelpKINode Title="ServiceSales enumeration member" Url="html/872178452.htm" />
   <HelpKINode Title="ServiceSales field" Url="html/1742961365.htm" />
   <HelpKINode Title="Set method" Url="html/16329534.htm" />
@@ -5227,6 +5394,7 @@
   <HelpKINode Title="StopLossOrderCondition.ValidityPeriod property" Url="html/1351696783.htm" />
   <HelpKINode Title="Strike property" Url="html/296556145.htm" />
   <HelpKINode Title="StrikePrice property" Url="html/1616497683.htm" />
+  <HelpKINode Title="StrikePrice property" Url="html/1619804251.htm" />
   <HelpKINode Title="Strikes property" Url="html/1385832153.htm" />
   <HelpKINode Title="Styles property" Url="html/387146439.htm" />
   <HelpKINode Title="SubmissionTime property" Url="html/1481875228.htm" />
@@ -5286,10 +5454,10 @@
   <HelpKINode Title="Suoranta.Finance.Configuration.AssetClassElement class" Url="html/1638234171.htm" />
   <HelpKINode Title="Suoranta.Finance.Configuration.Collections class" Url="html/1386190246.htm" />
   <HelpKINode Title="Suoranta.Finance.Configuration.Collections class" Url="html/729060098.htm" />
-  <HelpKINode Title="Suoranta.Finance.Configuration.ConfigurationCollection(Of TElement) class" Url="html/181474654.htm" />
-  <HelpKINode Title="Suoranta.Finance.Configuration.ConfigurationCollection(Of TElement) class" Url="html/999176074.htm" />
-  <HelpKINode Title="Suoranta.Finance.Configuration.ConfigurationCollection&lt;TElement&gt; class" Url="html/181474654.htm" />
-  <HelpKINode Title="Suoranta.Finance.Configuration.ConfigurationCollection&lt;TElement&gt; class" Url="html/999176074.htm" />
+  <HelpKINode Title="Suoranta.Finance.Configuration.ConfigurationCollection(Of T) class" Url="html/181474654.htm" />
+  <HelpKINode Title="Suoranta.Finance.Configuration.ConfigurationCollection(Of T) class" Url="html/999176074.htm" />
+  <HelpKINode Title="Suoranta.Finance.Configuration.ConfigurationCollection&lt;T&gt; class" Url="html/181474654.htm" />
+  <HelpKINode Title="Suoranta.Finance.Configuration.ConfigurationCollection&lt;T&gt; class" Url="html/999176074.htm" />
   <HelpKINode Title="Suoranta.Finance.Configuration.ExchangeCollection class" Url="html/2134555648.htm" />
   <HelpKINode Title="Suoranta.Finance.Configuration.ExchangeCollection class" Url="html/80070864.htm" />
   <HelpKINode Title="Suoranta.Finance.Configuration.ExchangeElement class" Url="html/468016824.htm" />
@@ -5359,6 +5527,8 @@
   <HelpKINode Title="Suoranta.Finance.Data.IO namespace" Url="html/1195529191.htm" />
   <HelpKINode Title="Suoranta.Finance.Data.IO.DataTableReader class" Url="html/1573406712.htm" />
   <HelpKINode Title="Suoranta.Finance.Data.IO.DataTableReader class" Url="html/757887468.htm" />
+  <HelpKINode Title="Suoranta.Finance.Data.IO.DataTableReader.Options class" Url="html/340835312.htm" />
+  <HelpKINode Title="Suoranta.Finance.Data.IO.DataTableReader.Options class" Url="html/446322016.htm" />
   <HelpKINode Title="Suoranta.Finance.Data.IO.DateStringParser class" Url="html/2031427867.htm" />
   <HelpKINode Title="Suoranta.Finance.Data.IO.DateStringParser class" Url="html/770940795.htm" />
   <HelpKINode Title="Suoranta.Finance.Data.IO.ImportLog class" Url="html/2002894054.htm" />
@@ -5366,8 +5536,6 @@
   <HelpKINode Title="Suoranta.Finance.Data.IO.ImportLog.Entry class" Url="html/1399428012.htm" />
   <HelpKINode Title="Suoranta.Finance.Data.IO.ImportLog.Entry class" Url="html/1440011776.htm" />
   <HelpKINode Title="Suoranta.Finance.Data.IO.ImportLog.EntryType enumeration" Url="html/552538672.htm" />
-  <HelpKINode Title="Suoranta.Finance.Data.IO.InputTimestamps class" Url="html/115764670.htm" />
-  <HelpKINode Title="Suoranta.Finance.Data.IO.InputTimestamps class" Url="html/1342559098.htm" />
   <HelpKINode Title="Suoranta.Finance.Data.MarketEvent class" Url="html/1636465411.htm" />
   <HelpKINode Title="Suoranta.Finance.Data.MarketEvent class" Url="html/60982983.htm" />
   <HelpKINode Title="Suoranta.Finance.Data.MarketEventSeries class" Url="html/1060872618.htm" />
@@ -5544,6 +5712,8 @@
   <HelpKINode Title="Suoranta.Finance.Models.BalanceSheetAsset class" Url="html/2036375276.htm" />
   <HelpKINode Title="Suoranta.Finance.Models.BalanceSheetTotals structure" Url="html/192702051.htm" />
   <HelpKINode Title="Suoranta.Finance.Models.BalanceSheetTotals structure" Url="html/196203481.htm" />
+  <HelpKINode Title="Suoranta.Finance.Models.BarrierOptionModel class" Url="html/1104319764.htm" />
+  <HelpKINode Title="Suoranta.Finance.Models.BarrierOptionModel class" Url="html/1262447596.htm" />
   <HelpKINode Title="Suoranta.Finance.Models.BondModel class" Url="html/1008185095.htm" />
   <HelpKINode Title="Suoranta.Finance.Models.BondModel class" Url="html/1798517691.htm" />
   <HelpKINode Title="Suoranta.Finance.Models.BusinessEntity class" Url="html/1691293018.htm" />
@@ -5635,29 +5805,47 @@
   <HelpKINode Title="Suoranta.Finance.Models.Governance.Affiliations class" Url="html/232394464.htm" />
   <HelpKINode Title="Suoranta.Finance.Models.Governance.Affiliations.CorporateOfficer structure" Url="html/1198719145.htm" />
   <HelpKINode Title="Suoranta.Finance.Models.Governance.Affiliations.CorporateOfficer structure" Url="html/1902353867.htm" />
-  <HelpKINode Title="Suoranta.Finance.Models.Governance.Affiliations.OwnerAffiliation structure" Url="html/1336368597.htm" />
-  <HelpKINode Title="Suoranta.Finance.Models.Governance.Affiliations.OwnerAffiliation structure" Url="html/1519998465.htm" />
-  <HelpKINode Title="Suoranta.Finance.Models.Governance.Affiliations.SelfOwnershipInterest structure" Url="html/1954972679.htm" />
-  <HelpKINode Title="Suoranta.Finance.Models.Governance.Affiliations.SelfOwnershipInterest structure" Url="html/2120189139.htm" />
+  <HelpKINode Title="Suoranta.Finance.Models.Governance.Affiliations.IndirectInterest structure" Url="html/1033756186.htm" />
+  <HelpKINode Title="Suoranta.Finance.Models.Governance.Affiliations.IndirectInterest structure" Url="html/1992312222.htm" />
+  <HelpKINode Title="Suoranta.Finance.Models.Governance.Affiliations.OwnershipInterest structure" Url="html/1294207729.htm" />
+  <HelpKINode Title="Suoranta.Finance.Models.Governance.Affiliations.OwnershipInterest structure" Url="html/807291389.htm" />
   <HelpKINode Title="Suoranta.Finance.Models.Governance.ArticlesOfAssociation class" Url="html/2067445844.htm" />
   <HelpKINode Title="Suoranta.Finance.Models.Governance.ArticlesOfAssociation class" Url="html/738489360.htm" />
+  <HelpKINode Title="Suoranta.Finance.Models.Governance.ArticleTypes class" Url="html/900965856.htm" />
+  <HelpKINode Title="Suoranta.Finance.Models.Governance.ArticleTypes class" Url="html/987342364.htm" />
+  <HelpKINode Title="Suoranta.Finance.Models.Governance.ArticleTypes.BoardMemberCount structure" Url="html/1168571955.htm" />
+  <HelpKINode Title="Suoranta.Finance.Models.Governance.ArticleTypes.BoardMemberCount structure" Url="html/1184198279.htm" />
+  <HelpKINode Title="Suoranta.Finance.Models.Governance.BoardCandidate class" Url="html/1185538398.htm" />
+  <HelpKINode Title="Suoranta.Finance.Models.Governance.BoardCandidate class" Url="html/1304553374.htm" />
   <HelpKINode Title="Suoranta.Finance.Models.Governance.BoardMember class" Url="html/152226359.htm" />
   <HelpKINode Title="Suoranta.Finance.Models.Governance.BoardMember class" Url="html/565452473.htm" />
   <HelpKINode Title="Suoranta.Finance.Models.Governance.BoardOfDirectors class" Url="html/134285595.htm" />
   <HelpKINode Title="Suoranta.Finance.Models.Governance.BoardOfDirectors class" Url="html/1741454975.htm" />
+  <HelpKINode Title="Suoranta.Finance.Models.Governance.DomicileTypes class" Url="html/316541124.htm" />
+  <HelpKINode Title="Suoranta.Finance.Models.Governance.DomicileTypes class" Url="html/724967528.htm" />
+  <HelpKINode Title="Suoranta.Finance.Models.Governance.DomicileTypes.Generic structure" Url="html/503827407.htm" />
+  <HelpKINode Title="Suoranta.Finance.Models.Governance.DomicileTypes.Generic structure" Url="html/552118165.htm" />
+  <HelpKINode Title="Suoranta.Finance.Models.Governance.DomicileTypes.USState structure" Url="html/2026987581.htm" />
+  <HelpKINode Title="Suoranta.Finance.Models.Governance.DomicileTypes.USState structure" Url="html/742497977.htm" />
+  <HelpKINode Title="Suoranta.Finance.Models.Governance.Extensions class" Url="html/1333484513.htm" />
+  <HelpKINode Title="Suoranta.Finance.Models.Governance.Extensions class" Url="html/1825744735.htm" />
   <HelpKINode Title="Suoranta.Finance.Models.Governance.GeneralMeeting class" Url="html/1431282054.htm" />
   <HelpKINode Title="Suoranta.Finance.Models.Governance.GeneralMeeting class" Url="html/565523334.htm" />
-  <HelpKINode Title="Suoranta.Finance.Models.Governance.ICompetingInterest interface" Url="html/136189046.htm" />
-  <HelpKINode Title="Suoranta.Finance.Models.Governance.ICompetingInterest interface" Url="html/820995258.htm" />
+  <HelpKINode Title="Suoranta.Finance.Models.Governance.IAssociationArticle interface" Url="html/254599719.htm" />
+  <HelpKINode Title="Suoranta.Finance.Models.Governance.IAssociationArticle interface" Url="html/686710323.htm" />
+  <HelpKINode Title="Suoranta.Finance.Models.Governance.IDomicile interface" Url="html/2077972958.htm" />
+  <HelpKINode Title="Suoranta.Finance.Models.Governance.IDomicile interface" Url="html/317219646.htm" />
+  <HelpKINode Title="Suoranta.Finance.Models.Governance.IInterest interface" Url="html/1788032536.htm" />
+  <HelpKINode Title="Suoranta.Finance.Models.Governance.IInterest interface" Url="html/407453084.htm" />
   <HelpKINode Title="Suoranta.Finance.Models.Governance.MeetingType enumeration" Url="html/1304123472.htm" />
-  <HelpKINode Title="Suoranta.Finance.Models.Governance.NoCompetingInterests structure" Url="html/909000869.htm" />
-  <HelpKINode Title="Suoranta.Finance.Models.Governance.NoCompetingInterests structure" Url="html/937825831.htm" />
   <HelpKINode Title="Suoranta.Finance.Models.Governance.OfficerRoles enumeration" Url="html/1548938036.htm" />
   <HelpKINode Title="Suoranta.Finance.Models.Governance.Participant class" Url="html/1166704176.htm" />
   <HelpKINode Title="Suoranta.Finance.Models.Governance.Participant class" Url="html/751551548.htm" />
   <HelpKINode Title="Suoranta.Finance.Models.Governance.PassingThreshold enumeration" Url="html/299161739.htm" />
   <HelpKINode Title="Suoranta.Finance.Models.Governance.Proposition class" Url="html/1705761483.htm" />
   <HelpKINode Title="Suoranta.Finance.Models.Governance.Proposition class" Url="html/661013697.htm" />
+  <HelpKINode Title="Suoranta.Finance.Models.Governance.USStates class" Url="html/2089867201.htm" />
+  <HelpKINode Title="Suoranta.Finance.Models.Governance.USStates class" Url="html/810562977.htm" />
   <HelpKINode Title="Suoranta.Finance.Models.IBalanceSheetAsset interface" Url="html/273108723.htm" />
   <HelpKINode Title="Suoranta.Finance.Models.IBalanceSheetAsset interface" Url="html/820704887.htm" />
   <HelpKINode Title="Suoranta.Finance.Models.IBalanceSheetItem interface" Url="html/1319143122.htm" />
@@ -5684,8 +5872,10 @@
   <HelpKINode Title="Suoranta.Finance.Models.IShareClass interface" Url="html/1059238171.htm" />
   <HelpKINode Title="Suoranta.Finance.Models.ISupportsValueSource interface" Url="html/1496827506.htm" />
   <HelpKINode Title="Suoranta.Finance.Models.ISupportsValueSource interface" Url="html/2016086646.htm" />
-  <HelpKINode Title="Suoranta.Finance.Models.KnockoutOptionModel class" Url="html/1376270171.htm" />
-  <HelpKINode Title="Suoranta.Finance.Models.KnockoutOptionModel class" Url="html/407947031.htm" />
+  <HelpKINode Title="Suoranta.Finance.Models.KnockInOptionModel class" Url="html/1127655128.htm" />
+  <HelpKINode Title="Suoranta.Finance.Models.KnockInOptionModel class" Url="html/1237013320.htm" />
+  <HelpKINode Title="Suoranta.Finance.Models.KnockOutOptionModel class" Url="html/1271249673.htm" />
+  <HelpKINode Title="Suoranta.Finance.Models.KnockOutOptionModel class" Url="html/67709179.htm" />
   <HelpKINode Title="Suoranta.Finance.Models.LegalEntity class" Url="html/1499177237.htm" />
   <HelpKINode Title="Suoranta.Finance.Models.LegalEntity class" Url="html/1810475095.htm" />
   <HelpKINode Title="Suoranta.Finance.Models.LegalEntityId structure" Url="html/77187230.htm" />
@@ -5877,6 +6067,8 @@
   <HelpKINode Title="Suoranta.Finance.Volatility class" Url="html/1348137398.htm" />
   <HelpKINode Title="Suoranta.Finance.Volatility class" Url="html/948914962.htm" />
   <HelpKINode Title="Suoranta.Finance.VolatilityScaling enumeration" Url="html/1456192965.htm" />
+  <HelpKINode Title="Suoranta.Finance.XBRLAttribute class" Url="html/310969559.htm" />
+  <HelpKINode Title="Suoranta.Finance.XBRLAttribute class" Url="html/431071833.htm" />
   <HelpKINode Title="Surjective enumeration member" Url="html/1881460347.htm" />
   <HelpKINode Title="Surjective field" Url="html/535378245.htm" />
   <HelpKINode Title="Swap enumeration member" Url="html/189345123.htm" />
@@ -5887,6 +6079,7 @@
   <HelpKINode Title="Symbol property" Url="html/1646384240.htm" />
   <HelpKINode Title="Symbol property" Url="html/678092383.htm" />
   <HelpKINode Title="SyncRoot property" Url="html/1083298431.htm" />
+  <HelpKINode Title="Tag property" Url="html/1168972619.htm" />
   <HelpKINode Title="Tag property" Url="html/2064897124.htm" />
   <HelpKINode Title="Tags property" Url="html/493925782.htm" />
   <HelpKINode Title="Tags property" Url="html/689892765.htm" />
@@ -6051,6 +6244,7 @@
   <HelpKINode Title="TickAggregator.TickAggregator constructor" Url="html/665721776.htm" />
   <HelpKINode Title="TickAggregator.Ticker property" Url="html/1207510246.htm" />
   <HelpKINode Title="TickAggregator.TrackCandles method" Url="html/483913166.htm" />
+  <HelpKINode Title="TickColumnName property" Url="html/1285921406.htm" />
   <HelpKINode Title="Ticker property" Url="html/1207510246.htm" />
   <HelpKINode Title="Ticker property" Url="html/1470961515.htm" />
   <HelpKINode Title="Ticker property" Url="html/2134829626.htm" />
@@ -6059,10 +6253,13 @@
   <HelpKINode Title="TickerCollection class">
     <HelpKINode Title="about TickerCollection class" Url="html/877921555.htm" />
     <HelpKINode Title="all members" Url="html/1383590839.htm" />
+    <HelpKINode Title="constructor" Url="html/771184869.htm" />
+    <HelpKINode Title="fields" Url="html/346533616.htm" />
     <HelpKINode Title="methods" Url="html/111517515.htm" />
     <HelpKINode Title="properties" Url="html/702199128.htm" />
   </HelpKINode>
-  <HelpKINode Title="TickerCollection.ElementName property" Url="html/156187334.htm" />
+  <HelpKINode Title="TickerCollection.ElementName field" Url="html/269473484.htm" />
+  <HelpKINode Title="TickerCollection.TickerCollection constructor" Url="html/771184869.htm" />
   <HelpKINode Title="TickerElement class" Url="html/1113606055.htm" />
   <HelpKINode Title="TickerElement class" Url="html/1501354289.htm" />
   <HelpKINode Title="TickerElement class" Url="html/1535208997.htm" />
@@ -6095,6 +6292,7 @@
   <HelpKINode Title="Ticks property" Url="html/1656807831.htm" />
   <HelpKINode Title="Ticks property" Url="html/1685325070.htm" />
   <HelpKINode Title="Ticks property" Url="html/857575570.htm" />
+  <HelpKINode Title="TimeColumnName property" Url="html/1998150738.htm" />
   <HelpKINode Title="TimeFromIssuance property" Url="html/1706165408.htm" />
   <HelpKINode Title="TimeScale property" Url="html/1048883412.htm" />
   <HelpKINode Title="TimeScale property" Url="html/1181487957.htm" />
@@ -6377,6 +6575,7 @@
   <HelpKINode Title="UK field" Url="html/1861394483.htm" />
   <HelpKINode Title="UKGAAP enumeration member" Url="html/1719097151.htm" />
   <HelpKINode Title="UKGAAP field" Url="html/1459767584.htm" />
+  <HelpKINode Title="UnaffiliatedProxyVotes property" Url="html/1028418087.htm" />
   <HelpKINode Title="Underlying property" Url="html/1058638683.htm" />
   <HelpKINode Title="Underlying property" Url="html/165927903.htm" />
   <HelpKINode Title="Underlying property" Url="html/195648362.htm" />
@@ -6407,10 +6606,13 @@
   <HelpKINode Title="UnderlyingsCollection class">
     <HelpKINode Title="about UnderlyingsCollection class" Url="html/1166761551.htm" />
     <HelpKINode Title="all members" Url="html/59352525.htm" />
+    <HelpKINode Title="constructor" Url="html/51721319.htm" />
+    <HelpKINode Title="fields" Url="html/1663309970.htm" />
     <HelpKINode Title="methods" Url="html/1528127963.htm" />
     <HelpKINode Title="properties" Url="html/45482894.htm" />
   </HelpKINode>
-  <HelpKINode Title="UnderlyingsCollection.ElementName property" Url="html/1483313906.htm" />
+  <HelpKINode Title="UnderlyingsCollection.ElementName field" Url="html/1979850368.htm" />
+  <HelpKINode Title="UnderlyingsCollection.UnderlyingsCollection constructor" Url="html/51721319.htm" />
   <HelpKINode Title="Underwriter property" Url="html/2052025009.htm" />
   <HelpKINode Title="UnfilledQuantity property" Url="html/1154555598.htm" />
   <HelpKINode Title="UnitCount property" Url="html/823637553.htm" />
@@ -6457,6 +6659,16 @@
   <HelpKINode Title="USD field" Url="html/487864758.htm" />
   <HelpKINode Title="USGAAP enumeration member" Url="html/1719097151.htm" />
   <HelpKINode Title="USGAAP field" Url="html/1459758904.htm" />
+  <HelpKINode Title="USState.Abbreviation property" Url="html/1220211191.htm" />
+  <HelpKINode Title="USStates class" Url="html/2089867201.htm" />
+  <HelpKINode Title="USStates class" Url="html/810562977.htm" />
+  <HelpKINode Title="USStates class">
+    <HelpKINode Title="about USStates class" Url="html/810562977.htm" />
+    <HelpKINode Title="all members" Url="html/2089867201.htm" />
+    <HelpKINode Title="methods" Url="html/319443049.htm" />
+    <HelpKINode Title="properties" Url="html/1102779198.htm" />
+  </HelpKINode>
+  <HelpKINode Title="USStates.Delaware property" Url="html/593857736.htm" />
   <HelpKINode Title="UtcTimestamp property" Url="html/2095612283.htm" />
   <HelpKINode Title="ValidityPeriod property" Url="html/1069085661.htm" />
   <HelpKINode Title="ValidityPeriod property" Url="html/1202718625.htm" />
@@ -6558,6 +6770,17 @@
     <HelpKINode Title="properties" Url="html/308297970.htm" />
   </HelpKINode>
   <HelpKINode Title="WeightSeries.WeightSeries constructor" Url="html/1961834433.htm" />
+  <HelpKINode Title="XBRLAttribute class" Url="html/310969559.htm" />
+  <HelpKINode Title="XBRLAttribute class" Url="html/431071833.htm" />
+  <HelpKINode Title="XBRLAttribute class">
+    <HelpKINode Title="about XBRLAttribute class" Url="html/431071833.htm" />
+    <HelpKINode Title="all members" Url="html/310969559.htm" />
+    <HelpKINode Title="constructor" Url="html/196492714.htm" />
+    <HelpKINode Title="methods" Url="html/61981423.htm" />
+    <HelpKINode Title="properties" Url="html/2039837094.htm" />
+  </HelpKINode>
+  <HelpKINode Title="XBRLAttribute.Tag property" Url="html/1168972619.htm" />
+  <HelpKINode Title="XBRLAttribute.XBRLAttribute constructor" Url="html/196492714.htm" />
   <HelpKINode Title="Year enumeration member" Url="html/1663590182.htm" />
   <HelpKINode Title="Year field" Url="html/480179447.htm" />
   <HelpKINode Title="Year property" Url="html/181938125.htm" />
@@ -6587,4 +6810,9 @@
   <HelpKINode Title="_5m field" Url="html/365645000.htm" />
   <HelpKINode Title="_8h enumeration member" Url="html/158396123.htm" />
   <HelpKINode Title="_8h field" Url="html/412699170.htm" />
+  <HelpKINode Title="_elements field" Url="html/908816870.htm" />
+  <HelpKINode Title="_path field" Url="html/1619959464.htm" />
+  <HelpKINode Title="_path field" Url="html/585373592.htm" />
+  <HelpKINode Title="_root field" Url="html/1619613141.htm" />
+  <HelpKINode Title="_root field" Url="html/94629131.htm" />
 </HelpKI>
